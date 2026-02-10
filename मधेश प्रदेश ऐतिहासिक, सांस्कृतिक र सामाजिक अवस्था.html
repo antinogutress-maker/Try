@@ -1,0 +1,1979 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+    <title>Madhesh Exam Special</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+            --text-main: #ffffff;
+            --text-secondary: #cbd5e1;
+            --primary-gradient: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+            --correct-color: #00e676;
+            --wrong-color: #ff1744;
+            --timer-color: #f472b6;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #0f172a;
+            /* Animated Deep Background */
+            background-image: radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
+                              radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
+                              radial-gradient(at 100% 0%, hsla(339,49%,30%,1) 0, transparent 50%);
+            margin: 0;
+            padding: 0;
+            color: var(--text-main);
+            min-height: 100vh;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        /* --- IMMERSIVE LAYOUT --- */
+        .screen {
+            display: none;
+            padding: 24px;
+            max-width: 600px;
+            margin: 0 auto;
+            min-height: 100vh;
+            box-sizing: border-box;
+            flex-direction: column;
+            animation: fadeIn 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        .screen.active { display: flex; }
+        
+        /* Center Home & Result Screens */
+        #screen-home.active, #screen-result.active, #screen-login.active {
+            justify-content: center;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* --- TYPOGRAPHY --- */
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 800;
+            text-align: center;
+            background: linear-gradient(to right, #4ade80, #2dd4bf);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 5px;
+            line-height: 1.2;
+            text-shadow: 0 10px 30px rgba(45, 212, 191, 0.3);
+        }
+        
+        h2 { font-size: 1.8rem; text-align: center; margin-bottom: 20px; }
+        p { color: var(--text-secondary); font-size: 1rem; line-height: 1.6; }
+
+        /* --- GLASSMORPHISM CARDS --- */
+        .glass-card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 30px 24px;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.36);
+            margin-bottom: 20px;
+        }
+
+        /* --- INPUTS --- */
+        input, select {
+            width: 100%;
+            padding: 18px;
+            margin: 12px 0;
+            background: rgba(0, 0, 0, 0.3);
+            border: 2px solid var(--glass-border);
+            border-radius: 16px;
+            color: white;
+            font-size: 1.1rem;
+            font-family: 'Poppins', sans-serif;
+            outline: none;
+            transition: 0.3s;
+            box-sizing: border-box;
+        }
+        input:focus, select:focus { border-color: #6366f1; background: rgba(0,0,0,0.5); }
+
+        /* --- BUTTONS --- */
+        .btn {
+            width: 100%;
+            padding: 20px;
+            border: none;
+            border-radius: 18px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            cursor: pointer;
+            color: white;
+            margin-bottom: 16px;
+            position: relative;
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .btn:active { transform: scale(0.96); }
+
+        .btn-primary { 
+            background: var(--primary-gradient);
+            box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
+        }
+        
+        .btn-secondary {
+            background: linear-gradient(135deg, #059669 0%, #34d399 100%);
+            box-shadow: 0 4px 20px rgba(52, 211, 153, 0.4);
+            flex-direction: column;
+            align-items: flex-start;
+            text-align: left;
+        }
+
+        .btn-lock {
+            background: linear-gradient(135deg, #d97706 0%, #fbbf24 100%);
+            box-shadow: 0 4px 20px rgba(251, 191, 36, 0.4);
+            color: #fff;
+            flex-direction: column;
+            align-items: flex-start;
+            text-align: left;
+        }
+
+        .btn-subtext { font-size: 0.85rem; opacity: 0.9; font-weight: 400; margin-top: 4px; }
+
+        /* --- QUIZ INTERFACE --- */
+        .top-compliment {
+            text-align: center;
+            height: 40px;
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+            transition: all 0.3s;
+        }
+
+        .quiz-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            font-size: 1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .timer { color: var(--timer-color); font-weight: 700; font-size: 1.4rem; }
+
+        .question-text {
+            font-size: 1.35rem; /* Large Text */
+            font-weight: 600;
+            line-height: 1.5;
+            margin-bottom: 30px;
+        }
+
+        .option-btn {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            padding: 20px;
+            border-radius: 16px;
+            margin-bottom: 14px;
+            font-size: 1.1rem; /* Large Options */
+            text-align: left;
+            display: flex;
+            align-items: center;
+            transition: 0.2s;
+            cursor: pointer;
+        }
+
+        .option-circle {
+            width: 32px; height: 32px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.1);
+            display: flex; justify-content: center; align-items: center;
+            margin-right: 15px; font-size: 0.9rem; font-weight: 700; flex-shrink: 0;
+        }
+
+        .option-btn.correct { background: rgba(0, 230, 118, 0.2); border-color: var(--correct-color); }
+        .option-btn.correct .option-circle { background: var(--correct-color); color: black; }
+
+        .option-btn.wrong { background: rgba(255, 23, 68, 0.2); border-color: var(--wrong-color); }
+        .option-btn.wrong .option-circle { background: var(--wrong-color); color: white; }
+
+        .explanation-box {
+            margin-top: 20px;
+            background: rgba(99, 102, 241, 0.15);
+            border-left: 4px solid #6366f1;
+            padding: 20px;
+            border-radius: 12px;
+            font-size: 1rem;
+            line-height: 1.6;
+            display: none;
+            animation: fadeIn 0.3s;
+        }
+
+        /* --- UTILS --- */
+        .hidden { display: none !important; }
+        .spinner { width: 24px; height: 24px; border: 3px solid rgba(255,255,255,0.3); border-top-color: #fff; border-radius: 50%; animation: spin 1s linear infinite; margin-left: 10px; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* --- SYLLABUS LIST --- */
+        .syllabus-item {
+            background: rgba(255,255,255,0.05);
+            padding: 16px;
+            border-radius: 12px;
+            margin-bottom: 10px;
+            font-size: 1rem;
+            border-left: 4px solid #f59e0b;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="screen-home" class="screen active">
+        <h1>Madhesh Exam Special</h1>
+        <p style="text-align:center; margin-bottom: 30px;">Premium Loksewa Preparation</p>
+        
+        <div class="glass-card">
+            <h3 id="user-greeting" style="text-align:center; margin-top:0; color:var(--text-secondary)">Welcome, Candidate</h3>
+            
+            <div id="login-form">
+                <input type="text" id="input-name" placeholder="Enter Your Name">
+                <select id="input-qual">
+                    <option value="" disabled selected>Select Qualification</option>
+                    <option value="Engineer">Engineer</option>
+                    <option value="Sub Engineer">Sub Engineer</option>
+                    <option value="Assistant Sub Engineer">Asst. Sub Engineer</option>
+                </select>
+                <button class="btn btn-primary" onclick="app.saveUser()">Enter Portal</button>
+            </div>
+            
+            <div id="dashboard" class="hidden">
+                <div style="text-align:center; margin-bottom:25px; color:#94a3b8; font-size:1rem; background:rgba(0,0,0,0.2); padding:10px; border-radius:12px;">
+                    Topic: मधेश प्रदेश ऐतिहासिक, सांस्कृतिक र सामाजिक अवस्था
+                </div>
+                
+                <button class="btn btn-secondary" onclick="app.startSetA()">
+                   Set A [Only Free for You]
+                   <span class="btn-subtext" id="count-a">0 MCQs</span>
+                </button>
+                
+                <button class="btn btn-lock" onclick="app.checkPremiumAccess()">
+                    Set B [Premium 🔐]
+                    <span class="btn-subtext" id="count-b">0 MCQs</span>
+                </button>
+                
+                <button id="btn-mistake-bank" class="btn hidden" style="background:transparent; border:2px solid #6366f1;" onclick="app.startMistakeBank()">
+                    📂 Review Mistakes
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="screen-syllabus" class="screen">
+        <div class="glass-card">
+            <h2>Locked Content 🔐</h2>
+            <p style="text-align:center; margin-bottom:25px;">Unlock Set B to access exclusive topics:</p>
+            
+            <div class="syllabus-item">1. सुशासन ऐन २०६४ तथा नियमावली २०६५ (Full)</div>
+            <div class="syllabus-item">2. आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन तथा नियमावली</div>
+            <div class="syllabus-item">3. मधेश प्रदेश लोक सेवा आयोग ऐन, २०७६ तथा नियमावली </div>
+            <div class="syllabus-item">4. मधेश प्रदेश मन्त्रालय र निकायहरू</div>
+            <div class="syllabus-item">5. संवैधानिक निकाय सम्बन्धी जानकारी</div>
+                    <div class="syllabus-item">6. मधेश प्रदेश भौगोलिक, प्राकृतिक स्रोत र सम्भाव्यता</div>
+                            <div class="syllabus-item">7. मधेश प्रदेश सांस्कृतिक, सामाजिक र राजनीतिक अवस्था</div>
+<div class="syllabus-item">8.मधेश प्रदेश निजामती सेवा ऐन, २०७७ र प्रदेश निजामती सेवा नियमावली, २०७९ </div>
+<div class="syllabus-item">9. मधेश प्रदेश जिल्ला आधारित तथ्याङ्क र तथ्यहरू </div>
+            <button class="btn btn-lock" style="margin-top:20px;" onclick="app.showLoginScreen()">Unlock Now 🔑</button>
+            <button class="btn" style="background:transparent; color:#94a3b8;" onclick="app.showScreen('screen-home')">Go Back</button>
+        </div>
+    </div>
+
+    <div id="screen-login" class="screen">
+        <div class="glass-card" style="text-align:center;">
+            <h2>Premium Access</h2>
+            <p style="margin-bottom:25px;">Enter your unique code to unlock.</p>
+            <input type="text" id="premium-code" placeholder="Enter Code Here" style="text-align:center; font-size:1.4rem; letter-spacing:2px;">
+            
+            <button class="btn btn-primary" id="btn-verify" onclick="app.verifyCode()">
+                Verify & Login
+            </button>
+            
+            <button class="btn" style="background:#25D366;" onclick="app.openWhatsApp()">
+                Get Code on WhatsApp
+            </button>
+            <button class="btn" style="background:transparent; color:#94a3b8;" onclick="app.showScreen('screen-home')">Cancel</button>
+        </div>
+    </div>
+
+    <div id="screen-quiz" class="screen">
+        
+        <div id="feedback-top" class="top-compliment"></div>
+
+        <div class="glass-card">
+            <div class="quiz-meta">
+                <span id="quiz-progress" style="background:rgba(255,255,255,0.1); padding:5px 15px; border-radius:20px;">1 / 10</span>
+                <span id="timer-box" class="timer hidden">10:00</span>
+            </div>
+            
+            <div id="question-text" class="question-text">Loading...</div>
+            
+            <div id="options-container">
+                </div>
+        </div>
+
+        <div id="explanation-box" class="explanation-box"></div>
+
+        <div id="next-btn-container" class="hidden" style="margin-top:20px;">
+            <button class="btn btn-primary" onclick="app.nextQuestion()">Next Question ➡</button>
+        </div>
+    </div>
+
+    <div id="screen-result" class="screen">
+        <div class="glass-card" style="text-align:center;">
+            <h2>Quiz Completed!</h2>
+            <div style="font-size:5rem; font-weight:800; color:#4ade80; text-shadow:0 0 30px rgba(74, 222, 128, 0.4); margin:20px 0;" id="final-score">0%</div>
+            <p id="result-msg" style="font-size:1.2rem; margin-bottom:30px;">Result message</p>
+            
+            <div id="wrong-answers-review" style="text-align:left;"></div>
+
+            <button class="btn btn-primary" style="margin-top:30px;" onclick="app.showScreen('screen-home')">Return Home</button>
+        </div>
+    </div>
+
+    <script>
+        // --- CONFIGURATION ---
+        const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw4EBwp_tSyWgTnNsdBNnCNRa0Nzj1bAjjCuG2SaffMU1_wHuIFpieOouOb0Zl5KjpsrA/exec"; 
+        const WHATSAPP_URL = "https://wa.me/qr/4KGVE6QVMCTON1";
+
+        const allQuestions = [
+  {
+    "id": 1,
+    "q": "उपलब्ध प्रतिवेदन अनुसार मधेश प्रदेशको कुल क्षेत्रफल कति रहेको छ?",
+    "o": [
+      "९,९६१ वर्ग कि.मि.",
+      "९,६६१ वर्ग कि.मि.",
+      "६,९६१ वर्ग कि.मि.",
+      "९,६१६ वर्ग कि.मि."
+    ],
+    "a": 1,
+    "e": "The province covers an area of 9,661 square kilometers."
+  },
+  {
+    "id": 2,
+    "q": "सन् २०२१ को जनगणना अनुसार मधेश प्रदेशको जनघनत्व (Density) कति रहेको छ?",
+    "o": [
+      "५३३ जना प्रति वर्ग कि.मि.",
+      "६३३ जना प्रति वर्ग कि.मि.",
+      "६१४ जना प्रति वर्ग कि.मि.",
+      "४३३ जना प्रति वर्ग कि.मि."
+    ],
+    "a": 1,
+    "e": "It boasts the highest population density in the country at 633 persons per square kilometer."
+  },
+  {
+    "id": 3,
+    "q": "मधेश प्रदेशको भौगोलिक बनावटमा 'चुरे क्षेत्र' (Chure Range) ले कति प्रतिशत भू-भाग ओगटेको छ?",
+    "o": [
+      "१५.८८%",
+      "२५.६२%",
+      "५८.४६%",
+      "१२.५०%"
+    ],
+    "a": 0,
+    "e": "Chure (15.88%), Bhabar (25.62%), Terai Plains (58.46%)."
+  },
+  {
+    "id": 4,
+    "q": "मधेश प्रदेशको सबैभन्दा होचो स्थान 'मुसहरनिया' (५८ मिटर) कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "सप्तरी",
+      "धनुषा",
+      "पर्सा",
+      "रौतहट"
+    ],
+    "a": 1,
+    "e": "Lowest point of the province at Musharniya (Dhanusha District), which sits at an elevation of 58 meters above sea level."
+  },
+  {
+    "id": 5,
+    "q": "सिभिल इन्जिनियरिङको दृष्टिकोणले ऐतिहासिक मानिने 'मोतिहारी-अमलेखगन्ज पेट्रोलियम पाइपलाइन' को लम्बाई कति रहेको छ?",
+    "o": [
+      "५९ कि.मि.",
+      "६९ कि.मि.",
+      "७९ कि.मि.",
+      "८९ कि.मि."
+    ],
+    "a": 1,
+    "e": "Motihari-Amlekhgunj Pipeline: A 69-km cross-border petroleum pipeline."
+  },
+  {
+    "id": 6,
+    "q": "मधेश प्रदेशको सबैभन्दा अग्लो स्थान (Highest Point) को उचाई कति रहेको छ?",
+    "o": [
+      "८२० मिटर",
+      "९२० मिटर",
+      "१०२० मिटर",
+      "१२२० मिटर"
+    ],
+    "a": 1,
+    "e": "The highest point in the province, recorded at 920 meters."
+  },
+  {
+    "id": 7,
+    "q": "नेपालको सबैभन्दा पुरानो योजनाबद्ध सहर (Oldest Planned City) मानिने 'राजविराज' (सप्तरी) को स्थापना कहिले भएको थियो?",
+    "o": [
+      "सन् १९३८",
+      "सन् १९४८",
+      "सन् १९५८",
+      "सन् १९२८"
+    ],
+    "a": 0,
+    "e": "Rajbiraj is the oldest planned city in Nepal... established in 1938 after the destruction of the old headquarters."
+  },
+  {
+    "id": 8,
+    "q": "'नौ लाखा मन्दिर' भनेर चिनिने जानकी मन्दिरको निर्माण कहिले सम्पन्न भएको मानिन्छ?",
+    "o": [
+      "सन् १९१०",
+      "सन् १८९०",
+      "सन् १९०१",
+      "सन् १९२०"
+    ],
+    "a": 0,
+    "e": "Janaki Mandir: Built in 1910 AD (1898 roughly) by Queen Brisabhanu Kunwari."
+  },
+  {
+    "id": 9,
+    "q": "ऐतिहासिक 'सिम्रौनगढ' (Simraungadh) कुन वंशको राजधानी थियो?",
+    "o": [
+      "मल्ल वंश",
+      "सेन वंश",
+      "कर्णाट वंश",
+      "शाह वंश"
+    ],
+    "a": 2,
+    "e": "The Karnat Dynasty (1097-1324 CE) established a powerful kingdom in the region with its capital at Simraungadh."
+  },
+  {
+    "id": 10,
+    "q": "प्रथम मधेश आन्दोलनका क्रममा सहादत प्राप्त गर्ने पहिलो सहिद रमेश महतोको मृत्यु कहिले भएको थियो?",
+    "o": [
+      "सन् २००७ जनवरी १५",
+      "सन् २००७ जनवरी १९",
+      "सन् २००८ फेब्रुअरी २८",
+      "सन् २००६ डिसेम्बर १९"
+    ],
+    "a": 1,
+    "e": "On January 19, 2007, Ramesh Mahato... became the first martyr of the movement."
+  },
+  {
+    "id": 11,
+    "q": "राष्ट्रिय जनगणना २०७८ (Census 2021) को अन्तिम नतिजा अनुसार मधेश प्रदेशको कुल साक्षरता दर कति रहेको छ?",
+    "o": [
+      "४९.७२%",
+      "५४.७०%",
+      "६३.५%",
+      "७२.५०%"
+    ],
+    "a": 2,
+    "e": "२०७८ को जनगणना अनुसार मधेश प्रदेशको कुल साक्षरता दर ६३.५% रहेको छ।"
+  },
+  {
+    "id": 12,
+    "q": "प्रत्येक ५ वर्षमा लाग्ने प्रसिद्ध 'गढीमाई मेला' (Gadhimai Mela) कुन जिल्लामा लाग्दछ?",
+    "o": [
+      "रौतहट",
+      "बारा",
+      "पर्सा",
+      "सर्लाही"
+    ],
+    "a": 1,
+    "e": "Gadhimai Mela... Held in Bariyarpur, Bara."
+  },
+  {
+    "id": 13,
+    "q": "सर्लाही जिल्लाको कुन स्थानलाई 'गोलभेडाको राजधानी' (Tomato Capital) भनिन्छ?",
+    "o": [
+      "मलंगवा",
+      "लालबन्दी",
+      "हरिवन",
+      "नवलपुर"
+    ],
+    "a": 1,
+    "e": "\"Lalbandi\" is known as the Tomato Capital."
+  },
+  {
+    "id": 14,
+    "q": "प्रसिद्ध धार्मिक स्थल 'जलेश्वर महादेव' (जहाँ शिवलिङ्ग सधैं पानीमुनि रहन्छ) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "धनुषा",
+      "महोत्तरी",
+      "सिराहा",
+      "सर्लाही"
+    ],
+    "a": 1,
+    "e": "Mahottari District... Jaleshwar Mahadev: The Shiva Lingam here is located roughly 20 feet below the surface and is always submerged in water."
+  },
+  {
+    "id": 15,
+    "q": "नयाँ वर्षको पहिलो दिन (बैशाख १ गते) मात्र फुल्ने अनौठो फूल कुन स्थानमा पाइन्छ?",
+    "o": [
+      "सलहेश फुलबारी (सिराहा)",
+      "छिन्नमस्ता (सप्तरी)",
+      "नुनथर (रौतहट)",
+      "धनुषाधाम (धनुषा)"
+    ],
+    "a": 0,
+    "e": "Salhesh Fulbari... A rare orchid blooms here on a specific tree only on the 1st day of the Nepali New Year."
+  },
+  {
+    "id": 16,
+    "q": "कर्णाट वंशका संस्थापक राजा को हुन्?",
+    "o": [
+      "हरि सिंह देव",
+      "नान्यदेव",
+      "भूपतिन्द्र मल्ल",
+      "रत्न मल्ल"
+    ],
+    "a": 1,
+    "e": "Founder: The dynasty was founded by Nanyadeva in 1097 CE."
+  },
+  {
+    "id": 17,
+    "q": "मधेश प्रदेशमा कतिवटा महानगरपालिका रहेका छन्?",
+    "o": [
+      "१",
+      "२",
+      "३",
+      "४"
+    ],
+    "a": 0,
+    "e": "1 Metropolitan, 3 Sub-Metropolitan..."
+  },
+  {
+    "id": 18,
+    "q": "मधेश प्रदेशको वन क्षेत्र (Forest Cover) करिब कति प्रतिशत रहेको छ?",
+    "o": [
+      "३७%",
+      "४५%",
+      "२७%",
+      "१५%"
+    ],
+    "a": 2,
+    "e": "Approx. 27% (Lowest among all provinces)."
+  },
+  {
+    "id": 19,
+    "q": "'शंकराचार्य गेट' (Shankaracharya Gate) कुन सहरको प्रवेशद्वार हो?",
+    "o": [
+      "जनकपुर",
+      "वीरगन्ज",
+      "राजविराज",
+      "गौर"
+    ],
+    "a": 1,
+    "e": "Shankaracharya Gate: The ceremonial entry point from India (Raxaul) into Nepal (located in Parsa/Birgunj context)."
+  },
+   {
+    "id": 20,
+    "q": "मधेश प्रदेशको जनसंख्या (२०७८ अनुसार) नेपालको कुल जनसंख्याको कति प्रतिशत हिस्सा ओगट्छ?",
+    "o": [
+      "१५.८%",
+      "२०.९७% ",
+      "२७.५%",
+      "१७.५%"
+    ],
+    "a": 1,
+    "e": "२०७८ को अन्तिम नतिजा अनुसार मधेशको जनसंख्या ६१,१४,६०० (करिब २०.९७%) रहेको छ।"
+  },
+  {
+    "id": 21,
+    "q": "मधेश प्रदेशमा स्थानीय तह (Local Levels) को कुल संख्या कति रहेको छ?",
+    "o": [
+      "१२६",
+      "१३६",
+      "१३२",
+      "१४६"
+    ],
+    "a": 1,
+    "e": "Local Levels: 136 (1 Metropolitan, 3 Sub-Metropolitan, 73 Municipalities, 59 Rural Municipalities)."
+  },
+  {
+    "id": 22,
+    "q": "नेपाल सरकार र मधेशी मोर्चाबीच '२२ बुँदे सहमति' (22-Point Agreement) कहिले भएको थियो?",
+    "o": [
+      "३० अगस्ट २००७",
+      "२८ फेब्रुअरी २००८",
+      "१५ जनवरी २००७",
+      "१६ डिसेम्बर २००७"
+    ],
+    "a": 0,
+    "e": "The 22-Point Agreement (August 30, 2007): The movement concluded with a historic agreement."
+  },
+  {
+    "id": 23,
+    "q": "मधेश प्रदेशमा नेपालको कुन कुन मुख्य खाद्यान्न बाली सबैभन्दा बढी उत्पादन हुन्छ?",
+    "o": [
+      "धान र मकै",
+      "गहुँ र कोदो",
+      "धान र गहुँ",
+      "मकै र जति"
+    ],
+    "a": 2,
+    "e": "The province is the top producer of paddy (rice) and wheat in the country."
+  },
+  {
+    "id": 24,
+    "q": "दाजुभाइ र दिदीबहिनी बीचको प्रेम सम्बन्धलाई दर्शाउने र माटोका मूर्तिहरू (सामा/चकेवा) बनाइने पर्व कुन हो?",
+    "o": [
+      "छठ",
+      "जितिया",
+      "सामा चकेवा",
+      "विवाह पञ्चमी"
+    ],
+    "a": 2,
+    "e": "Sama Chakeva: Celebrates the bond between brothers and sisters. Women craft clay idols of birds."
+  },
+  {
+    "id": 25,
+    "q": "सन् १८१६ को सुगौली सन्धि पछि गुमेको 'नयाँ मुलुक' (बाँके, बर्दिया, कैलाली, कञ्चनपुर) नेपाललाई कहिले फिर्ता गरिएको थियो?",
+    "o": [
+      "सन् १८१६",
+      "सन् १८६०",
+      "सन् १९२३",
+      "सन् १९५०"
+    ],
+    "a": 1,
+    "e": "While the Naya Muluk (Banke, Bardiya, Kailali, Kanchanpur) was returned in 1860."
+  },
+  {
+    "id": 26,
+    "q": "बारा, पर्सा र मकवानपुर जिल्लाहरूमा फैलिएको 'पर्सा राष्ट्रिय निकुञ्ज' कुन जनावरको संरक्षणका लागि मुख्य मानिन्छ?",
+    "o": [
+      "हात्ती र गैंडा",
+      "बाघ र गैंडा",
+      "हिउँ चितुवा",
+      "अर्ना"
+    ],
+    "a": 1,
+    "e": "Forming a massive conservation unit for Tigers and Rhinos."
+  },
+  {
+    "id": 27,
+    "q": "मधेश आन्दोलनको क्रममा 'एक मधेश, एक प्रदेश' को नारा कुन सहमति पछि परिमार्जन भई 'स्वायत्त प्रदेश' को अवधारणामा गयो?",
+    "o": [
+      "२२ बुँदे सहमति",
+      "८ बुँदे सहमति",
+      "१२ बुँदे सम्झौता",
+      "१६ बुँदे सहमति"
+    ],
+    "a": 1,
+    "e": "The 8-Point Agreement (February 28, 2008)... explicitly accepted the demand for \"autonomous provinces\"."
+  },
+  {
+    "id": 28,
+    "q": "जनकपुरको जानकी मन्दिर निर्माणमा कुन वास्तुकला शैलीको (Architectural Style) मिश्रण पाइन्छ?",
+    "o": [
+      "प्यागोडा र शिखर",
+      "मुगल र कोइरी",
+      "गुम्बज र प्यागोडा",
+      "शिखर र स्तुपा"
+    ],
+    "a": 1,
+    "e": "It features a unique fusion of Mughal and Koiri architecture."
+  },
+  {
+    "id": 29,
+    "q": "प्राचीन मिथिलाका दार्शनिक राजा जनक (सिराध्वज) को दरबारमा भएको शास्त्रार्थबाट कुन प्रसिद्ध ग्रन्थको रचना भएको मानिन्छ?",
+    "o": [
+      "रामायण",
+      "महाभारत",
+      "शतपथ ब्राह्मण",
+      "मनुस्मृति"
+    ],
+    "a": 2,
+    "e": "Theological debates that produced foundational texts like the Shatapatha Brahmana."
+  },
+  {
+    "id": 30,
+    "q": "ऋषि परशुरामको आश्रम स्थल मानिने र अमिलो पानी आउने इनार भएको 'नुनथर' (Nunthar) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "रौतहट",
+      "सर्लाही",
+      "महोत्तरी",
+      "बारा"
+    ],
+    "a": 0,
+    "e": "Rautahat District... Nunthar: A scenic spot... believed to be the hermitage of Sage Parashuram."
+  },
+  {
+    "id": 31,
+    "q": "चुरे क्षेत्रबाट बग्ने नदीहरू जमिनमुनि हराउने र पुन: तराईमा निस्कने भौगोलिक पेटी (Belt) लाई के भनिन्छ?",
+    "o": [
+      "दुन क्षेत्र",
+      "भावर क्षेत्र",
+      "तराई मैदान",
+      "भित्री मधेश"
+    ],
+    "a": 1,
+    "e": "The Bhabar Zone: A porous belt of boulders and gravel where rivers descending from the Chure disappear underground."
+  },
+  {
+    "id": 32,
+    "q": "वीरगन्जमा रहेको 'सुक्खा बन्दरगाह' (Dry Port) को मुख्य विशेषता के हो?",
+    "o": [
+      "यो सबैभन्दा ठूलो विमानस्थल हो",
+      "यो नेपालको एक मात्र रेल सेवा जोडिएको टर्मिनल हो",
+      "यो चीनसँगको व्यापारिक नाका हो",
+      "यो कोशी नदीको किनारमा छ"
+    ],
+    "a": 1,
+    "e": "Birgunj Dry Port (ICD): The only rail-linked terminal in Nepal."
+  },
+   {
+    "id": 33,
+    "q": "जनगणना २०७८ अनुसार मधेश प्रदेशको लैंगिक अनुपात (Sex Ratio) कति रहेको छ? (प्रति १०० महिलामा पुरुषको संख्या)",
+    "o": [
+      "१००.५५",
+      "९५.९१",
+      "१०५.२",
+      "९८.५"
+    ],
+    "a": 0,
+    "e": "मधेश प्रदेशको लैंगिक अनुपात १००.५५ रहेको छ (अर्थात् महिला भन्दा पुरुष थोरै बढी छन्)। अन्य प्रदेशमा प्राय: महिला बढी छन्।"
+  },
+  {
+    "id": 34,
+    "q": "मधेश प्रदेश सरकारले दलित समुदायका छात्राहरूको शिक्षाका लागि कुन अभियान सञ्चालन गरेको छ?",
+    "o": [
+      "छोरी पढाउ, गरिबी हटाउ",
+      "बेटी पढाउ, बेटी बचाउ",
+      "साक्षर मधेश, समृद्ध प्रदेश",
+      "सबैका लागि शिक्षा"
+    ],
+    "a": 1,
+    "e": "The \"Beti Padhau, Beti Bachau\" (Educate Daughter, Save Daughter) campaign... specifically targets such marginalized communities."
+  },
+  {
+    "id": 35,
+    "q": "ऐतिहासिक 'चार कोसे झाडी' (Char Kose Jhadi) लाई पहिले कुन रूपमा लिइन्थ्यो?",
+    "o": [
+      "कृषि योग्य जमिन",
+      "काठमाडौँ उपत्यकाको रक्षात्मक बाधा (Defensive Barrier)",
+      "व्यापारिक मार्ग",
+      "शिकार आरक्ष"
+    ],
+    "a": 1,
+    "e": "Historically a dense malarial forest that acted as a defensive barrier for the Kathmandu Valley."
+  },
+  {
+    "id": 36,
+    "q": "मिथिला चित्रकलामा 'कालो' रङ (Black color) बनाउन परम्परागत रूपमा के प्रयोग गरिन्छ?",
+    "o": [
+      "कोइला",
+      "कालोस (Soot)",
+      "कालो माटो",
+      "बिरुवाको जरा"
+    ],
+    "a": 1,
+    "e": "Natural dyes and pigments are used: soot for black."
+  },
+  {
+    "id": 37,
+    "q": "सन् २०१५-२०१६ को मधेश आन्दोलनका क्रममा भएको 'नाकाबन्दी' (Blockade) कति महिनासम्म चलेको थियो?",
+    "o": [
+      "३ महिना",
+      "६ महिना",
+      "१ महिना",
+      "९ महिना"
+    ],
+    "a": 1,
+    "e": "Protests escalated into a six-month border blockade (September 2015 - February 2016)."
+  },
+  {
+    "id": 38,
+    "q": "मधेश प्रदेशमा बसोबास गर्ने कुन समुदायलाई परम्परागत रूपमा 'मुसा खाने' (Rat-eaters) भनिने गरिन्छ?",
+    "o": [
+      "डोम",
+      "चमार",
+      "मुसहर",
+      "दुसाध"
+    ],
+    "a": 2,
+    "e": "The Musahars: Often called \"rat-eaters\" (a survival strategy arising from extreme poverty)."
+  },
+  {
+    "id": 39,
+    "q": "भारतीय सीमासँग समानान्तर हुने गरी मधेशका जिल्ला सदरमुकामहरू जोड्ने निर्माणाधीन सडक आयोजना कुन हो?",
+    "o": [
+      "महेन्द्र राजमार्ग",
+      "हुलाकी राजमार्ग (Postal Highway)",
+      "पुष्पलाल लोकमार्ग",
+      "बीपी राजमार्ग"
+    ],
+    "a": 1,
+    "e": "Postal Highway (Hulaki Rajmarg): A strategic road running parallel to the Indian border, connecting all district headquarters."
+  },
+  {
+    "id": 40,
+    "q": "प्राचीन विदेह राज्य (Videha Kingdom) को राजधानी कुन थियो?",
+    "o": [
+      "सिम्रौनगढ",
+      "जनकपुर",
+      "विराटपुर",
+      "लुम्बिनी"
+    ],
+    "a": 1,
+    "e": "The region corresponds roughly to the ancient Kingdom of Videha... His court at Janakpur was a center of Vedic learning."
+  },
+  {
+    "id": 41,
+    "q": "मधेश प्रदेशको कुन स्थानबाट सीताको विवाह वेदीका लागि माटो खनिएको विश्वास गरिन्छ?",
+    "o": [
+      "जनकपुरधाम",
+      "मटिहानी (महोत्तरी)",
+      "सिम्रौनगढ",
+      "जलेश्वर"
+    ],
+    "a": 1,
+    "e": "Matihani... It is said that the soil (Mat) for Sita's wedding altar was dug from here."
+  },
+  {
+    "id": 42,
+    "q": "सन् १३२४ मा सिम्रौनगढमा आक्रमण गरी कर्णाट वंशको अन्त्य गर्ने शासक को थिए?",
+    "o": [
+      "अलाउद्धिन खिलजी",
+      "गयासुद्धिन तुगलक",
+      "मोहम्मद बिन तुगलक",
+      "औरंगजेब"
+    ],
+    "a": 1,
+    "e": "In 1324 CE, the kingdom was invaded by Ghiyasuddin Tughlaq of the Delhi Sultanate."
+  },
+  {
+    "id": 43,
+    "q": "'छिन्नमस्ता भगवती' (सप्तरी) को मूर्तिको मुख्य विशेषता के हो?",
+    "o": [
+      "सिंहमा चढेको",
+      "टाउको नभएको (Headless)",
+      "चार हात भएको",
+      "सुतेको अवस्थामा रहेको"
+    ],
+    "a": 1,
+    "e": "The goddess is depicted without her head, symbolizing supreme self-sacrifice."
+  },
+  {
+    "id": 44,
+    "q": "पर्सा राष्ट्रिय निकुञ्जलाई कहिले 'वन्यजन्तु आरक्ष' बाट 'राष्ट्रिय निकुञ्ज' मा परिणत गरियो?",
+    "o": [
+      "सन् २०१५",
+      "सन् २०१७",
+      "सन् २०१९",
+      "सन् २०१०"
+    ],
+    "a": 1,
+    "e": "It was gazetted as a National Park in 2017 (formerly a Wildlife Reserve)."
+  },
+  {
+    "id": 45,
+    "q": "जनकपुरदेखि १८ कि.मि. टाढा रहेको 'धनुषाधाम' मा के खसेको विश्वास गरिन्छ?",
+    "o": [
+      "सीताको गहना",
+      "रामको औंठी",
+      "शिवको धनुषको टुक्रा",
+      "लक्ष्मणको वाण"
+    ],
+    "a": 2,
+    "e": "It is believed that a piece of Shiva's bow (Pinaka), broken by Rama during the Swayamvar, fell here."
+  },
+  {
+    "id": 46,
+    "q": "रौतहट जिल्लाको 'नुनथर' क्षेत्रमा रहेको इनारको पानीको स्वाद कस्तो छ?",
+    "o": [
+      "गुलियो",
+      "नुनिलो",
+      "अमिलो (Sour)",
+      "टर्रो"
+    ],
+    "a": 2,
+    "e": "A nearby well is famous for having sour water."
+  },
+  {
+    "id": 47,
+    "q": "मधेश प्रदेशको कुन जिल्लामा 'घडीअर्वा पोखरी' (Ghadiarwa Pokhari) अवस्थित छ?",
+    "o": [
+      "पर्सा",
+      "बारा",
+      "रौतहट",
+      "सर्लाही"
+    ],
+    "a": 0,
+    "e": "Ghadiarwa Pokhari: A landmark pond in Birgunj city (Parsa District)."
+  },
+  {
+    "id": 48,
+    "q": "सन् २००७ जनवरी १६ मा माइतीघर मण्डलामा के जलाएपछि मधेश आन्दोलन चर्किएको थियो?",
+    "o": [
+      "प्रधानमन्त्रीको पुत्ला",
+      "अन्तरिम संविधान",
+      "चुनावी घोषणापत्र",
+      "सरकारी गाडी"
+    ],
+    "a": 1,
+    "e": "Activists... burned copies of the Interim Constitution at Maitighar Mandala."
+  },
+  {
+    "id": 49,
+    "q": "प्राचीन मिथिलाका विद्वान 'याज्ञवल्क्य' ले कुन दर्शनलाई संहिताबद्ध (Codified) गरेका थिए?",
+    "o": [
+      "बौद्ध दर्शन",
+      "जैन दर्शन",
+      "हिन्दु दर्शन",
+      "चार्वाक दर्शन"
+    ],
+    "a": 2,
+    "e": "Scholars such as Yajnavalkya, who codified Hindu philosophy."
+  },
+  {
+    "id": 50,
+    "q": "नेपालको सबैभन्दा पुरानो औद्योगिक क्षेत्र 'वीरगन्ज-पथलैया करिडोर' मा कति भन्दा बढी उद्योगहरू सञ्चालित छन्?",
+    "o": [
+      "५०० भन्दा बढी",
+      "१००० भन्दा बढी",
+      "१५०० भन्दा बढी",
+      "२००० भन्दा बढी"
+    ],
+    "a": 1,
+    "e": "It hosts over 1,000 factories producing steel, cement, textiles...."
+  },
+  {
+    "id": 51,
+    "q": "मधेश प्रदेशमा 'बोक्सी' (Witchcraft) को आरोपमा यातना दिइने घटनामा पीडितहरू प्रायः को हुन्छन्?",
+    "o": [
+      "बालबालिका",
+      "एकल महिला र दलित महिला",
+      "पुरुष",
+      "किशोर किशोरी"
+    ],
+    "a": 1,
+    "e": "Women, often widows or low-caste, are accused of witchcraft (Bokshi)."
+  },
+  {
+    "id": 52,
+    "q": "सर्लाही जिल्लाको कुन स्थानमा 'प्राचीन ढुङ्गाका मूर्तिहरू' (Stone Sculptures) उत्खनन गरिएको पुरातात्विक स्थल छ?",
+    "o": [
+      "मुर्तिया",
+      "सागरनाथ",
+      "लालबन्दी",
+      "हरिवन"
+    ],
+    "a": 0,
+    "e": "Murtiya: An archaeological site where ancient stone sculptures have been excavated."
+  },
+  {
+    "id": 53,
+    "q": "छठ पर्वको अन्तिम दिन (चौथो दिन) उदाउँदो सूर्यलाई अर्घ्य दिने विधिलाई के भनिन्छ?",
+    "o": [
+      "नहाय खाय",
+      "खरना",
+      "सन्ध्या अर्घ्य",
+      "उषा अर्घ्य"
+    ],
+    "a": 3,
+    "e": "4. Usha Arghya (Offering to rising sun)."
+  },
+  {
+    "id": 54,
+    "q": "मधेश प्रदेशको कुन ठाउँलाई 'सप्तरीको पुरानो सदरमुकाम' मानिन्छ, जुन कोशी बाढीले बगाएको थियो?",
+    "o": [
+      "भारदह",
+      "हनुमाननगर",
+      "कञ्चनरूप",
+      "रुपनी"
+    ],
+    "a": 1,
+    "e": "After the destruction of the old headquarters, Hanumannagar, by the Koshi flood."
+  },
+    {
+    "id": 55,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार मधेश प्रदेशमा पुरुष साक्षरता दर कति प्रतिशत रहेको छ?",
+    "o": [
+      "७७.९%",
+      "७२.५%",
+      "६३.७%",
+      "८२.१%"
+    ],
+    "a": 1,
+    "e": "पुरुष साक्षरता दर ७२.५% रहेको छ। (सम्बन्धित तथ्य: राष्ट्रिय पुरुष साक्षरता ८३.६% छ।)"
+  },
+  {
+    "id": 56,
+    "q": "कर्णाट वंशका अन्तिम राजा को थिए जो भागेर काठमाडौँ उपत्यका पसेका थिए?",
+    "o": [
+      "नान्यदेव",
+      "हरिसिंह देव",
+      "गंगादेव",
+      "नरसिंह देव"
+    ],
+    "a": 1,
+    "e": "The last king, Harisimhadeva, fled to the Kathmandu Valley."
+  },
+  {
+    "id": 57,
+    "q": "'जितिया पर्व' मा आमाहरूले कस्तो ब्रत बस्ने परम्परा छ?",
+    "o": [
+      "फलाहार ब्रत",
+      "निर्जला ब्रत (पानी पनि नपिउने)",
+      "एकछाकी ब्रत",
+      "मौन ब्रत"
+    ],
+    "a": 1,
+    "e": "A strict waterless fast (Nirjala Brata) observed by mothers."
+  },
+  {
+    "id": 58,
+    "q": "सप्तरीको भारदहमा रहेको 'कंकालिनी मन्दिर' स्थापनाको किम्बदन्ती के सँग सम्बन्धित छ?",
+    "o": [
+      "राजाले सपना देखेको",
+      "किसानले खन्दा मूर्ति भेटिएको",
+      "आकाशबाट मूर्ति खसेको",
+      "ऋषिले स्थापना गरेको"
+    ],
+    "a": 1,
+    "e": "Legend says the temple was established when a farmer found a stone idol while digging land."
+  },
+  {
+    "id": 59,
+    "q": "मधेश आन्दोलन (२०१५-१६) ले संविधानमा गराएको पहिलो संशोधनले निर्वाचन क्षेत्र निर्धारणको मुख्य आधार के लाई मान्यो?",
+    "o": [
+      "भूगोल",
+      "जनसंख्या",
+      "साक्षरता",
+      "कर तिर्ने क्षमता"
+    ],
+    "a": 1,
+    "e": "First Amendment... recognized \"population\" as the primary basis for constituency delineation."
+  },
+  {
+    "id": 60,
+    "q": "राजविराज सहरको नक्सा कुन भारतीय सहरको मोडेलमा तयार पारिएको थियो?",
+    "o": [
+      "दिल्ली",
+      "पटना",
+      "जयपुर",
+      "लखनउ"
+    ],
+    "a": 2,
+    "e": "Rajbiraj is the oldest planned city in Nepal, modeled after Jaipur, India."
+  },
+  {
+    "id": 61,
+    "q": "उपलब्ध प्रतिवेदन अनुसार मधेश प्रदेशले नेपालको कुल क्षेत्रफलको कति प्रतिशत भू-भाग ओगटेको छ?",
+    "o": [
+      "१५.८८%",
+      "६.५६%",
+      "२१.००%",
+      "१७.५०%"
+    ],
+    "a": 1,
+    "e": "Comprising approximately 21% of the national population within merely 6.56% of the land area."
+  },
+  {
+    "id": 62,
+    "q": "मधेश प्रदेशको भौगोलिक बनावटमा 'भावर क्षेत्र' (Bhabar Zone) ले कति प्रतिशत हिस्सा ओगटेको छ?",
+    "o": [
+      "५८.४६%",
+      "२५.६२%",
+      "१५.८८%",
+      "२७.००%"
+    ],
+    "a": 1,
+    "e": "Ecological Zones: Chure (15.88%), Bhabar (25.62%), Terai Plains (58.46%)."
+  },
+    {
+    "id": 63,
+    "q": "जनगणना २०७८ अनुसार मधेश प्रदेशमा सबैभन्दा बढी जनसंख्या भएको जाति कुन हो?",
+    "o": [
+      "थारु",
+      "मुसलमान",
+      "यादव",
+      "कोइरी/कुशवाहा"
+    ],
+    "a": 2,
+    "e": "मधेश प्रदेशमा सबैभन्दा ठूलो जनसंख्या 'यादव' जातिको रहेको छ।"
+  },
+    {
+    "id": 64,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार मधेश प्रदेशमा हिन्दु पछि दोस्रो ठूलो जनसंख्या कुन धर्मावलम्बीको छ?",
+    "o": [
+      "बौद्ध",
+      "इसाई",
+      "इस्लाम (मुस्लिम)",
+      "किराँत"
+    ],
+    "a": 2,
+    "e": "मधेशमा हिन्दु पछि दोस्रो ठूलो जनसंख्या इस्लाम (मुस्लिम) धर्मावलम्बीको छ।"
+  },
+    {
+    "id": 65,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार मधेश प्रदेशमा महिला साक्षरता दर कति प्रतिशत रहेको छ?",
+    "o": [
+      "५९.९%",
+      "४९.७%",
+      "६३.७%",
+      "५४.७%"
+    ],
+    "a": 3,
+    "e": "महिला साक्षरता दर ५४.७% रहेको छ। यो अन्य प्रदेशको तुलनामा सबैभन्दा कम हो।"
+  },
+  {
+    "id": 66,
+    "q": "जनगणना २०७८ अनुसार सबैभन्दा बढी जनघनत्व (Highest Population Density) भएको प्रदेश कुन हो?",
+    "o": [
+      "बागमती प्रदेश",
+      "मधेश प्रदेश",
+      "लुम्बिनी प्रदेश",
+      "कोशी प्रदेश"
+    ],
+    "a": 1,
+    "e": "मधेश प्रदेशको जनघनत्व ६३३ जना प्रति वर्ग कि.मि. छ, जुन सातै प्रदेशमा सबैभन्दा उच्च हो।"
+  },
+  {
+    "id": 67,
+    "q": "मधेश प्रदेशमा 'नगरपालिका' (Municipalities) को संख्या कति छ (महानगर र उपमहानगर बाहेक)?",
+    "o": [
+      "५९",
+      "७३",
+      "१३६",
+      "८"
+    ],
+    "a": 1,
+    "e": "Local Levels: 136 (1 Metropolitan, 3 Sub-Metropolitan, 73 Municipalities...)."
+  },
+  {
+    "id": 68,
+    "q": "मधेश प्रदेशले नेपालको कुल खाद्यान्न (Cereal) उत्पादनमा कति प्रतिशत योगदान पुर्‍याउँछ?",
+    "o": [
+      "१०-१५%",
+      "२५-३०%",
+      "४०-४५%",
+      "५०-६०%"
+    ],
+    "a": 1,
+    "e": "It contributes approximately 25-30% of the national cereal output."
+  },
+  {
+    "id": 69,
+    "q": "मधेश प्रदेशमा 'थारु' जातिको जनसंख्या कति प्रतिशत रहेको छ?",
+    "o": [
+      "६.५६%",
+      "४.९२%",
+      "५.३१%",
+      "२.९५%"
+    ],
+    "a": 1,
+    "e": "Tharu (4.92%): Indigenous inhabitants of the Terai."
+  },
+  {
+    "id": 70,
+    "q": "मधेश प्रदेशमा कतिवटा उप-महानगरपालिका (Sub-Metropolitan Cities) रहेका छन्?",
+    "o": [
+      "१",
+      "२",
+      "३",
+      "४"
+    ],
+    "a": 2,
+    "e": "1 Metropolitan, 3 Sub-Metropolitan."
+  },
+  {
+    "id": 71,
+    "q": "प्रदेश सभाले 'मधेश प्रदेश' नाम र 'जनकपुरधाम' राजधानी कहिले पारित गरेको थियो?",
+    "o": [
+      "सन् २०२१ जनवरी",
+      "सन् २०२२ जनवरी",
+      "सन् २०१५ सेप्टेम्बर",
+      "सन् २०१८ फेब्रुअरी"
+    ],
+    "a": 1,
+    "e": "Formally named \"Madhesh Province\"... by the Provincial Assembly in January 2022."
+  },
+  {
+    "id": 72,
+    "q": "काठमाडौँ उपत्यकामा 'तलेजु भवानी' को पूजा गर्ने परम्परा कसले भित्र्याएको मानिन्छ?",
+    "o": [
+      "जयस्थिति मल्ल",
+      "हरिसिंह देव",
+      "नान्यदेव",
+      "प्रताप मल्ल"
+    ],
+    "a": 1,
+    "e": "He [Harisimhadeva] is credited with introducing the cult of Taleju Bhawani... to the valley."
+  },
+  {
+    "id": 73,
+    "q": "राणा शासनकालमा मधेशका बासिन्दालाई काठमाडौँ प्रवेश गर्न के लिनुपर्ने व्यवस्था थियो?",
+    "o": [
+      "नागरिकता",
+      "भिसा जस्तै अनुमति पत्र (Permit)",
+      "जग्गा धनी पुर्जा",
+      "सिफारिस पत्र"
+    ],
+    "a": 1,
+    "e": "Residents of the Madhesh were often required to obtain permits (similar to visas) to enter the Kathmandu Valley."
+  },
+  {
+    "id": 74,
+    "q": "'एक मधेश, एक प्रदेश' (One Madhesh, One Province) को नारा कुन आन्दोलनसँग सम्बन्धित थियो?",
+    "o": [
+      "पहिलो मधेश आन्दोलन",
+      "दोस्रो मधेश आन्दोलन",
+      "तेस्रो मधेश आन्दोलन",
+      "जनआन्दोलन २०६२/६३"
+    ],
+    "a": 1,
+    "e": "Ek Madhesh, Ek Pradesh was the slogan."
+  },
+  {
+    "id": 75,
+    "q": "काठमाडौँ-तराई द्रुत मार्ग (Fast Track) ले काठमाडौँलाई बाराको कुन स्थानसँग जोड्नेछ?",
+    "o": [
+      "सिमरा",
+      "निजगढ",
+      "कलैया",
+      "पथलैया"
+    ],
+    "a": 1,
+    "e": "Will connect Kathmandu to Nijgadh (Bara) in under an hour."
+  },
+  {
+    "id": 76,
+    "q": "मिथिला चित्रकला (Mithila Art) मा 'माछा' को चित्रले के संकेत गर्छ?",
+    "o": [
+      "दीर्घायु (Longevity)",
+      "उर्वरता (Fertility)",
+      "प्रेम (Love)",
+      "शक्ति (Power)"
+    ],
+    "a": 1,
+    "e": "Natural symbols like fish (fertility), parrots (love), and turtles (longevity)."
+  },
+  {
+    "id": 77,
+    "q": "प्रसिद्ध 'गढीमाई मन्दिर' (प्रसिद्ध मेला लाग्ने बाहेक) रौतहटको कुन स्थानमा पनि अवस्थित छ, जसलाई स्थानीय रूपमा उच्च सम्मान गरिन्छ?",
+    "o": [
+      "गम्हरिया",
+      "गौर",
+      "चन्द्रनिगाहपुर",
+      "गरुडा"
+    ],
+    "a": 0,
+    "e": "Gadhimai (Rautahat): A temple in Gamhariya, distinct from the one in Bara."
+  },
+  {
+    "id": 78,
+    "q": "मधेश प्रदेशको एक मात्र रेल सेवा जोडिएको 'सुक्खा बन्दरगाह' (Dry Port) ले भारतको कुन बन्दरगाहसँग सोझो सम्पर्क राख्छ?",
+    "o": [
+      "मुम्बई",
+      "कोलकाता/हल्दिया",
+      "विशाखापट्टनम",
+      "चेन्नई"
+    ],
+    "a": 1,
+    "e": "Connecting directly to the Indian Railways network and the ports of Kolkata/Haldia."
+  },
+  {
+    "id": 79,
+    "q": "'सागरनाथ वन विकास परियोजना' अन्तर्गतको प्रसिद्ध शिव मन्दिर कुन जिल्लामा पर्दछ?",
+    "o": [
+      "महोत्तरी",
+      "सर्लाही",
+      "रौतहट",
+      "धनुषा"
+    ],
+    "a": 1,
+    "e": "Sagarnath: A significant Shiva temple... in Sarlahi."
+  },
+  {
+    "id": 80,
+    "q": "सन् २०१५ को संविधान जारी हुँदा मधेश आन्दोलनको मुख्य असन्तुष्टि के विषयमा थियो?",
+    "o": [
+      "गणतन्त्र",
+      "प्रदेशको सीमांकन (Provincial Boundaries)",
+      "भाषा",
+      "राजधानी"
+    ],
+    "a": 1,
+    "e": "Contentious issues included the delineation of provincial boundaries (splitting the plains into five provinces instead of two)."
+  },
+  {
+    "id": 81,
+    "q": "प्राचीन विदेह राज्यमा हुने दार्शनिक बहसहरूमा भाग लिने प्रसिद्ध विदुषी (Female Philosopher) को हुन्?",
+    "o": [
+      "सीता",
+      "गार्गी",
+      "भृकुटी",
+      "मायादेवी"
+    ],
+    "a": 1,
+    "e": "Female philosophers like Gargi and Maitreyi, who challenged male sages."
+  },
+  {
+    "id": 82,
+    "q": "मधेश प्रदेशका कुन तीन भाषाहरूलाई प्रदेश सभाले आधिकारिक भाषाको दर्जा दिएको छ?",
+    "o": [
+      "मैथिली, थारु, नेपाली",
+      "मैथिली, भोजपुरी, नेपाली",
+      "भोजपुरी, बज्जिका, नेपाली",
+      "मैथिली, हिन्दी, नेपाली"
+    ],
+    "a": 1,
+    "e": "Maithili, Bhojpuri, and Nepali as official languages."
+  },
+  {
+    "id": 83,
+    "q": "कोशी टप्पु नजिकै सप्तरीमा रहेको 'कंकालिनी मन्दिर' कुन जनावरको शिकार/संरक्षण क्षेत्र नजिक पर्दछ?",
+    "o": [
+      "अर्ना (Wild Buffalo)",
+      "पाटे बाघ",
+      "एक सिङे गैंडा",
+      "कृष्णसार"
+    ],
+    "a": 0,
+    "e": "Located in Bhardaha near the Koshi Tappu (Note: Koshi Tappu is famous for Arna, implied context)."
+  },
+  {
+    "id": 84,
+    "q": "'बेटी पढाउ, बेटी बचाउ' अभियानको मुख्य उद्देश्य के हो?",
+    "o": [
+      "बाल विवाह अन्त्य गर्ने",
+      "महिला हिंसा रोक्ने",
+      "सीमान्तकृत समुदायका छात्राहरूको शिक्षामा पहुँच बढाउने",
+      "रोजगारी दिने"
+    ],
+    "a": 2,
+    "e": "Specifically targets such marginalized communities [like Musahars/Dalits] to improve education."
+  },
+  {
+    "id": 85,
+    "q": "मधेश प्रदेशको कुन जिल्लामा 'नधिवन ताल' (Nadhiman Lake) अवस्थित छ?",
+    "o": [
+      "सर्लाही",
+      "महोत्तरी",
+      "धनुषा",
+      "बारा"
+    ],
+    "a": 0,
+    "e": "Sarlahi... Nadhiman Lake: A developing wetland tourism site."
+  },
+  {
+    "id": 86,
+    "q": "'हुलाकी राजमार्ग' (Postal Highway) ले मधेश प्रदेशको कुन भागलाई जोड्छ?",
+    "o": [
+      "पहाडी जिल्लाहरू",
+      "सबै जिल्ला सदरमुकामहरू (District Headquarters)",
+      "पूर्व-पश्चिम राजमार्गको उत्तरतर्फ",
+      "काठमाडौँ उपत्यका"
+    ],
+    "a": 1,
+    "e": "Connecting all district headquarters... running parallel to the Indian border."
+  },
+  {
+    "id": 87,
+    "q": "मधेश प्रदेशमा चुरे रेन्जको विनाशले कुन समस्या निम्त्याउने खतरा औंल्याइएको छ?",
+    "o": [
+      "बाढी",
+      "मरुभूमीकरण (Desertification)",
+      "भूकम्प",
+      "आगलागी"
+    ],
+    "a": 1,
+    "e": "Deforestation here poses a severe threat of desertification to the fertile lands."
+  },
+  {
+    "id": 88,
+    "q": "जनकपुरको 'विवाह पञ्चमी' मा भारतको कुन ठाउँबाट जन्ती (Baraat) आउने परम्परा छ?",
+    "o": [
+      "बनारस",
+      "अयोध्या",
+      "पटना",
+      "द्वारका"
+    ],
+    "a": 1,
+    "e": "A symbolic wedding procession (Baraat) comes from Ayodhya to Janakpur."
+  },
+  {
+    "id": 89,
+    "q": "वीरगन्ज महानगरपालिका कुन जिल्लामा पर्दछ?",
+    "o": [
+      "बारा",
+      "पर्सा",
+      "रौतहट",
+      "मकवानपुर"
+    ],
+    "a": 1,
+    "e": "Parsa District (HQ: Birgunj)... Birgunj is the only Metropolitan City."
+  },
+  {
+    "id": 90,
+    "q": "मधेश प्रदेशमा सबैभन्दा बढी जनघनत्व (Density) हुनुको मुख्य भौगोलिक कारण के हो?",
+    "o": [
+      "औद्योगिक क्षेत्र भएर",
+      "समतल भू-भाग र उब्जाऊ जमिन भएर",
+      "काठमाडौँ नजिक भएर",
+      "धेरै सहर भएर"
+    ],
+    "a": 1,
+    "e": "Geographically homogenous (Terai Plains)... serves as the primary \"granary\" of Nepal."
+  },
+  {
+    "id": 91,
+    "q": "राणा शासनकालमा 'चार कोसे झाडी' को वन फँडानी मुख्यतया के प्रयोजनका लागि गरिएको थियो?",
+    "o": [
+      "खेतीयोग्य जमिन विस्तार गर्न",
+      "बसोबासका लागि",
+      "ब्रिटिस इन्डियामा रेलवे स्लिपर (Railway Sleepers) निकासी गर्न",
+      "सडक निर्माण गर्न"
+    ],
+    "a": 2,
+    "e": "The Ranas aggressively cleared the Char Kose Jhadi for timber exports to British India, particularly for railway sleepers."
+  },
+  {
+    "id": 92,
+    "q": "सन् २००८ को '८ बुँदे सहमति' ले मधेशी युवाहरूको 'सामूहिक प्रवेश' (Group Entry) कुन निकायमा गराउने सुनिश्चित गरेको थियो?",
+    "o": [
+      "नेपाल प्रहरी",
+      "सशस्त्र प्रहरी बल",
+      "नेपाली सेना",
+      "निजामती सेवा"
+    ],
+    "a": 2,
+    "e": "It agreed to the \"group entry\" of Madhesi youth into the Nepal Army."
+  },
+  {
+    "id": 93,
+    "q": "सन् २००० मा सिराहा र सप्तरीका चमार (राम) समुदायले चलाएको 'चमार आन्दोलन' के विरुद्ध लक्षित थियो?",
+    "o": [
+      "छुवाछुत विरुद्ध",
+      "सिनो (मरेका जनावर) फ्याँक्ने बाध्यकारी श्रम विरुद्ध",
+      "कम ज्याला विरुद्ध",
+      "भूमिहीनता विरुद्ध"
+    ],
+    "a": 1,
+    "e": "Refused to dispose of animal carcasses, challenging the feudal imposition of degrading labor."
+  },
+  {
+    "id": 94,
+    "q": "मिथिला कलालाई माटोको भित्ताबाट कागजमा उतार्न महत्त्वपूर्ण भूमिका खेल्ने 'जनकपुर महिला विकास केन्द्र' (JWDC) को स्थापना कहिले भएको थियो?",
+    "o": [
+      "सन् १९८९",
+      "सन् १९९०",
+      "सन् १९९५",
+      "सन् २०००"
+    ],
+    "a": 0,
+    "e": "Janakpur Women's Development Center (JWDC): Established in 1989."
+  },
+  {
+    "id": 95,
+    "q": "उपलब्ध प्रतिवेदन अनुसार मधेश प्रदेशका प्रमुख नगदे बालीहरू (Cash Crops) कुन-कुन हुन्?",
+    "o": [
+      "चिया, अलैंची र कफी",
+      "उखु, जुट र सुर्ती",
+      "तोरी, सुर्यमुखी र भटमास",
+      "आलु, प्याज र लसुन"
+    ],
+    "a": 1,
+    "e": "Cash Crops: Major producer of Sugarcane... Jute, and Tobacco."
+  },
+  {
+    "id": 96,
+    "q": "प्रस्तावित 'निजगढ अन्तर्राष्ट्रिय विमानस्थल' निर्माणमा कुन वन क्षेत्रको विनाश हुने भन्दै मुख्य वातावरणीय चिन्ता व्यक्त गरिएको छ?",
+    "o": [
+      "चुरे वन",
+      "चितवन राष्ट्रिय निकुञ्ज",
+      "चार कोसे झाडी",
+      "पर्सा आरक्ष"
+    ],
+    "a": 2,
+    "e": "Massive deforestation of the Char Kose Jhadi required for its construction."
+  },
+  {
+    "id": 97,
+    "q": "मधेश प्रदेशमा 'तेली' (Teli) जातिको जनसंख्या कति प्रतिशत रहेको तथ्यांक छ?",
+    "o": [
+      "४.५१%",
+      "५.३१%",
+      "२.९५%",
+      "६.५६%"
+    ],
+    "a": 1,
+    "e": "Teli (5.31%), Koiri/Kushwaha (4.51%)."
+  },
+  {
+    "id": 98,
+    "q": "धनुषाधाममा शिवको धनुषको अवशेषका रूपमा केलाई पूजा गरिन्छ?",
+    "o": [
+      "पुरानो ढुङ्गा",
+      "धातुको टुक्रा",
+      "बरको रूखको जीवाश्म बनेको जरा (Fossilized root of Banyan tree)",
+      "सालको रूख"
+    ],
+    "a": 2,
+    "e": "The fossilized root of a Banyan tree is worshipped as the bow."
+  },
+  {
+    "id": 99,
+    "q": "सप्तरी जिल्लाको हालको सदरमुकाम 'राजविराज' सर्नुअघि पुरानो सदरमुकाम कहाँ थियो?",
+    "o": [
+      "कञ्चनरूप",
+      "भारदह",
+      "हनुमाननगर",
+      "फत्तेपुर"
+    ],
+    "a": 2,
+    "e": "It was established in 1938 after the destruction of the old headquarters, Hanumannagar."
+  },
+  {
+    "id": 100,
+    "q": "मधेश प्रदेशको सिँचाइका लागि 'कोशी ब्यारेज' बाहेक अर्को कुन ठूलो सिँचाइ आयोजनाको नाम प्रतिवेदनमा विशेष रूपमा उल्लेख छ?",
+    "o": [
+      "सिक्टा सिँचाइ आयोजना",
+      "रानी जमरा कुलरिया",
+      "बागमती सिँचाइ आयोजना",
+      "गण्डक नहर"
+    ],
+    "a": 2,
+    "e": "While it benefits from the Koshi Barrage and Bagmati Irrigation Project."
+  },
+  {
+    "id": 101,
+    "q": "नेपालको संघीय संरचनामा 'पूर्ण रूपमा तराईको समथर भू-भागमा मात्र फैलिएको' एक मात्र प्रदेश कुन हो?",
+    "o": [
+      "लुम्बिनी प्रदेश",
+      "मधेश प्रदेश",
+      "कोशी प्रदेश",
+      "सुदूरपश्चिम प्रदेश"
+    ],
+    "a": 1,
+    "e": "Madhesh Province (formerly Province No. 2) is the only province in Nepal located entirely within the flat plains of the Terai."
+  },
+  {
+    "id": 102,
+    "q": "प्राचीन मिथिलाका राजा 'सीरध्वज जनक' (Seeradhwaja Janak) लाई हिन्दु ग्रन्थहरूमा राजाका साथै कुन उपाधिले चिनिन्छ?",
+    "o": [
+      "चक्रवर्ती राजा",
+      "राजर्षि (Rajarshi)",
+      "महामण्डलेश्वर",
+      "परमभट्टारक"
+    ],
+    "a": 1,
+    "e": "King Seeradhwaja Janak, is celebrated in Hindu texts not only as a monarch but as a Rajarshi (sage-king)."
+  },
+  {
+    "id": 103,
+    "q": "सिराहा जिल्लाको 'सलहेश फुलबारी' (Salhesh Fulbari) मा फुल्ने दुर्लभ सुनाखरी फूल (Orchid) वर्षको कुन दिन मात्र फुल्ने जनविश्वास छ?",
+    "o": [
+      "फागुन पूर्णिमा",
+      "नयाँ वर्षको पहिलो दिन (बैशाख १)",
+      "राम नवमी",
+      "विवाह पञ्चमी"
+    ],
+    "a": 1,
+    "e": "A rare orchid blooms here on a specific tree only on the 1st day of the Nepali New Year (Baishakh 1st)."
+  },
+  {
+    "id": 104,
+    "q": "महोत्तरी जिल्लाको 'मटिहानी' (Matihani) मा रहेको 'लक्ष्मीनारायण मठ' के का लागि ऐतिहासिक रूपमा प्रसिद्ध छ?",
+    "o": [
+      "तान्त्रिक विद्या",
+      "संस्कृत शिक्षा (Sanskrit Education)",
+      "आयुर्वेद उपचार",
+      "युद्ध कला प्रशिक्षण"
+    ],
+    "a": 1,
+    "e": "Matihani... is famous for the Laxmi Narayan Math, a monastery with a long tradition of Sanskrit education."
+  },
+    {
+    "id": 105,
+    "q": "सात प्रदेशहरू मध्ये सबैभन्दा कम साक्षरता दर भएको प्रदेश कुन हो? (२०७८)",
+    "o": [
+      "कर्णाली प्रदेश",
+      "सुदूरपश्चिम प्रदेश",
+      "मधेश प्रदेश",
+      "लुम्बिनी प्रदेश"
+    ],
+    "a": 2,
+    "e": "मधेश प्रदेशको साक्षरता दर ६३.५% छ, जुन राष्ट्रिय औषत भन्दा कम र सातै प्रदेशमा पुछारमा छ।"
+  },
+  {
+    "id": 106,
+    "q": "'जितिया पर्व' (Jitiya) को पौराणिक कथा कुन राजासँग जोडिएको छ?",
+    "o": [
+      "राजा हरिशचन्द्र",
+      "राजा जीमुतवाहन (Jimutavahana)",
+      "राजा सगर",
+      "राजा भगीरथ"
+    ],
+    "a": 1,
+    "e": "Legend connects it to the mythical King Jimutavahana who saved the Nagas from Garuda."
+  },
+  {
+    "id": 107,
+    "q": "मधेश प्रदेशको उत्तरी सीमामा रहेको 'चुरे क्षेत्र' (Chure Range) लाई वातावरणीय दृष्टिकोणले किन महत्त्वपूर्ण मानिन्छ?",
+    "o": [
+      "काठको स्रोत भएकाले",
+      "पर्यटकीय क्षेत्र भएकाले",
+      "पानीको पुनर्भरण क्षेत्र (Water Recharge Zone) भएकाले",
+      "जडीबुटी पाइने भएकाले"
+    ],
+    "a": 2,
+    "e": "It serves as a vital water recharge zone for the plains below."
+  },
+  {
+    "id": 108,
+    "q": "पहिलो मधेश आन्दोलनको विजारोपण मानिने घटना 'अन्तरिम संविधान जलाउने कार्य' कुन मितिमा भएको थियो?",
+    "o": [
+      "सन् २००७ जनवरी १५",
+      "सन् २००७ जनवरी १६",
+      "सन् २००७ जनवरी १९",
+      "सन् २००६ डिसेम्बर २५"
+    ],
+    "a": 1,
+    "e": "On January 16, 2007, activists... burned copies of the Interim Constitution at Maitighar Mandala."
+  },
+  {
+    "id": 109,
+    "q": "रौतहट जिल्लाको 'नुनथर' (Nunthar) लाई कुन ऋषिको आश्रम स्थल (Hermitage) मानिन्छ?",
+    "o": [
+      "ऋषि विश्वामित्र",
+      "ऋषि परशुराम",
+      "ऋषि वाल्मीकि",
+      "ऋषि वशिष्ठ"
+    ],
+    "a": 1,
+    "e": "It is believed to be the hermitage of Sage Parashuram."
+  },
+  {
+    "id": 110,
+    "q": "मधेश प्रदेशको कुन पुरातात्विक स्थलमा 'मध्यकालीन युग' (Medieval Period) सँग सम्बन्धित अवशेषहरू भेटिएका छन्?",
+    "o": [
+      "शिवपुर (रौतहट)",
+      "सिम्रौनगढ (बारा)",
+      "मुर्तिया (सर्लाही)",
+      "माथिका सबै"
+    ],
+    "a": 3,
+    "e": "Shivapur: An archaeological site linked to the medieval period (Note: Simraungadh and Murtiya are also medieval/archaeological sites mentioned in PDF)."
+  },
+  {
+    "id": 111,
+    "q": "मधेश प्रदेशको भौगोलिक बनावटमा सबैभन्दा तल्लो विन्दु (Lowest Elevation) कुन हो?",
+    "o": [
+      "६० मिटर (कञ्चनरूप)",
+      "५८ मिटर (मुसहरनिया)",
+      "७० मिटर (वीरगन्ज)",
+      "६५ मिटर (जनकपुर)"
+    ],
+    "a": 1,
+    "e": "Containing the lowest point of the province at Musharniya (Dhanusha District), which sits at an elevation of 58 meters above sea level."
+  },
+  {
+    "id": 112,
+    "q": "मधेश प्रदेशको कुन नाच वा कलामा 'दिदीबहिनी' ले माटोको 'चुगला' (Chugla - Villain) को मूर्ति बनाएर बगाउने चलन छ?",
+    "o": [
+      "सामा चकेवा",
+      "झिझिया",
+      "डोमकच",
+      "जट-जटिन"
+    ],
+    "a": 0,
+    "e": "Sama Chakeva... Women craft clay idols of birds... and the villain Chugla."
+  }
+        ];
+
+        // --- APP LOGIC ---
+        const app = {
+            data: {
+                user: { name: "", qual: "" },
+                isPremium: false,
+                currentSet: [],
+                currentIndex: 0,
+                score: 0,
+                wrongAnswers: [],
+                mistakeBank: [],
+                timer: null,
+                isSetA: true
+            },
+
+            init: function() {
+                const savedUser = localStorage.getItem('madhesh_user');
+                const savedPremium = localStorage.getItem('madhesh_premium');
+                const savedMistakes = localStorage.getItem('madhesh_mistakes');
+
+                if (savedUser) {
+                    this.data.user = JSON.parse(savedUser);
+                    document.getElementById('input-name').value = this.data.user.name;
+                    document.getElementById('input-qual').value = this.data.user.qual;
+                    this.showDashboard();
+                }
+
+                if (savedPremium === 'true') {
+                    this.data.isPremium = true;
+                    document.getElementById('btn-mistake-bank').classList.remove('hidden');
+                }
+
+                if (savedMistakes) {
+                    this.data.mistakeBank = JSON.parse(savedMistakes);
+                }
+
+                const total = allQuestions.length;
+                const splitIndex = 13;
+                document.getElementById('count-a').innerText = `${splitIndex} MCQs`;
+                document.getElementById('count-b').innerText = `${total - splitIndex} MCQs`;
+            },
+
+            showScreen: function(id) {
+                document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+                document.getElementById(id).classList.add('active');
+                window.scrollTo(0,0);
+            },
+
+            saveUser: function() {
+                const name = document.getElementById('input-name').value.trim();
+                const qual = document.getElementById('input-qual').value;
+                if(!name || !qual) return alert("Please enter Name and Qualification");
+                
+                this.data.user = { name, qual };
+                localStorage.setItem('madhesh_user', JSON.stringify(this.data.user));
+                this.showDashboard();
+            },
+
+            showDashboard: function() {
+                document.getElementById('login-form').classList.add('hidden');
+                document.getElementById('dashboard').classList.remove('hidden');
+                document.getElementById('user-greeting').innerText = `Hello, ${this.data.user.name.split(" ")[0]}`;
+            },
+
+            startSetA: function() {
+                this.data.isSetA = true;
+                this.data.currentSet = allQuestions.slice(0, 13);
+                this.launchQuiz(true);
+            },
+
+            checkPremiumAccess: function() {
+                if (this.data.isPremium) {
+                    this.startSetB();
+                } else {
+                    this.showScreen('screen-syllabus');
+                }
+            },
+
+            showLoginScreen: function() {
+                this.showScreen('screen-login');
+            },
+
+            startSetB: function() {
+                this.data.isSetA = false;
+                this.data.currentSet = allQuestions.slice(13);
+                this.launchQuiz(false);
+            },
+
+            startMistakeBank: function() {
+                if (this.data.mistakeBank.length === 0) return alert("No mistakes recorded yet!");
+                this.data.isSetA = false; 
+                this.data.currentSet = [...this.data.mistakeBank];
+                this.launchQuiz(false);
+            },
+
+            launchQuiz: function(hasTimer) {
+                this.data.currentIndex = 0;
+                this.data.score = 0;
+                this.data.wrongAnswers = [];
+                
+                this.showScreen('screen-quiz');
+                
+                const timerBox = document.getElementById('timer-box');
+                if (hasTimer) {
+                    timerBox.classList.remove('hidden');
+                    let timeLeft = 600; 
+                    this.data.timer = setInterval(() => {
+                        timeLeft--;
+                        let m = Math.floor(timeLeft / 60);
+                        let s = timeLeft % 60;
+                        timerBox.innerText = `${m}:${s < 10 ? '0'+s : s}`;
+                        if (timeLeft <= 0) this.endQuiz();
+                    }, 1000);
+                } else {
+                    clearInterval(this.data.timer);
+                    timerBox.classList.add('hidden');
+                }
+
+                this.renderQuestion();
+            },
+
+            renderQuestion: function() {
+                const q = this.data.currentSet[this.data.currentIndex];
+                document.getElementById('quiz-progress').innerText = `Question ${this.data.currentIndex + 1} / ${this.data.currentSet.length}`;
+                document.getElementById('question-text').innerText = q.q;
+
+                const optsDiv = document.getElementById('options-container');
+                optsDiv.innerHTML = "";
+                
+                document.getElementById('feedback-top').innerText = "";
+                document.getElementById('explanation-box').style.display = 'none';
+                document.getElementById('next-btn-container').classList.add('hidden');
+
+                const letters = ['A', 'B', 'C', 'D'];
+
+                q.o.forEach((opt, index) => {
+                    const btn = document.createElement('div');
+                    btn.className = 'option-btn';
+                    btn.innerHTML = `<div class="option-circle">${letters[index]}</div> ${opt}`;
+                    btn.onclick = () => this.handleAnswer(index, btn);
+                    optsDiv.appendChild(btn);
+                });
+            },
+
+            handleAnswer: function(selectedIndex, btnElement) {
+                const allBtns = document.querySelectorAll('.option-btn');
+                allBtns.forEach(b => b.style.pointerEvents = 'none');
+
+                const q = this.data.currentSet[this.data.currentIndex];
+                const isCorrect = selectedIndex === q.a;
+                const feedbackTop = document.getElementById('feedback-top');
+                const firstName = this.data.user.name.split(" ")[0];
+
+                if (isCorrect) {
+                    btnElement.classList.add('correct');
+                    this.data.score++;
+                    
+                    const praises = ["Excellent", "Great Job", "Wonderful", "Amazing", "Correct"];
+                    const randomPraise = praises[Math.floor(Math.random() * praises.length)];
+                    feedbackTop.style.color = "#4ade80";
+                    feedbackTop.innerText = `${randomPraise}, ${firstName}! 🌟`;
+                } else {
+                    btnElement.classList.add('wrong');
+                    allBtns[q.a].classList.add('correct');
+                    
+                    this.data.wrongAnswers.push({
+                        q: q.q,
+                        wrong: q.o[selectedIndex],
+                        correct: q.o[q.a]
+                    });
+
+                    if (!this.data.isSetA) {
+                        if (!this.data.mistakeBank.some(mq => mq.id === q.id)) {
+                            this.data.mistakeBank.push(q);
+                            localStorage.setItem('madhesh_mistakes', JSON.stringify(this.data.mistakeBank));
+                        }
+                    }
+
+                    feedbackTop.style.color = "#f43f5e";
+                    feedbackTop.innerText = `Keep Learning, ${firstName}!`;
+                }
+
+                document.getElementById('next-btn-container').classList.remove('hidden');
+                const expBox = document.getElementById('explanation-box');
+                expBox.innerText = q.e || "No explanation available.";
+                expBox.style.display = 'block';
+            },
+
+            nextQuestion: function() {
+                this.data.currentIndex++;
+                if (this.data.currentIndex < this.data.currentSet.length) {
+                    this.renderQuestion();
+                } else {
+                    this.endQuiz();
+                }
+            },
+
+            endQuiz: function() {
+                clearInterval(this.data.timer);
+                this.showScreen('screen-result');
+                
+                const total = this.data.currentSet.length;
+                const percentage = Math.round((this.data.score / total) * 100);
+                document.getElementById('final-score').innerText = `${percentage}%`;
+                
+                let msg = "";
+                if (percentage >= 80) msg = "Outstanding! 🌟";
+                else if (percentage >= 50) msg = "Good Effort! 📚";
+                else msg = "Keep Practicing! 💪";
+                document.getElementById('result-msg').innerText = msg;
+
+                const reviewDiv = document.getElementById('wrong-answers-review');
+                reviewDiv.innerHTML = "<h3 style='margin-bottom:20px;'>Review Mistakes</h3>";
+                
+                if (this.data.wrongAnswers.length === 0) {
+                    reviewDiv.innerHTML += "<p style='color:#4ade80; text-align:center; font-size:1.1rem;'>✨ Perfect Score!</p>";
+                } else {
+                    this.data.wrongAnswers.forEach(item => {
+                        reviewDiv.innerHTML += `
+                            <div style="background:rgba(255,255,255,0.05); padding:15px; margin-bottom:12px; border-radius:12px; border:1px solid rgba(255,255,255,0.1);">
+                                <div style="font-weight:600; margin-bottom:8px;">${item.q}</div>
+                                <div style="color:#f43f5e; margin-bottom:4px;">❌ ${item.wrong}</div>
+                                <div style="color:#4ade80;">✔ ${item.correct}</div>
+                            </div>
+                        `;
+                    });
+                }
+            },
+
+            openWhatsApp: function() {
+                // This is the specific message you requested
+                const msg = `Hello Sir/Mam !   I am targetting to Crack Madhesh Province Exam, Can you tell me What Premium Content can i get And How easily. Name: ${this.data.user.name}`;
+                
+                // This opens WhatsApp with the message pre-filled
+                window.open(`${WHATSAPP_URL}?text=${encodeURIComponent(msg)}`, '_blank');
+            },
+
+            verifyCode: function() {
+                const codeInput = document.getElementById('premium-code');
+                const code = codeInput.value.trim();
+                const btn = document.getElementById('btn-verify');
+                
+                if (!code) return alert("Please enter a code");
+
+                const originalText = btn.innerHTML;
+                btn.innerHTML = 'Verifying <div class="spinner"></div>';
+                btn.style.pointerEvents = 'none';
+
+                const params = new URLSearchParams();
+                params.append('code', code);
+                params.append('name', this.data.user.name);
+                params.append('qual', this.data.user.qual);
+
+                fetch(SCRIPT_URL + "?" + params.toString())
+                    .then(res => res.json())
+                    .then(data => {
+                        if (data.status === 'success') {
+                            alert("Code Verified! Premium Access Granted.");
+                            this.data.isPremium = true;
+                            localStorage.setItem('madhesh_premium', 'true');
+                            codeInput.value = "";
+                            document.getElementById('btn-mistake-bank').classList.remove('hidden');
+                            this.showDashboard();
+                            this.showScreen('screen-home');
+                        } else {
+                            alert(data.message || "Invalid Code");
+                        }
+                    })
+                    .catch(err => {
+                        console.error(err);
+                        alert("Network Error.");
+                    })
+                    .finally(() => {
+                        btn.innerHTML = originalText;
+                        btn.style.pointerEvents = 'auto';
+                    });
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', () => {
+            app.init();
+        });
+    </script>
+</body>
+</html>
