@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title> (HARD + SMART) ² </title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --accent: #00f2ff;
+            --accent-glow: rgba(0, 242, 255, 0.5);
+            --secondary: #7000ff;
+            --success: #00ff88;
+            --error: #ff2d55;
+            --bg-dark: #050505;
+            --glass: rgba(255, 255, 255, 0.08);
+            --glass-border: rgba(255, 255, 255, 0.15);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Plus Jakarta Sans', sans-serif; -webkit-tap-highlight-color: transparent; }
+
+        body {
+            background: radial-gradient(circle at top right, #1a1a2e, #050505);
+            min-height: 100vh;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow-x: hidden;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .animate { animation: fadeIn 0.5s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+
+        .app-container {
+            width: 100%;
+            max-width: 480px;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .glass-card {
+            background: var(--glass);
+            backdrop-filter: blur(25px);
+            -webkit-backdrop-filter: blur(25px);
+            border: 1px solid var(--glass-border);
+            border-radius: 30px;
+            padding: 30px 25px;
+            box-shadow: 0 25px 50px rgba(0,0,0,0.5);
+        }
+
+        .input-group { margin-bottom: 20px; }
+        .input-group label { display: block; font-size: 0.8rem; font-weight: 600; color: var(--accent); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px; }
+        
+        .glass-input, .glass-select {
+            width: 100%;
+            padding: 15px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid var(--glass-border);
+            border-radius: 15px;
+            color: white;
+            font-size: 1rem;
+            outline: none;
+            transition: 0.3s;
+        }
+        .glass-select option { background: #1a1a2e; color: white; }
+
+        .btn {
+            width: 100%;
+            padding: 16px;
+            margin-top: 12px;
+            border-radius: 18px;
+            border: none;
+            font-weight: 800;
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .btn-primary { background: linear-gradient(135deg, var(--accent), #00a2ff); color: #000; box-shadow: 0 10px 20px rgba(0, 242, 255, 0.2); }
+        .btn-mistake { background: rgba(255,255,255,0.05); color: #fff; border: 1px solid var(--glass-border); }
+        .btn-group { background: linear-gradient(135deg, #25D366, #128C7E); color: #fff; text-decoration: none; }
+
+        .q-header { display: flex; justify-content: space-between; margin-bottom: 20px; font-size: 0.85rem; font-weight: bold; }
+        .timer { color: var(--error); background: rgba(255, 45, 85, 0.1); padding: 4px 12px; border-radius: 20px; border: 1px solid var(--error); }
+        
+        .question-text { font-size: 1.2rem; font-weight: 600; line-height: 1.5; margin-bottom: 25px; }
+        
+        .option {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid var(--glass-border);
+            padding: 16px;
+            border-radius: 15px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: 0.2s;
+            display: flex;
+            gap: 12px;
+            font-weight: 500;
+        }
+        .option.correct { background: rgba(0, 255, 136, 0.2) !important; border-color: var(--success) !important; color: var(--success); }
+        .option.wrong { background: rgba(255, 45, 85, 0.2) !important; border-color: var(--error) !important; color: var(--error); }
+
+        /* Feedback Styling */
+        .feedback-text {
+            font-weight: 800;
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            display: none;
+        }
+
+        .explanation {
+            margin-top: 15px;
+            padding: 15px;
+            background: rgba(0, 242, 255, 0.05);
+            border-left: 3px solid var(--accent);
+            border-radius: 10px;
+            font-size: 0.9rem;
+            display: none;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .hidden { display: none !important; }
+
+        .progress-bar { width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 10px; margin-bottom: 20px; overflow: hidden; }
+        .progress-fill { height: 100%; background: var(--accent); transition: width 0.3s ease; }
+
+        /* Result Specifics */
+        .res-stat { font-size: 0.9rem; opacity: 0.7; margin-top: 5px; }
+        .advice-box { margin-top: 20px; padding: 20px; background: rgba(255,255,255,0.05); border-radius: 20px; line-height: 1.6; border: 1px dashed var(--glass-border); }
+    </style>
+</head>
+<body>
+
+    <div class="app-container">
+        
+        <div id="view-login" class="glass-card animate">
+            <div style="text-align: center; margin-bottom: 30px;">
+                <h1 style="font-size: 1.8rem; color: var(--accent);"> (HARD + SMART) ² </h1>
+                <p style="opacity: 0.6; font-size: 0.9rem;">Loksewa Technical Series</p>
+            </div>
+            
+            <div class="input-group">
+                <label>Full Name</label>
+                <input type="text" id="in-name" class="glass-input" placeholder="Your Name">
+            </div>
+            <div class="input-group">
+                <label>Qualification</label>
+                <select id="in-qual" class="glass-select">
+                    <option value="" disabled selected>Select Qualification</option>
+                    <option value="Engineer">Engineer</option>
+                    <option value="Sub Engineer">Sub Engineer</option>
+                    <option value="Assistant Sub Engineer">Assistant Sub Engineer</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label>Password</label>
+                <input type="password" id="in-pass" class="glass-input" placeholder="••••">
+            </div>
+            
+            <button class="btn btn-primary" onclick="engine.login()">ENTER SYSTEM</button>
+        </div>
+
+        <div id="view-dash" class="glass-card animate hidden">
+            <h2 id="dash-welcome">Namaste!</h2>
+            <p style="opacity: 0.6; margin-bottom: 30px;">Technical Knowledge Hub</p>
+            
+            <button class="btn btn-primary" onclick="engine.startTest(false)"> START TEST</button>
+            <button class="btn btn-mistake" onclick="engine.startTest(true)"> REVIEW MISTAKES <span id="mistake-count">(0)</span></button>
+            <a href="https://chat.whatsapp.com/GpMpVmBo71RBZqLOf1l4PM?mode=gi_t" class="btn btn-group" target="_blank"> JOIN STUDY GROUP</a>
+        </div>
+
+        <div id="view-quiz" class="glass-card animate hidden">
+            <div class="q-header">
+                <span>Q: <span id="q-idx">1</span>/<span id="q-total">0</span></span>
+                <span id="timer" class="timer">45:00</span>
+            </div>
+            <div class="progress-bar"><div id="p-bar" class="progress-fill"></div></div>
+            
+            <div id="question-area">
+                <div id="feedback-msg" class="feedback-text"></div>
+                <p class="question-text" id="q-text">Loading...</p>
+                <div id="options-area"></div>
+                <div id="explanation-box" class="explanation"></div>
+            </div>
+
+            <button id="next-btn" class="btn btn-primary hidden" onclick="engine.next()">NEXT QUESTION</button>
+        </div>
+
+        <div id="view-result" class="glass-card animate hidden" style="text-align:center;">
+            <h1 id="res-score" style="font-size: 3.5rem; color: var(--accent); margin-bottom: 0;">0/0</h1>
+            <p id="res-name-display" style="font-weight: bold; font-size: 1.2rem;"></p>
+            <div id="res-accuracy" class="res-stat">Accuracy: 0%</div>
+            
+            <div class="advice-box">
+                <p id="res-advice">Hard work is the key to success!</p>
+            </div>
+
+            <button class="btn btn-primary" style="margin-top: 25px;" onclick="location.reload()">RETAKE TEST</button>
+        </div>
+
+    </div>
+
+<script>
+    const CONFIG = {
+        password: "2059",
+        timer: 45 * 60
+    };
+
+    const QUESTIONS_DATA = [
+  {
+    "id": 1,
+    "q": "सगरमाथा कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "कञ्चनजङ्घा",
+      "महालङ्गुर (खुम्बु)",
+      "अन्नपूर्ण",
+      "मन्सिर"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "सगरमाथा नेपालको कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "संखुवासभा",
+      "ताप्लेजुङ",
+      "सोलुखुम्बु",
+      "दोलखा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "कञ्चनजङ्घा हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "ताप्लेजुङ",
+      "इलाम",
+      "पाँचथर",
+      "संखुवासभा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "'पाँच धनका भण्डार' (Five Treasures of Snow) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "मकालु",
+      "कञ्चनजङ्घा",
+      "मनास्लु",
+      "धौलागिरी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "नेपालको सबैभन्दा पूर्वी भागमा रहेको ८,००० मिटरभन्दा अग्लो हिमाल कुन हो?",
+    "o": [
+      "मकालु",
+      "लोत्से",
+      "कञ्चनजङ्घा",
+      "सगरमाथा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "लोत्से हिमाल कुन हिमशृङ्खलाको भाग हो?",
+    "o": [
+      "धौलागिरी",
+      "अन्नपूर्ण",
+      "महालङ्गुर",
+      "गणेश"
+    ],
+    "a": 2
+  },
+  {
+    "id": 7,
+    "q": "लोत्से हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "सोलुखुम्बु",
+      "मनाङ",
+      "मुस्ताङ",
+      "गोर्खा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "मकालु हिमाल कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "सोलुखुम्बु",
+      "संखुवासभा",
+      "ताप्लेजुङ",
+      "खोटाङ"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "मकालु हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "कुम्भकर्ण (महालङ्गुर)",
+      "रोलवालिङ",
+      "लाङटाङ",
+      "अपी"
+    ],
+    "a": 0
+  },
+  {
+    "id": 10,
+    "q": "चो ओयु हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "सोलुखुम्बु",
+      "रसुवा",
+      "दोलखा",
+      "सिन्धुपाल्चोक"
+    ],
+    "a": 0
+  },
+  {
+    "id": 11,
+    "q": "चो ओयु हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "महालङ्गुर",
+      "अन्नपूर्ण",
+      "धौलागिरी",
+      "कञ्चनजङ्घा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "धौलागिरी हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "म्याग्दी",
+      "बागलुङ",
+      "पर्वत",
+      "कास्की"
+    ],
+    "a": 0
+  },
+  {
+    "id": 13,
+    "q": "धौलागिरी हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "अन्नपूर्ण",
+      "धौलागिरी",
+      "मन्सिर",
+      "गुराँस"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "मनास्लु हिमाल कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "लमजुङ",
+      "गोरखा",
+      "धादिङ",
+      "मनाङ"
+    ],
+    "a": 1
+  },
+  {
+    "id": 15,
+    "q": "मनास्लु हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "अन्नपूर्ण",
+      "गणेश",
+      "मन्सिर",
+      "खुम्बु"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "अन्नपूर्ण हिमाल (Annapurna I) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "कास्की",
+      "म्याग्दी",
+      "मनाङ",
+      "लमजुङ"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "अन्नपूर्ण हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "अन्नपूर्ण",
+      "धौलागिरी",
+      "माछापुच्छ्रे",
+      "नीलगिरी"
+    ],
+    "a": 0
+  },
+  {
+    "id": 18,
+    "q": "'कुमारी हिमाल' भनेर चिनिने माछापुच्छ्रे कुन जिल्लामा पर्दछ?",
+    "o": [
+      "पर्वत",
+      "कास्की",
+      "स्याङ्जा",
+      "म्याग्दी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "माछापुच्छ्रे हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "धौलागिरी",
+      "अन्नपूर्ण",
+      "लमजुङ",
+      "गणेश"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "अपी हिमाल नेपालको कुन भागमा पर्दछ?",
+    "o": [
+      "सुदूरपश्चिम",
+      "कर्णाली",
+      "गण्डकी",
+      "लुम्बिनी"
+    ],
+    "a": 0
+  },
+  {
+    "id": 21,
+    "q": "अपी हिमाल कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "बझाङ",
+      "बाजुरा",
+      "दार्चुला",
+      "डोटी"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "गणेश हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "लाङटाङ",
+      "गणेश",
+      "जुगल",
+      "रोलवालिङ"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "जुगल हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "रसुवा",
+      "सिन्धुपाल्चोक",
+      "दोलखा",
+      "नुवाकोट"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "गौरीशंकर हिमाल कुन हिमशृङ्खला अन्तर्गत पर्दछ?",
+    "o": [
+      "रोलवालिङ",
+      "महालङ्गुर",
+      "लाङटाङ",
+      "गणेश"
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "नेपालको प्रमाणिक समय (Standard Time) कुन हिमाललाई आधार मानेर निर्धारण गरिएको छ?",
+    "o": [
+      "सगरमाथा",
+      "कञ्चनजङ्घा",
+      "गौरीशंकर",
+      "मनास्लु"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "गौरीशंकर हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "रामेछाप",
+      "सोलुखुम्बु",
+      "दोलखा",
+      "सिन्धुपाल्चोक"
+    ],
+    "a": 2
+  },
+  {
+    "id": 27,
+    "q": "लाङटाङ हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "रसुवा",
+      "नुवाकोट",
+      "धादिङ",
+      "सिन्धुपाल्चोक"
+    ],
+    "a": 0
+  },
+  {
+    "id": 28,
+    "q": "सैपाल हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "दार्चुला",
+      "बझाङ",
+      "हुम्ला",
+      "बाजुरा"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "कुम्भकर्ण हिमाल (Jannu Himal) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "सोलुखुम्बु",
+      "ताप्लेजुङ",
+      "संखुवासभा",
+      "पाँचथर"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "काञ्जिरोवा हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "मुगु",
+      "डोल्पा",
+      "जुम्ला",
+      "हुम्ला"
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "अमा दब्लम हिमाल कुन जिल्लामा पर्दछ?",
+    "o": [
+      "सोलुखुम्बु",
+      "ताप्लेजुङ",
+      "संखुवासभा",
+      "दोलखा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 32,
+    "q": "'किलर माउन्टेन' (Killer Mountain) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "सगरमाथा",
+      "अन्नपूर्ण",
+      "मनास्लु",
+      "मकालु"
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "श्वेत हिमाल (White Mountain) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "धौलागिरी",
+      "सगरमाथा",
+      "मकालु",
+      "कञ्चनजङ्घा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 34,
+    "q": "काठमाडौँबाट सबैभन्दा नजिक पर्ने हिमाल कुन हो?",
+    "o": [
+      "गणेश",
+      "लाङटाङ",
+      "जुगल",
+      "गौरीशंकर"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "नेपालमा ८,००० मिटरभन्दा अग्ला हिमाल कति वटा छन्?",
+    "o": [
+      "७",
+      "८",
+      "१४",
+      "१०"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "सार्क राष्ट्रको सबैभन्दा अग्लो हिमाल कुन हो?",
+    "o": [
+      "K2",
+      "कञ्चनजङ्घा",
+      "सगरमाथा",
+      "नङ्गा पर्वत"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "तिलिचो हिमाल (Tilicho Peak) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "मुस्ताङ",
+      "मनाङ",
+      "डोल्पा",
+      "म्याग्दी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "सिस्ने हिमाल (Sisne Himal) कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "रुकुम (पूर्व)",
+      "रोल्पा",
+      "सल्यान",
+      "जाजरकोट"
+    ],
+    "a": 0
+  },
+  {
+    "id": 39,
+    "q": "पुमोरी हिमाल (Pumori) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "संखुवासभा",
+      "ताप्लेजुङ",
+      "सोलुखुम्बु",
+      "दोलखा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "नुप्से हिमाल (Nuptse) कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "सोलुखुम्बु",
+      "रसुवा",
+      "मनाङ",
+      "गोरखा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "'सगरमाथा' नामकरण कसले गरेका हुन्?",
+    "o": [
+      "इतिहास शिरोमणि बाबुराम आचार्य",
+      "भूगोलविद् हर्क गुरुङ",
+      "जर्ज एभरेस्ट",
+      "तेन्जिङ नोर्गे शेर्पा"
+    ],
+    "a": 0,
+    "e": "सन् १९५६ मा बाबुराम आचार्यले 'सगरमाथा' नाम दिएका हुन्, त्यसअघि यसलाई 'पिक-१५' भनिन्थ्यो।"
+  },
+  {
+    "id": 42,
+    "q": "नेपालको प्रमाणिक समय कुन हिमाललाई आधार मानेर निर्धारण गरिएको छ?",
+    "o": [
+      "सगरमाथा",
+      "गौरीशंकर",
+      "कञ्चनजङ्घा",
+      "गणेश"
+    ],
+    "a": 1,
+    "e": "गौरीशंकर हिमाललाई काटेर गएको ८६ डिग्री १५ मिनेट पूर्वी देशान्तरलाई आधार मानिएको छ।"
+  },
+  {
+    "id": 43,
+    "q": "'लेडिज नेकलेस' (Ladies Necklace) उपनामले चिनिने हिमाल कुन हो?",
+    "o": [
+      "लोत्से",
+      "आमा दब्लम",
+      "पुमोरी",
+      "माछापुच्छ्रे"
+    ],
+    "a": 1,
+    "e": "यो हिमालको बनावट घाटीमा लगाएको हार जस्तो देखिने भएकाले यो नाम दिइएको हो।"
+  },
+  {
+    "id": 44,
+    "q": "सगरमाथालाई 'तेस्रो ध्रुव' (The Third Pole) भनेर उपनाम दिने व्यक्ति को हुन्?",
+    "o": [
+      "माइकल गर्ग (Michael Karg)",
+      "सर जर्ज एभरेस्ट",
+      "एडमण्ड हिलारी",
+      "राधानाथ सिकदर"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "'सेतो हिमाल' (White Mountain) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "सगरमाथा",
+      "मकालु",
+      "धौलागिरी",
+      "अन्नपूर्ण"
+    ],
+    "a": 2,
+    "e": "संस्कृत शब्द 'धवल' (सेतो) र 'गिरी' (पर्वत) मिलेर धौलागिरी बनेको हो।"
+  },
+  {
+    "id": 46,
+    "q": "कुन हिमाललाई 'भर्जिन माउन्टेन' (Virgin Mountain) वा आरोहण निषिद्ध हिमाल भनिन्छ?",
+    "o": [
+      "काञ्जिरोवा",
+      "माछापुच्छ्रे",
+      "गणेश",
+      "गौरीशंकर"
+    ],
+    "a": 1,
+    "e": "यसको पवित्रता कायम राख्न सरकारले आरोहणमा प्रतिबन्ध लगाएको छ।"
+  },
+  {
+    "id": 47,
+    "q": "'माउन्टेन अफ द स्पिरिट' (Mountain of the Spirit/Soul) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "मनास्लु",
+      "चो ओयु",
+      "मकालु",
+      "लोत्से"
+    ],
+    "a": 0,
+    "e": "संस्कृत शब्द 'मनस' (आत्मा/बुद्धि) बाट मनास्लु नाम रहन गएको हो।"
+  },
+  {
+    "id": 48,
+    "q": "'पाँच हिउँका खजाना' (Five Treasures of Snow) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "धौलागिरी",
+      "कञ्चनजङ्घा",
+      "लोत्से",
+      "मकालु"
+    ],
+    "a": 1,
+    "e": "यो हिमालका ५ वटा मुख्य चुचुराहरू भएकाले यसलाई यो नाम दिइएको हो।"
+  },
+  {
+    "id": 49,
+    "q": "सगरमाथाको उचाइ मापन गर्ने पहिलो व्यक्ति को हुन्?",
+    "o": [
+      "राधानाथ सिकदर",
+      "नैन सिंह रावल",
+      "एन्ड्रयू वाग",
+      "जर्ज एभरेस्ट"
+    ],
+    "a": 0,
+    "e": "उनले सन् १८५२ मा सगरमाथा विश्वकै अग्लो चुचुरो हो भनेर पत्ता लगाएका थिए।"
+  },
+  {
+    "id": 50,
+    "q": "'कुम्भकर्ण' उपनामले चिनिने हिमाल कुन हो?",
+    "o": [
+      "जुगल",
+      "जान्नु हिमाल",
+      "लाङटाङ",
+      "सैपाल"
+    ],
+    "a": 1,
+    "e": "जान्नु हिमाललाई नेपालीमा कुम्भकर्ण भनिन्छ, यो सुतेको राक्षस जस्तो देखिने जनविश्वास छ।"
+  },
+  {
+    "id": 51,
+    "q": "८,००० मिटरभन्दा अग्ला हिमालहरूमध्ये मानव पाइला टेकिएको (आरोहण गरिएको) पहिलो हिमाल कुन हो?",
+    "o": [
+      "सगरमाथा",
+      "अन्नपूर्ण (प्रथम)",
+      "कञ्चनजङ्घा",
+      "मकालु"
+    ],
+    "a": 1,
+    "e": "सन् १९५० जुन ३ मा मौरिस हर्जोगले अन्नपूर्ण हिमालको सफल आरोहण गरेका थिए, जुन सगरमाथा आरोहण हुनुभन्दा ३ वर्ष अघि हो।"
+  },
+  {
+    "id": 52,
+    "q": "सगरमाथालाई तिब्बती भाषामा के भनिन्छ?",
+    "o": [
+      "झोमोलुङ्मा",
+      "चुमुलाङ्मा",
+      "मितेरी शिखर",
+      "पिक-१५"
+    ],
+    "a": 0,
+    "e": "'झोमोलुङ्मा' को अर्थ 'संसारकी देवी आमा' (Goddess Mother of the World) हुन्छ।"
+  },
+  {
+    "id": 53,
+    "q": "'दक्षिणको शिखर' (South Peak) भनेर कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "लोत्से",
+      "नुप्से",
+      "मकालु",
+      "चो ओयु"
+    ],
+    "a": 0,
+    "e": "तिब्बती भाषामा 'ल्हो' भनेको दक्षिण र 'त्से' भनेको शिखर हो, त्यसैले यसलाई लोत्से भनिएको हो।"
+  },
+  {
+    "id": 54,
+    "q": "हात्ती सुतेको जस्तो आकार भएको हिमाल कुन हो?",
+    "o": [
+      "गणेश हिमाल",
+      "लाङटाङ",
+      "माछापुच्छ्रे",
+      "जुगल"
+    ],
+    "a": 0,
+    "e": "गणेश भगवानको नामबाट नामाकरण गरिएको यो हिमाल हात्तीको टाउको वा सुतेको हात्ती जस्तो देखिन्छ।"
+  },
+  {
+    "id": 55,
+    "q": "'पुमोरी' (Pumori) हिमालको नामको शाब्दिक अर्थ के हुन्छ?",
+    "o": [
+      "हिमालकी छोरी",
+      "हिमालकी आमा",
+      "सेतो कुमारी",
+      "पवि‍त्र शिखर"
+    ],
+    "a": 0,
+    "e": "शेर्पा भाषामा 'पुमो' भनेको अविवाहित छोरी र 'री' भनेको पहाड हो।"
+  },
+  {
+    "id": 56,
+    "q": "'नेपालको म्याटरहर्न' (Matterhorn of Nepal) उपनामले कुन हिमाललाई चिनिन्छ?",
+    "o": [
+      "माछापुच्छ्रे",
+      "आमा दब्लम",
+      "गौरीशंकर",
+      "काञ्जिरोवा"
+    ],
+    "a": 1,
+    "e": "युरोपको आल्पस पर्वतको म्याटरहर्नसँग बनावट मिल्दोजुल्दो भएकाले आमा दब्लमलाई यो उपनाम दिइएको हो।"
+  },
+  {
+    "id": 57,
+    "q": "'चो ओयु' (Cho Oyu) शब्दको अर्थ के हो?",
+    "o": [
+      "सेतो हिमाल",
+      "निलो (फिरोजा) देवी",
+      "कालो पहाड",
+      "ठूलो चट्टान"
+    ],
+    "a": 1
+  },
+  {
+    "id": 58,
+    "q": "'आमा दब्लम' (Ama Dablam) को अर्थ के हो?",
+    "o": [
+      "आमा र छोरी",
+      "आमाको घाँटीको हार",
+      "आमाको काख",
+      "देवीको मन्दिर"
+    ],
+    "a": 1,
+    "e": "हिमालका दुई चुचुरा आमाले छोरा बोकेजस्तो देखिने र बिचमा पेन्डेन्ट (Dablam) झुन्डिएजस्तो देखिने भएकाले यो नाम रहन गएको हो।"
+  },
+  {
+    "id": 59,
+    "q": "सगरमाथाको नयाँ उचाइ (८८४८.८६ मि.) कहिले सार्वजनिक गरियो?",
+    "o": [
+      "वि.सं. २०७७ मंसिर २३",
+      "वि.सं. २०७६ मंसिर २३",
+      "सन् २०२० डिसेम्बर २५",
+      "सन् २०१९ नोभेम्बर ८"
+    ],
+    "a": 0,
+    "e": "नेपाल र चीन सरकारले संयुक्त रूपमा २०७७ मंसिर २३ (8 December 2020) मा नयाँ उचाइ घोषणा गरेका हुन्।"
+  },
+  {
+    "id": 60,
+    "q": "'सगरमाथा' को नामकरण इतिहास शिरोमणि बाबुराम आचार्यले कहिले गरेका थिए?",
+    "o": [
+      "सन् १९५६ (वि.सं. २०१३)",
+      "सन् १९५२ (वि.सं. २००९)",
+      "सन् १९६० (वि.सं. २०१७)",
+      "सन् १९५० (वि.सं. २००७)"
+    ],
+    "a": 0,
+    "e": "त्यसअघि यसलाई 'पिक-१५' भनिन्थ्यो भने नेपालीमा 'सगरमाथा' (सगर=आकाश, माथा=शिर) नाम २०१३ सालमा दिइएको हो।"
+  }
+    ];
+
+    let state = {
+        user: "",
+        firstName: "",
+        score: 0,
+        idx: 0,
+        time: CONFIG.timer,
+        mistakes: JSON.parse(localStorage.getItem('mistakeBank')) || [],
+        currentSet: [],
+        timerInt: null
+    };
+
+    const engine = {
+        login: () => {
+            const user = document.getElementById('in-name').value;
+            const pass = document.getElementById('in-pass').value;
+            const qual = document.getElementById('in-qual').value;
+
+            if(pass !== CONFIG.password) return alert("Incorrect Password!");
+            if(!user || !qual) return alert("Please complete your profile!");
+            
+            state.user = user;
+            state.firstName = user.split(' ')[0]; // Extract first name
+            document.getElementById('view-login').classList.add('hidden');
+            document.getElementById('view-dash').classList.remove('hidden');
+            document.getElementById('dash-welcome').innerText = `Namaste, ${state.firstName}!`;
+            document.getElementById('mistake-count').innerText = `(${state.mistakes.length})`;
+        },
+
+        startTest: (reviewMode) => {
+            if(QUESTIONS_DATA.length === 0 && !reviewMode) return alert("Question bank is empty!");
+            
+            state.score = 0;
+            state.idx = 0;
+            state.time = CONFIG.timer;
+            
+            if(reviewMode) {
+                if(state.mistakes.length === 0) return alert("No mistakes to review!");
+                state.currentSet = QUESTIONS_DATA.filter(q => state.mistakes.includes(q.id));
+            } else {
+                state.currentSet = [...QUESTIONS_DATA].sort(() => 0.5 - Math.random());
+            }
+
+            document.getElementById('q-total').innerText = state.currentSet.length;
+            document.getElementById('view-dash').classList.add('hidden');
+            document.getElementById('view-quiz').classList.remove('hidden');
+            engine.render();
+            engine.timer();
+        },
+
+        render: () => {
+            const q = state.currentSet[state.idx];
+            document.getElementById('q-idx').innerText = state.idx + 1;
+            document.getElementById('q-text').innerText = q.q;
+            document.getElementById('next-btn').classList.add('hidden');
+            document.getElementById('explanation-box').style.display = 'none';
+            document.getElementById('feedback-msg').style.display = 'none';
+            
+            const optArea = document.getElementById('options-area');
+            optArea.innerHTML = "";
+            
+            q.o.forEach((opt, i) => {
+                const div = document.createElement('div');
+                div.className = 'option animate';
+                div.innerHTML = `<span>${String.fromCharCode(65+i)}.</span> ${opt}`;
+                div.onclick = () => engine.check(i, div);
+                optArea.appendChild(div);
+            });
+
+            document.getElementById('p-bar').style.width = `${((state.idx+1)/state.currentSet.length)*100}%`;
+        },
+
+        check: (choice, el) => {
+            const q = state.currentSet[state.idx];
+            const opts = document.querySelectorAll('.option');
+            const feedback = document.getElementById('feedback-msg');
+            opts.forEach(o => o.style.pointerEvents = 'none');
+
+            const compliments = ["Amazing", "Wow", "Fantastic", "Well Done", "Lovely", "Superb", "Brilliant"];
+            const motivation = ["Don't give up", "Keep trying", "You've got this", "Stay focused", "Almost there", "Keep going"];
+
+            feedback.style.display = 'block';
+
+            if(choice === q.a) {
+                el.classList.add('correct');
+                state.score++;
+                state.mistakes = state.mistakes.filter(id => id !== q.id);
+                
+                const randomComp = compliments[Math.floor(Math.random() * compliments.length)];
+                feedback.innerText = ` ${randomComp}, ${state.firstName}!`;
+                feedback.style.color = "var(--success)";
+            } else {
+                el.classList.add('wrong');
+                opts[q.a].classList.add('correct');
+                if(!state.mistakes.includes(q.id)) state.mistakes.push(q.id);
+                
+                const randomMot = motivation[Math.floor(Math.random() * motivation.length)];
+                feedback.innerText = ` ${randomMot}, ${state.firstName}!`;
+                feedback.style.color = "var(--error)";
+            }
+            
+            if(q.e) {
+                const exp = document.getElementById('explanation-box');
+                exp.innerHTML = "<strong>Explanation:</strong><br>" + q.e;
+                exp.style.display = 'block';
+            }
+
+            localStorage.setItem('mistakeBank', JSON.stringify(state.mistakes));
+            document.getElementById('mistake-count').innerText = `(${state.mistakes.length})`;
+            document.getElementById('next-btn').classList.remove('hidden');
+        },
+
+        next: () => {
+            state.idx++;
+            if(state.idx < state.currentSet.length) engine.render();
+            else engine.end();
+        },
+
+        timer: () => {
+            clearInterval(state.timerInt);
+            state.timerInt = setInterval(() => {
+                state.time--;
+                let m = Math.floor(state.time / 60);
+                let s = state.time % 60;
+                document.getElementById('timer').innerText = `${m}:${s < 10 ? '0' : ''}${s}`;
+                if(state.time <= 0) engine.end();
+            }, 1000);
+        },
+
+        end: () => {
+            clearInterval(state.timerInt);
+            document.getElementById('view-quiz').classList.add('hidden');
+            document.getElementById('view-result').classList.remove('hidden');
+            
+            const total = state.currentSet.length;
+            const accuracy = Math.round((state.score / total) * 100);
+            
+            // Normalize score to 50 for advice logic as requested
+            const normalizedScore = (state.score / total) * 50;
+            
+            document.getElementById('res-score').innerText = `${state.score}/${total}`;
+            document.getElementById('res-name-display').innerText = state.user;
+            document.getElementById('res-accuracy').innerText = `Accuracy Percentage: ${accuracy}%`;
+
+            let advice = "";
+            if(normalizedScore <= 25) {
+                advice = `You need to work much harder in your preparation, ${state.firstName}. Consistency is the bridge between goals and accomplishment.`;
+            } else if (normalizedScore > 25 && normalizedScore <= 35) {
+                advice = `That is a good score, ${state.firstName}, but aim for more to secure your position in the top ranks!`;
+            } else {
+                advice = `Excellent work, ${state.firstName}! Your technical grasp is superb. Maintain this momentum for the final exams.`;
+            }
+            
+            document.getElementById('res-advice').innerText = advice;
+        }
+    };
+</script>
+</body>
+</html>
