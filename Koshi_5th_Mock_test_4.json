@@ -1,0 +1,563 @@
+[
+  {
+    "id": 1,
+    "q": "Keeping the instrument height as 1.5 m, length of staff 4 m, the slope of the ground as 1 in 10, the sight on the down-slope, must be less than",
+    "o": [
+      "30 m",
+      "25 m",
+      "20 m",
+      "15 m"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "The slope correction for a length of 30 m along a gradient of 1 in 20, is",
+    "o": [
+      "3.75 cm",
+      "0.375 cm",
+      "37.5 cm",
+      "2.75 cm."
+    ],
+    "a": 0
+  },
+  {
+    "id": 3,
+    "q": "If the radius of a simple curve is R, the length of the chord for calculating offsets by the method of chords produced, should not exceed.",
+    "o": [
+      "R/10",
+      "R/15",
+      "R/20",
+      "R/25."
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "The most reliable method of plotting a theodolite traverse, is",
+    "o": [
+      "by consecutive co-ordinates of each station",
+      "by independent co-ordinates of each station",
+      "by plotting included angles and scaling off each traverse leg",
+      "by the tangent method of plotting."
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "The method of design of steel framework for greatest rigidity and economy in weight, is known as",
+    "o": [
+      "simply design",
+      "semi-rigid design",
+      "fully rigid design",
+      "none of these."
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "If the pitch is 6 cm and rivet value is 4 tonnes, the number of rivets required for a riveted connection carrying an eccentric load of 15 tonnes at a distance of 30 cm from the centre line, is",
+    "o": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "A short masonry pillar is 60 cm x 60 cm in cross-section, the core of the pillar is a square whose side is",
+    "o": [
+      "17.32 cm",
+      "14.14 cm",
+      "20.00 cm",
+      "22.36 cm"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "The area of the concrete in compression plus the area of reinforcement transferred on the basis of modular ratio, is called",
+    "o": [
+      "transferred section",
+      "equivalent section",
+      "cracked section",
+      "none of these."
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "The designed transverse shear in lacing is assumed as",
+    "o": [
+      "2.5% of axial load",
+      "3% of axial load",
+      "3.5% of axial load",
+      "4% of axial load."
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "Oil varnish generally consists of",
+    "o": [
+      "synthetic resin and spirit",
+      "oil, wax and resin",
+      "resin, oil and turpentine",
+      "spirit, oil and wax."
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "The cracks which extend from bark towards the sap wood in the cross section of a tree, are called",
+    "o": [
+      "radial shakes",
+      "star shakes",
+      "heart shakes",
+      "cup shakes."
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "In arches, stratified stones are placed so that their planes are",
+    "o": [
+      "parallel",
+      "perpendicular",
+      "radial",
+      "none of these."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "Snowcrete is one of the patent forms of",
+    "o": [
+      "distempers",
+      "water proof cement paints",
+      "enamel paints",
+      "cellulose paints."
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "Direct Irrigation refers to:",
+    "o": [
+      "Storing water in a reservoir first",
+      "Diverting water directly from a river into canals using a weir or barrage",
+      "Using groundwater only",
+      "Sprinkling water over leaves"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "The relation between Duty (D) in hectares/cumec, Delta (\\Delta) in meters, and Base Period (B) in days is given by:",
+    "o": [
+      "\\Delta = 8.64 B / D",
+      "D = 8.64 B / \\Delta",
+      "B = 8.64 D / \\Delta",
+      "Both A and B are correct"
+    ],
+    "a": 3
+  },
+  {
+    "id": 16,
+    "q": "The major portion of \"Canal Losses\" in unlined canals is due to:",
+    "o": [
+      "Evaporation",
+      "Seepage",
+      "Transpiration by weeds",
+      "Illegal tapping"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "In Nepal, the first motorable road constructed was:",
+    "o": [
+      "Prithvi Highway",
+      "Tribhuvan Highway",
+      "Mahendra Highway",
+      "Araniko Highway"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "In a flexible pavement, the load is transferred primarily through:",
+    "o": [
+      "Beam action",
+      "Grain-to-grain contact",
+      "Rigid slab action",
+      "Only the bitumen layer"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "Periodic Maintenance\" (like adding a new layer of Bituminous Overlay) is usually done every:",
+    "o": [
+      "Week",
+      "Month",
+      "4 to 6 years",
+      "50 years"
+    ],
+    "a": 2
+  },
+  {
+    "id": 20,
+    "q": "Which of the following is measured in Square Meters (m^2)?",
+    "o": [
+      "Earthwork in excavation",
+      "Pointing and Plastering",
+      "Stone masonry in foundation",
+      "Woodwork for door frames (Chaukhat)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "Which factor affects the rate of an item in the Rate Analysis?",
+    "o": [
+      "Lead (Distance of transport) of materials",
+      "Quantity of materials and labor as per norms",
+      "Current approved district rates",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 22,
+    "q": "A Civil Sub-Engineer's primary responsibility at the site is:",
+    "o": [
+      "Financing the project",
+      "Supervision of work, measurement of quantities, and ensuring quality",
+      "Signing the final contract agreement",
+      "Designing the master plan of a city"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "In Nepal, the standard Bid Security amount is usually what percentage of the estimated cost?",
+    "o": [
+      "0.5% to 1%",
+      "2% to 3%",
+      "10%",
+      "15%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "\"Liquidated Damages\" are:",
+    "o": [
+      "Damages caused by floods",
+      "A pre-agreed penalty amount the contractor pays for project delays",
+      "The cost of liquid cement",
+      "Insurance for the site office"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "Which document is considered the \"Master Plan\" for a specific airport's development?",
+    "o": [
+      "The pilot's logbook",
+      "The Airport Master Plan",
+      "The passenger manifest",
+      "The daily weather report"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "VFR\" stands for:",
+    "o": [
+      "Very Fast Route",
+      "Visual Flight Rules",
+      "Vertical Flight Range",
+      "Variable Flow Rate"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "अस्थायी दरबन्दीमा कसलाई कामकाज गराउनुपर्छ ?",
+    "o": [
+      "करारका कर्मचारी",
+      "प्रदेश निजामती सेवाका स्थायी कर्मचारी",
+      "दैनिक ज्यालादारीका कर्मचारी",
+      "प्रदेश लोक सेवा आयोगका कर्मचारी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "आ.व. २०८५/८६ मा पाँच वर्षमुनिका बाल मृत्युदरको लक्ष्य कति छ (प्रति हजार) ?",
+    "o": [
+      "१५",
+      "२०",
+      "२५",
+      "30"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "कोशी प्रदेशको योजनाले कुन क्षेत्रमा समन्यायिक वितरणमा जोड दिएको छ ?",
+    "o": [
+      "भौतिक पूर्वाधार",
+      "शिक्षा र स्वास्थ्य",
+      "कृषि र उद्योग",
+      "यातायात र सजार"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "कोशी प्रदेशको स्थानीय सरकारी सेवा (गठन तथा सञ्चालन) ऐन, २०८० कहिले प्रमाणीकरण भएको हो ?",
+    "o": [
+      "२०८० माघ १५ गते",
+      "२०८० पौष २२ गते",
+      "२०७९ फागुन १० गते",
+      "२०८१ वैशाख १ गते"
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "स्थानीय सरकारी सेवा ऐनमा जम्मा कति दफा छन् ?",
+    "o": [
+      "१४०",
+      "१५४",
+      "१६०",
+      "१३२"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "कोशी प्रदेशको स्थानीय सरकारी सेवा (गठन तथा सञ्चालन) ऐन, २०८० अनुसार अवकास, उपदान र निवृत्तिभरण सम्बन्धि व्यवस्था कुन परिच्छेदमा छ ?",
+    "o": [
+      "परिच्छेद ५",
+      "परिच्छेद ७",
+      "परिच्छेद १०",
+      "परिच्छेद १४"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "आ.व. २०८५/८६ मा औसत आयुको लक्ष्य कति छ ?",
+    "o": [
+      "७० वर्ष",
+      "७९ वर्ष",
+      "७२ वर्ष",
+      "७३ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "निजामती सेवाको पदपूर्तिमा \"खुल्ला प्रतियोगिता\" को अर्थ के हो ?",
+    "o": [
+      "केवल आन्तरिक कर्मचारीहरूको प्रतिस्पर्धा",
+      "सबै योग्य नेपाली नागरिकको प्रतिस्पर्धा",
+      "राजनीतिक नियुक्ति",
+      "ज्येष्ठताको आधारमा पदपूर्ति"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "नेपाल सरकार कर्मचारी सेवा ऐन २०४९ अनुसार कर्मचारीको ज्येष्ठता निर्धारण गर्ने आधार के हो ?",
+    "o": [
+      "कार्य अनुभव र योग्यता",
+      "राजनीतिक संलग्नता",
+      "आर्थिक स्थिति",
+      "शैक्षिक योग्यता मात्र"
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "सरुवा गर्दा कुन कारक विचार गरिन्छ ?",
+    "o": [
+      "सेवा अवधि र भौगोलिक अवस्था",
+      "शैक्षिक योग्यता",
+      "राजनीतिक संलग्नता",
+      "आर्थिक स्थिति"
+    ],
+    "a": 0
+  },
+  {
+    "id": 37,
+    "q": "The void ratio of a given soil mass is always:",
+    "o": [
+      "greater than 0",
+      "less than 1",
+      "equal to 1",
+      "greater than or equal to 0"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "In relative density, when R_D = 0, the natural state of soil is in:",
+    "o": [
+      "Dense form",
+      "Medium form",
+      "Loosest form",
+      "Compacted form"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "In dry oven method, the weight of soil sample to determine water content is:",
+    "o": [
+      "100 g",
+      "500 g",
+      "250 g",
+      "300 g"
+    ],
+    "a": 3
+  },
+  {
+    "id": 40,
+    "q": "The ratio of the difference between natural water content, plastic limit, to the liquid limit is called:",
+    "o": [
+      "Plasticity Index",
+      "Liquidity Index",
+      "Consistency Index",
+      "Shrinkage Limit"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "The dimensional formula for dynamic viscosity is:",
+    "o": [
+      "ML-¹T-¹",
+      "ML-¹T-¹",
+      "ML-²T-¹",
+      "MLT-²"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "The difference between TEL and EGL is:",
+    "o": [
+      "Pressure head",
+      "Velocity head",
+      "Head loss",
+      "Datum head"
+    ],
+    "a": 2,
+    "e": "TEL - EGL = Head loss, EGL - HGL = Velocity head, HGL = Pressure head + Datum head "
+  },
+  {
+    "id": 43,
+    "q": "The velocity in open channel flow is highest:",
+    "o": [
+      "A little distance below the surface",
+      "At the center",
+      "At the bottom",
+      "At the free surface"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "For a non-load bearing wall, the maximum permissible slenderness ratio (SR) is:",
+    "o": [
+      "10",
+      "20",
+      "40",
+      "30"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "The void ratio of irregular aggregate is:",
+    "o": [
+      "25-30%",
+      "30-35%",
+      "35-38%",
+      "40-45%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 46,
+    "q": "For roller compacted concrete, the minimum curing period is:",
+    "o": [
+      "3 days",
+      "7 days",
+      "10 days",
+      "14 days"
+    ],
+    "a": 3
+  },
+  {
+    "id": 47,
+    "q": "Nepal lies on the boundary of which two major tectonic plates?",
+    "o": [
+      "Pacific Plate and North American Plate",
+      "African Plate and Eurasian Plate",
+      "Australian Plate and Pacific Plate",
+      "Indian Plate and Eurasian Plate"
+    ],
+    "a": 3,
+    "e": "The correct option is D. Indian Plate and Eurasian Plate. "
+  },
+  {
+    "id": 48,
+    "q": "The pipe generally used in rural water supply pipeline is:",
+    "o": [
+      "HDPE pipe",
+      "PVC pipe",
+      "DI pipe",
+      "RCC pipe"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "The pump which is used for concreting is:",
+    "o": [
+      "Pneumatic ejector",
+      "Rotary pump",
+      "Pulsometer",
+      "Centeifugal Pump"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "The joint provided in HDPE pipe is:",
+    "o": [
+      "Flange joint",
+      "Spigot and socket joint",
+      "Threaded joint",
+      "Butt joint"
+    ],
+    "a": 3
+  }
+]

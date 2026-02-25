@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "q": "Balancing backsight and foresight distances in differential levelling primarily minimizes:",
+    "o": [
+      "Error due to Earth’s curvature",
+      "Error due to refraction",
+      "Collimation error",
+      "Staff graduation error"
+    ],
+    "a": 2,
+    "e": "Collimation error."
+  },
+  {
+    "id": 2,
+    "q": "In the three-point problem, the instrument station is located by:",
+    "o": [
+      "Intersection of 3 rays from known points",
+      "Intersection of 2 rays only",
+      "Orientation by compass alone",
+      "Fixing by traversing"
+    ],
+    "a": 0,
+    "e": "Intersection of three rays drawn from three known points."
+  },
+  {
+    "id": 3,
+    "q": "The correction for curvature of Earth in trigonometrical levelling is given by:",
+    "o": [
+      "0.0785* d^2 meters",
+      "0.0673*d^2 meters",
+      "0.0825* d^2 meters",
+      "0.0895* d^2 meters"
+    ],
+    "a": 0,
+    "e": "The standard formula for curvature correction is C=0.0785* d^2, with d in kilometers."
+  },
+  {
+    "id": 4,
+    "q": "Which type of stone is most abundantly available in the Churiya (Siwalik) region of Nepal?",
+    "o": [
+      "Sandstone",
+      "Limestone",
+      "Granite",
+      "Slate"
+    ],
+    "a": 0,
+    "e": "The Churiya hills are rich in sandstone deposits, widely used for construction and road works."
+  },
+  {
+    "id": 5,
+    "q": "Which of the following stones is least available in Nepal compared to others?",
+    "o": [
+      "Granite",
+      "Limestone",
+      "Slate",
+      "Sandstone"
+    ],
+    "a": 0,
+    "e": "Granite is relatively scarce in Nepal compared to abundant limestone, sandstone, and slate deposits."
+  },
+  {
+    "id": 6,
+    "q": "The process of heating raw materials to about 1400°C–1500°C in cement manufacture is called:",
+    "o": [
+      "Calcination",
+      "Clinkering",
+      "Hydration",
+      "Pulverization"
+    ],
+    "a": 1,
+    "e": "Clinkering is the process where nodules of clinker are formed in the rotary kiln at high temperature."
+  },
+  {
+    "id": 7,
+    "q": "The bending moment diagram (BMD) of a cantilever beam under point load at free end is:",
+    "o": [
+      "Linear",
+      "Parabolic",
+      "Constant",
+      "Cubic"
+    ],
+    "a": 0,
+    "e": "Bending moment varies linearly from zero at free end to maximum at fixed end."
+  },
+  {
+    "id": 8,
+    "q": "The ratio of ultimate strength to yield strength is generally:",
+    "o": [
+      "Less than 1",
+      "Equal to 1",
+      "Greater than 1",
+      "Cannot be determined"
+    ],
+    "a": 2,
+    "e": "Ultimate strength is always higher than yield strength for ductile materials."
+  },
+  {
+    "id": 9,
+    "q": "The factor of safety (FOS) in working stress design is taken as the ratio of:",
+    "o": [
+      "Yield stress to working stress",
+      "Ultimate stress to working stress",
+      "Elastic limit to working stress",
+      "Breaking stress to working stress"
+    ],
+    "a": 1,
+    "e": "FOS ensures safety by comparing ultimate strength with allowable working stress."
+  },
+  {
+    "id": 10,
+    "q": "A liquid has a specific gravity of 0.85. Its mass density is:",
+    "o": [
+      "850 kg/m³",
+      "1000 kg/m³",
+      "981 kg/m³",
+      "8500 kg/m³"
+    ],
+    "a": 0,
+    "e": "ρ = SG × ρ water = 0.85 × 1000 = 850 kg/m³."
+  },
+  {
+    "id": 11,
+    "q": "The governing equation for uniform open channel flow is:",
+    "o": [
+      "Darcy–Weisbach equation",
+      "Manning’s equation",
+      "Hazen–Williams",
+      "Bernoulli’s equation only"
+    ],
+    "a": 1,
+    "e": "Manning’s equation is widely used for velocity and discharge in open channel flow."
+  },
+  {
+    "id": 12,
+    "q": "In critical flow condition of open channels:",
+    "o": [
+      "Velocity head = Pressure head",
+      "Specific energy is minimum for given discharge",
+      "Flow is always turbulent",
+      "Flow depth is maximum"
+    ],
+    "a": 1,
+    "e": "Critical flow occurs when specific energy is minimum, corresponding to Fr = 1."
+  },
+  {
+    "id": 13,
+    "q": "Which of the following soils is most compressible?",
+    "o": [
+      "Residual soil",
+      "Marine clay",
+      "Colluvial soil",
+      "Aeolian sand"
+    ],
+    "a": 1,
+    "e": "Marine clays are highly compressible and problematic for foundations."
+  },
+  {
+    "id": 14,
+    "q": "The method of compaction most suitable for sandy soils is:",
+    "o": [
+      "Kneading action",
+      "Impact compaction",
+      "Vibration compaction",
+      "Static compaction"
+    ],
+    "a": 2,
+    "e": "Vibratory rollers are effective for granular soils like sand."
+  },
+  {
+    "id": 15,
+    "q": "Dimensions of a beam need to be changed if the shear stress is more than:",
+    "o": [
+      "10 kg/cm²",
+      "15 kg/cm²",
+      "20 kg/cm²",
+      "25 kg/cm²"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "The ultimate tensile strength of structural mild steel is about:",
+    "o": [
+      "260 N/mm²",
+      "520 N/mm²",
+      "160 N/mm²",
+      "420 N/mm²"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "Harshness of concrete is due to excess of:",
+    "o": [
+      "water",
+      "finer particles",
+      "middle sized particles",
+      "Courser particles"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "The termination of an unfinished wall in a stepped fashion is known as:",
+    "o": [
+      "Toothing",
+      "Pointing",
+      "Racking back",
+      "Jointing"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "Salvaging is:",
+    "o": [
+      "extraction of essance from waste",
+      "dumping of solid waste",
+      "sanitary landfilling of solid waste",
+      "none of above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "The design discharge for the seperate sewer system is taken equal to:",
+    "o": [
+      "Dry weather flow",
+      "2×Dry weather flow",
+      "4×Dry weather flow",
+      "6×Dry weather flow"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "The phenomenon of salts coming up in solution and forming a layer of crust on surface after the evaporation of water is known as:",
+    "o": [
+      "reclamation",
+      "leaching",
+      "efflorescence",
+      "salinity"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "Maximum amount of water required in case of paddy is at the time of:",
+    "o": [
+      "paddling",
+      "seeding",
+      "harvesting",
+      "flowering"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "Marked local depression in a surface layer arising from the wearing of a way of material, is called:",
+    "o": [
+      "pothole",
+      "blow hole",
+      "rut",
+      "depression"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "Page testing machine is used for:",
+    "o": [
+      "stripping test",
+      "attrition test",
+      "abrasion test",
+      "impact test"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "The shutter of main gates is measured in terms of:",
+    "o": [
+      "m^3",
+      "m",
+      "m^2",
+      "kg"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "The item of the brick structure measured in sq.m, is:",
+    "o": [
+      "reinforced brick work",
+      "broken glass coping",
+      "brick edging",
+      "brick work in arches"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "What are the key dates of a standard contracting procedure of a project?",
+    "o": [
+      "call for bidding and contract award",
+      "call for his submission and bid evaluation",
+      "call for bidding, bid submission, bid evaluation, and contract award",
+      "call for bidding bid submission and contract award"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "The early finish time of an activity is the _____ of early start time and duration of activity.",
+    "o": [
+      "sum",
+      "difference",
+      "product",
+      "ratio"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "Which of the following is considered a 'Point Source' of water pollution?",
+    "o": [
+      "Rainwater carrying pollutants from city streets",
+      "Agricultural runoff from various farms",
+      "Atmospheric deposition of acid rain",
+      "A specific industrial discharge pipe emptying into a river"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "What is the primary goal of the 'Chure Conservation' efforts in Nepal?",
+    "o": [
+      "To relocate all inhabitants of the Chure hills to the mountains",
+      "To increase the mining of stones and sand for export",
+      "To prevent soil erosion and maintain the groundwater recharge for the Terai region",
+      "To build a new highway through the Siwalik range"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "'मानव अधिकार' को विश्वव्यापी घोषणापत्र (UDHR, 1948) मा कति वटा धाराहरू रहेका छन्?",
+    "o": [
+      "२५ धारा",
+      "३० धारा",
+      "३५ धारा",
+      "४० धारा"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "प्रदेश लोक सेवा आयोगको काम, कर्तव्य र अधिकार संविधानको कुन धारा अनुसार प्रादेशिक कानून बमोजिम हुनेछ?",
+    "o": [
+      "धारा २४२",
+      "धारा २४३",
+      "धारा २४४",
+      "धारा २४५"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "सूचनाको हक सम्बन्धी ऐन, २०६४ अनुसार माग गरिएको सूचना सूचना अधिकारीले कति दिन भित्र उपलब्ध गराउनुपर्ने व्यवस्था छ?",
+    "o": [
+      "७ दिन",
+      "१५ दिन",
+      "२१ दिन",
+      "३० दिन"
+    ],
+    "a": 1,
+    "e": "तुरुन्त दिन सकिने भए तुरुन्त, नभए १५ दिन भित्र"
+  },
+  {
+    "id": 34,
+    "q": "सिलबन्दी दरभाउपत्रको फाराम दस्तुर कति तोकिएको छ?",
+    "o": [
+      "३०० रुपैयाँ",
+      "५०० रुपैयाँ",
+      "१,००० रुपैयाँ",
+      "२,००० रुपैयाँ"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "राष्ट्रिय आविष्कार केन्द्र (NIC) को स्थापना कहिले भयो?",
+    "o": [
+      "२०६८",
+      "२०६९ ",
+      "२०७०",
+      "२०७६"
+    ],
+    "a": 1,
+    "e": "२०६९ कार्तिक २४ कीर्तिपुरमा अवस्थित छ।"
+  },
+  {
+    "id": 36,
+    "q": "मधेश प्रदेश निजामती सेवा ऐन २०७७ अनुसार, समावेशी रूपमा कति प्रतिशत आरक्षण गरिएको छ?",
+    "o": [
+      "45%",
+      "50%",
+      "49%",
+      "59%"
+    ],
+    "a": 2,
+    "e": "धारा ९ उपधारा (८) अनुसार"
+  },
+  {
+    "id": 37,
+    "q": "स्थानीम सेवा (गठन तथा सञ्चारन) ऐन, २०८१ अनुसार कति सेवाहरू गठन गरिएका छन्?",
+    "o": [
+      "9",
+      "6",
+      "5",
+      "11"
+    ],
+    "a": 1,
+    "e": "निजामती सेवा ऐनमा ९ वटा सेवाहरू छन्"
+  },
+  {
+    "id": 38,
+    "q": "सूचनाको हक सम्बन्धी ऐन, २०६४ अनुसार माग गरिएको सूचना सूचना अधिकारीले कति दिन भित्र उपलब्ध गराउनुपर्ने व्यवस्था छ?",
+    "o": [
+      "७ दिन",
+      "१५ दिन",
+      "२१ दिन",
+      "३० दिन"
+    ],
+    "a": 1,
+    "e": "तुरुन्त दिन सकिने भए तुरुन्त, नभए १५ दिन भित्र"
+  },
+  {
+    "id": 39,
+    "q": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ बमोजिम आगामी तीन वर्षमा उपलब्ध हुने स्रोत र खर्चको सीमाको पूर्वानुमान कहिलेभित्र गरिसक्नु पर्ने कानुनी व्यवस्था छ?",
+    "o": [
+      "पुस मसान्तभित्र",
+      "माघ मसान्तभित्र",
+      "फागुन ७ गतेभित्र",
+      "फागुन मसान्तभित्र"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ बमोजिम राष्ट्रिय स्रोत अनुमान समितिले आवधिक योजनामा प्रक्षेपित लगानी तथा वित्तीय आवश्यकताको आधारमा आगामी कति वर्षको लागि संघ, प्रदेश र स्थानीय तहको कुल राष्ट्रिय स्रोत अनुमान गर्नु पर्नेछ?",
+    "o": [
+      "दुई आर्थिक वर्ष",
+      "तीन आर्थिक वर्ष",
+      "चार आर्थिक वर्ष",
+      "पाँच आर्थिक वर्ष"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "प्रश्न: राष्ट्रिय जनगणना २०७८ अनुसार मधेश प्रदेशको साक्षरता दर (कुल) कति प्रतिशत रहेको छ?",
+    "o": [
+      "५४.७ प्रतिशत",
+      "६३.५ प्रतिशत",
+      "७२.५ प्रतिशत",
+      "५७.४ प्रतिशत"
+    ],
+    "a": 1,
+    "e": "तथ्याङ्कअनुसार मधेश प्रदेशको साक्षरता विवरण: कुल साक्षरता दर: ६३.५%।"
+  },
+  {
+    "id": 42,
+    "q": "'बिमिस्टेक' (BIMSTEC) को हालको महासचिव (Secretary General) कुन देशका नागरिक हुन्?",
+    "o": [
+      "नेपाल",
+      "भारत",
+      "थाइल्याण्ड",
+      "भुटान"
+    ],
+    "a": 1,
+    "e": "नोट: इन्द्रमणि पाण्डे, भारत"
+  },
+  {
+    "id": 43,
+    "q": "प्रसिद्ध धार्मिकस्थल 'गढीमाई' (Gadimai) कुन जिल्लामा अवस्थित छ?",
+    "o": [
+      "पर्सा",
+      "बारा",
+      "रौतहट",
+      "सर्लाही"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "नेपालको संविधानको धारा कतिमा 'प्रदेशको कार्यकारिणी अधिकार' सम्बन्धमा व्यवस्था गरिएको छ?",
+    "o": [
+      "धारा १६०",
+      "धारा १६१",
+      "धारा १६२",
+      "धारा १६३"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "नेपालको संविधानको धारा कतिमा 'प्रदेशको कार्यकारिणी अधिकार' सम्बन्धमा व्यवस्था गरिएको छ?",
+    "o": [
+      "धारा १६०",
+      "धारा १६१",
+      "धारा १६२",
+      "धारा १६३"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "मानव शरीरमा 'रगत जम्न' (Blood Clotting) का लागि कुन भिटामिन अनिवार्य हुन्छ?",
+    "o": [
+      "भिटामिन A",
+      "भिटामिन K",
+      "भिटामिन E",
+      "भिटामिन D"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालको जनघनत्व (Population Density) १९८ जना प्रति वर्ग कि.मी. छ भने मधेश प्रदेशको जनघनत्व कति रहेको छ?",
+    "o": [
+      "६३३ जना प्रति वर्ग कि.मी.",
+      "६२० जना प्रति वर्ग कि.मी.",
+      "५५० जना प्रति वर्ग कि.मी.",
+      "६४० जना प्रति वर्ग कि.मी."
+    ],
+    "a": 0,
+    "e": "633 people per sq. km"
+  },
+  {
+    "id": 48,
+    "q": "पन्ध्रौं योजना (२०७६/७७-२०८०/८१) को अन्त्यसम्ममा नेपालको मानव विकास सूचकांक (HDI) कति पुर्याउने लक्ष्य लिइएको थियो?",
+    "o": [
+      "०.६२४",
+      "०.६५०",
+      "०.६०२",
+      "०.७६०"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "प्रसिद्ध 'जानकी मन्दिर' (नौलखा मन्दिर) को निर्माण वास्तुकलाको कुन शैलीमा गरिएको छ?",
+    "o": [
+      "प्यागोडा शैली",
+      "शिखर शैली",
+      "स्तुपा शैली",
+      "मुगल र राजपुत शैली (मिश्रित)"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "नेपाल सरकारले 'नागरिक एप' (Nagarik App) को औपचारिक सुरुवात कहिले गरेको हो?",
+    "o": [
+      "२०७७ माघ २ गते",
+      "२०७८ बैशाख १ गते",
+      "२०७६ फागुन ७ गते",
+      "२०७७ पुस १५ गते"
+    ],
+    "a": 0,
+    "e": ""
+  }
+]

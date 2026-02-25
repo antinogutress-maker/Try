@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "q": "उपभोक्ता समितिलाई कामको जिम्मा दिँदा सो कार्यको प्राविधिक जाँचपास (Technical Measurement) र भुक्तानीको लागि सिफारिस कसले अनिवार्य रुपमा गर्नुपर्छ?",
+    "o": [
+      "उपभोक्ता समितिको अध्यक्षले",
+      "वडा अध्यक्षले",
+      "खटिएको प्राविधिक कर्मचारी (इन्जिनियर/सब-इन्जिनियर) ले",
+      "कार्यालय प्रमुखले"
+    ],
+    "a": 2,
+    "e": "उपभोक्ता समितिले गरेको कामको नापजाँच (Measurement) गरी प्राविधिक प्रतिवेदन र सिफारिस खटिएको प्राविधिक कर्मचारी (तपाईं जस्तै सब-इन्जिनियर वा इन्जिनियर) ले गर्नुपर्छ। (नियम ९७ को उपनियम ९)"
+  },
+  {
+    "id": 2,
+    "q": "सार्वजनिक निकायले कति रकमसम्मको परामर्श सेवा (Consultancy Service) सोझै खरिद (Direct Procurement) गर्न सक्ने कानूनी व्यवस्था छ?",
+    "o": [
+      "१ लाख रुपैयाँसम्म",
+      "३ लाख रुपैयाँसम्म",
+      "५ लाख रुपैयाँसम्म",
+      "१० लाख रुपैयाँसम्म"
+    ],
+    "a": 2,
+    "e": "सार्वजनिक निकायले पाँच लाख (५,००,०००) रुपैयाँसम्मको मालसामान, निर्माण कार्य वा परामर्श सेवा सोझै खरिद गर्न सक्नेछ। (नियम ८५)"
+  },
+  {
+    "id": 3,
+    "q": "सूचनाको हक सम्बन्धी ऐन अनुसार \"लिखित\" भन्नाले कस्तो सामाग्रीलाई जनाउँछ?",
+    "o": [
+      "कागजमा लेखिएको विवरण मात्र",
+      "ताम्रपत्र वा शिलालेख",
+      "श्रव्य दृश्य सामाग्री",
+      "माथिका कुनै पनि होइन"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "सङ्घीय मामिला तथा सामान्य प्रशासन मन्त्रालय (MoFAGA) ले स्थानीय तहको क्षमता विकासका लागि सञ्चालन गरेको प्रमुख कार्यक्रम कुन हो?",
+    "o": [
+      "LGCDP",
+      "PLGSP",
+      "RCIW",
+      "RAP"
+    ],
+    "a": 1,
+    "e": "Provincial and Local Governance Support Programme"
+  },
+  {
+    "id": 5,
+    "q": "राष्ट्रिय मानव अधिकार आयोग नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २४, धारा २४७",
+      "भाग २५, धारा २४८",
+      "भाग २६, धारा २४९",
+      "भाग २७, धारा २५०"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "कुनै कर्मचारीले सरकारी कामको सिलसिलामा आफूमाथि मुद्दा परेमा त्यसको प्रतिरक्षा कसले गर्ने व्यवस्था छ?",
+    "o": [
+      "कर्मचारी स्वयंले",
+      "कार्यालय प्रमुखले",
+      "नेपाल सरकारले",
+      "ट्रेड युनियनले"
+    ],
+    "a": 2,
+    "e": "दफा ५७ (४) अनुसार कर्तव्य पालनको सिलसिलामा गरेको कामको सम्बन्धमा मुद्दा चलाउन नेपाल सरकारले स्वीकृति दिएमा निजको प्रतिरक्षा नेपाल सरकारले गर्नेछ।"
+  },
+  {
+    "id": 7,
+    "q": "निजामती कर्मचारीको \"नेतृत्व मूल्याङ्कन\" (Leadership Assessment) कुन श्रेणीका कर्मचारीको हकमा लागू हुन्छ?",
+    "o": [
+      "सबै राजपत्रांकित कर्मचारी",
+      "राजपत्रांकित द्वितीय श्रेणी र सोभन्दा माथि",
+      "राजपत्रांकित प्रथम श्रेणी र सोभन्दा माथि",
+      "विशिष्ट श्रेणी मात्र"
+    ],
+    "a": 2,
+    "e": "दफा १८च अनुसार राजपत्रांकित प्रथम श्रेणी वा सोभन्दा माथिको निजामती कर्मचारीको नेतृत्व मूल्याङ्कन सम्बन्धी व्यवस्था तोकिए बमोजिम हुनेछ।"
+  },
+  {
+    "id": 8,
+    "q": "क्षेत्रीय स्तरका निकायहरूले निजामती कर्मचारीको सरुवा कहिले गर्नुपर्छ?",
+    "o": [
+      "भदौ मसान्तभित्र",
+      "असोज १ देखि १५ भित्र",
+      "असोज १६ देखि असोज मसान्तभित्र",
+      "कार्तिक १ देखि १५ भित्र"
+    ],
+    "a": 2,
+    "e": "नियम ३६ (१) (ग) अनुसार क्षेत्रीय स्तरका निकायहरूले असोज १६ गतेदेखि असोज मसान्तभित्र सरुवा गर्नुपर्छ।"
+  },
+  {
+    "id": 9,
+    "q": "स्थानीय तहको निर्वाचन हुनुभन्दा कम्तीमा कति समय अगावै गाउँपालिका वा नगरपालिकाको संख्या वा सिमाना हेरफेर गरिसक्नुपर्ने कानुनी प्रावधान छ?",
+    "o": [
+      "६ महिना",
+      "१ वर्ष",
+      "२ वर्ष",
+      "५ वर्ष"
+    ],
+    "a": 1,
+    "e": "ऐनको दफा ३ को उपदफा (५) र दफा ६ को उपदफा (५) बमोजिम निर्वाचन हुने मितिभन्दा कम्तीमा १ वर्ष अगावै यस्तो हेरफेर गरिसक्नु पर्ने व्यवस्था छ।"
+  },
+  {
+    "id": 10,
+    "q": "\"उद्देश्यमूलक व्यवस्थापन\" (Management by Objectives - MBO) को अवधारणा कसले ल्याएका हुन्?",
+    "o": [
+      "पिटर एफ. ड्रकर",
+      "एफ. डब्लु. टेलर",
+      "म्याक्स वेबर",
+      "हेनरी फियोल"
+    ],
+    "a": 0,
+    "e": "अतिरिक्त जानकारी: यो अवधारणा सन् १९५४ मा आएको हो।"
+  },
+  {
+    "id": 11,
+    "q": "Super-sonic flow means ............ ",
+    "o": [
+      "mach number = 1.0",
+      "mach number = 1.0",
+      "mach number > 1.0",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "A flow is said to be laminar when ............ ",
+    "o": [
+      "the fluid particles move in a zig-zag way",
+      "the Reynold number is high",
+      "the fluid particles move in layers parallel to the boundary",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 13,
+    "q": "The ratio of actual discharge of a jet of water to its theoretical discharge is known as ............ ",
+    "o": [
+      "co-efficient of discharge",
+      "co-efficient of velocity",
+      "co-efficient of contraction",
+      "co-efficient of viscosity"
+    ],
+    "a": 0
+  },
+  {
+    "id": 14,
+    "q": "Bulking of sand is...",
+    "o": [
+      "compacting of sand",
+      "segregating sand of particular size",
+      "increase in volume of sand due to presence of moisture upto certain extent",
+      "none of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "The most commonly used admixture which prolongs the setting and hardening time is...",
+    "o": [
+      "gypsum",
+      "calcium chloride",
+      "sodium silicate",
+      "all of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "The value of a property is the amount of money whose annual interest at the highest prevailing rate of interest will be equal to the net income from the property ............ ",
+    "o": [
+      "book",
+      "salvage",
+      "capitalised",
+      "market"
+    ],
+    "a": 2
+  },
+  {
+    "id": 17,
+    "q": "What is the minimum period for which the lime concrete in foundation be left wet without the construction of masonry over it?",
+    "o": [
+      "3 days",
+      "5 days",
+      "7 days",
+      "15 days"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "In resources levelling ............ ",
+    "o": [
+      "total duration of project",
+      "total duration of project is increased",
+      "uniform demand of resources is achieved",
+      "cost of project is controlled"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "Which one of the following surface will give highest coefficient of traction while using crawler track tractors?",
+    "o": [
+      "ice",
+      "concrete",
+      "loose sand",
+      "earth"
+    ],
+    "a": 3
+  },
+  {
+    "id": 20,
+    "q": "The fuselage includes ...",
+    "o": [
+      "passengers chamber",
+      "pilot's cabin",
+      "tail of aircraft",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 21,
+    "q": "The minimum length of runway for class 'C' type airport is ...",
+    "o": [
+      "600 m",
+      "750 m",
+      "900 m",
+      "1500 m"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "The California bearing ratio (C.B.R.) method of flexible pavement design gives an idea about ............ ",
+    "o": [
+      "the quality of road making material",
+      "the traffic intensities",
+      "the characteristics of soil",
+      "all of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "The height of the parapet wall is usually kept as ............ above the berm level.",
+    "o": [
+      "25 cm",
+      "50 cm",
+      "75 cm",
+      "100 cm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "Canals taken off from ice-fed perennial rivers, are known ............ ",
+    "o": [
+      "permanent canals",
+      "ridge canals",
+      "perennial canals",
+      "inundation canals"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "A river training work is generally required when the river is ............ ",
+    "o": [
+      "aggrading type",
+      "degrading type",
+      "meandering type",
+      "sable type"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "Velocity of flow through a grit chamber is ............ ",
+    "o": [
+      "30 to 60 cm/s",
+      "30 to 60 cm/min",
+      "15 to 45 cm/s",
+      "15 to 45 cm/min"
+    ],
+    "a": 2
+  },
+  {
+    "id": 27,
+    "q": "A natural method of disposal of sewage is ............ ",
+    "o": [
+      "sewage irrigation",
+      "septic tank treatment",
+      "composing",
+      "aerated Lagooning"
+    ],
+    "a": 0
+  },
+  {
+    "id": 28,
+    "q": "नेपालको तेस्रो अग्लो हिमाल कुन हो?",
+    "o": [
+      "सगरमाथा",
+      "लोत्से",
+      "कञ्चनजङ्घा",
+      "मकालु"
+    ],
+    "a": 2
+  },
+  {
+    "id": 29,
+    "q": "नेपालको पहिलो राणा प्रधानमन्त्री को हुन्?",
+    "o": [
+      "भीमसेन थापा",
+      "जङ्गबहादुर राणा",
+      "चन्द्र शमशेर",
+      "वीर शमशेर"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "नेपालको सबैभन्दा पुरानो राष्ट्रिय निकुञ्ज कुन हो?",
+    "o": [
+      "बर्दिया राष्ट्रिय निकुञ्ज",
+      "सगरमाथा राष्ट्रिय निकुञ्ज",
+      "चितवन राष्ट्रिय निकुञ्ज",
+      "लामटाङ राष्ट्रिय निकुञ्ज"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "सार्क (SAARC) को सचिवालय कहाँ अवस्थित छ?",
+    "o": [
+      "ढाका (बङ्गलादेश)",
+      "काठमाडौँ (नेपाल)",
+      "नयाँ दिल्ली (भारत)",
+      "कोलम्बो (श्रीलङ्का)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "नेपालको संविधानअनुसार 'शिक्षा सम्बन्धी हक' कुन धारामा व्यवस्था गरिएको छ?",
+    "o": [
+      "धारा ३०",
+      "धारा ३१",
+      "धारा ३२",
+      "धारा ३३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "नेपालको सबैभन्दा ठूलो ताल (रारा ताल) कुन जिल्लामा पर्दछ?",
+    "o": [
+      "मुगु",
+      "डोल्पा",
+      "हुम्ला",
+      "जुम्ला"
+    ],
+    "a": 0
+  },
+  {
+    "id": 34,
+    "q": "नेपालमा पहिलो पटक जलविद्युत उत्पादन (फर्पिङ जलविद्युत केन्द्र) कहिले सुरु भएको थियो?",
+    "o": [
+      "वि.सं. १९६०",
+      "वि.सं. १९६८",
+      "वि.सं. १९७५",
+      "वि.सं. १९८०"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "नेपाल संयुक्त राष्ट्रसंघको सदस्य कहिले भएको हो?",
+    "o": [
+      "सन् १९४५",
+      "सन् १९५०",
+      "सन् १९५५ (डिसेम्बर १४)",
+      "सन् १९६०"
+    ],
+    "a": 2
+  },
+  {
+    "id": 36,
+    "q": "काठमाडौँ उपत्यकाका कतिवटा सांस्कृतिक सम्पदाहरू युनेस्कोको विश्व सम्पदा सूचीमा सूचीकृत छन्?",
+    "o": [
+      "५ वटा",
+      "६ वटा",
+      "७ वटा",
+      "८ वटा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "इन्जिनियरिङ ड्रइङमा साना मेसिनका पुर्जाहरूलाई कागजमा ठूलो देखाउन कुन स्केलको प्रयोग गरिन्छ?",
+    "o": [
+      "Full Scale",
+      "Reducing Scale",
+      "Enlarging Scale",
+      "Graphical Scale"
+    ],
+    "a": 2
+  },
+  {
+    "id": 38,
+    "q": "In a prismatic compass, the zero of the graduated ring is located at the:",
+    "o": [
+      "North end",
+      "South end",
+      "East end",
+      "West end"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "The sensitivity of a bubble tube can be increased by:",
+    "o": [
+      "Increasing the diameter of the tube",
+      "Increasing the length of the tube",
+      "Decreasing the viscosity of the liquid",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 40,
+    "q": "Contour lines of different elevations can unite or cross each other only in the case of a:",
+    "o": [
+      "Vertical cliff",
+      "Overhanging cliff",
+      "Steep slope",
+      "Ridge line"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "The soundness of cement is typically tested using:",
+    "o": [
+      "Vicat’s apparatus",
+      "Le-Chatelier apparatus",
+      "Blaine’s air permeability apparatus",
+      "Slump test"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "Which of the following is used as a base for iron and steel work in painting?",
+    "o": [
+      "White lead",
+      "Red lead",
+      "Zinc white",
+      "Titanium white"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "Seasoning of timber is primarily done to:",
+    "o": [
+      "Increase its weight",
+      "Remove sap and reduce moisture content",
+      "Change its color",
+      "Increase its density"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "The ratio of lateral strain to linear (longitudinal) strain is known as:",
+    "o": [
+      "Young's modulus",
+      "Modulus of rigidity",
+      "Bulk modulus",
+      "Poisson's ratio"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "For a cantilever beam of length L carrying a uniformly distributed load (UDL) of 'w' per unit length, the maximum shear force is:",
+    "o": [
+      "wL/2",
+      "wL",
+      "wL²/2",
+      "wL²/8"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "The point of contraflexure is a point in a beam where:",
+    "o": [
+      "Shear force is zero",
+      "Bending moment is maximum",
+      "Bending moment changes sign",
+      "Deflection is maximum"
+    ],
+    "a": 2
+  },
+  {
+    "id": 47,
+    "q": "The property of a fluid by which its own molecules are attracted to each other is:",
+    "o": [
+      "Adhesion",
+      "Cohesion",
+      "Surface tension",
+      "Viscosity"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "Bernoulli’s equation for fluid flow is based on the principle of conservation of:",
+    "o": [
+      "Mass",
+      "Momentum",
+      "Energy",
+      "Pressure"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "The discharge through a V-notch (triangular notch) varies with the head (H) as:",
+    "o": [
+      "H^(1/2)",
+      "H^(3/2)",
+      "H^(5/2)",
+      "H^2"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "The ratio of the volume of voids to the total volume of a soil mass is called:",
+    "o": [
+      "Void ratio",
+      "Porosity",
+      "Water content",
+      "Specific gravity"
+    ],
+    "a": 1
+  }
+]

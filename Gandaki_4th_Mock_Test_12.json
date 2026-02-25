@@ -1,0 +1,558 @@
+[
+  {
+    "id": 1,
+    "q": "नेपालको हाल कार्यान्वयनमा रहेको १६औँ पञ्चवर्षीय योजनाको मुख्य लक्ष्य के हो?",
+    "o": [
+      "गरिबी निवारण",
+      "सुशासन, सामाजिक न्याय र समृद्धि",
+      "औद्योगिक क्रान्ति",
+      "कृषिमा आधुनिकीकरण"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "\"दिगो विकास लक्ष्य (SDG)\" अनुसार सन् २०३० सम्ममा भोकमरी अन्त्य गर्ने लक्ष्य कति नम्बरमा रहेको छ?",
+    "o": [
+      "लक्ष्य नम्बर १",
+      "लक्ष्य नम्बर २",
+      "लक्ष्य नम्बर ५",
+      "लक्ष्य नम्बर १३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "नेपालमा पहिलो पटक रोबोटको प्रयोग गरी सेवा प्रदान गर्ने सरकारी कार्यालय कुन हो?",
+    "o": [
+      "राहदानी विभाग",
+      "यातायात व्यवस्था कार्यालय",
+      "नेपाल टेलिकम",
+      "अध्यागमन विभाग"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "नेपालको इतिहासमा 'समाज सुधारक राजा' भनेर कसलाई चिनिन्छ, जसले जातप्रथा र सामाजिक व्यवस्थालाई व्यवस्थित गरेका थिए?",
+    "o": [
+      "जयस्थिति मल्ल",
+      "महेन्द्र मल्ल",
+      "पृथ्वीनारायण शाह",
+      "अंशुवर्मा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 5,
+    "q": "गण्डकी प्रदेशमा रहेका प्रसिद्ध पर्यटकीय स्थलहरूमध्ये 'हजारौँ शालिग्राम' पाइने पवित्र नदी कुन हो?",
+    "o": [
+      "मर्स्याङ्दी नदी",
+      "सेती नदी",
+      "काली गण्डकी",
+      "मादी नदी"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "अपाङ्गता भएका व्यक्तिको अधिकार सम्बन्धी महासन्धि (CRPD) कहिले पारित भएको थियो?",
+    "o": [
+      "सन् २००६",
+      "सन् २०१०",
+      "सन् २०००",
+      "सन् १९९५"
+    ],
+    "a": 0
+  },
+  {
+    "id": 7,
+    "q": "नेपालमा स्वास्थ्य बिमा कार्यक्रम कहिलेबाट सुरु भएको थियो ?",
+    "o": [
+      "वि.सं २०७२",
+      "वि.सं २०७३",
+      "वि.सं २०७४",
+      "वि.सं २०७५"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "सार्कको बजेटमा नेपालको योगदान कति प्रतिशत छ ?",
+    "o": [
+      "३०.३२ %",
+      "२२.५२ %",
+      "१०.७२ %",
+      "७ %"
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "संयुक्त राष्ट्रसंघको आदर्श वाक्य तलका मध्ये कुन हो ?",
+    "o": [
+      "It's Your World",
+      "Life for all",
+      "We are one Family",
+      "No war"
+    ],
+    "a": 0
+  },
+  {
+    "id": 10,
+    "q": "शिहँदरबारमा दोस्रो पटक आगलागी कहिले भएको थियो ?",
+    "o": [
+      "२०८२ भदौ २५ गते",
+      "२०८२ साउन २४ गते",
+      "२०८१ असार २४ गते",
+      "२०८२ भदौ २४ गते"
+    ],
+    "a": 3
+  },
+  {
+    "id": 11,
+    "q": "Which type of lighting points 90% to 100% of the light towards the ceiling, providing a soft, glare-free environment?",
+    "o": [
+      "Direct Lighting",
+      "Semi-Direct Lighting",
+      "Indirect Lighting",
+      "Task Lighting"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "In a single-phase supply, the three wires are generally:",
+    "o": [
+      "Phase, Neutral, and Earth",
+      "Phase 1, Phase 2, and Phase 3A",
+      "Positive, Negative, and Neutral",
+      "High, Medium, and Low"
+    ],
+    "a": 0
+  },
+  {
+    "id": 13,
+    "q": "The minimum \"Freeboard\" (gap between liquid level and top cover) in a septic tank is usually:",
+    "o": [
+      "5 cm",
+      "30 cm",
+      "100 cm",
+      "0 cm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "Which material is preferred for hot water supply pipes because it can withstand high temperatures?",
+    "o": [
+      "uPVC",
+      "CPVC",
+      "HDPE",
+      "Stoneware"
+    ],
+    "a": 1
+  },
+  {
+    "id": 15,
+    "q": "The value of group index of a soil varies from ............",
+    "o": [
+      "0 to 10",
+      "0 to 20",
+      "20 to 30",
+      "30 to 40"
+    ],
+    "a": 1
+  },
+  {
+    "id": 16,
+    "q": "The main advantage of concrete pavements is that ............",
+    "o": [
+      "it offers less resistance to traffic",
+      "it is not slippery when clean",
+      "it has low maintenance cost",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 17,
+    "q": "A large difference of temperature between the top and the bottom of the slab causes ............ of the slab.",
+    "o": [
+      "hardening",
+      "warping",
+      "crazing",
+      "none"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "The longitudinal joints are provided when the width of road is more than ............",
+    "o": [
+      "3 m",
+      "4 m",
+      "5.5m",
+      "6.75 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "The dowel bars are used in rigid pavements for ............",
+    "o": [
+      "resisting tensile stresses",
+      "resisting bending stress",
+      "resisting shear stresses",
+      "transferring load from one portion to another"
+    ],
+    "a": 3
+  },
+  {
+    "id": 20,
+    "q": "The top of the capillary zone...",
+    "o": [
+      "lies below the water table at every point",
+      "lies above the water table at every point",
+      "coincides the water table at every point",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "If the straight sides of a triangular section of a lined canal with circular bottom of radius D, make an angle \\theta with horizontal, the hydraulic mean depth is...",
+    "o": [
+      "D",
+      "D/2",
+      "D/3",
+      "D/4"
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "The sensitivity of a rigid module, is...",
+    "o": [
+      "2.00",
+      "1.50",
+      "1.00",
+      "zero"
+    ],
+    "a": 3
+  },
+  {
+    "id": 23,
+    "q": "Process of meandering is due to...",
+    "o": [
+      "sediment load of stream",
+      "discharge and hydraulic properties of streams",
+      "relative erodibility of the bed and banks",
+      "all the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "The gases given out of a septic tank are...",
+    "o": [
+      "CO_2 + SO_2 + N",
+      "CO_2 + PH_3 + NH_3",
+      "CO_2 + CH_4 + H_2S",
+      "CH_4 + O_2 + H_2"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "Efficiency of activated sludge process is...",
+    "o": [
+      "30 to 40%",
+      "50 to 60%",
+      "60 to 98%",
+      "90 to 95%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 26,
+    "q": "Any trap is intended to trap...",
+    "o": [
+      "water",
+      "sewage of sullage",
+      "any liquid waste",
+      "fowl gases"
+    ],
+    "a": 3
+  },
+  {
+    "id": 27,
+    "q": "Agent responsible for ecological imbalance is...",
+    "o": [
+      "carnivores",
+      "herbivores",
+      "man",
+      "omnivores"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "गण्डकी दोस्रो पञ्चवर्षीय योजना अनुसार योजनाको अन्त्यमा कुल गार्हस्थ्य उत्पादनमा कृषि (प्राथमिक) क्षेत्रको योगदान कति प्रतिशत हुने अनुमान छ?",
+    "o": [
+      "२५.५%",
+      "२३.२९%",
+      "२२.५%",
+      "२४.०%"
+    ],
+    "a": 1,
+    "e": "२३.२९%"
+  },
+  {
+    "id": 29,
+    "q": "'नगर सभा' भन्नाले संविधानको कुन धारा बमोजिमको नगर सभा सम्झनु पर्छ?",
+    "o": [
+      "धारा २२२ (१)",
+      "धारा २२३ (१)",
+      "धारा २१७",
+      "धारा २२७"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "भित्री मधेशका जिल्लामा नगरपालिका घोषणा गर्न कम्तीमा कति स्थायी बासिन्दा हुनुपर्दछ?",
+    "o": [
+      "४०,०००",
+      "५०,०००",
+      "६०,०००",
+      "७५,०००"
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "रूससँग दौत्य सम्बन्ध कायम भएको नेपाली मिति कुन हो?",
+    "o": [
+      "२०१३ असार ५",
+      "२०१३ साउन ५",
+      "२०१३ साउन १५",
+      "२०१३ भदौ ५"
+    ],
+    "a": 1,
+    "e": "२०१३ साउन ५"
+  },
+  {
+    "id": 32,
+    "q": "बढुवाका लागि भौगोलिक क्षेत्र 'ख' वर्गमा काम गरे बापत प्रत्येक वर्ष कति अङ्क पाइन्छ?",
+    "o": [
+      "४.००",
+      "३.५०",
+      "३.२५",
+      "३.००"
+    ],
+    "a": 2,
+    "e": "ख वर्गको लागि ३.२५ अङ्क।"
+  },
+  {
+    "id": 33,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार गण्डकी प्रदेशको साक्षरता दर कति रहेको छ?",
+    "o": [
+      "७६.२%",
+      "८३.४%",
+      "६१.८%",
+      "७८.५%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "भौतिक पूर्वाधार विकास तथा यातायात व्यवस्था मन्त्रालयका लागि कति बजेट विनियोजन गरिएको छ?",
+    "o": [
+      "रु. १० अर्ब ५० करोड",
+      "रु. ११ अर्ब ९८ करोड ०९ लाख ०८ हजार",
+      "रु. १२ अर्ब १५ करोड",
+      "रु. ८ अर्ब ४० करोड"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "पेसागत नेटवर्किङका लागि बढी प्रयोग हुने सामाजिक सञ्जाल कुन हो?",
+    "o": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "TikTok"
+    ],
+    "a": 2,
+    "e": "व्यावसायिक संजाल।"
+  },
+  {
+    "id": 36,
+    "q": "\"उद्देश्यमूलक व्यवस्थापन\" (Management by Objectives - MBO) को अवधारणा कसले ल्याएका हुन्?",
+    "o": [
+      "पिटर एफ. ड्रकर ",
+      "एफ. डब्लु. टेलर",
+      "म्याक्स वेबर",
+      "हेनरी फियोल"
+    ],
+    "a": 0,
+    "e": "अतिरिक्त जानकारी: यो अवधारणा सन् १९५४ मा आएको हो।"
+  },
+  {
+    "id": 37,
+    "q": "जिल्ला भित्रका गाउँपालिका र नगरपालिका बीच समन्वय गर्न कुन निकाय रहने व्यवस्था छ?",
+    "o": [
+      "जिल्ला प्रशासन कार्यालय",
+      "जिल्ला समन्वय समिति",
+      "जिल्ला विकास समिति",
+      "जिल्ला सभा"
+    ],
+    "a": 1,
+    "e": "DCC."
+  },
+  {
+    "id": 38,
+    "q": "The depreciation of the value of building costs is generally not considered for the initial:",
+    "o": [
+      "first year of the building",
+      "two years of the building",
+      "five years of the building",
+      "twenty years of the building"
+    ],
+    "a": 0
+  },
+  {
+    "id": 39,
+    "q": "Which of the following is not an activity associated with damp proofing?",
+    "o": [
+      "surface treatment",
+      "guniting",
+      "hearthing",
+      "cavity wall"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "The top diameter, bottom diameter, and height of a slump mould are:",
+    "o": [
+      "10 cm, 20 cm, 30cm",
+      "10cm, 30cm, 20cm",
+      "20 cm, 10 cm, 30 cm",
+      "20 cm, 30cm, 10cm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "Due to topography, if the space is not available, the most suitable spillway is",
+    "o": [
+      "ogee spillway",
+      "chute spillway",
+      "shaft spillway",
+      "straight drop spillway"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "The explosive for blasting is usually expressed in terms of",
+    "o": [
+      "explosive power",
+      "the volume of earthwork that can be blasted",
+      "kilograms",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 43,
+    "q": "Which of the following is a leguminous crop?",
+    "o": [
+      "rice",
+      "potato",
+      "groundnut",
+      "hemp"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "The stone is said to be high if the toughness index of the stone in the impact test is:",
+    "o": [
+      "Less than 9",
+      "More than 9",
+      "Less than 19",
+      "More than 19"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "Is made in connection with the construction of streets, water supply system, and sewers.",
+    "o": [
+      "City surveying",
+      "Traverse surveying",
+      "Cadastral surveying",
+      "Mine surveying"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "What is the size of a field book?",
+    "o": [
+      "20 cm *12 cm",
+      "20 cm *25 cm",
+      "25 cm *20 cm",
+      "25 cm*25 cm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "Two point perspective is also known as",
+    "o": [
+      "parallel perspective",
+      "angular perspective",
+      "oblique perspective",
+      "atmospheric perspective"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "The isometric length of the edge of the cube is obtained b",
+    "o": [
+      "Adding 0.815 in actual length",
+      "Dividing actual length by 0.815",
+      "Multiplying actual length by 0.815",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "Length of a line 'L' in isometric drawing or view will be",
+    "o": [
+      "0.707 L",
+      "0.815 L",
+      "0.866 L",
+      "equal to length L"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "Work charge establishment cost is taken as",
+    "o": [
+      "0 to 0.5% of estimated cost",
+      "0.5 to 1.0% of estimated cost",
+      "1.0 to 1.5% of estimated cost",
+      "1.5 to 2.0% of estimated cost"
+    ],
+    "a": 3
+  }
+]

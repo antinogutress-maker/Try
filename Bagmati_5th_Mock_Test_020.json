@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1,
+    "q": "निजामति सेवा नियमावली अनुसार निजामती कर्मचारीले कतिप्रति सिटरोल तयार गर्नुपर्छ ?",
+    "o": [
+      "५",
+      "६",
+      "७",
+      "८"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "विश्वमा छाया बजेटको अवधारणाको प्रारम्भ कहिलेबाट भएको हो ?",
+    "o": [
+      "सन् १९३०",
+      "सन् १९३३",
+      "सन् १९३६",
+      "सन् १९३९"
+    ],
+    "a": 0
+  },
+  {
+    "id": 3,
+    "q": "निम्न मध्ये कुन सिद्धान्त सार्वजनिक सेवा प्रवाहको सिद्धान्त होइन ?",
+    "o": [
+      "मितव्ययीता र प्रभावकारिता",
+      "गुणस्तरीयता",
+      "पहुँच र सहभागिता",
+      "छनौटको सीमितता"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "सुशासन नियमावली २०६५ को नियम ३५ अनुसार अति जरुरी लेखिएको चिठीको जवाफ कति दिन भित्र पठाइसक्नु पर्नेछ ?",
+    "o": [
+      "२ दिन भित्र",
+      "५ दिन भित्र",
+      "७ दिन भित्र",
+      "१५ दिन भित्र"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "कार्यालयलाई चिठी पत्र प्राप्त हुनासाथ राख्ने सुरुको अभिलेखलाई के भनिन्छ ?",
+    "o": [
+      "दर्ता",
+      "चलानी",
+      "फाइलिङ",
+      "इन्डेक्सिङ"
+    ],
+    "a": 0
+  },
+  {
+    "id": 6,
+    "q": "सरकारी क्षेत्रमा सार्वजनिक प्रशासन भन्ने शब्द प्रयोग भईरहदा कुन क्षेत्रले सार्वजनिक व्यवस्थापन शब्दको प्रयोग गर्दथ्यो ?",
+    "o": [
+      "निजी क्षेत्र",
+      "नागरिक समाज",
+      "गैरसरकारी संस्था",
+      "राजनीतिक दल"
+    ],
+    "a": 0
+  },
+  {
+    "id": 7,
+    "q": "टिप्पणीको बारेमा देहायको कथन विचार गर्नुहोस्: (i) खास निर्णय गराउनुपर्ने विषयमा टिप्पणी उठाउनु पर्दछ । (ii) कार्यालयले हरेक विषयमा टिप्पणी उठाएर मात्र काम गर्नु पर्दछ ।",
+    "o": [
+      "(i) मात्र सहि छ",
+      "(ii) मात्र सहि छ",
+      "दुबै गलत छ",
+      "दुबै सहि छ"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "पत्र व्यवहार, दर्ता चलानी, परिपत्र जस्ता विषयहरू के अन्तर्गत पर्छन् ?",
+    "o": [
+      "कार्यालय कार्यविधि",
+      "प्रशासकीय व्यवस्थापन",
+      "निर्णय निर्माण",
+      "वित्तीय स्रोत हस्तान्तरण"
+    ],
+    "a": 0
+  },
+  {
+    "id": 9,
+    "q": "कर्मचारी प्रशासनको माथिल्लो निकाय कुन हो ?",
+    "o": [
+      "गृह मन्त्रालय",
+      "प्रधानमन्त्री तथा मन्त्रीपरिषद्को कार्यालय",
+      "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालय",
+      "सामान्य प्रशासन मन्त्रालय"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "जनशक्ति, बजेट, स्रोत र साधनको व्यवस्थापन देहायको कुन विषय अन्तर्गत पर्दछ ?",
+    "o": [
+      "जनशक्ति व्यवस्थापन",
+      "कार्यालय व्यवस्थापन",
+      "स्रोत व्यवस्थापन",
+      "अभिलेख व्यवस्थापन"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "राज्य शक्तिको बाँडफाँड सम्बन्धी व्यवस्था संविधानको कुन धारामा गरिएको छ?",
+    "o": [
+      "धारा ५६",
+      "धारा ५७",
+      "धारा ५८",
+      "धारा ६०"
+    ],
+    "a": 1,
+    "e": "राज्य शक्तिको बाँडफाँड।"
+  },
+  {
+    "id": 12,
+    "q": "जैविक विविधता (Biodiversity) कति प्रकारका हुन्छन्?",
+    "o": [
+      "२",
+      "३",
+      "४",
+      "५"
+    ],
+    "a": 1,
+    "e": "३ (आनुवंशिक, प्रजातीय र पारिस्थितिक प्रणाली)"
+  },
+  {
+    "id": 13,
+    "q": "विश्व वातावरण दिवस (World Environment Day) २०२५ को नारा के थियो?",
+    "o": [
+      "Ending Plastic Pollution",
+      "Land Restoration, Desertification and Drought Resilience",
+      "Only One Earth",
+      "Ecosystem Restoration"
+    ],
+    "a": 0,
+    "e": "Ending Plastic Pollution "
+  },
+  {
+    "id": 14,
+    "q": "नेपाललाई छुवाछुत मुक्त राष्ट्र घोषणा कहिले गरियो?",
+    "o": [
+      "२०६३ जेठ ४",
+      "२०६३ जेठ २१",
+      "२०६८ जेठ २१",
+      "२०७० जेठ २१"
+    ],
+    "a": 1,
+    "e": "२०६३ जेठ २१"
+  },
+  {
+    "id": 15,
+    "q": "अन्तर्राष्ट्रिय शान्ति सेना दिवस कहिले मनाइन्छ?",
+    "o": [
+      "सेप्टेम्बर २१",
+      "मे २९",
+      "अक्टोबर २४",
+      "डिसेम्बर १०"
+    ],
+    "a": 1,
+    "e": "May 29।"
+  },
+  {
+    "id": 16,
+    "q": "राडर' (RADAR) प्रविधिको आविष्कार कसले गरेका हुन्?",
+    "o": [
+      "रबर्ट वाटसन-वाट",
+      "मार्कोनी",
+      "हर्ज",
+      "म्याक्सवेल"
+    ],
+    "a": 0,
+    "e": "हवाई सुरक्षामा प्रयोग हुन्छ। "
+  },
+  {
+    "id": 17,
+    "q": "स्थानीय सरकार सञ्चालन ऐन अनुसार पहाडी जिल्लाहरूको संख्या कति तोकिएको छ?",
+    "o": [
+      "३५ वटा",
+      "२८ वटा",
+      "२९ वटा",
+      "३३ वटा"
+    ],
+    "a": 1,
+    "e": "उपत्यका र भित्री मधेशका जिल्ला बाहेक। but according to Geographical Division 35"
+  },
+  {
+    "id": 18,
+    "q": "नेपालले बिमस्टेकको सदस्यता कहिले प्राप्त गरेको हो?",
+    "o": [
+      "सन् १९९७",
+      "सन् २००४ फेब्रुअरी ८",
+      "सन् २००८",
+      "सन् २०१४"
+    ],
+    "a": 1,
+    "e": "नेपाल र भुटान एकै पटक सदस्य बनेका हुन्।"
+  },
+  {
+    "id": 19,
+    "q": "तलको श्रेणीक्रममा प्रश्नचिन्ह (?) भएको ठाउँमा के हुन्छ ? 6, 13, 28, 59, ?",
+    "o": [
+      "111",
+      "122",
+      "126",
+      "118"
+    ],
+    "a": 1,
+    "e": "यो श्रेणीमा 'दोब्बर गरेर क्रमिक रूपमा जोड्ने' नियम (Pattern) छ: 6 × 2 + 1 = 13, 13 × 2 + 2 = 28, 28 × 2 + 3 = 59, 59 × 2 + 4 = 118 + 4 = 122"
+  },
+  {
+    "id": 20,
+    "q": "एउटा फोटोतर्फ इंकित गर्दै रामले भन्यो, \"उहाँको बुबा मेरो बुबाको एक मात्र छोरा हुनुहुन्छ।\" रामले कसको फोटो हेर्दैछ ?",
+    "o": [
+      "आफ्नो",
+      "आफ्नो छोराको",
+      "आफ्नो बुबाको",
+      "आफ्नो भाइको"
+    ],
+    "a": 1,
+    "e": "रामले भन्यो: \"मेरो बुबाको एक मात्र छोरा\" = राम स्वयं (Himself)। "
+  },
+  {
+    "id": 21,
+    "q": "कुनै वस्तु रु. ४५० मा बेच्दा पसलेलाई २५% घाटा हुन्छ भने, सो वस्तु कतिमा बेच्दा २५% नाफा होला ?",
+    "o": [
+      "रु. ७००",
+      "रु. ७५०",
+      "रु. ८००",
+      "रु. ९००"
+    ],
+    "a": 1,
+    "e": "विक्रय मूल्य (SP1) = रु. ४५० (जसमा २५% घाटा छ, मतलब यो क्रय मूल्यको ७५% हो)। 75% = 450, 1% = 450 / 75 = 6. नयाँ नाफा २५% कमाउन, विक्रय मूल्य (SP2) १२५% हुनुपर्छ। SP2 = 125 × 6 = 750."
+  },
+  {
+    "id": 22,
+    "q": "केटाहरूको एउटा लाइनमा, राजन बायाँबाट १० औं स्थानमा छ र सुरज दायाँबाट ९ औं स्थानमा छ । यदि तिनीहरूले आफ्नो स्थान साटासाट (Interchange) गरे भने, राजन बायाँबाट १५ औं हुनेछ । लाइनमा जम्मा कति केटाहरू छन् ?",
+    "o": [
+      "२३",
+      "२२",
+      "२४",
+      "२५"
+    ],
+    "a": 0,
+    "e": "स्थान साटेपछि राजनको नयाँ स्थान: बायाँबाट १५ औं। सोही स्थान (राजन अहिले जहाँ छ) मा सुरज पहिले दायाँबाट ९ औं स्थानमा थियो। एउटै सिटको दुवै तिरको मान थाहा भयो (Left=15, Right=9)। Total = (Left + Right) - 1 = (15 + 9) - 1 = 23."
+  },
+  {
+    "id": 23,
+    "q": "जसरी 'पावर (Power)' को सम्बन्ध 'वाट (Watt)' सँग छ, त्यसरी नै 'करेन्ट (Current)' को सम्बन्ध के सँग छ ?",
+    "o": [
+      "भोल्ट (Volt)",
+      "एम्पियर (Ampere)",
+      "ओम (Ohm)",
+      "जुल (Joule)"
+    ],
+    "a": 1,
+    "e": "पावर नाप्ने एकाइ (Unit) वाट हो। त्यसैगरी विद्युत धारा (Current) नाप्ने एकाइ एम्पियर (Ampere) हो।"
+  },
+  {
+    "id": 24,
+    "q": "He said to me, \"Why are you late?\" Change into indirect speech:",
+    "o": [
+      "He asked me why I was late.",
+      "He asked me why was I late.",
+      "He asked me that why I was late.",
+      "He told me why you are late."
+    ],
+    "a": 0,
+    "e": "In Wh-questions, 'said to' changes to 'asked'. The conjunction 'that' is not used. The question format changes to statement format (Subject + Verb). \"Why are you...\" becomes \"Why I was...\"."
+  },
+  {
+    "id": 25,
+    "q": "Everyone loves his country. (Change into Negative without changing meaning)",
+    "o": [
+      "Everyone does not love his country.",
+      "No one hates his country.",
+      "There is no one who does not love his country.",
+      "Who does not love his country?"
+    ],
+    "a": 2,
+    "e": "To make a sentence negative without changing meaning, \"Everyone\" is often replaced with \"There is no one who... not\". Option C perfectly conveys that \"Everyone loves...\"."
+  },
+  {
+    "id": 26,
+    "q": "'नाच्न नजान्ने आँगन टेढो' उखानको सही अर्थ के हो ?",
+    "o": [
+      "आँगन नमिलेकोले नाच्न नसक्नु",
+      "आफ्नो कमजोरी लुकाउन अरूलाई दोष दिनु",
+      "नराम्रोसँग नाच्नु",
+      "अरूको कुरा नकाट्नु"
+    ],
+    "a": 1,
+    "e": "यो उखान त्यतिबेला प्रयोग हुन्छ जब कुनै व्यक्ति आफूमा खुबी नहुँदा परिस्थितिलाई वा अन्य बाह्य कारणलाई दोष दिन्छ।"
+  },
+  {
+    "id": 27,
+    "q": "'अत्यावश्यक' शब्दमा कुन उपसर्ग (Prefix) लागेको छ ?",
+    "o": [
+      "अत",
+      "अति",
+      "अत्या",
+      "अ"
+    ],
+    "a": 1,
+    "e": "सन्धि विच्छेद गर्दा: अति + आवश्यक = अत्यावश्यक (यण् सन्धि)। यहाँ मूल शब्द 'आवश्यक' हो र अगाडि लागेको उपसर्ग 'अति' हो। धेरैले 'अत्या' वा 'अत' सोच्छन्, जुन गलत हो।"
+  },
+  {
+    "id": 28,
+    "q": "The most important factor affecting the strength of concrete is:",
+    "o": [
+      "Brand of cement",
+      "Water-Cement (W/C) Ratio",
+      "Quality of formwork",
+      "Color of aggregates"
+    ],
+    "a": 1,
+    "e": "Water-Cement (W/C) Ratio "
+  },
+  {
+    "id": 29,
+    "q": "Which type of foundation is most suitable for a bridge in a deep river with soft soil?",
+    "o": [
+      "Spread Footing",
+      "Raft Foundation",
+      "Well (Caisson) or Pile Foundation",
+      "Combined Footing"
+    ],
+    "a": 2,
+    "e": "Well (Caisson) or Pile Foundation "
+  },
+  {
+    "id": 30,
+    "q": "The primary objective of a public water supply system is:",
+    "o": [
+      "To provide water for industrial cooling only",
+      "To supply safe and wholesome water in adequate quantity for domestic use",
+      "To collect rainwater for irrigation",
+      "To increase the groundwater table"
+    ],
+    "a": 1,
+    "e": "To supply safe and wholesome water in adequate quantity for domestic use"
+  },
+  {
+    "id": 31,
+    "q": "Which pipe material is most flexible and commonly used for distribution in hilly terrain due to its ease of transport?",
+    "o": [
+      "High-Density Polyethylene (HDPE)",
+      "Cast Iron (CI)",
+      "Galvanized Iron (GI)",
+      "Concrete Pipe"
+    ],
+    "a": 0,
+    "e": "High-Density Polyethylene (HDPE) "
+  },
+  {
+    "id": 32,
+    "q": "Canal lining is provided to:",
+    "o": [
+      "Minimize seepage losses",
+      "Increase the velocity of flow",
+      "Prevent erosion of the canal bed",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": "All of the above "
+  },
+  {
+    "id": 33,
+    "q": "\"Inundation Canals\" are those which:",
+    "o": [
+      "Flow all year round",
+      "Draw water from the river only during high flood or high water levels",
+      "Get water from a pump",
+      "Are lined with gold"
+    ],
+    "a": 1,
+    "e": "Draw water from the river only during high flood or high water levels"
+  },
+  {
+    "id": 34,
+    "q": "Which of the following is the most important \"Requirement of a Road Alignment\"?",
+    "o": [
+      "It should be the longest possible route",
+      "It should be short, safe, easy, and economical",
+      "It should pass through every single house in a district",
+      "It should follow a zigzag pattern only"
+    ],
+    "a": 1,
+    "e": "It should be short, safe, easy, and economical"
+  },
+  {
+    "id": 35,
+    "q": "According to Nepal Road Standard 2070, the standard width of a lane in a National Highway is generally:",
+    "o": [
+      "2.5 meters",
+      "5.5 meters",
+      "3.75 meters",
+      "7.0 meters"
+    ],
+    "a": 2,
+    "e": "3.75 meters "
+  },
+  {
+    "id": 36,
+    "q": "In a government estimate, \"Contingencies\" generally refer to:",
+    "o": [
+      "The profit of the contractor",
+      "Small unforeseen incidental expenses that cannot be classified under any item",
+      "The salary of the site engineer",
+      "The cost of land acquisition"
+    ],
+    "a": 1,
+    "e": "Small unforeseen incidental expenses that cannot be classified under any item"
+  },
+  {
+    "id": 37,
+    "q": "For bank valuation in Nepal, which method is most commonly used (Fair Market Value)?",
+    "o": [
+      "Income Capitalization Method",
+      "Profit Method",
+      "Development Method",
+      "Comparative Market Method"
+    ],
+    "a": 3,
+    "e": "Comparative Market Method (Fair Market Value)"
+  },
+  {
+    "id": 38,
+    "q": "Labor efficiency can be significantly improved by:",
+    "o": [
+      "Decreasing the rest intervals",
+      "Providing better tools, training, and incentive schemes",
+      "Hiring only unskilled labor",
+      "Working only during rainy seasons"
+    ],
+    "a": 1,
+    "e": "Providing better tools, training, and incentive schemes"
+  },
+  {
+    "id": 39,
+    "q": "The \"Measurement Book\" (MB) is considered a very important document because:",
+    "o": [
+      "It is the basis for all payments to the contractor",
+      "It contains the site plan",
+      "It lists the contractor's family members",
+      "It is used to store photographs"
+    ],
+    "a": 0,
+    "e": "It is the basis for all payments to the contractor"
+  },
+  {
+    "id": 40,
+    "q": "In Nepal, \"STOL\" airports like Lukla are primarily characterized by:",
+    "o": [
+      "Very long runways for international jets",
+      "Having no control towers",
+      "Short Take-Off and Landing capabilities for difficult terrain",
+      "Being used only for international flights"
+    ],
+    "a": 2,
+    "e": "Short Take-Off and Landing capabilities for difficult terrain"
+  },
+  {
+    "id": 41,
+    "q": "Suitable aggregate is obtained from........ rock.",
+    "o": [
+      "igneous",
+      "sedimentary",
+      "metamorphic",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": "igneous"
+  },
+  {
+    "id": 42,
+    "q": "The burning of bricks in kiln is completed within...... hours.",
+    "o": [
+      "12",
+      "24",
+      "96",
+      "48"
+    ],
+    "a": 1,
+    "e": "24 "
+  },
+  {
+    "id": 43,
+    "q": "In Standard Proctor test, the weight of the rammer is.........",
+    "o": [
+      "4.5 kg",
+      "18 lb",
+      "2.5 kg",
+      "20 lb"
+    ],
+    "a": 2,
+    "e": "2.5 kg "
+  },
+  {
+    "id": 44,
+    "q": "The ultimate bending compressive strain in RCC is",
+    "o": [
+      "0.003",
+      "0.0035",
+      "0.0003",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": "0.0035 [attachment_0](attachment)"
+  },
+  {
+    "id": 45,
+    "q": "The width of a weir with end contraction is",
+    "o": [
+      "equal to the width of the channel",
+      "less than the width of the channel",
+      "half the width of the channel",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": "less than the width of the channel "
+  },
+  {
+    "id": 46,
+    "q": "If the soil stays at a place above the parent rock where it is produced, then it is called",
+    "o": [
+      "stationary soil",
+      "static soil",
+      "residual soil",
+      "immobile soil"
+    ],
+    "a": 2,
+    "e": "residual soil"
+  },
+  {
+    "id": 47,
+    "q": "The most efficient channel section is",
+    "o": [
+      "semi-circular",
+      "rectangular",
+      "triangular",
+      "half hexagon in the form of a trapezoid"
+    ],
+    "a": 3,
+    "e": "half hexagon in the form of a trapezoid "
+  },
+  {
+    "id": 48,
+    "q": "The soundness test of cement determines",
+    "o": [
+      "quantity of free lime",
+      "ultimate strength",
+      "durability",
+      "initial setting"
+    ],
+    "a": 0,
+    "e": "quantity of free lime "
+  },
+  {
+    "id": 49,
+    "q": "Minimum spacing between horizontal parallel reinforcements of the same size should not be less than",
+    "o": [
+      "one diameter",
+      "two diameters",
+      "three diameters",
+      "four diameters"
+    ],
+    "a": 0,
+    "e": "one diameter"
+  },
+  {
+    "id": 50,
+    "q": "The permissible limits of error in tacheometry survey is",
+    "o": [
+      "1:1000",
+      "1:4000",
+      "1:500",
+      "1:250"
+    ],
+    "a": 0,
+    "e": "1:1000"
+  },
+  {
+    "id": 51,
+    "q": "The capacity of a telescope to produce a sharp image is called its",
+    "o": [
+      "definition",
+      "brightness",
+      "sensitivity",
+      "magnification"
+    ],
+    "a": 0,
+    "e": "definition"
+  },
+  {
+    "id": 52,
+    "q": "A twisted bar has about more yield stress than ordinary mild steel bar.",
+    "o": [
+      "10%",
+      "20%",
+      "35%",
+      "50%"
+    ],
+    "a": 3,
+    "e": "50%"
+  }
+]

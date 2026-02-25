@@ -1,0 +1,589 @@
+[
+  {
+    "id": 1,
+    "q": "नेपालको संविधान २०७२ अनुसार, छुवाछूत तथा भेदभाव विरुद्धको हक कुन धारा अन्तर्गत पर्दछ?",
+    "o": [
+      "क) धारा-२४",
+      "ख) धारा-२३",
+      "ग) धारा-२५",
+      "घ) धारा–२६"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "सिमेन्ट' (Portland Cement) का आविष्कारक को हुन्?",
+    "o": [
+      "म्याकाडम",
+      "वाट",
+      "जोसेफ एस्पडिन",
+      "ओटो"
+    ],
+    "a": 2,
+    "e": "सन् १८२४ मा।"
+  },
+  {
+    "id": 3,
+    "q": "UNO को पहिलो महासचिव को हुन्?",
+    "o": [
+      "ड्याग ह्यामरसोल्ड",
+      "उत्थान्त",
+      "ट्रिग्वेली",
+      "कुर्त वाइल्डहाइम"
+    ],
+    "a": 2,
+    "e": "(ट्रिग्वेली - नर्वे)"
+  },
+  {
+    "id": 4,
+    "q": "पुनर्संरचना पछि बिमस्टेकमा नेपालले कुन सहयोग क्षेत्रको नेतृत्व (Lead Sector) गर्दछ?",
+    "o": [
+      "कृषि र खाद्य सुरक्षा",
+      "व्यापार र लगानी",
+      "जनस्तरको सम्पर्क",
+      "वातावरण र जलवायु परिवर्तन"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "जलवायु परिवर्तनका असर सम्बन्धी जानकारी दिन माल्दिभ्सले पानी मुनि मन्त्रिपरिषद्को बैठक कहिले गरेको थियो?",
+    "o": [
+      "सन् २००९ अक्टोबर १७",
+      "सन् २००९ डिसेम्बर ४",
+      "सन् २०१०",
+      "सन् २००८"
+    ],
+    "a": 0,
+    "e": "सन् २००९ अक्टोबर १७ "
+  },
+  {
+    "id": 6,
+    "q": "नेपालमा दोस्रो सबैभन्दा बढी बोलिने 'मातृभाषा' (Mother Tongue) कुन हो?",
+    "o": [
+      "भोजपुरी",
+      "थारु",
+      "मैथिली",
+      "तामाङ"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "गर्भवती महिलालाई 'T.D.' खोप कति पटक दिइन्छ?",
+    "o": [
+      "१ पटक",
+      "२ पटक",
+      "३ पटक",
+      "४ पटक"
+    ],
+    "a": 1,
+    "e": "एक महिनाको फरकमा २ पटक दिइन्छ।"
+  },
+  {
+    "id": 8,
+    "q": "मधेश प्रदेश दोस्रो आवधिक योजना अनुसार आर्थिक वर्ष २०८५/८६ सम्म मानव विकास सूचकाङ्क कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "०.५१०",
+      "०.५६०",
+      "०.५८०",
+      "०.६००"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "रौतहट जिल्लाको मध्य-पश्चिमी क्षेत्रमा सिँचाइ सुविधा पुर्‍याउने 'झाँझ सिँचाइ आयोजना' (Jhanjh Irrigation Project) को कमाण्ड क्षेत्र कति हेक्टर रहेको छ?",
+    "o": [
+      "२,५०० हेक्टर",
+      "३,००० हेक्टर",
+      "6,386 हेक्टर",
+      "५,५०० हेक्टर"
+    ],
+    "a": 2,
+    "e": "Jhanjh Irrigation Project: Serves the central-western belt with a Gross command area of ~ 6386 hectares."
+  },
+  {
+    "id": 10,
+    "q": "मैथिली भाषाको आफ्नै परम्परागत लिपिलाई के भनिन्छ?",
+    "o": [
+      "देवनागरी",
+      "रञ्जना",
+      "तिरहुता",
+      "कैथी"
+    ],
+    "a": 2,
+    "e": "Maithili... It has a rich literary history and script (Tirhuta). "
+  },
+  {
+    "id": 11,
+    "q": "मानव सम्बन्धको सिद्धान्त (Human Relations Theory) का पिता भनेर कसलाई चिनिन्छ?",
+    "o": [
+      "इल्टन मेयो",
+      "चेस्टर बर्नार्ड",
+      "हर्वर्ट साइमन",
+      "अब्राहम मास्लो"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "नेपाल र रूस (तत्कालिन सोभियत संघ) बीच सम्बन्ध कहिले स्थापना भयो (A.D.)?",
+    "o": [
+      "1956 June 20",
+      "1956 July 20",
+      "1956 August 20",
+      "1956 September 1"
+    ],
+    "a": 1,
+    "e": "1956 July 20"
+  },
+  {
+    "id": 13,
+    "q": "स्रोत अनुमान तथा बजेट सीमा निर्धारण समिति' को संयोजक को रहने व्यवस्था छ?",
+    "o": [
+      "अध्यक्ष वा प्रमुख",
+      "उपाध्यक्ष वा उपप्रमुख",
+      "प्रमुख प्रशासकीय अधिकृत",
+      "योजना शाखा प्रमुख"
+    ],
+    "a": 0
+  },
+  {
+    "id": 14,
+    "q": "वेबसाइटको ठेगानामा प्रयोग हुने '.edu' को अर्थ के हो?",
+    "o": [
+      "Educational",
+      "Electronic",
+      "Entry",
+      "Email"
+    ],
+    "a": 0,
+    "e": "शैक्षिक संस्थाहरूका लागि डोमेन।"
+  },
+  {
+    "id": 15,
+    "q": "नेपाल सरकारको सचिवले आफ्नो मन्त्रालय वा मातहतका कार्यालय तथा आयोजनाको निरीक्षण वर्षमा कम्तीमा कति पटक गर्नुपर्ने अनिवार्य व्यवस्था छ?",
+    "o": [
+      "एक पटक",
+      "दुई पटक",
+      "तीन पटक",
+      "चार पटक"
+    ],
+    "a": 0,
+    "e": "नियमावलीको नियम ४० (१) अनुसार सचिवले प्रत्येक आर्थिक वर्षमा कम्तीमा एक पटक आफैले वा आफूले अख्तियार सुम्पेको कर्मचारीद्वारा अनिवार्य निरीक्षण गर्नु गराउनु पर्नेछ।"
+  },
+  {
+    "id": 16,
+    "q": "राष्ट्रिय सूचना आयोगले नेपाल सरकारसँग सम्पर्क राख्दा कुन मन्त्रालय मार्फत राख्नुपर्छ (सम्पर्क मन्त्रालय)?",
+    "o": [
+      "गृह मन्त्रालय",
+      "कानून, न्याय तथा संसदीय मामिला मन्त्रालय",
+      "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+      "सञ्चार तथा सूचना प्रविधि मन्त्रालय"
+    ],
+    "a": 3,
+    "e": "(स्रोत: दफा २६)"
+  },
+  {
+    "id": 17,
+    "q": "लोक सेवा आयोग नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २२, धारा २४१",
+      "भाग २३, धारा २४२",
+      "भाग २४, धारा २४३",
+      "भाग २५, धारा २४४"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "मधेश प्रदेशमा 'पर्यटन प्रवर्द्धन' र 'पर्यटकीय स्थलहरूको पहिचान' सम्बन्धी कार्य कुन मन्त्रालय अन्तर्गत पर्दछ?",
+    "o": [
+      "वन तथा वातावरण मन्त्रालय",
+      "उद्योग, वाणिज्य तथा पर्यटन मन्त्रालय",
+      "शिक्षा तथा संस्कृति मन्त्रालय",
+      "श्रम तथा यातायात मन्त्रालय"
+    ],
+    "a": 1,
+    "e": "अनुसूची-२ को बुँदा १० मा 'उद्योग, वाणिज्य तथा पर्यटन मन्त्रालय' को व्यवस्था छ, जसले पर्यटन पूर्वाधार विकास र प्रवर्द्धनको कार्य गर्दछ। (स्रोतः [PDF Page 25 & 27])"
+  },
+  {
+    "id": 19,
+    "q": "घर बिदा\" (Home Leave) कति दिन काम गरे बापत १ दिन पाइन्छ?",
+    "o": [
+      "१० दिन",
+      "१२ दिन",
+      "१५ दिन",
+      "२० दिन"
+    ],
+    "a": 1,
+    "e": "नियम ५६ (१) अनुसार काम गरेको अवधिको १२ दिनको १ दिनका दरले घर बिदा पाइन्छ। (Source Page: 50)"
+  },
+  {
+    "id": 20,
+    "q": "प्रदेश निजामती सेवाको कुनै पद रिक्त भएमा सोको विवरण कति दिनभित्र माथिल्लो निकायमा पठाउनुपर्ने व्यवस्था छ?",
+    "o": [
+      "७ दिनभित्र",
+      "१५ दिनभित्र",
+      "३० दिनभित्र",
+      "३५ दिनभित्र"
+    ],
+    "a": 1,
+    "e": "व्याख्या: पद रिक्त भएको मितिले १५ दिनभित्र सोको विवरण आफूभन्दा माथिल्लो निकाय समक्ष पठाउनुपर्नेछ। (स्रोत: दफा १०(१))"
+  },
+  {
+    "id": 21,
+    "q": "The number of treads in a flight is equal to",
+    "o": [
+      "risers in the flight",
+      "risers plus one",
+      "risers minus one",
+      "none of these."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "A foundation rests on",
+    "o": [
+      "base of the foundation",
+      "subgrade",
+      "foundation soil",
+      "Except Subgrade"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "Dado is usually provided in",
+    "o": [
+      "dinning halls",
+      "bath rooms",
+      "living rooms",
+      "verandah",
+      "roofs."
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "Black cotton soil is unsuitable for foundations because its",
+    "o": [
+      "bearing capacity is low",
+      "permeability is uncertain",
+      "particles are cohesive",
+      "property to undergo a volumetric change due to variation of moisture content."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "Corrosion of a pipe",
+    "o": [
+      "reduces its life span",
+      "reduces its carrying capacity",
+      "adds colour to water",
+      "adds odour to water",
+      "all the above."
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "In distribution pipes, drain valves are provided at",
+    "o": [
+      "lower point",
+      "higher point",
+      "junction points",
+      "any where."
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "The minimum value of camber provided for thin bituminous surface hill roads, is",
+    "o": [
+      "2.2%",
+      "2.5%",
+      "3.0%",
+      "3.5%"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "Width of vehicles affects the width of",
+    "o": [
+      "lanes",
+      "shoulders",
+      "parking spaces",
+      "all the above."
+    ],
+    "a": 3
+  },
+  {
+    "id": 29,
+    "q": "The excavation exceeding 1.5 m in width and 10 sq.m in plan area with a depth not exceeding 30 cm, is termed as",
+    "o": [
+      "Excavation",
+      "Surface dressing",
+      "Cutting",
+      "Surface excavation."
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "The area is measured correct to the nearest",
+    "o": [
+      "0.01 sqm",
+      "0.02 sqm",
+      "0.03 sqm",
+      "0.04 sqm",
+      "0.05 sqm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 31,
+    "q": "Frederick W. Taylor introduced a system of working known as",
+    "o": [
+      "line organisation",
+      "line and staff organisation",
+      "functional organisation",
+      "effective organisation."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "PERT is",
+    "o": [
+      "an analytic in concept",
+      "limited of event oriented diagrams",
+      "used for research and development projects",
+      "based on three time estimates for activities linking up two events",
+      "all the above."
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "A river training work is generally required when the river is",
+    "o": [
+      "meandering",
+      "aggrading",
+      "degrading",
+      "all the above."
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "The intensity of irrigation means",
+    "o": [
+      "percentage of culturable commanded area to be irrigated annually",
+      "percentage of gross commanded area to be irrigated annually",
+      "percentage of the mean of culturable commanded area and the gross commanded area to be irrigated annually",
+      "total depth of water supplied by the number of waterings."
+    ],
+    "a": 0
+  },
+  {
+    "id": 35,
+    "q": "The most suitable terrain for plane table surveying is",
+    "o": [
+      "hilly terrain",
+      "flat and open area",
+      "dense forest",
+      "urban area"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "The contour line can cross one another on map only in the case of",
+    "o": [
+      "a valley",
+      "a saddle",
+      "a ridge",
+      "an overhanging cliff"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "The quality of cement is good, if it has more of ............",
+    "o": [
+      "Di-calcium silicate",
+      "Tri-calcium silicate",
+      "Tri-calcium aluminate",
+      "free-lime"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "The moisture absorption of a good stone should be less than",
+    "o": [
+      "1%",
+      "5%",
+      "10%",
+      "15%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "Bitumen is generally obtained from",
+    "o": [
+      "organic material",
+      "petroleum product",
+      "synthetic material",
+      "coal"
+    ],
+    "a": 1
+  },
+  {
+    "id": 40,
+    "q": "The bench mark of a station A is 500 m and back sight reading at the point A is 2m and fore sight reading of station B is 3 m. Find RL of station B.",
+    "o": [
+      "502 m",
+      "499 m",
+      "503 m",
+      "505 m"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "Density is......",
+    "o": [
+      "Mass /Volume",
+      "Mass /Length",
+      "Mass /Area",
+      "Mass /Mass"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "What is called hydraulic?",
+    "o": [
+      "Hydraulics is technology",
+      "Hydraulics is applied science",
+      "Hydraulics is engineering chemistry",
+      "All of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "Total lateral earth pressure is proportional to",
+    "o": [
+      "depth of soil",
+      "square of depth of soil",
+      "angle of internal friction of soil",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "Cohesion less soil is formed from",
+    "o": [
+      "silt",
+      "sand",
+      "clay.",
+      "all of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "A cantilever beam 2 meter long with 5 ton load at the free end will have......",
+    "o": [
+      "2 ton shear force at supporting end",
+      "5 ton shear force at supporting end",
+      "10 ton shear force at supporting end",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "V is velocity of flow, G is acceleration due to gravity, then V²/2g is known as.",
+    "o": [
+      "pressure energy",
+      "kinetic energy",
+      "datum energy",
+      "potential energy"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "The maximum ratio of span to depth of a slab, simply supported and spanning in one direction is...........",
+    "o": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "The minimum number of longitudinal steel bar in RCC circular column must be........",
+    "o": [
+      "2",
+      "6",
+      "4",
+      "8"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "In a sanitary landfill, anaerobic decomposition of organic waste produces Landfill Gas (LFG). What are the two primary components of this gas?",
+    "o": [
+      "Carbon Dioxide (CO2) and Nitrogen (N2)",
+      "Methane (CH4) and Carbon Dioxide (CO2)",
+      "Methane (CH4) and Hydrogen Sulfide (H2S)",
+      "Carbon Monoxide (CO) and Oxygen (O2)"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "The President Chure-Terai Madhesh Conservation Development Board focuses on conserving the Chure range. Which of the following statements best describes the geological reason why the Chure region is highly prone to erosion and requires special conservation efforts?.",
+    "o": [
+      "It consists of hard igneous rocks that are difficult to weather",
+      "It is composed of unconsolidated and fragile sedimentary rocks (sand, gravel, boulders).",
+      "It has a thick vegetation cover that prevents all soil loss.",
+      "It is located in the rain-shadow area receiving minimal rainfall."
+    ],
+    "a": 1,
+    "e": ""
+  }
+]

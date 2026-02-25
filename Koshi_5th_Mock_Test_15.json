@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "q": "In finishing Operation, the levelling operation which removes the bumps and hollows and gives a true and uniform surface is called:",
+    "o": [
+      "Sorting",
+      "Screeding",
+      "Trowelling",
+      "Floating"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "The cement-sand ratio for brickwork ( 230 mm or more thick) is used:",
+    "o": [
+      "1:3",
+      "1:4",
+      "1:6",
+      "1:2"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "A pet-friendly flooring is known as:",
+    "o": [
+      "Hardwood flooring",
+      "Carpet flooring",
+      "Laminate flooring",
+      "Flagstone flooring"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "The thickness of a door frame is generally :",
+    "o": [
+      "60 mm to 75 mm",
+      "40 mm to 50 mm",
+      "75 mm to 100 mm",
+      "50 mm to 60 mm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 5,
+    "q": "The size of suspended solids is generally:",
+    "o": [
+      "Greater than 0.1 mm",
+      "0.1 to 0.001 mm",
+      "0.001 to 0.0001 mm",
+      "Less than 0.0001 mm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "Break pressure tanks are generally provided in gravity flow system at:",
+    "o": [
+      "Pumping stations",
+      "Transmission lines",
+      "Treatment plants",
+      "Distribution lines"
+    ],
+    "a": 3
+  },
+  {
+    "id": 7,
+    "q": "The smaller sewers are designed to carry maximum discharge while flowing:",
+    "o": [
+      "Quarter full",
+      "Full",
+      "Half full",
+      "Three-quarters full"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "The square root of the ratio of inertia force of the flowing fluid to the surface tension is called:",
+    "o": [
+      "Mach number",
+      "Reynolds number",
+      "Froude number",
+      "Weber's number"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "In open channel flow, the shape of the pressure distribution is:",
+    "o": [
+      "Rectangular",
+      "Parabolic",
+      "Uniform",
+      "Triangular"
+    ],
+    "a": 3
+  },
+  {
+    "id": 10,
+    "q": "The __________ is based on the principle of conservation of mass.",
+    "o": [
+      "Continuity equation",
+      "Bernoulli's theorem",
+      "Momentum equation",
+      "Energy equation"
+    ],
+    "a": 0
+  },
+  {
+    "id": 11,
+    "q": "The ratio of volume of pores / voids in the soil and the total volume of soil mass is known as:",
+    "o": [
+      "Void ratio",
+      "Water content",
+      "Degree of saturation",
+      "Porosity"
+    ],
+    "a": 3
+  },
+  {
+    "id": 12,
+    "q": "The ratio of plasticity index to the percentage of clay finer than 2 micron is known as:",
+    "o": [
+      "Liquidity index",
+      "Shrinkage index",
+      "Activity number",
+      "Consistency index"
+    ],
+    "a": 2
+  },
+  {
+    "id": 13,
+    "q": "The hydraulic gradient at which the effective stress becomes zero is called:",
+    "o": [
+      "Critical hydraulic gradient",
+      "Critical exit gradient",
+      "Both of above",
+      "None of above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 14,
+    "q": "The pressure in saturated unit weight of soil due to pore water pressure is:",
+    "o": [
+      "Triangular portion",
+      "Rectangular portion",
+      "Parabolic portion",
+      "Uniform portion"
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "The measure to remove water logging of land, is...",
+    "o": [
+      "to reduce percolation from canals and water courses",
+      "to increase outflow from the ground water reservoir",
+      "both 'a' and 'b'",
+      "neither 'a' nor 'b'"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "A fall in a canal bed is generally provided, if...",
+    "o": [
+      "ground slope exceeds the designed bed slope",
+      "designed bed slope exceeds the ground slope",
+      "ground slope is practically the same as the designed bed slope",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 17,
+    "q": "The depth of the crest of a scouring sluice below the crest of a head regulator, is generally kept...",
+    "o": [
+      "0.20 m",
+      "1.20 m",
+      "2.20 m",
+      "3.20 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "When the exposed surface of a pavement dries and shrinks more than the underlying concrete, a phenomenon known as ............ of the surface may occur.",
+    "o": [
+      "hardening",
+      "warping",
+      "crazing",
+      "all of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "To prevent the development of excessive compressive stresses in the concrete pavements as a result of expansion caused by increase in temperature, the type of transverse joint provided is ............",
+    "o": [
+      "construction joint",
+      "contraction joint",
+      "expansion joint",
+      "all of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 20,
+    "q": "Highway capacity is defined as the total number of vehicles ............",
+    "o": [
+      "that can be accommodated on a unit length of the road",
+      "that can pass given point in a unit period of time",
+      "that can pass given point in a specified period of time",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "The unit of measurement of roofing (each and every detail specified) is ............",
+    "o": [
+      "m³",
+      "kg",
+      "m²",
+      "per m"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "Which of the following excavators is most suitable for digging under water?",
+    "o": [
+      "Dragline",
+      "Hoe",
+      "Clam shell",
+      "Dipper shovel"
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "The independent float affects only ............",
+    "o": [
+      "preceding activities",
+      "succeeding activities",
+      "the particular activity involved",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "The opening of bidding in the process of procurement is ............",
+    "o": [
+      "contracting",
+      "tendering",
+      "negotiation",
+      "mediation"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "Which of the following is an example of failure in flexible pavements?",
+    "o": [
+      "alligator cracking",
+      "mud pumping",
+      "warping cracks",
+      "shrinkage cracks"
+    ],
+    "a": 0
+  },
+  {
+    "id": 26,
+    "q": "The main disadvantage of angle nose out parking configuration of aircraft is that the ...",
+    "o": [
+      "aircraft rear loading door is far away from terminal building",
+      "hot blast is directed towards the terminal building",
+      "overall apron area required is more",
+      "all of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "According to I.C.A.O. the slope of transitional surface at right angles to the centre line of runway, is kept ...",
+    "o": [
+      "1 in 4",
+      "1 in 5",
+      "1 in 6",
+      "1 in 7"
+    ],
+    "a": 3
+  },
+  {
+    "id": 28,
+    "q": "प्रदेश सुशासन ऐन, २०७६ कहिले प्रमाणित गरिएको हो ?",
+    "o": [
+      "२०७५/१२/१५",
+      "२०७६/०१/२६",
+      "२०७६/०२/१०",
+      "२०७७/०१/२६"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "\"प्रदेश आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन\" कुन वर्षमा पारित गरिएको हो ?",
+    "o": [
+      "२०७६",
+      "२०७७",
+      "२०७८",
+      "२०७९"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "\"प्रदेश संचित कोष\" सम्बन्धी व्यवस्था संविधानको कुन धारामा छ ?",
+    "o": [
+      "धारा 117",
+      "धारा 200",
+      "धारा 204",
+      "धारा 229"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "लेखापरीक्षणको प्रारम्भिक प्रतिवेदनमा औंल्याइएको बेरुजु कति दिनभित्र फछ्यौट गर्नुपर्छ ?",
+    "o": [
+      "१५ दिन",
+      "५५ दिन",
+      "३५ दिन",
+      "५५ दिन"
+    ],
+    "a": 2
+  },
+  {
+    "id": 32,
+    "q": "प्रदेश निजामती सेवा नियमावली, २०८१ कहिले देखि लागू भएको हो ?",
+    "o": [
+      "२०८१/०४/०९",
+      "२०८०/०४/०९",
+      "२०७९/०४/०९",
+      "२०७८/०४/०९"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "कोशी प्रदेशको जनघनत्व कति रहेको छ ?",
+    "o": [
+      "१७५ प्रति व.कि.मि.",
+      "१८० प्रति व.कि.मि.",
+      "१९२ प्रति व.कि.मि.",
+      "१७५ प्रति व.कि.मि."
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "प्रदेश लोक सेवा आयोगको प्रमाणीकरण मिति कुन हो (कोशी प्रदेश) ?",
+    "o": [
+      "२०७६/८/२०",
+      "२०७५/५/१७",
+      "२०७६/२/१७",
+      "२०७६/५/१७"
+    ],
+    "a": 3
+  },
+  {
+    "id": 35,
+    "q": "कोशी प्रदेश निजामती सेवा ऐन पहिलो पटक कहिले संशोधन भयो ?",
+    "o": [
+      "२०८१/५/५",
+      "२०८०/२/१४",
+      "२०७९/१२/१५",
+      "२०८०/१/१४"
+    ],
+    "a": 3
+  },
+  {
+    "id": 36,
+    "q": "प्रदेश निजामती सेवा ऐन २०७९ अनुसार हिमाल क्षेत्रमा न्यूनतम हाजिर दिन संख्या कति हुनुपर्छ ?",
+    "o": [
+      "२००",
+      "२४०",
+      "२२२",
+      "२२५"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "कोशी प्रदेश निजामती ऐन कुन मितिमा राजपत्रमा प्रकाशित भयो ?",
+    "o": [
+      "फागुन १५",
+      "चैत्र १",
+      "माघ १५",
+      "पौष २९"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "The final deflection of horizontal members will be the level of casting should not exceed....",
+    "o": [
+      "Span/500",
+      "Span/250",
+      "Span/300",
+      "Span/350"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "The drops are provided in flat slabs to resist",
+    "o": [
+      "torsion",
+      "Bending moment",
+      "shear",
+      "thrust"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "Transverse bars are also called as",
+    "o": [
+      "Main bars",
+      "Anchor bars",
+      "Distribution bars",
+      "Stirrups"
+    ],
+    "a": 2
+  },
+  {
+    "id": 41,
+    "q": "Bitumen may be dissolved in",
+    "o": [
+      "carbondioxide",
+      "sodium chloride",
+      "water",
+      "carbon disulphide"
+    ],
+    "a": 3
+  },
+  {
+    "id": 42,
+    "q": "Mild steel is used for",
+    "o": [
+      "structural works in beams, joints and girders",
+      "small sized water pipes",
+      "columns and struts",
+      "none of these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 43,
+    "q": "Veneering means",
+    "o": [
+      "carving out designs on timber planks",
+      "chemically treating timber planks",
+      "thick layer of superior wood glued to inferior wood",
+      "thin layer of superior wood glued to inferior wood."
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "Sprit varnish consists of",
+    "o": [
+      "spirit and wax",
+      "spirit and shellac",
+      "turpentine, spirit and wax",
+      "turpentine, spirit and shellac"
+    ],
+    "a": 1
+  },
+  {
+    "id": 45,
+    "q": "A steel bar of 5 mm is heated from 15°C to 40°C and it is free to expand. The bar will induce",
+    "o": [
+      "no stress",
+      "shear stress",
+      "tensile stress",
+      "compressive stress"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "The Young's modulus of a material is 125 Gpa and Poissons ratio is 0.25. The modules of rigidity of the material is",
+    "o": [
+      "30 GPa",
+      "50 GPa",
+      "80 GPa",
+      "100 GPa"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "Dumpy level is used when",
+    "o": [
+      "Number of observation to be taken are large from one level position",
+      "Number of observation to be taken are small from one level position",
+      "Fly leveling is to be done",
+      "None"
+    ],
+    "a": 0
+  },
+  {
+    "id": 48,
+    "q": "If θ is the slope of the ground and I is the measured distance, the correction is",
+    "o": [
+      "2l sin²θ/2",
+      "2l cos² θ/2",
+      "2l tan²θ/2",
+      "2l cot θ/2"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "The line of sight is kept as high above ground surface as possible to minimise the error in the observed angles due to",
+    "o": [
+      "shimmering",
+      "horizontal refraction",
+      "vertical refraction",
+      "both shimmering and horizontal refraction."
+    ],
+    "a": 3
+  },
+  {
+    "id": 50,
+    "q": "It is more difficult to obtain good results while measuring horizontal distance by stepping",
+    "o": [
+      "Up - Hill",
+      "down- hill",
+      "in low undulations",
+      "in plane areas"
+    ],
+    "a": 0
+  }
+]

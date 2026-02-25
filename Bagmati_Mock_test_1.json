@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "q": "हाल नेपालको क्षेत्रफल वर्ग माइलमा कति रहेको छ?",
+    "o": ["५६,२७८ वर्ग माइल", "५६,८२७ वर्ग माइल", "५६,८७२ वर्ग माइल", "५८,६२७ वर्ग माइल"],
+    "a": 1,
+    "e": "१४७,१८१ बर्ग कि.मि. = ५६,८२७ बर्ग माइल।"
+  },
+  {
+    "id": 2,
+    "q": "नेपालको पहिलो जलविद्युत आयोजना फर्पिङ उत्पादन कहिलेदेखि सुरु भएको थियो?",
+    "o": ["वि.सं. १९६५", "वि.सं. १९६८", "वि.सं. १९७०", "वि.सं. १९७२"],
+    "a": 1,
+    "e": "वि.सं. १९६८"
+  },
+  {
+    "id": 3,
+    "q": "नालापानीको युद्धमा अंग्रेजको तर्फबाट कसले नेतृत्व गरेका थिए?",
+    "o": ["अक्टोलोनी", "जिलेस्पी", "गार्डनर", "उड"],
+    "a": 1,
+    "e": "General Gillespie"
+  },
+  {
+    "id": 4,
+    "q": "संयुक्त राष्ट्र संघले निर्धारण गरेको दिगो विकास लक्ष्य (SDGs) का विश्वव्यापी सूचकहरू कतिवटा रहेका छन्?",
+    "o": ["१६९", "२३२", "३०४", "४९४"],
+    "a": 1,
+    "e": "२३२ (लोकसेवामा २३२ लाई आधिकारिक मानिन्छ)"
+  },
+  {
+    "id": 5,
+    "q": "टेलिस्कोप (Telescope) को आविष्कार कसले गरेका हुन्?",
+    "o": ["ग्यालिलियो ग्यालिली", "हान्स लिपर्सी", "न्युटन", "कोपर्निकस"],
+    "a": 1,
+    "e": "हान्स लिपर्सी (प्याटेन्ट लिपर्सीको नाममा छ)।"
+  },
+  {
+    "id": 6,
+    "q": "हाल बिमस्टेकका महासचिव (Secretary General) को हुन्?",
+    "o": ["तेन्जिन लेकफेल", "इन्द्र मणि पाण्डे", "सहिदुल इस्लाम", "सुमिच नाकन्दला"],
+    "a": 1,
+    "e": "इन्द्र मणि पाण्डे"
+  },
+  {
+    "id": 7,
+    "q": "नेपाल सरकारले नयाँ १०० रुपैयाँको नोट (नयाँ नक्सा सहितको) निष्कासन गर्ने घोषणा कहिले गर्‍यो?",
+    "o": ["मङ्सिर ५", "मङ्सिर १", "मङ्सिर ११", "मङ्सिर १०"],
+    "a": 2,
+    "e": "मङ्सिर ११"
+  },
+  {
+    "id": 8,
+    "q": "नेपालको संविधानको धारा ३५ मा कुन मौलिक हकको व्यवस्था छ?",
+    "o": ["शिक्षा सम्बन्धी हक", "स्वास्थ्य सम्बन्धी हक", "खाद्य सम्बन्धी हक", "रोजगारी सम्बन्धी हक"],
+    "a": 1,
+    "e": "स्वास्थ्य सम्बन्धी हक"
+  },
+  {
+    "id": 9,
+    "q": "The cat jumped ______ the table.",
+    "o": ["in", "on", "upon", "at"],
+    "a": 2,
+    "e": "Motion मा आउँदा 'upon' प्रयोग हुन्छ।"
+  },
+  {
+    "id": 10,
+    "q": "One of the students ______ absent today.",
+    "o": ["is", "are", "were", "have"],
+    "a": 0,
+    "e": "'One' कर्ता भएकोले Singular Verb (is) हुन्छ।"
+  },
+  {
+    "id": 11,
+    "q": "तलका मध्ये शुद्ध शब्द कुन हो?",
+    "o": ["आर्शिवाद", "आशीर्वाद", "आशिर्बाद", "आशिर्वाद"],
+    "a": 1,
+    "e": "'श' दीर्घ र 'व' मा रेफ (आशीर्वाद)।"
+  },
+  {
+    "id": 12,
+    "q": "तलका मध्ये व्याकरणका दृष्टिले शुद्ध वाक्य कुन हो?",
+    "o": ["मलाई स्याउ मन पर्छन्।", "मलाई स्याउहरू मन पर्छ।", "मलाई स्याउ मन पर्छ।", "मलाई स्याउहरू मन पर्छन्।"],
+    "a": 2,
+    "e": "जातिवाचक एकवचन: 'मलाई स्याउ मन पर्छ'।"
+  },
+  {
+    "id": 13,
+    "q": "एउटा लाइनमा राम अगाडिबाट १५औँ स्थानमा र पछाडिबाट १४औँ स्थानमा छ भने, जम्मा कति मानिस होलान्?",
+    "o": ["28", "29", "30", "27"],
+    "a": 0,
+    "e": "(15 + 14) - 1 = 28"
+  },
+  {
+    "id": 14,
+    "q": "यदि कुनै कोड भाषामा 'NEPAL' लाई 'ODQBM' लेखिन्छ भने, 'HIMAL' लाई कसरी लेखिन्छ?",
+    "o": ["IJNBK", "GHLZK", "IJNZM", "IHNBM"],
+    "a": 2,
+    "e": "User Specified Answer: Option C"
+  },
+  {
+    "id": 15,
+    "q": "हरि आफ्नो घरबाट पूर्वतर्फ ४ कि.मी. हिँड्छ, त्यसपछि बायाँ फर्केर ३ कि.मी. हिँड्छ भने ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+    "o": ["7 कि.मी.", "5 कि.मी.", "4 कि.मी.", "3 कि.मी."],
+    "a": 1,
+    "e": "Pythagoras: √(4² + 3²) = 5"
+  },
+  {
+    "id": 16,
+    "q": "तलका नामहरूलाई वर्णानुक्रम अनुसार मिलाउँदा तेस्रो स्थानमा कुन नाम पर्दछ? (Manoj, Manish, Manita, Mandira)",
+    "o": ["Manoj", "Manish", "Manita", "Mandira"],
+    "a": 2,
+    "e": "Order: Mandira, Manish, Manita, Manoj."
+  },
+  {
+    "id": 17,
+    "q": "30 जना मानिसले कुनै काम 12 दिनमा गर्न सक्छन् भने, सोही काम 20 जना मानिसले कति दिनमा गर्न सक्छन्?",
+    "o": ["18 दिन", "15 दिन", "20 दिन", "16 दिन"],
+    "a": 0,
+    "e": "(30×12)/20 = 18 दिन"
+  },
+  {
+    "id": 18,
+    "q": "सुशासन नियमावली, २०६५ अनुसार तुरुन्त लेखिएको चिठीको कार्य फछ्र्यौट कति अवधि भित्र गर्नु पर्दछ?",
+    "o": ["१ दिन भित्र", "२ दिन भित्र", "३ दिन भित्र", "५ दिन भित्र"],
+    "a": 1,
+    "e": "२ दिन भित्र"
+  },
+  {
+    "id": 19,
+    "q": "Who authorized the job description of chief secretary?",
+    "o": ["Government of Nepal", "Head of department", "President of Nepal", "None"],
+    "a": 0,
+    "e": "Government of Nepal"
+  },
+  {
+    "id": 20,
+    "q": "विश्व बन्धुत्वको भावना, सहअस्तित्व बोध, र अनाक्रमण कस्तो मूल्य र मान्यता हो?",
+    "o": ["राष्ट्रिय", "नैतिक", "पारिवारिक", "अन्तर्राष्ट्रिय"],
+    "a": 3,
+    "e": "अन्तर्राष्ट्रिय मूल्य मान्यता"
+  },
+  {
+    "id": 21,
+    "q": "जिल्ला प्रशासन कार्यालयमा नागरिक वडापत्र सम्बन्धी गुनासो भएमा कहाँ उजुरी गर्ने?",
+    "o": ["प्रमुख जिल्ला अधिकारी", "क्षेत्रीय प्रशासन कार्यालय", "प्रधानमन्त्रीको कार्यालय", "राष्ट्रपतिको कार्यालय"],
+    "a": 1,
+    "e": "क्षेत्रीय प्रशासन कार्यालय"
+  },
+  {
+    "id": 22,
+    "q": "INTOSAI को पुरा रुप के हो?",
+    "o": ["International Organization of Supreme Audit Institutions", "International Organization of Audit Institutions", "Standard of Supreme Audit", "Organization for Supreme Audit"],
+    "a": 0,
+    "e": "International Organization of Supreme Audit Institutions"
+  },
+  {
+    "id": 23,
+    "q": "संवैधानिक परिषद्को सचिवको रूपमा को रहने व्यवस्था छ?",
+    "o": ["नेपाल सरकारको मुख्य सचिव", "प्रधानमन्त्री कार्यालयको सचिव", "गृह सचिव", "कानुन सचिव"],
+    "a": 0,
+    "e": "नेपाल सरकारको मुख्य सचिव"
+  },
+  {
+    "id": 24,
+    "q": "Who is also known as father of modern management?",
+    "o": ["Henry Fayol", "Maslow", "Herzberg", "Drucker"],
+    "a": 0,
+    "e": "Henry Fayol (Admin/Process Management)"
+  },
+  {
+    "id": 25,
+    "q": "नेपालमा सर्वप्रथम कुन संविधानले सूचनाको हकलाई सुनिश्चित गरेको थियो?",
+    "o": ["२०१९ सालको संविधान", "२०४७ सालको संविधान", "२०६३ अन्तरिम", "२०७२ संविधान"],
+    "a": 1,
+    "e": "२०४७ सालको संविधान"
+  },
+  {
+    "id": 26,
+    "q": "When it is not possible to set up the level, midway between the two points then the difference in elevation is measured by",
+    "o": ["Fly levelling", "precise levelling", "differential levelling", "reciprocal levelling"],
+    "a": 3,
+    "e": "Reciprocal levelling"
+  },
+  {
+    "id": 27,
+    "q": "Due to curvature of earth the object",
+    "o": ["Looks higher than it is", "Looks lower than it is", "Looks as it is", "Looks curved"],
+    "a": 1,
+    "e": "Looks lower than it is"
+  },
+  {
+    "id": 28,
+    "q": "Which of the following sedimentary rocks changes into quartzite by metamorphic action",
+    "o": ["Sand stone", "Lime stone", "Shale", "Gypsum"],
+    "a": 0,
+    "e": "Sandstone -> Quartzite"
+  },
+  {
+    "id": 29,
+    "q": "Ultimate strength to cement is provided by",
+    "o": ["Tri-calcium silicate", "Di-calcium silicate", "Tri-Calcium aluminate", "Tetra calcium alumino ferrite"],
+    "a": 1,
+    "e": "Di-calcium silicate (C2S) gives long term strength"
+  },
+  {
+    "id": 30,
+    "q": "The maximum deflection of a beam of length (L) simply supported beam at its ends with a point load (P) will be mid span",
+    "o": ["Pl^3/48EI", "Pl^2/48EI", "P^{2l}/48EI", "Pl/48 EI"],
+    "a": 0,
+    "e": "Pl^3/48EI"
+  },
+  {
+    "id": 31,
+    "q": "When shear force is zero at point bending moment is",
+    "o": ["zero", "constant", "Maximum", "Either maximum or minimum"],
+    "a": 3,
+    "e": "Maximum or Minimum (Maxima/Minima principle)"
+  },
+  {
+    "id": 32,
+    "q": "Pressure within a soap bubble is",
+    "o": ["equal to vapour pressure", "less than external pressure", "greater than external pressure", "equal to external pressure"],
+    "a": 2,
+    "e": "Greater than external (Excess pressure)"
+  },
+  {
+    "id": 33,
+    "q": "Equation of continuity is based on the principle of conservation of",
+    "o": ["Mass", "Energy", "Momentum", "All of these"],
+    "a": 0,
+    "e": "Conservation of Mass"
+  },
+  {
+    "id": 34,
+    "q": "The lateral earth pressure of the soil moves towards the retaining wall indicates",
+    "o": ["active earth pressure", "passive earth pressure", "pressure at rest", "All of the above"],
+    "a": 0,
+    "e": "Active earth pressure"
+  },
+  {
+    "id": 35,
+    "q": "Talus is the soil transported by",
+    "o": ["Wind", "Water", "glacier", "gravitational force"],
+    "a": 3,
+    "e": "Gravitational force (Colluvial)"
+  },
+  {
+    "id": 36,
+    "q": "The live load to be considered for an accessible roof is",
+    "o": ["Nil", "75 kg/m^2", "150 kg/m^2", "200 kg/cm^2"],
+    "a": 2,
+    "e": "150 kg/m^2"
+  },
+  {
+    "id": 37,
+    "q": "The shear reinforcement in RC.C. is provided to resist",
+    "o": ["vertical shear", "horizontal shear", "diagonal compression", "diagonal tension"],
+    "a": 3,
+    "e": "Diagonal tension"
+  },
+  {
+    "id": 38,
+    "q": "A stair should not have pitch more than",
+    "o": ["25°", "30°", "40°", "50°"],
+    "a": 2,
+    "e": "Max 40 degrees"
+  },
+  {
+    "id": 39,
+    "q": "The process of proper and accurate measurement of concrete ingredient for uniformity of proportion, is known",
+    "o": ["grading", "curing", "mixing", "batching"],
+    "a": 3,
+    "e": "Batching"
+  },
+  {
+    "id": 40,
+    "q": "BOD removal in a primary clarifier is",
+    "o": ["50% to 60%", "30% to 40%", "10% to 20%", "Nil"],
+    "a": 1,
+    "e": "30% to 40%"
+  },
+  {
+    "id": 41,
+    "q": "Which of the following test reveals the amount of residual chlorine in treated water",
+    "o": ["amperometeric test", "orthotolodene test", "sodometric test", "any of these"],
+    "a": 1,
+    "e": "Orthotolidine test"
+  },
+  {
+    "id": 42,
+    "q": "Crop water is proportional to",
+    "o": ["evapotranspiration", "effective rainfall", "Seepage of water", "all of the above"],
+    "a": 0,
+    "e": "Evapotranspiration"
+  },
+  {
+    "id": 43,
+    "q": "Watershed line is abandoned for alignment aliging an irrigation canal if,",
+    "o": ["Watershed forms a sharp loop", "Canal has to take off from a river", "towns located on water shed", "all of the above"],
+    "a": 3,
+    "e": "All of the above"
+  },
+  {
+    "id": 44,
+    "q": "According to NRS single lane road width is",
+    "o": ["10m", "7m", "5m", "3.75m"],
+    "a": 3,
+    "e": "3.75m"
+  },
+  {
+    "id": 45,
+    "q": "Camber provided in bituminous road is",
+    "o": ["1.5%", "2.5%", "7%", "4%"],
+    "a": 1,
+    "e": "2.5% (Standard for Bituminous)"
+  },
+  {
+    "id": 46,
+    "q": "The approximate weight of one cubic meter of mild steel is",
+    "o": ["1440 kg", "1600 kg", "2400kg", "7850 kg"],
+    "a": 3,
+    "e": "7850 kg/m^3"
+  },
+  {
+    "id": 47,
+    "q": "The annual periodic payments made of the repayment of the capital invested is known as",
+    "o": ["annuity", "depreciation", "sinking fund", "none"],
+    "a": 0,
+    "e": "Annuity"
+  },
+  {
+    "id": 48,
+    "q": "PERT IS",
+    "o": ["activity oriented", "event oriented", "time oriented", "resource oriented"],
+    "a": 1,
+    "e": "Event oriented (CPM is Activity oriented)"
+  },
+  {
+    "id": 49,
+    "q": "The amounts of money deposited by interested bidders a tender as a guarantee is known as",
+    "o": ["earnest money", "performance bond", "security money", "retention money"],
+    "a": 0,
+    "e": "Earnest Money"
+  },
+  {
+    "id": 50,
+    "q": "Civil Aviation Authority of Nepal (CAAN) was established in",
+    "o": ["1947", "1960", "1998", "2000"],
+    "a": 2,
+    "e": "1998 AD"
+  }
+]

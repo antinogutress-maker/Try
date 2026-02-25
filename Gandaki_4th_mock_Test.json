@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1,
+    "q": "कोशी प्रदेशको जनघनत्व कति रहेको छ ?",
+    "o": [
+      "१७५ प्रति व.कि.मि.",
+      "१८० प्रति व.कि.मि.",
+      "१९२ प्रति व.कि.मि.",
+      "१७५ प्रति व.कि.मि."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "कार्यसम्पादन सम्झौता अनुसार काम गर्न नसकेमा प्रमुख पदको जिम्मेवारी कति वर्षसम्म दिइदैन ?",
+    "o": [
+      "एक वर्ष",
+      "दुई वर्ष",
+      "तिन वर्ष",
+      "चार वर्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "प्रदेश लोक सेवा आयोगको अधिकतम सदस्य संख्या कति हुन्छ ?",
+    "o": [
+      "८",
+      "३",
+      "५ जना",
+      "६ जना"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "आयोगमा कम्तीमा कति जना महिला सदस्य अनिवार्य छन् ?",
+    "o": [
+      "१",
+      "२",
+      "३",
+      "०"
+    ],
+    "a": 0
+  },
+  {
+    "id": 5,
+    "q": "प्रसूति बिदा अधिकतम कति दिनको हुन्छ ?",
+    "o": [
+      "९८ दिन",
+      "९० दिन",
+      "१०५ दिन",
+      "१०० दिन"
+    ],
+    "a": 0
+  },
+  {
+    "id": 6,
+    "q": "सुशासन सूचकमा कुन समावेश छ ?",
+    "o": [
+      "औसत आयु",
+      "विधिको शासन",
+      "बेरोजगारी दर",
+      "गरिबीको रेखामुनी रहेको जनसंख्या"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "आ.व. २०८५/८६ मा साक्षरता दरको लक्ष्य कति छ ?",
+    "o": [
+      "८०%",
+      "८५%",
+      "९०%",
+      "९५%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "प्रदेश सभाको कार्यकाल सामान्यतया कति वर्षको हुन्छ ?",
+    "o": [
+      "३ वर्ष",
+      "४ वर्ष",
+      "५ वर्ष",
+      "६ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "नेपालको संविधानमा कतिवटा अनुसूचीहरु रहेका छन् ?",
+    "o": [
+      "१०",
+      "१२",
+      "९",
+      "८"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "नेपालको राष्ट्रिय गान कुन हो ?",
+    "o": [
+      "सयौं थुँगा फूलका",
+      "श्रीमान गम्भीर नेपाली",
+      "गाउँछ गीत नेपाल",
+      "हामी नेपाली"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "An ideal transition curve is",
+    "o": [
+      "cubic parabola",
+      "cubic spiral",
+      "clothoid spiral",
+      "true spiral."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "If the angular measurements of a traverse are more precise than its linear measurements, balancing of the traverse, is done by",
+    "o": [
+      "Bowditch's rule",
+      "Transit rule",
+      "Empirical rule",
+      "all of the above."
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "The angle between two plane mirrors of optical square, is",
+    "o": [
+      "20°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "For a curve of radius 100 m and normal chord 10 m, the Rankine's deflection angle, is",
+    "o": [
+      "0°25'95''",
+      "0°35'95''",
+      "1°25'53''",
+      "2°51'.53''"
+    ],
+    "a": 3
+  },
+  {
+    "id": 15,
+    "q": "Wrought iron contains carbon upto",
+    "o": [
+      "0.25%",
+      "1.0%",
+      "1.5%",
+      "2%."
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "Pick up the incorrect statement from the following:",
+    "o": [
+      "For thin structures subjected to wetting and drying, the water cement ratio should be 0.45",
+      "For mass concrete structures subjected to wetting and drying, the water ratio should be 0.55",
+      "For thin structures which remain continuously under water, the water-cement ratio by weight should be 0.55",
+      "None of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 17,
+    "q": "The clay to be used for manufacturing bricks for a large project, is dugout and allowed to weather throughout",
+    "o": [
+      "the monsoon",
+      "the winter",
+      "the summer",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 18,
+    "q": "The initial setting time of lime-pozzolana, is",
+    "o": [
+      "30 minutes",
+      "60 minutes",
+      "90 minutes",
+      "120 minutes."
+    ],
+    "a": 3
+  },
+  {
+    "id": 19,
+    "q": "During a tensile test on a ductile material",
+    "o": [
+      "nominal stress at fracture is higher than the ultimate stress",
+      "true stress at fracture is higher than the ultimate stress",
+      "true stress at fracture is the same as the ultimate stress",
+      "none of these"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "The limit of proportionality depends upon",
+    "o": [
+      "area of cross-section",
+      "types of loading",
+      "types of material",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 21,
+    "q": "The bending moment acting on the plane of an element will cause the following type of stress on the plane",
+    "o": [
+      "normal stress",
+      "tension stress",
+      "axial stress",
+      "transverse shear stress"
+    ],
+    "a": 0
+  },
+  {
+    "id": 22,
+    "q": "For a continuous slab of 3mx3.5m in size, the minimum overall depth of the slab to satisfy the vertical deflection limit is",
+    "o": [
+      "5cm",
+      "7.5cm",
+      "9cm",
+      "12cm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "The minimum load which will cause failure of a foundation is called of the soil.",
+    "o": [
+      "ultimate tensile strength",
+      "nominal strength",
+      "ultimate bearing power",
+      "ultimate compressive strength"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "The dimensional formula of compressibility is:",
+    "o": [
+      "M-¹L¹T²",
+      "MLT-²",
+      "M-¹L²T-²",
+      "ML-¹T-²"
+    ],
+    "a": 3
+  },
+  {
+    "id": 25,
+    "q": "The relative density for mercury is ___ times of water.",
+    "o": [
+      "10",
+      "12",
+      "13.6",
+      "15"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "If the force of buoyancy is less than the weight of the liquid displaced, then the body will",
+    "o": [
+      "Float",
+      "Sink",
+      "Remain",
+      "Partially float and partially sink"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "For determining the specific gravity of soil using the density bottle method, what is the typical capacity (size) of the density bottle used?",
+    "o": [
+      "10 ml",
+      "100 ml",
+      "50 ml",
+      "250 ml"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "The ratio of the liquid limit minus the natural water content to the plasticity index is known as the...",
+    "o": [
+      "Plasticity Index",
+      "Liquidity Index",
+      "Shrinkage Index",
+      "Consistency Index"
+    ],
+    "a": 3,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 29,
+    "q": "The volume of mold used in standard product proctor test of lab test for compaction is",
+    "o": [
+      "500 cc",
+      "250 cc",
+      "750 cc",
+      "1000cc"
+    ],
+    "a": 3,
+    "e": "1000 cc = 1 litre"
+  },
+  {
+    "id": 30,
+    "q": "In which type of soil is compaction typically conducted?",
+    "o": [
+      "Saturated soil",
+      "Dry soil",
+      "Partially saturated soil",
+      "Organic soil"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "Aggregates should not absorb water more than ____ percent of their weight in 24 hours.",
+    "o": [
+      "3%",
+      "5%",
+      "10%",
+      "1%"
+    ],
+    "a": 2,
+    "e": "Good quality stones should not absorb more than 5% and reject if absorbs more than 10 %"
+  },
+  {
+    "id": 32,
+    "q": "The total lateral earth pressure force on a retaining wall is directly proportional to the:",
+    "o": [
+      "Depth of the soil",
+      "Square root of the depth of soil",
+      "Angle of internal friction",
+      "Square of the depth of soil"
+    ],
+    "a": 3,
+    "e": "lateral earth pressure = only depth of soil (Note: The user answer key says D (square of depth) but explanation text is confusing. Standard physics: Force is proportional to H^2. Pressure is proportional to H. Correct option D matches Force). "
+  },
+  {
+    "id": 33,
+    "q": "The outer slope of a retaining wall is generally:",
+    "o": [
+      "1:5",
+      "1:10",
+      "1:20",
+      "1:2"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "Soil transported by the force of gravity (often found at the foot of cliffs) is called:",
+    "o": [
+      "Glacial till",
+      "Colluvial soil",
+      "Loess",
+      "Bentonite"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "According to the Nepal's Drinking Water Quality Standard 2079, the maximum concentration limit for arsenic is : (mg/l)",
+    "o": [
+      "0.05",
+      "0.5",
+      "0.1",
+      "0.01"
+    ],
+    "a": 0,
+    "e": "According to WHO = 0.01"
+  },
+  {
+    "id": 36,
+    "q": "Which part of the tubewell is responsible for allowing water to enter while keeping the sand out?",
+    "o": [
+      "Blind Pipe",
+      "Housing Pipe",
+      "Strainer",
+      "Socket"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "The digested sludge production rate (Cds) for one year of cleaning period is:",
+    "o": [
+      "0.0490",
+      "0.0283",
+      "0.0708",
+      "0.0850"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "A \"Disadvantage\" of irrigation, if not managed properly, is:",
+    "o": [
+      "Generation of hydroelectric power",
+      "Breeding of mosquitoes and waterborne diseases",
+      "Growth of canal plantations",
+      "Improvement of soil chemistry"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "A \"Ridge Canal\" (Watershed Canal) is preferred because:",
+    "o": [
+      "It can irrigate on both sides by gravity",
+      "It is the cheapest to build",
+      "It crosses many rivers",
+      "It avoids the use of a headwork"
+    ],
+    "a": 0
+  },
+  {
+    "id": 40,
+    "q": "Which structure is used to remove excess water from a canal into a natural drain?",
+    "o": [
+      "Canal Siphon",
+      "Canal Escape",
+      "Aqueduct",
+      "Cross regulator"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "The minimum distance visible to a driver to stop the vehicle safely before hitting an obstruction is:",
+    "o": [
+      "Overtaking Sight Distance (OSD)",
+      "Stopping Sight Distance (SSD)",
+      "Intermediate Sight Distance (ISD)",
+      "Headlight Sight Distance"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "Which layer of the pavement is considered the \"Foundation\" and must be highly compacted?",
+    "o": [
+      "Wearing Course",
+      "Sub grade",
+      "Base Course",
+      "Seal Coat"
+    ],
+    "a": 1,
+    "e": "[attachment_1](attachment)"
+  },
+  {
+    "id": 43,
+    "q": "A \"Retaining Wall\" is built to:",
+    "o": [
+      "Support the filling on the valley side of a road",
+      "Protect the hill side from falling",
+      "Collect water",
+      "Only for decoration"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "\"Depreciation\" refers to:",
+    "o": [
+      "The increase in property value over time",
+      "The gradual decrease in the value of a structure due to wear, tear, and age",
+      "The profit earned from renting",
+      "The cost of painting a building"
+    ],
+    "a": 1
+  },
+  {
+    "id": 45,
+    "q": "\"Deduction\" in masonry measurement is NOT made for which of the following?",
+    "o": [
+      "Large windows",
+      "Door openings",
+      "Ends of beams/rafters",
+      "Large structural arches"
+    ],
+    "a": 2,
+    "e": "Ends of beams/rafters up to 0.05 m^2 in cross-section"
+  },
+  {
+    "id": 46,
+    "q": "The \"Contractual Triangle\" in construction management consists of:",
+    "o": [
+      "Labor, Supplier, and Transporter",
+      "Owner , Contractor, and Engineer",
+      "Engineer, Sub-engineer, and Supervisor",
+      "Government, Bank, and Public"
+    ],
+    "a": 1,
+    "e": "Owner (Client), Contractor, and Engineer (Consultant) "
+  },
+  {
+    "id": 47,
+    "q": "Which document is signed by both Owner and Contractor to make the work legally binding?",
+    "o": [
+      "Estimate",
+      "Agreement",
+      "Site Plan",
+      "Bar Chart"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "\"Variations\" in a contract refer to:",
+    "o": [
+      "Changes in the scope or design during the construction period",
+      "Different colors of paint",
+      "Changes in the engineer's office",
+      "Different types of laborers"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "The international body that sets standards and regulations for civil aviation is:",
+    "o": [
+      "FAA",
+      "ICAO",
+      "NASA",
+      "IATA"
+    ],
+    "a": 1,
+    "e": "ICAO (International Civil Aviation Organization)"
+  },
+  {
+    "id": 50,
+    "q": "Airport pavements are generally classified into two types:",
+    "o": [
+      "Steel and Timber",
+      "Flexible and Rigid",
+      "Plastic and Rubber",
+      "Brick and Stone"
+    ],
+    "a": 1,
+    "e": ""
+  }
+]

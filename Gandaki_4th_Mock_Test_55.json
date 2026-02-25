@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1,
+    "q": "प्राप्त प्रतिवेदन अनुसार या अन्य कुनै कारणले भवन निर्माण गर्ने अनुमति दिन नमिल्ने भएमा गर्ने अनुमतिको लागि दरखास्त दिने व्यक्ति वा निकायलाई कति दिन भित्र सूचना निर्माण दिनुपर्छ?",
+    "o": [
+      "१० दिन",
+      "१२ दिन",
+      "८ दिन",
+      "७ दिन"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "मारिया कोरिना माचाडोले कुन विद्यामा नोवेल पुरस्कार पाइन?",
+    "o": [
+      "अर्थशास्त्र",
+      "शान्ति",
+      "साहित्य",
+      "रसायनशास्त्र"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "आसियानको अवधारणा कहिले आएको हो ?",
+    "o": [
+      "सन् १९६०",
+      "सन् १९६१",
+      "सन् १९६३",
+      "सन् १९६५"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "प्रत्येक व्यक्तिलाई आफू विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक कुन मौलिक हक हो ?",
+    "o": [
+      "समानताको हक",
+      "स्वतन्त्रताको हक",
+      "यातना विरुद्धको हक",
+      "न्याय सम्बन्धि हक"
+    ],
+    "a": 3
+  },
+  {
+    "id": 5,
+    "q": "गण्डकी प्रदेशको सबैभन्दा अग्लो हिमाल कुन हो ?",
+    "o": [
+      "अन्नपूर्ण",
+      "धौलागिरी",
+      "मनास्लु",
+      "माछापुच्छ्रे"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "गण्डकी प्रदेशको प्रथम पञ्चवर्षीय योजनाको मुख्य लक्ष्य के रहेको थियो?",
+    "o": [
+      "आत्मनिर्भर अर्थतन्त्र",
+      "समाजवाद उन्मुख गरिबी निवारण",
+      "'सुखी र समृद्ध प्रदेश' को आधार निर्माण",
+      "कृषि आधुनिकीकरण"
+    ],
+    "a": 2
+  },
+  {
+    "id": 7,
+    "q": "'दिगो विकास' (Sustainable Development) मा कतिवटा लक्ष्यहरू (SDGs) निर्धारण गरिएका छन्?",
+    "o": [
+      "१० वटा",
+      "१५ वटा",
+      "१७ वटा",
+      "२१ वटा"
+    ],
+    "a": 2,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 8,
+    "q": "नेपालले आफ्नै भू-उपग्रह (Satellite) 'नेपाली स्याट-१' कहिले प्रक्षेपण गरेको थियो?",
+    "o": [
+      "सन् २०१८ अप्रिल १७",
+      "सन् २०१९ अप्रिल १७",
+      "सन् २०२० मे २०",
+      "सन् २०२१ जुन १५"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "शरीरमा 'आयोडिन'को कमीले कुन रोग लाग्ने सम्भावना हुन्छ?",
+    "o": [
+      "रतन्धो",
+      "बेरीबेरी",
+      "गलगाँड",
+      "स्कर्भी"
+    ],
+    "a": 2,
+    "e": "[attachment_1](attachment)"
+  },
+  {
+    "id": 10,
+    "q": "नेपालको इतिहासमा 'लिच्छविकाल' लाई कुन नामले चिनिन्छ?",
+    "o": [
+      "अन्धकार युग",
+      "स्वर्ण युग",
+      "मध्य युग",
+      "आधुनिक युग"
+    ],
+    "a": 1
+  },
+  {
+    "id": 11,
+    "q": "उत्प्रेरणाको \"X र Y सिद्धान्त\" (Theory X and Theory Y) का प्रतिपादक को हुन्?",
+    "o": [
+      "डगलस म्याकग्रेगर",
+      "विलियम ओची",
+      "रेन्सिस लिकर्ट",
+      "भिक्टर ब्रुम"
+    ],
+    "a": 0,
+    "e": "यो मास्लोको सिद्धान्तसँगै पढ्नुपर्ने महत्वपूर्ण टपिक हो।"
+  },
+  {
+    "id": 12,
+    "q": "क्षतिपूर्ति सहितको सार्वजनिक बडापत्रको व्यवस्थापन निर्देशिका कति रहेको छ?",
+    "o": [
+      "२०६८",
+      "२०६९",
+      "२०७०",
+      "२०७१"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "नेपाल र संयुक्त राज्य अमेरिकाबीच दौत्य सम्बन्ध कहिले स्थापना भयो (A.D.)?",
+    "o": [
+      "1947 April 13",
+      "1947 April 20",
+      "1947 April 25",
+      "1947 June 13"
+    ],
+    "a": 2,
+    "e": "1947 April 25"
+  },
+  {
+    "id": 14,
+    "q": "प्रदेश लोक सेवा आयोग (गण्डकी) ले आफ्नो वार्षिक प्रतिवेदन को समक्ष पेश गर्नुपर्दछ?",
+    "o": [
+      "मुख्यमन्त्री",
+      "प्रदेश सभाका सभामुख",
+      "प्रदेश प्रमुख",
+      "राष्ट्रपति"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "गण्डकी प्रदेश दोस्रो पञ्चवर्षीय योजना अनुसार आधारभूत तह (१-८) मा खुद भर्नादर कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "९८%",
+      "९९%",
+      "९७%",
+      "१००%"
+    ],
+    "a": 0,
+    "e": "९८%"
+  },
+  {
+    "id": 16,
+    "q": "सहायक स्तरको पदमा नयाँ नियुक्ति पाएको कर्मचारीले कसको समक्ष 'शपथ ग्रहण' गर्नुपर्छ?",
+    "o": [
+      "मन्त्रालयको सचिव",
+      "विभागीय प्रमुख",
+      "कार्यालय प्रमुख",
+      "जिल्ला न्यायाधीश"
+    ],
+    "a": 2,
+    "e": "सहायक स्तरको लागि कार्यालय प्रमुख समक्ष।"
+  },
+  {
+    "id": 17,
+    "q": "सम्पत्ति विवरण पेस नगर्ने कर्मचारीलाई कति जरिवाना गरिन्छ?",
+    "o": [
+      "रु. ३,०००",
+      "रु. ५,०००",
+      "रु. ७,०००",
+      "रु. १०,०००"
+    ],
+    "a": 1,
+    "e": "बुझाउनुपर्ने समयभित्र नबुझाए ५ हजार जरिवाना हुन्छ।"
+  },
+  {
+    "id": 18,
+    "q": "नेपालको पहिलो 'फ्रि वाइफाइ' जिल्ला कुन हो?",
+    "o": [
+      "कास्की",
+      "म्याग्दी",
+      "मुस्ताङ",
+      "काठमाडौं"
+    ],
+    "a": 1,
+    "e": "म्याग्दीका सबै गाउँमा वायरलेस इन्टरनेट पुर्‍याइएको थियो।"
+  },
+  {
+    "id": 19,
+    "q": "गाउँपालिका अध्यक्ष तथा नगरपालिका प्रमुखले निर्वाचित भएको कति दिनभित्र र को समक्ष शपथ लिनु पर्नेछ?",
+    "o": [
+      "७ दिनभित्र, प्रदेश प्रमुख समक्ष",
+      "७ दिनभित्र, सम्बन्धित जिल्ला न्यायाधीश समक्ष",
+      "१५ दिनभित्र, मुख्य निर्वाचन अधिकृत समक्ष",
+      "१५ दिनभित्र, उच्च अदालतको न्यायाधीश समक्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "भ्रष्टाचार न्यूनीकरण ऐन २०५९ अनुसार १ लाखदेखि ५ लाखसम्म घुस लिएमा सरकारी कर्मचारीलाई .... कैद सजाय हुनछ..",
+    "o": [
+      "१ वर्ष देखि ३ वर्ष सम्म",
+      "६ महिना देखि १ वर्ष सम्म",
+      "१ वर्ष देखि २ वर्ष सम्म",
+      "२ वर्ष देखि ३ वर्ष सम्म"
+    ],
+    "a": 2
+  },
+  {
+    "id": 21,
+    "q": "Which is not the use of divider?",
+    "o": [
+      "To divide curved or straight lines into the desired number of equal parts",
+      "To draw circles",
+      "To transfer dimensions from one part of the drawing to another part",
+      "To set-off given distances from the scale to the drawing"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "Which of the following represent reducing scale?",
+    "o": [
+      "1:1",
+      "2:1",
+      "1:2",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 23,
+    "q": "The space between two sentences should be left equal to 2.",
+    "o": [
+      "height of letter",
+      "twice the ht. of letter",
+      "1.5 times ht. of letter",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "In long and short wall method of estimation, the length of long wall is the centre to centre distance between the walls and",
+    "o": [
+      "breadth of the wall",
+      "half breadth of wall on each side",
+      "one fourth breadth of wall on each side",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "The item of the brick structure measured in sq.m, is",
+    "o": [
+      "Reinforced brick work",
+      "Brick edging",
+      "Broken glass coping",
+      "Brick work in arches."
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "Compute the amount of cement required for 10 m3 RCC having M20 (1:1.5:3).",
+    "o": [
+      "3975 kg",
+      "79.54 bags",
+      "2.76 m³",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 27,
+    "q": "If S is the length of a subchord and R is the radius of simple curve, the angle of deflection between its tangent and sub-chord, in minutes, is equal to",
+    "o": [
+      "1718.9 S/R",
+      "573 R/S",
+      "171.9S/R",
+      "1718.9 R/S"
+    ],
+    "a": 0
+  },
+  {
+    "id": 28,
+    "q": "The 'fix' of a plane table station with three known points, is bad if the plane table station lies",
+    "o": [
+      "in the great triangle",
+      "outside the great triangle",
+      "on the circumference of the circumscribing circle",
+      "None of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "The most weather resisting metamorphic rock is",
+    "o": [
+      "lime stone",
+      "slate",
+      "marble",
+      "quartzite"
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "Knots in timber are",
+    "o": [
+      "defects caused by crushing fibres",
+      "splits radiating from the centre",
+      "speckled strains",
+      "signs of branches cut off"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "The maximum buckling factor for sand is",
+    "o": [
+      "1.0",
+      "1.10",
+      "1.20",
+      "1.40"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "Which types of power supply system is needed if small amount of power is required?",
+    "o": [
+      "single phase system",
+      "double phase system",
+      "three phase system",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "Cement concrete floor is laid in a ratio of:",
+    "o": [
+      "1:4:8",
+      "1:2:4",
+      "1:3:6",
+      "1:1.5:3"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "In a 'Two-Pipe' drainage system, how many vent stacks are typically required for a group of fixtures?",
+    "o": [
+      "One",
+      "Zero",
+      "Two",
+      "Four"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "Which material is used for the filament in a traditional 'Incandescent' lamp, and why?",
+    "o": [
+      "Copper, because it is the best conductor",
+      "Tungsten, because it has a very high melting point",
+      "Silver, because it reflects light the best",
+      "Aluminum, because it is lightweight"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "What is the primary purpose of a 'Cowl' placed on top of a vent pipe?",
+    "o": [
+      "To prevent birds, debris, or rainwater from entering the pipe",
+      "To hide the pipe for aesthetic reasons",
+      "To filter the odors before they reach the atmosphere",
+      "To increase the pressure inside the drain"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "Which plumbing fitting is used to provide a branch connection at a 90-degree angle?",
+    "o": [
+      "Union",
+      "Elbow",
+      "Tee",
+      "Nipple"
+    ],
+    "a": 2,
+    "e": "[attachment_2](attachment)"
+  },
+  {
+    "id": 38,
+    "q": "Which category of road in NRS 2070 is considered equivalent to an \"Expressway\"?",
+    "o": [
+      "Class I",
+      "Class II",
+      "National Highway",
+      "Arterial Road"
+    ],
+    "a": 0
+  },
+  {
+    "id": 39,
+    "q": "\"Camber\" in road construction is provided for:",
+    "o": [
+      "Improving the sight distance",
+      "Effective surface drainage of rainwater",
+      "Increasing the speed of vehicles",
+      "Counteracting centrifugal force"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "Which machine is most suitable for \"Compacting\" a granular base course?",
+    "o": [
+      "Bulldozer",
+      "Smooth Wheel Roller",
+      "Scraper",
+      "Excavator"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "\"Breast Walls\" are constructed on the:",
+    "o": [
+      "Downhill side of the road to support the road edge",
+      "Uphill side of the road to retain the cut slope",
+      "Middle of the road",
+      "Only at bridge entrances"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "Which document is the master legal guide for road design in Nepal?",
+    "o": [
+      "The Local Government Operation Act",
+      "Nepal Road Standard (NRS) 2070",
+      "The Constitution of Nepal",
+      "The Forest Act"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "Which of the following is a primary advantage of irrigation?",
+    "o": [
+      "Increase in groundwater table causing waterlogging",
+      "Protection against famine and increase in crop yield",
+      "Increase in atmospheric humidity",
+      "Costly initial investment"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "Duty is highest at:",
+    "o": [
+      "The head of the main canal",
+      "The head of the branch canal",
+      "The field",
+      "The reservoir"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "The \"Minimum Velocity\" in a canal is kept to prevent:",
+    "o": [
+      "Scouring of the bed",
+      "Silting",
+      "Overtopping",
+      "Growth of algae"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "A \"Silt Excluder\" is constructed:",
+    "o": [
+      "Inside the canal",
+      "On the river bed in front of the head regulator",
+      "At the end of the canal",
+      "On the top of the dam"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "\"Infiltration Galleries\" are horizontal wells constructed:",
+    "o": [
+      "In the middle of a desert",
+      "Along the banks of a river or underneath the river bed",
+      "On the top of a mountain",
+      "Inside a concrete dam"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "The quantity of \"Sanitary Sewage\" is usually assumed to be what percentage of the water supplied?",
+    "o": [
+      "10% to 15%",
+      "50% to 60%",
+      "75% to 80%",
+      "150%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "The \"Detention Period\" in a standard septic tank is usually:",
+    "o": [
+      "30 minutes",
+      "2 to 4 hours",
+      "12 to 36 hours",
+      "10 days"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "The pipe connecting a kitchen sink to the house drain is called a:",
+    "o": [
+      "Soil pipe",
+      "Waste pipe",
+      "Anti-siphonage pipe",
+      "Vent pipe"
+    ],
+    "a": 1,
+    "e": ""
+  }
+]

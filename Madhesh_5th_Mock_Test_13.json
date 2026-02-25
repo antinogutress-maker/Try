@@ -1,0 +1,565 @@
+[
+  {
+    "id": 1,
+    "q": "अपराध पीडितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "o": [
+      "धारा २१",
+      "धारा ३३",
+      "धारा २५",
+      "धारा १२"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "मधेस प्रदेशको सबैभन्दा ठूलो जिल्ला क्षेत्रफलको आधारमा कुन हो?",
+    "o": [
+      "धनुषा",
+      "सप्तरी",
+      "ससर्लाही",
+      "सिराहा"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "विवाह पञ्चमी कुन स्थानको मुख्य पर्व हो?",
+    "o": [
+      "जनकपुर",
+      "लुम्बिनी",
+      "पशुपति",
+      "मुक्तिनाथ"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "नेपालको 'आर्थिक राजधानी' भनिने सहर कुन हो?",
+    "o": [
+      "जनकपुर",
+      "वीरगन्ज",
+      "विराटनगर",
+      "पोखरा"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "सन् २०२२ को तथ्यांक अनुसार नेपालमा कृष्णसारको जनसंख्या कति छ ?",
+    "o": [
+      "२५५",
+      "३५५",
+      "३७५",
+      "४२५"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "भिटामिन E को रासायनिक नाम के हो ?",
+    "o": [
+      "Retinol",
+      "Tocopherol",
+      "Phylloquinone",
+      "कुनै पनी होइन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "मोबाइल फोन को आविष्कार गर्ने पहिलो कम्पनी कुन हो ?",
+    "o": [
+      "मोटोरोला",
+      "सामसुङ",
+      "नोकिया",
+      "एप्पल"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "कुन दस्ताबेज संयुक्त राष्ट्रसंघको आधारभूत बडापत्र को रूप मा काम गर्दछ ?",
+    "o": [
+      "जेनेभा महासन्धि",
+      "भर्साइल सन्धि",
+      "संयुक्त राष्ट्र मानव अधिकार घोषणा",
+      "संयुक्त राष्ट्र बडापत्र"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "नेपाल बिमस्टेकको सदस्य कहिले भयो ?",
+    "o": [
+      "सन् २००२ फेब्रुअरी ०८",
+      "सन् २००४ फेब्रुअरी ०८",
+      "सन् २००८ फेब्रुअरी ०४",
+      "सन् २०१२ फेब्रुअरी ०८"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "अमेरिकी साहयता परियोजना (MCC) कहिले कार्यान्वयन भयो ?",
+    "o": [
+      "२०८० साउन १५",
+      "२०८० भदौ १३",
+      "२०८० असोज १५",
+      "२०८० माघ १५"
+    ],
+    "a": 1
+  },
+  {
+    "id": 11,
+    "q": "A piezometer tube is used only for measuring:",
+    "o": [
+      "low pressure",
+      "high pressure",
+      "moderate pressure",
+      "vacuum pressure"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "A manometer is used to measure:",
+    "o": [
+      "low pressure",
+      "moderate pressure",
+      "high pressure",
+      "atomospheric pressure"
+    ],
+    "a": 2
+  },
+  {
+    "id": 13,
+    "q": "If the depth of water in an open channel is greater than the critical depth, the flow is called:",
+    "o": [
+      "critical flow",
+      "turbulent flow",
+      "tranquil flow",
+      "torrential flow"
+    ],
+    "a": 2
+  },
+  {
+    "id": 14,
+    "q": "Which of the following formula is used in Falling head permeability test?",
+    "o": [
+      "Jacky's formula",
+      "Louden's formula",
+      "Darcy's law",
+      "Kozney's formula"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "Failure of the stability of slopes, generally occurs along:",
+    "o": [
+      "slip plane",
+      "a horizontal surface",
+      "a curved surface",
+      "all the surfaces."
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "Beams of uniform strength are preferred to those of uniform section because these are economical for:",
+    "o": [
+      "large spans",
+      "heavy weights",
+      "light weights",
+      "short spans"
+    ],
+    "a": 0
+  },
+  {
+    "id": 17,
+    "q": "Every material obeys the Hooke's law within its:",
+    "o": [
+      "elastic limit",
+      "limit of proportionality",
+      "plastic point",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "The forces, whose lines of action are parallel to each other and act in the same directions, are known as:",
+    "o": [
+      "Coplanar concurrent forces",
+      "Coplanar non-concurrent forces",
+      "Like parallel forces",
+      "Unlike parallel forces"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "Monel metal is an alloy of:",
+    "o": [
+      "copper and zinc",
+      "copper and chromium",
+      "copper and nickel",
+      "copper and lead"
+    ],
+    "a": 2
+  },
+  {
+    "id": 20,
+    "q": "Over burnt or Jhama brick is used for:",
+    "o": [
+      "temporary works",
+      "unplastered faces of masonry",
+      "plastered faces of masonry",
+      "making aggregate for foundation"
+    ],
+    "a": 3
+  },
+  {
+    "id": 21,
+    "q": "Thickness of punning is:",
+    "o": [
+      "1-2 mm",
+      "2-3 mm",
+      "3-4 mm",
+      "4-5 mm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "The bearings of the lines AB and BC are 146° 30' and 68° 30'. The included angle is:",
+    "o": [
+      "102°",
+      "78°",
+      "45°",
+      "None of these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "The bench marks are fixed by:",
+    "o": [
+      "Trigonometric leveling",
+      "Barometric leveling",
+      "Spirit leveling",
+      "Profile leveling"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "The type of level used for geodetic survey is:",
+    "o": [
+      "Fly leveling",
+      "Precise leveling",
+      "Profile leveling",
+      "None"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "Modular co-ordination of construction means proper:",
+    "o": [
+      "Planning",
+      "Designing",
+      "Execution",
+      "All the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 26,
+    "q": "Final technical authority of a project lies with:",
+    "o": [
+      "Assistant Engineer",
+      "Executive Engineer",
+      "Superintending Engineer",
+      "Chief Engineer"
+    ],
+    "a": 3
+  },
+  {
+    "id": 27,
+    "q": "The rate of an item of work depends on:",
+    "o": [
+      "Specifications of works",
+      "Specifications of materials",
+      "Proportion of mortar",
+      "Method of construction",
+      "All the above"
+    ],
+    "a": 4
+  },
+  {
+    "id": 28,
+    "q": "The measurement is made for stone work in square metre (m^2) in case of:",
+    "o": [
+      "Wall facing",
+      "Columns, lintels, copings",
+      "Building work",
+      "Dressed stones in Chajjas",
+      "Both A and D"
+    ],
+    "a": 4
+  },
+  {
+    "id": 29,
+    "q": "Raising of outer edge of a road with respect to inner edge, is known as:",
+    "o": [
+      "Super elevation",
+      "Cant",
+      "Banking",
+      "All the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "If a Lemniscate curve of transition throughout is introduced to connect two parallel roads, the maximum polar angle of the curve is:",
+    "o": [
+      "10^\\circ",
+      "15^\\circ",
+      "20^\\circ",
+      "30^\\circ",
+      "45^\\circ"
+    ],
+    "a": 3
+  },
+  {
+    "id": 31,
+    "q": "A centrifugal pump is required to be primed before starting if it is located:",
+    "o": [
+      "At higher level than water level of reservoir",
+      "At lower level than water level of reservoir",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 0
+  },
+  {
+    "id": 32,
+    "q": "Acidity in water is caused due to:",
+    "o": [
+      "Mineral acids",
+      "Free CO_2",
+      "Iron sulphate",
+      "Aluminium sulphate",
+      "All the above"
+    ],
+    "a": 4
+  },
+  {
+    "id": 33,
+    "q": "The process of working a flat for the finishing coat, is known as:",
+    "o": [
+      "Dubbing out",
+      "Floating",
+      "Knetting",
+      "Blistering"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "An ordinary concrete may be made water proof by adding:",
+    "o": [
+      "Pudlo",
+      "Impermo",
+      "Snowcem",
+      "Cico",
+      "All of these"
+    ],
+    "a": 4
+  },
+  {
+    "id": 35,
+    "q": "As the percentage of steel increases:",
+    "o": [
+      "Depth of neutral axis decreases",
+      "Depth of neutral axis increases",
+      "Lever arm increases",
+      "Lever arm decreases"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "Distribution of shear intensity over a rectangular section of a beam follows:",
+    "o": [
+      "A circular curve",
+      "A straight line",
+      "A parabolic curve",
+      "An elliptical curve"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "Thickness of a pavement may be reduced considerably by:",
+    "o": [
+      "compaction of soil",
+      "stabilisation of soil",
+      "drainage of soil",
+      "combination of all the above."
+    ],
+    "a": 3
+  },
+  {
+    "id": 38,
+    "q": "De-chlorination is followed by:",
+    "o": [
+      "post-chlorination",
+      "pre-chlorination",
+      "double-chlorination",
+      "super-chlorination."
+    ],
+    "a": 3
+  },
+  {
+    "id": 39,
+    "q": "एक सार्वजनिक निकायले अर्को सार्वजनिक निकायबाट (Government to Government - G2G) कुनै मालसामान खरिद गर्नुपरेमा कुन विधि अपनाइन्छ?",
+    "o": [
+      "बोलपत्र",
+      "सिलबन्दी दरभाउपत्र",
+      "सोझै खरिद",
+      "क्याटलग सपिङ्ग"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "जिल्लास्तरीय अनुगमन तथा मूल्याङ्कन समितिमा जिल्ला सदरमुकाम रहेको नगरपालिकाको प्रमुख वा गाउँपालिकाको अध्यक्ष कुन हैसियतमा रहन्छन्?",
+    "o": [
+      "संयोजक",
+      "सह-संयोजक",
+      "सदस्य",
+      "आमन्त्रित सदस्य"
+    ],
+    "a": 2,
+    "e": "नियमावलीको नियम २८ (१) (घ) अनुसार जिल्ला सदरमुकाम रहेको स्थानीय तहको प्रमुख सदस्य रहने व्यवस्था छ।"
+  },
+  {
+    "id": 41,
+    "q": "सूचना अधिकारीले बिना कारण समयमा सूचना उपलब्ध नगराई ढिलाइ गरेमा निजलाई कति जरिवाना हुन्छ?",
+    "o": [
+      "प्रतिदिन रु. १००",
+      "प्रतिदिन रु. २००",
+      "प्रतिदिन रु. ५००",
+      "प्रतिदिन रु. १०००"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "आदिवासी जनजाति आयोग नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २६, धारा २६०",
+      "भाग २७, धारा २६१",
+      "भाग २८, धारा २६२",
+      "भाग २९, धारा २६३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "नापी' (Survey) र 'जग्गा नापजाँच' (Land Measurement) सम्बन्धी प्रादेशिक कार्य कुन मन्त्रालय अन्तर्गत पर्दछ?",
+    "o": [
+      "भौतिक पूर्वाधार विकास मन्त्रालय",
+      "भूमि व्यवस्था, कृषि तथा सहकारी मन्त्रालय",
+      "गृह, सञ्चार तथा कानून मन्त्रालय",
+      "मुख्यमन्त्री कार्यालय"
+    ],
+    "a": 1,
+    "e": "नाप नक्सा, कित्ता नापी, र भूमि लगत सम्बन्धी कार्यहरू भूमि व्यवस्था, कृषि तथा सहकारी मन्त्रालय (बुँदा ३-४) ले गर्दछ।"
+  },
+  {
+    "id": 44,
+    "q": "सर्वोत्कृष्ट प्रदेश निजामती सेवा पुरस्कार\" को राशि कति तोकिएको छ?",
+    "o": [
+      "रु. ५०,०००",
+      "रु. १,००,०००",
+      "रु. १,५०,०००",
+      "रु. २,००,०००"
+    ],
+    "a": 3,
+    "e": "नियम ११३ (१) अनुसार सर्वोत्कृष्ट प्रदेश निजामती सेवा पुरस्कारको राशि २ लाख रुपैयाँ रहेको छ (एक जनालाई)। (Source Page: Page 125)"
+  },
+  {
+    "id": 45,
+    "q": "परीक्षा केन्द्र नियन्त्रणमा लिई अमर्यादित कार्य गरेमा वा अर्काको नाममा परीक्षा दिएमा कति जरिवाना वा कैद सजाय हुन सक्छ?",
+    "o": [
+      "५० हजार रुपैयाँ वा ३ महिना कैद",
+      "१ लाख रुपैयाँ वा ६ महिना कैद",
+      "१ लाख रुपैयाँ वा १ वर्ष कैद",
+      "२ लाख रुपैयाँ वा ६ महिना कैद"
+    ],
+    "a": 1,
+    "e": "यस्तो कसुर गर्नेलाई एक लाख रुपैयाँसम्म जरिवाना वा ६ महिनासम्म कैद वा दुवै सजाय हुन सक्नेछ। (ऐन दफा ६४ को उपदफा १ को खण्ड छ)"
+  },
+  {
+    "id": 46,
+    "q": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व नियमावली, २०७७ \"फुटकर खर्च\" (Petty Cash) भन्नाले एक पटकमा कति रकमसम्मको खर्चलाई जनाउँछ?",
+    "o": [
+      "रु. १,०००",
+      "रु. २,०००",
+      "रु. ३,०००",
+      "रु. ५,०००"
+    ],
+    "a": 1,
+    "e": "एक पटकमा २,००० सम्मको खर्चलाई फुटकर खर्च मानिन्छ। (स्रोत: नियमावली, नियम ३९)"
+  },
+  {
+    "id": 47,
+    "q": "नक्सा पास सम्बन्धी विशेष व्यवस्था अन्तर्गत नक्सा पास गर्दा लाग्ने दस्तुरको कति दस्तुर लिइनेछ?",
+    "o": [
+      "दोब्बर दस्तुर",
+      "तेब्बर दस्तुर",
+      "चौबर दस्तुर",
+      "पाँच गुणा दस्तुर"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "नेपाल र फ्रान्सबीच सम्बन्ध स्थापना भएको नेपाली मिति कुन हो?",
+    "o": [
+      "२००६ बैशाख ४",
+      "२००६ बैशाख ८",
+      "२००६ बैशाख १८",
+      "२००६ जेठ ८"
+    ],
+    "a": 1,
+    "e": "२००६ बैशाख ८"
+  },
+  {
+    "id": 49,
+    "q": "In the context of a Sanitary Landfill, what is the technical term for the liquid that percolates through the solid waste and extracts dissolved or suspended materials, posing a risk to groundwater pollution?",
+    "o": [
+      "Sludge",
+      "Leachate",
+      "Effluent",
+      "Supernatant"
+    ],
+    "a": 1,
+    "e": "Leachate is the liquid formed when rainwater filters through the decomposing waste in a landfill. It picks up toxic chemicals, heavy metals, and organic matter."
+  },
+  {
+    "id": 50,
+    "q": "According to the Environmental Protection Rules (2077) of Nepal, an Initial Environmental Examination (IEE) is generally conducted for projects that:",
+    "o": [
+      "Have minimal to no environmental impact and require only a Brief Environmental Study (BES).",
+      "Have moderate environmental impacts where mitigation measures are known and readily available.",
+      "Have significant, complex, and widespread adverse environmental impacts requiring detailed investigation.",
+      "Are exclusively related to the Chure Conservation Area regardless of size."
+    ],
+    "a": 1,
+    "e": "IEE (Initial Environmental Examination) is a limited environmental study. It is designed for projects where the impacts are predicted to be moderate and localized."
+  }
+]

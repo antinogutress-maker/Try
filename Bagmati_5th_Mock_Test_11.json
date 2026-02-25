@@ -1,0 +1,567 @@
+[
+  {
+    "id": 1,
+    "q": "The movement of water through the pores of a material against the force of gravity is called:",
+    "o": [
+      "Capillary Action",
+      "Condensation",
+      "Percolation",
+      "Evaporation"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "A foundation is considered \"Shallow\" if its depth is:",
+    "o": [
+      "Greater than its width",
+      "Less than or equal to its width",
+      "Exactly 10 meters",
+      "Reaches the hard rock layer regardless of width"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "An \"Artesian Spring\" occurs when:",
+    "o": [
+      "Water is pumped out manually",
+      "Groundwater is under pressure between two impervious layers and finds an opening",
+      "Surface water seeps into a shallow hole",
+      "Water is collected from a rooftop"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "A \"Septic Tank\" is a type of:",
+    "o": [
+      "Aerobic treatment unit",
+      "Anaerobic settling tank",
+      "Water storage tank",
+      "Filtration unit"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "The \"Hydraulic Radius\" (R) is the ratio of:",
+    "o": [
+      "Area to Depth",
+      "Wetted Area to Wetted Perimeter (A/P)",
+      "Width to Depth",
+      "Perimeter to Slope"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "To minimize canal losses, the best method is:",
+    "o": [
+      "Increasing the canal width",
+      "Providing concrete or brick lining",
+      "Growing trees inside the canal",
+      "Increasing canal depth"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "A \"Sheep-foot Roller\" is best suited for compacting:",
+    "o": [
+      "Sand",
+      "Gravel",
+      "Cohesive soil",
+      "Silty"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "\"Gradient\" on a road refers to:",
+    "o": [
+      "The longitudinal rise or fall of the road surface",
+      "The transverse slope",
+      "The thickness of the pavement",
+      "The curve radius"
+    ],
+    "a": 0
+  },
+  {
+    "id": 9,
+    "q": "The \"Abstract of Cost\" format in government offices provides:",
+    "o": [
+      "Detailed dimensions of the work",
+      "The total quantity of materials only",
+      "A summary showing the total cost of each item of work and the grand total",
+      "The names of all laborers"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "\"Scrap Value\" is the value of the dismantled materials of a property, which is usually around what percentage of the total cost?",
+    "o": [
+      "0%",
+      "10%",
+      "50%",
+      "90%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 11,
+    "q": "\"Quality Control\" at the site is the primary duty of:",
+    "o": [
+      "The Accountant",
+      "The Site Engineer / Sub-engineer",
+      "The Security Guard",
+      "The local villagers"
+    ],
+    "a": 1
+  },
+  {
+    "id": 12,
+    "q": "A \"Tender Notice\" (NIT) must contain:",
+    "o": [
+      "Estimated cost and completion time",
+      "Amount of bid security and cost of tender document",
+      "Deadline and place for bid submission",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 13,
+    "q": "A \"Hangar\" is a structure specifically used for:",
+    "o": [
+      "Passenger waiting",
+      "Housing, overhauling, and repairing aircraft",
+      "Storing aviation fuel",
+      "Air Traffic Control"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "यदि 2 + 3 = 10, 7 + 2 = 63, 6 + 5 = 66 हुन्छ भने, 8 + 4 = ?",
+    "o": [
+      "96",
+      "32",
+      "48",
+      "84"
+    ],
+    "a": 0,
+    "e": "यसमा सामान्य जोड छैन, यो एक विशेष लजिक हो: (First + Second ) × First = Result"
+  },
+  {
+    "id": 15,
+    "q": "यदि अंग्रेजी वर्णमालामा Z=52 र ACT=48 हुन्छ भने, BAT को मान कति हुन्छ ?",
+    "o": [
+      "39",
+      "41",
+      "44",
+      "46"
+    ],
+    "a": 3,
+    "e": "यहाँ A=1, B=2, ..., Z=26 मानिन्छ र त्यसलाई 2 ले गुणन गरिएको छ। Z = 26 × 2 = 52, ACT = (1+3+20)×2 = 48, BAT = (2+1+20)×2 = 46"
+  },
+  {
+    "id": 16,
+    "q": "हरि पूर्वतर्फ फर्केर उभिएको छ। उ घडीको सुई घुम्ने दिशामा (Clockwise) १००° घुम्छ र त्यसपछि घडीको विपरित दिशामा (Anti-clockwise) १४५° घुम्छ भने, उ अहिले कुन दिशामा फर्केको होला ?",
+    "o": [
+      "उत्तर-पूर्व (North-East)",
+      "उत्तर (North)",
+      "दक्षिण-पूर्व (South-East)",
+      "पूर्व (East)"
+    ],
+    "a": 0,
+    "e": "नेट फरक (Net Difference) = 145 - 100 = 45⁰ (Anti-clockwise बढी छ)। पूर्वबाट 45⁰ Anti-clockwise (देब्रेतिर) घुम्दा उत्तर-पूर्व (North-East) हुन्छ।"
+  },
+  {
+    "id": 17,
+    "q": "५ जना साथीहरू (A, B, C, D, E) एउटा बेन्चमा बसेका छन्। A, B को बायाँपट्टि छ तर C को दायाँपट्टि छ। D, B को दायाँपट्टि छ तर E को बायाँपट्टि छ। बेन्चको दुवै छेउ (Ends) मा को को बसेका छन् ?",
+    "o": [
+      "A, B",
+      "C, E",
+      "D, E",
+      "C, D"
+    ],
+    "a": 1,
+    "e": "पूरा क्रम: C - A - B - D - E । छेउमा बस्नेहरू: C (बायाँ छेउ) र E (दायाँ छेउ)।"
+  },
+  {
+    "id": 18,
+    "q": "शब्द 'LEADING' का अक्षरहरूलाई कति तरिकाले मिलाएर राख्न सकिन्छ ताकि स्वर वर्णहरू (Vowels) सधैं सँगै आउन् ?",
+    "o": [
+      "360",
+      "480",
+      "720",
+      "5040"
+    ],
+    "a": 2,
+    "e": "Consonants (4) + Vowel Packet (1) = 5 items (5! = 120). Vowels inside packet arrange in 3! = 6 ways. Total = 120 × 6 = 720."
+  },
+  {
+    "id": 19,
+    "q": "I prefer tea ______ coffee in the morning.",
+    "o": [
+      "than",
+      "to",
+      "from",
+      "rather"
+    ],
+    "a": 1,
+    "e": "The verb 'prefer' is always followed by the preposition 'to', never 'than'."
+  },
+  {
+    "id": 20,
+    "q": "He is ______ Newton of our class.",
+    "o": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "a": 2,
+    "e": "When a proper noun is used as a common noun to make a comparison (metaphor), we use 'the'."
+  },
+  {
+    "id": 21,
+    "q": "'विद्वान' शब्दको स्त्रीलिङ्गी रूप कुन हो ?",
+    "o": [
+      "विद्वानी",
+      "विदुषी",
+      "विधाता",
+      "ज्ञानी"
+    ],
+    "a": 1,
+    "e": "विद्वान (पुरुष) - विदुषी (महिला)।"
+  },
+  {
+    "id": 22,
+    "q": "तलका मध्ये व्याकरणिक रूपमा शुद्ध शब्द कुन हो ?",
+    "o": [
+      "श्रीमान",
+      "श्रीमान्",
+      "श्रीमानहरु",
+      "महान"
+    ],
+    "a": 1,
+    "e": "संस्कृत मूलका 'मान्' वा 'वान्' अन्त्य हुने शब्दहरूमा हलन्त (खुट्टा काट्ने) नियम प्रयोग हुन्छ (जस्तै: श्रीमान्)।"
+  },
+  {
+    "id": 23,
+    "q": "गाउँपालिकाको अध्यक्ष वा उपाध्यक्षको पदमा निर्वाचित हुन नपाउने गरी कति कार्यकाल तोकिएको छ?",
+    "o": [
+      "एक कार्यकाल",
+      "दुई कार्यकाल",
+      "तीन कार्यकाल",
+      "कुनै सीमा छैन"
+    ],
+    "a": 1,
+    "e": "दुई कार्यकाल निर्वाचित भएको व्यक्ति उम्मेदवार हुन पाउँदैन।"
+  },
+  {
+    "id": 24,
+    "q": "पृथ्वी सम्मेलन (Earth Summit 1992) मा कतिवटा राष्ट्रको सहभागिता थियो?",
+    "o": [
+      "१५०",
+      "१७२",
+      "१७८",
+      "१९०"
+    ],
+    "a": 2,
+    "e": "१७८ राष्ट्रहरू।"
+  },
+  {
+    "id": 25,
+    "q": "भूकम्पको मापन गर्ने यन्त्र 'सिस्मोग्राफ' का आविष्कारक को हुन्?",
+    "o": [
+      "हुक",
+      "रिक्टर",
+      "म्याकाडम",
+      "जोन मिलन "
+    ],
+    "a": 3,
+    "e": "जोन मिलन।"
+  },
+  {
+    "id": 26,
+    "q": "प्रोटिनको कमीले बालबालिकामा लाग्ने रोगलाई के भनिन्छ?",
+    "o": [
+      "रिकेट्स",
+      "क्वाशियोरकर ",
+      "म्यारास्मस",
+      "स्कर्भी"
+    ],
+    "a": 1,
+    "e": "पेट र खुट्टा सुन्निने लक्षण हुन्छ।"
+  },
+  {
+    "id": 27,
+    "q": "नेपालमा पञ्चायति सासन कहिले देखी सुरु भयो ?",
+    "o": [
+      "वि.सं. २०१७ पौष २२",
+      "वि.सं. २०१७ पौष १",
+      "वि.सं. २०१७ माघ २२",
+      "वि.सं. २०१८ पौष २२"
+    ],
+    "a": 0,
+    "e": "वि.सं. २०१७ पौष २२"
+  },
+  {
+    "id": 28,
+    "q": "सबैभन्दा धेरै पटक सुरक्षा परिषद्को अस्थायी सदस्य हुने राष्ट्र कुन हो?",
+    "o": [
+      "अर्जेन्टिना",
+      "ब्राजिल",
+      "जापान",
+      "भारत"
+    ],
+    "a": 2,
+    "e": "(जापान - १२ पटक)"
+  },
+  {
+    "id": 29,
+    "q": "आसियानको प्रधान कार्यालय (Headquarters) कहाँ रहेको छ?",
+    "o": [
+      "बैंकक, थाइल्याण्ड",
+      "जकार्ता, इन्डोनेसिया",
+      "मनिला, फिलिपिन्स",
+      "क्वालालम्पुर, मलेसिया"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "नेपालको संविधान २०७२ अनुसार, भाग ३. सामाजिक न्यायको हक कुन धारा अन्तर्गत पर्दछ?",
+    "o": [
+      "धारा-४२",
+      "धारा-४१",
+      "धारा–४३",
+      "धारा-४४"
+    ],
+    "a": 0
+  },
+  {
+    "id": 31,
+    "q": "ABCD is a rectangular plot of land. If the bearing of the side AB is 75°, the bearing of DC is",
+    "o": [
+      "75°",
+      "255°",
+      "105°",
+      "285°"
+    ],
+    "a": 0
+  },
+  {
+    "id": 32,
+    "q": "In levelling operation,",
+    "o": [
+      "The first sight on any change point is a back sight",
+      "The second sight on any change point is a fore sight",
+      "The line commences with a fore sight and closes with a back sight",
+      "The line commences with a back sight and closes with a foresight ."
+    ],
+    "a": 3
+  },
+  {
+    "id": 33,
+    "q": "Wrought iron is used for",
+    "o": [
+      "structural works in beams",
+      "small sized water pipes",
+      "columns and struts",
+      "none to these."
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "Bituminous fells are used for",
+    "o": [
+      "covering A.C. sheets",
+      "covering sloping roofs",
+      "D.P.C.",
+      "none to these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 35,
+    "q": "For the flow of liquid from an open ended tube (or nozzle) leading to the formation of spray of liquid drops, the number generally applied, is",
+    "o": [
+      "Froude number",
+      "Weber number",
+      "Reynold number",
+      "Mach number."
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "An error of 1% in measuring the head of water over the crest of a triangular notch, produces an error in the discharge which is equal to",
+    "o": [
+      "1.25%",
+      "1.5%",
+      "2.0%.",
+      "2.5%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 37,
+    "q": "For determining the moisture content of a soil sample, the following data is available Weight of container = 260 g, Weight of soil sample and = 320 g container, Weight of soil sample (dried) and = 310 g container. The moisture content of the soil sample, is",
+    "o": [
+      "15%",
+      "18%",
+      "20%",
+      "25%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 38,
+    "q": "Buoyant unit weight equals the saturated density",
+    "o": [
+      "multiplied by unit weight of water",
+      "divided by unit weight of water",
+      "plus unit weight of water",
+      "minus unit weight of water."
+    ],
+    "a": 3
+  },
+  {
+    "id": 39,
+    "q": "A T-beam behaves as a rectangular beam of a width equal to its flange if its neutral axis",
+    "o": [
+      "remains within the flange",
+      "remains below the slab",
+      "coincides the geometrical centre of the beam",
+      "none of these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 40,
+    "q": "Total pressure on the vertical face of a retaining wall of height h acts parallel to free surface and from the base at a distance of",
+    "o": [
+      "h/4",
+      "h/3",
+      "h/2",
+      "2h/3"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "Principal planes are subjected to",
+    "o": [
+      "normal stresses only",
+      "tangential stresses only",
+      "normal stresses as well as tangential stresses",
+      "none of these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "The ratio of maximum shear stress to average shear stress of a circular beam, is",
+    "o": [
+      "2/3",
+      "3/2",
+      "3/4",
+      "4/3"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "सुशासन नियमावली, २०६५ अनुसार तुरुन्त लेखिएको चिठीको कार्य फछ्र्यौट कति अवधि भित्र गर्नु पर्दछ ?",
+    "o": [
+      "१ दिन भित्र",
+      "२ दिन भित्र",
+      "३ दिन भित्र",
+      "५ दिन भित्र"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "Who authorized the job description of chief secretary ?",
+    "o": [
+      "Government of Nepal",
+      "Head of department",
+      "President of Nepal",
+      "None of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "विश्व बन्धुत्वको भावना, सहअस्तित्व बोध, र अनाक्रमण कस्तो मूल्य र मान्यता हो ?",
+    "o": [
+      "राष्ट्रिय मूल्य मान्यता (National values)",
+      "नैतिक मूल्य मान्यता (Moral values)",
+      "पारिवारिक मूल्य मान्यता (Family values)",
+      "अन्तर्राष्ट्रिय मूल्य मान्यता (International values)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "जिल्ला प्रशासन कार्यालयमा नागरिक वडापत्र सम्बन्धी गुनासो भएमा कहाँ उजुरी गर्ने ?",
+    "o": [
+      "प्रमुख जिल्ला अधिकारी (Chief District Officer)",
+      "क्षेत्रीय प्रशासन कार्यालय (Regional Administration Office)",
+      "प्रधानमन्त्रीको कार्यालय (Prime Minister's Office)",
+      "राष्ट्रपतिको कार्यालय (President's Office)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "INTOSAI को पुरा रुप के हो ?",
+    "o": [
+      "International Organization of Supreme Audit Institutions",
+      "International Organization of Audit Institutions",
+      "International Standard of Supreme Audit Institutions",
+      "International Organization for Supreme Audit Institutions"
+    ],
+    "a": 0
+  },
+  {
+    "id": 48,
+    "q": "संवैधानिक परिषद्को सचिवको रूपमा को रहने व्यवस्था छ ?",
+    "o": [
+      "नेपाल सरकारको मुख्य सचिव",
+      "प्रधानमन्त्री कार्यालयको सचिव",
+      "गृह मन्त्रालयको सचिव",
+      "न्याय तथा कानुन मन्त्रालयको सचिव"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "Who is also known as father of modern management ?",
+    "o": [
+      "Henry Fayol",
+      "Maslow",
+      "Herzberg",
+      "Drucker"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "नेपालमा सर्वप्रथम कुन संविधानले सूचनाको हकलाई सुनिश्चित गरेको थियो ?",
+    "o": [
+      "२०१९ सालको संविधान",
+      "२०४७ सालको संविधान",
+      "२०६३ सालको अन्तरिम संविधान",
+      "२०७२ सालको संविधान"
+    ],
+    "a": 1
+  }
+]

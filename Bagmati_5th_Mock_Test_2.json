@@ -1,0 +1,568 @@
+[
+  {
+    "id": 1,
+    "q": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयको सही आधिकारिक वेबसाइट कुन हो ?",
+    "o": [
+      "www.mofaga.gov.com",
+      "wwww.mofaga.gov.np",
+      "www.mofga.gov.np",
+      "www.mofaga.gov.np"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "निजामती कर्मचारीलाई निज कार्यरत रहेको मन्त्रालय, विभाग, सचिवालय वा कार्यालयबाट सोही निकायको काममा काज खटाउँदा एक आर्थिक वर्षमा सामान्यतः कति अवधिसम्म खटाउन सकिन्छ ?",
+    "o": [
+      "एक महिनासम्म",
+      "दुई महिनासम्म",
+      "तीन महिनासम्म",
+      "छ महिनासम्म"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "सार्वजनिक सेवा सम्बन्धमा निम्नमध्ये कुन विकल्प सही छ ?",
+    "o": [
+      "सरकार र सरकारी कर्मचारीहरूबाट प्रदान गरिने सेवा",
+      "गैरसरकारी संस्थाबाट मात्र प्रदान गरिने सेवा",
+      "सरकार एवम् सरकारका शासकीय सहयात्रीहरूबाट प्रदान गरिने सेवा",
+      "अन्तर्राष्ट्रिय संस्थाबाट मात्र प्रदान गरिने सेवा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "नेपालमा पहिलो बजेट कहिले पेश गरिएको थियो ?",
+    "o": [
+      "वि.सं. २००७ माघ १ गते",
+      "वि.सं. २००८ माघ २१ गते",
+      "वि.सं. २०१० असार १ गते",
+      "वि.सं. २००९ साउन १५ गते"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "महालेखा परीक्षकको कार्यालयमा पदाधिकारीको संख्या कति हुन्छ ?",
+    "o": [
+      "एकजना महालेखा परीक्षक र दुई जना आयुक्त",
+      "दुई जना महालेखा परीक्षक",
+      "एकजना मात्रै महालेखा परीक्षक",
+      "आवश्यकता अनुसार नियुक्त गरिन्छ"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "नेपालमा पहिलो बजेट कहिले पेश गरिएको थियो ? (पुनरावृत्ति)",
+    "o": [
+      "वि.सं. २००७ माघ १ गते",
+      "वि.सं. २००८ माघ २१ गते",
+      "वि.सं. २०१० असार १ गते",
+      "वि.सं. २००९ साउन १५ गते"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "नागरिक वडापत्र (Citizen Charter) को अवधारणा पहिलो पटक कहिलेदेखि सुरु भएको हो ?",
+    "o": [
+      "सन् १९९०",
+      "सन् १९८९",
+      "सन् १९९१",
+      "सन् १९९३"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "संगठनको उद्देश्य हासिल गर्नका लागि गरिने सम्पूर्ण कार्य प्रक्रियाको समग्रतालाई के भनिन्छ ?",
+    "o": [
+      "प्रशासन",
+      "नेतृत्व",
+      "संगठन",
+      "व्यवस्थापन"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "“Father of Modern Management” भनेर कसलाई चिनिन्छ ?",
+    "o": [
+      "Max Weber",
+      "Frederick W. Taylor",
+      "Henry Fayol",
+      "Elton Mayo"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "नेतृत्व शैली सम्बन्धमा तल दिएकामध्ये कुन भनाइ सही छ ?",
+    "o": [
+      "एक तानाशाही नेताले आफ्नो सहयोगीहरुसँग परामर्श नगरी सेवा गर्ने निर्णय गर्दछ।",
+      "प्रजातन्त्रमा विश्वास गर्ने नेताले आफ्नो सहयोगीहरूसँग परामर्श नगरी निर्णय गर्दछ।",
+      "एक तानाशाही नेताले आफ्नो सहयोगीहरूसँग परामर्श गरी निर्णय गर्दछ।",
+      "माथिका कुनै पनि भनाई सही छैनन्"
+    ],
+    "a": 0
+  },
+  {
+    "id": 11,
+    "q": "Strength of cement upto 3 months........ percent.",
+    "o": [
+      "100 %",
+      "80 %",
+      "70 %",
+      "60%"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "Hydrographic surveys deal with the mapping of",
+    "o": [
+      "large water bodies",
+      "heavenly bodies",
+      "mountaineous region",
+      "canal system"
+    ],
+    "a": 0
+  },
+  {
+    "id": 13,
+    "q": "The intercept of a staff",
+    "o": [
+      "is maximum if the staff is held truly normal to the line of sight.",
+      "is minimum if the staff is held truly normal to the line of sight.",
+      "decreases if the staff is tilted away from normal",
+      "increases if the staff is tilted towards normal."
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "The thickness of a sharp crested weir is kept less than",
+    "o": [
+      "one-third of the height of water on the sill",
+      "one-half of the height of water on the sill",
+      "one-fourth of the height of water on the sill",
+      "two-third of the height of water on the sill"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "The maximum vacuum created at the summit of a syphon is",
+    "o": [
+      "2.7 m of water",
+      "7.4 m of water",
+      "5.5 m of water",
+      "none."
+    ],
+    "a": 1
+  },
+  {
+    "id": 16,
+    "q": "In a liquid limit test, the moisture content at 10 blows was 70% and that at 100 blows was 20%. The liquid limit of the soil, is",
+    "o": [
+      "35%",
+      "50%",
+      "65%",
+      "none of these."
+    ],
+    "a": 2
+  },
+  {
+    "id": 17,
+    "q": "The lateral earth pressure on a retaining wall",
+    "o": [
+      "is equal to mass of the soil retained",
+      "proportional to the depth of the soil",
+      "proportional to the square of the depth of the soil",
+      "proportional to the internal friction of the soil"
+    ],
+    "a": 3
+  },
+  {
+    "id": 18,
+    "q": "The maximum area of tension reinforcement in beams shall not exceed",
+    "o": [
+      "0.15%",
+      "1.5%",
+      "4%",
+      "1%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "Post tensioning system",
+    "o": [
+      "was widely used in earlier days",
+      "is not economical and hence not generally used",
+      "is economical for large spans and is adopted now a days",
+      "none of these."
+    ],
+    "a": 2
+  },
+  {
+    "id": 20,
+    "q": "The moment diagram for a cantilever carrying a concentrated load at its free end, will be",
+    "o": [
+      "triangle",
+      "rectangle",
+      "parabola",
+      "cubic parabola."
+    ],
+    "a": 0
+  },
+  {
+    "id": 21,
+    "q": "A rectangular log of wood is floating in water with a load of 100 N at its centre. The maximum shear force in the wooden log is",
+    "o": [
+      "50 N at each end",
+      "50 N at the centre",
+      "100 N at the centre",
+      "none of these."
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "Pick up the polymineralic rock from the following:",
+    "o": [
+      "Quartz sand",
+      "Pure gypsum",
+      "Magnesite",
+      "Granite"
+    ],
+    "a": 3
+  },
+  {
+    "id": 23,
+    "q": "नेपालको निशान छाप (Coat of Arms) कहिले संशोधन गरियो?",
+    "o": [
+      "२०७७ जेठ ५",
+      "२०७२ असोज ३",
+      "२०७७ असार ४",
+      "२०७४ भदौ १"
+    ],
+    "a": 2,
+    "e": "लिम्पियाधुरा सहितको नक्सा राख्न दोस्रो संशोधन।"
+  },
+  {
+    "id": 24,
+    "q": "कार्बन व्यापार (Carbon Trade) को अवधारणा कहिले देखि प्रारम्भ भयो?",
+    "o": [
+      "सन् १९९०",
+      "सन् १९९७",
+      "सन् २००५",
+      "सन् २०१०"
+    ],
+    "a": 1,
+    "e": "सन् १९९७ को क्योटो प्रोटोकलले बाटो खुलाएको"
+  },
+  {
+    "id": 25,
+    "q": "हालसम्म कतिवटा महिलाले UNO को महासभामा अध्यक्षता ग्रहण गरिसकेका छन्?",
+    "o": [
+      "३",
+      "४",
+      "५",
+      "६"
+    ],
+    "a": 1,
+    "e": "(४) (विजया लक्ष्मी पण्डित, एन्जी ब्रुक्स, हया रसिद अल खलिफा, मारिया फर्नान्डा एस्पिनोसा)"
+  },
+  {
+    "id": 26,
+    "q": "बिमस्टेक बडापत्र (Charter) मा नेपालको तर्फबाट कसले हस्ताक्षर गरेका थिए?",
+    "o": [
+      "के.पी. शर्मा ओली",
+      "शेरबहादुर देउवा",
+      "पुष्पकमल दाहाल",
+      "डा. नारायण खड्का"
+    ],
+    "a": 1,
+    "e": "पाँचौं शिखर सम्मेलन, श्रीलंकामा हस्ताक्षर भएको।"
+  },
+  {
+    "id": 27,
+    "q": "प्राथमिक उपचारमा 'CPR' को पूरा रूप के हो?",
+    "o": [
+      "Cardio Pulmonary Resuscitation",
+      "Cardiac Pulse Rate",
+      "Common Pulse",
+      "Rescue"
+    ],
+    "a": 0,
+    "e": "मुटु र फोक्सो पुनः सक्रिय पार्ने विधि।"
+  },
+  {
+    "id": 28,
+    "q": "दैलेखमा भेटिएको उक्त ग्यास भण्डारले नेपालको ग्यासको माग कति वर्षसम्म धान्न सक्ने अनुमान गरिएको छ?",
+    "o": [
+      "२० वर्ष",
+      "५० वर्ष",
+      "७५ वर्ष",
+      "१०० वर्ष"
+    ],
+    "a": 1,
+    "e": "हालको खपत दर अनुसार एउटै खानीले ५० वर्ष धान्न सक्छ।"
+  },
+  {
+    "id": 29,
+    "q": "नेपालमा प्रति हेक्टर रुखको संख्या (Tree Density) कति रहेको छ?",
+    "o": [
+      "४१० वटा",
+      "४२० वटा",
+      "४३० वटा",
+      "४५० वटा"
+    ],
+    "a": 2,
+    "e": "वन सर्वेक्षण प्रतिवेदन अनुसार।"
+  },
+  {
+    "id": 30,
+    "q": "संसारकै उच्च स्थानबाट बग्ने नदी अरुण हो भने सबैभन्दा उचाइमा रहेको हिमनदी कुन हो?",
+    "o": [
+      "लाम्टाङ हिमनदी",
+      "खुम्बु हिमनदी",
+      "इम्जा हिमनदी",
+      "ङोजुम्पा हिमनदी"
+    ],
+    "a": 1,
+    "e": "७,६०० मिटर उचाईमा।"
+  },
+  {
+    "id": 31,
+    "q": "तलका शब्दहरूलाई अंग्रेजी वर्णमाला (Alphabetical Order) अनुसार मिलाउँदा तेस्रो स्थानमा कुन शब्द आउँछ ?",
+    "o": [
+      "Monday",
+      "Monetary",
+      "Monotonous",
+      "Monster"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "यदि कुनै कोड भाषामा NEPAL लाई 14-5-16-1-12 लेखिन्छ भने, सोही भाषामा GORKHA लाई कसरी लेखिन्छ ?",
+    "o": [
+      "7-15-18-11-8-1",
+      "7-12-18-10-8-1",
+      "8-15-19-11-8-2",
+      "7-14-17-11-9-1"
+    ],
+    "a": 0,
+    "e": "यो प्रश्नमा अंग्रेजी अक्षरहरूको स्थानमान (Position Value) प्रयोग गरिएको छ। N=14, E=5, P=16, A=1, L=12. त्यसैगरी GORKHA को लागि: G=7, O=15, R=18, K=11, H=8, A=1. अतः 7-15-18-11-8-1 सही हुन्छ।"
+  },
+  {
+    "id": 33,
+    "q": "राम आफ्नो घरबाट उत्तरतर्फ १० कि.मी. हिँड्छ, त्यसपछि दायाँ फर्केर ५ कि.मी. हिँड्छ । पुनः दायाँ फर्केर १० कि.मी. हिँड्छ भने उ आफ्नो सुरुको विन्दुबाट कति टाढा छ ?",
+    "o": [
+      "१० कि.मी.",
+      "५ कि.मी.",
+      "१५ कि.मी.",
+      "२० कि.मी."
+    ],
+    "a": 1,
+    "e": "राम १० कि.मी. उत्तर जान्छ, ५ कि.मी. पूर्व (दायाँ) जान्छ, र फेरी १० कि.मी. दक्षिण (दायाँ) आउँछ। उ अहिले सुरुको बिन्दुको ठीक पूर्वमा छ र त्यो दूरी ५ कि.मी. बराबर हुन्छ।"
+  },
+  {
+    "id": 34,
+    "q": "विद्यार्थीहरूको एउटा लाइनमा, एउटा रुख बायाँबाट ७ औं स्थानमा छ र दायाँबाट १४ औं स्थानमा छ । लाइनमा जम्मा कति विद्यार्थी छन् ?",
+    "o": [
+      "२०",
+      "२१",
+      "१९",
+      "१८"
+    ],
+    "a": 0,
+    "e": "सूत्र: Total = (Left + Right) - 1. Total = (7 + 14) - 1. Total = 21 - 1 = 20."
+  },
+  {
+    "id": 35,
+    "q": "काम र समय: A लाई २० दिन र B लाई ३० दिन लाग्छ। काम सकिनुभन्दा ५ दिन अगाडि A ले छोड्यो भने जम्मा काम कति दिनमा सकियो ?",
+    "o": [
+      "१० दिन",
+      "१२ दिन",
+      "१५ दिन",
+      "२० दिन"
+    ],
+    "a": 2,
+    "e": "B को अन्तिम ५ दिनको काम = 10 युनिट। बाँकी काम (50) A र B ले सँगै 10 दिनमा गरे। जम्मा दिन = 10 + 5 = 15 दिन।"
+  },
+  {
+    "id": 36,
+    "q": "By the time the police arrived, the thief ______ escaped.",
+    "o": [
+      "has",
+      "had",
+      "will have",
+      "was"
+    ],
+    "a": 1,
+    "e": "This is the Past Perfect tense. When two actions happen in the past, the action that happened first (thief escaping) takes \"had + V3\", and the later action (police arriving) takes Simple Past."
+  },
+  {
+    "id": 37,
+    "q": "He is accustomed ______ late hours at the construction site.",
+    "o": [
+      "with",
+      "for",
+      "to",
+      "in"
+    ],
+    "a": 2,
+    "e": "The phrase \"accustomed to\" is a fixed prepositional phrase meaning used to. Many students mistakenly choose 'with'. Also, 'accustomed to' is followed by a gerund (working)."
+  },
+  {
+    "id": 38,
+    "q": "विशिष्ट' शब्दको सही हिज्जे (Spelling) र अर्थ खुल्ने वाक्य कुन हो ?",
+    "o": [
+      "उहाँ समाजको एक विशिष्ठ ब्यक्ति हुनुहुन्छ ।",
+      "उहाँ समाजको एक बिशिष्ट व्यक्ति हुनुहुन्छ ।",
+      "उहाँ समाजको एक विशिष्ट व्यक्ति हुनुहुन्छ ।",
+      "उहाँ समाजको एक विसिष्ट ब्यक्ती हुनुहुन्छ ।"
+    ],
+    "a": 2,
+    "e": "सही शब्द 'विशिष्ट' (Vashistha) हो, जसमा 'व' प्रयोग हुन्छ। अन्तिममा 'ष्ट' (shta) हुन्छ, 'ष्ठ' होइन।"
+  },
+  {
+    "id": 39,
+    "q": "तलका मध्ये शुद्ध वाक्य कुन हो ?",
+    "o": [
+      "मलाई धेरै भोक लाग्यो ।",
+      "मलाई ठुलो भोक लाग्यो ।",
+      "मलाई बेस्सरी भोक लाग्यो ।",
+      "मलाई धेरै भोक लागिन ।"
+    ],
+    "a": 2,
+    "e": "भोक, तिर्खा, निन्द्रा जस्ता कुरामा 'ठूलो' वा 'धेरै' भन्दा पनि 'बेस्सरी' वा 'निकै' विशेषणको प्रयोग व्याकरणगत रूपमा उत्कृष्ट मानिन्छ।"
+  },
+  {
+    "id": 40,
+    "q": "In-earthen roads, the common stabilizers used are",
+    "o": [
+      "cement",
+      "bitumen",
+      "lime",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 41,
+    "q": "In the case of gravel roads, pothole maintenance comes under the maintenance of",
+    "o": [
+      "routine",
+      "special",
+      "emergency",
+      "periodic"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "1 Ropani equals",
+    "o": [
+      "5476 sq. ft",
+      "342.25 sq. ft",
+      "85.562 sq. ft",
+      "21.4 sq. ft"
+    ],
+    "a": 0
+  },
+  {
+    "id": 43,
+    "q": "In the case of roof truss made of steel, rivet, bolts and nuts usually accounts for",
+    "o": [
+      "1%",
+      "5%",
+      "10%",
+      "15%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "The number of members in the dispute resolution board is",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "both (a) and (c)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "Abbreviation which is correct?",
+    "o": [
+      "TOC - Total organic carbon",
+      "ThOD -Theoretical oxygen demand",
+      "TOD - Total oxygen demand",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "The service pipes must be designed to carry",
+    "o": [
+      "3 times the average demand",
+      "4 times the average demand",
+      "2 times the average demand",
+      "1 times the average demand"
+    ],
+    "a": 2
+  },
+  {
+    "id": 47,
+    "q": "Canal normally used for the diversion of flood waters of a river is",
+    "o": [
+      "feeder canal",
+      "inundation canal",
+      "ridge canal",
+      "contour canal"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "The weight of a 10 mm diameter mild steel rod per meter length is equal to",
+    "o": [
+      "0.62 kg",
+      "0.32 kg",
+      "0.42 kg",
+      "0.22kg"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "Maximum shrinkage takes place in concrete after drying for",
+    "o": [
+      "28 days",
+      "three months",
+      "six months",
+      "one year"
+    ],
+    "a": 3
+  },
+  {
+    "id": 50,
+    "q": "The construction joints in cement concrete",
+    "o": [
+      "should be located where bending moment is large",
+      "should be located where shear force is large",
+      "should not be provided at the corners",
+      "should be spaced at a distance of 3m apart in case of huge structures"
+    ],
+    "a": 2
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "id": 1,
+    "q": "Which type of R.C. section is preferred in seismic (earthquake-prone) zones?",
+    "o": [
+      "Over-reinforced section",
+      "Under-reinforced section",
+      "Balanced section",
+      "Non-reinforced section"
+    ],
+    "a": 1,
+    "e": "Because it provides ductility and warning before failure. "
+  },
+  {
+    "id": 2,
+    "q": "Which of the following is the most common type of shear reinforcement used in buildings?",
+    "o": [
+      "Vertical Stirrups",
+      "Horizontal Stirrups",
+      "Helical Reinforcement",
+      "Only Bent-up bars"
+    ],
+    "a": 0
+  },
+  {
+    "id": 3,
+    "q": "The temporary support provided to an unsafe structure or during the underpinning of a wall is called:",
+    "o": [
+      "Scaffolding",
+      "Shoring",
+      "Formwork",
+      "Curing"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "Damp Proof Course (DPC) is usually provided at:",
+    "o": [
+      "Roof level",
+      "Plinth level",
+      "Foundation base",
+      "Window sill level only"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "The light fatty materials that float on the surface of the water in a septic tank are called:",
+    "o": [
+      "Sludge",
+      "Scum",
+      "Grit",
+      "Gravel"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "The \"Freeboard\" in a septic tank (distance between liquid level and top slab) is usually:",
+    "o": [
+      "0 cm",
+      "10 to 20 cm",
+      "30 to 45 cm",
+      "200 cm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 7,
+    "q": "The total depth of water required by a crop during the entire period it is in the field is known as:",
+    "o": [
+      "Duty",
+      "Delta (\\Delta)",
+      "Base Period",
+      "Intensity of Irrigation"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "The \"Maximum Velocity\" (Non-scouring velocity) depends on:",
+    "o": [
+      "The color of the water",
+      "The material of the canal lining/bed",
+      "The length of the canal",
+      "The height of the embankment"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "As per the Nepal Road Standard (NRS), \"Strategic Road Network\" (SRN) primarily includes:",
+    "o": [
+      "Village Roads and Agriculture Roads",
+      "National Highways and Feeder Roads",
+      "Only the East-West Highway",
+      "District Roads only"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "A \"Sheep-foot Roller\" is best suited for compacting:",
+    "o": [
+      "Sand",
+      "Gravel",
+      "Cohesive soil",
+      "Asphalt"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "An \"Approximate Estimate\" is prepared for:",
+    "o": [
+      "Final payment to the contractor",
+      "Obtaining administrative approval and preliminary funding",
+      "Detailed site execution",
+      "Measuring the exact amount of steel"
+    ],
+    "a": 1
+  },
+  {
+    "id": 12,
+    "q": "Which unit is used for \"Cornice\" measurement?",
+    "o": [
+      "Square meter",
+      "Cubic meter",
+      "Running meter",
+      "Kilogram"
+    ],
+    "a": 2
+  },
+  {
+    "id": 13,
+    "q": "In governmental organizations, \"Audit\" is done to:",
+    "o": [
+      "Check the technical design",
+      "Verify the financial regularity and transparency of expenditures",
+      "Count the number of bricks",
+      "Paint the building"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "Pick up the correct statement from the following :",
+    "o": [
+      "the eyepiece plays no part in defining the line of sight",
+      "the diaphragm plays no part in defining the line of sight",
+      "the optical centre of the objective plays no part in defining the line of sight",
+      "none of these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "The radius of curvature of the arc of the bubble tube is generally kept",
+    "o": [
+      "10 m",
+      "25 m",
+      "50 m",
+      "100 m"
+    ],
+    "a": 3
+  },
+  {
+    "id": 16,
+    "q": "The real image of an object formed by the objective, must lie",
+    "o": [
+      "in the plane of cross hairs",
+      "at the centre of the telescope",
+      "at the optical centre of the eye-piece",
+      "anywhere inside the telescope."
+    ],
+    "a": 0
+  },
+  {
+    "id": 17,
+    "q": "Wrought iron contains carbon upto",
+    "o": [
+      "0.25%",
+      "1.0%",
+      "1.5%",
+      "2%."
+    ],
+    "a": 0
+  },
+  {
+    "id": 18,
+    "q": "Ultimate strength to cement is provided by",
+    "o": [
+      "Tricalcium silicate",
+      "Di-calcium silicate",
+      "Tri-calcium aluminate",
+      "Tetra calcium alumino ferrite."
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "Elastomers can extend upto",
+    "o": [
+      "five times their original dimensions",
+      "seven times their original dimensions",
+      "ten times their original dimensions",
+      "three times their original dimensions"
+    ],
+    "a": 2
+  },
+  {
+    "id": 20,
+    "q": "If the atmospheric pressure on the surface of an oil tank (sp. gr. 0.8) is 0.1 kg/cm2, the pressure at a depth of 2.5 m, is",
+    "o": [
+      "1 metre of water",
+      "2 metres of water",
+      "3 metres of water",
+      "3.5 metres of water"
+    ],
+    "a": 2
+  },
+  {
+    "id": 21,
+    "q": "If the volume of a liquid weighing 3000 kg is 4 cubic metres, 0.75 is its",
+    "o": [
+      "specific weight",
+      "specific mass",
+      "specific gravity",
+      "none of these."
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "The total pressure force on a plane area is equal to the area multiplied by the intensity of pressure at its centroid, if",
+    "o": [
+      "area is horizontal",
+      "area is vertical",
+      "area is inclined",
+      "all the above."
+    ],
+    "a": 3
+  },
+  {
+    "id": 23,
+    "q": "The active earth pressure of a soil is proportional to (where φ is the angle of friction of the soil)",
+    "o": [
+      "tan (45° - φ)",
+      "tan2 (45° + φ/2)",
+      "tan2 (45° - φ/2)",
+      "tan (45° + φ)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "The internal molecular attraction of a soil, the cohesion",
+    "o": [
+      "decreases as the moisture content increases",
+      "increases as the moisture content decreases",
+      "is more in well compacted clays",
+      "depends upon the external applied load."
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "A three-hinged arch is said to be :",
+    "o": [
+      "statically determinate structure",
+      "statically indeterminate structure",
+      "a bent beam",
+      "none of these."
+    ],
+    "a": 0
+  },
+  {
+    "id": 26,
+    "q": "The shape of the bending moment diagram over the length of a beam, having no external load, is always",
+    "o": [
+      "linear",
+      "parabolic",
+      "cubical",
+      "circular."
+    ],
+    "a": 0
+  },
+  {
+    "id": 27,
+    "q": "If two forces acting at a joint are not along the straight line, then for the equilibrium of the joint",
+    "o": [
+      "one of the forces must be zero",
+      "each force must be zero",
+      "forces must be equal and of the same sign",
+      "forces must be equal in magnitude but opposite in sign."
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "सार्वजनिक बडापत्रको कानुनी व्यवस्था कुन नियमावलीमा रहेको छ?",
+    "o": [
+      "सुशासन नियमावली २०६५ को दफा १३",
+      "सुशासन नियमावली २०६५ को दफा १४",
+      "सुशासन नियमावली २०६५ को दफा १५",
+      "सुशासन नियमावली २०६५ को दफा १६"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "भवन निर्माणको अनुमतिको लागि दरखास्त परेको कति दिनभित्र प्रमुख प्रशासकीय अधिकृतले सो दरखास्त रीतपूर्वकको छ छैन जाँचबुझ गर्नु पर्नेछ?",
+    "o": [
+      "३ दिनभित्र",
+      "७ दिनभित्र",
+      "१५ दिनभित्र",
+      "२१ दिनभित्र"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "महावीर पुनले प्राप्त गरेको अर्को प्रतिष्ठित अन्तर्राष्ट्रिय पुरस्कार 'Jonathan B. Postel Service Award' कहिले पाएका थिए?",
+    "o": [
+      "सन् २०१०",
+      "सन् २०१४",
+      "सन् २०१६",
+      "सन् २०२०"
+    ],
+    "a": 1,
+    "e": "इन्टरनेट सोसाइटीले प्रदान गर्ने यो पुरस्कार उनले सोही वर्ष पाएका हुन् जहिले 'हल अफ फेम' मा परेका थिए। "
+  },
+  {
+    "id": 31,
+    "q": "मानव विकास सूचकांक २०२५ मा नेपालको स्थान कति छ?",
+    "o": [
+      "146",
+      "144",
+      "143",
+      "145"
+    ],
+    "a": 3,
+    "e": "२०२४ मा नेपाल १४६ औँ स्थानमा थियो।"
+  },
+  {
+    "id": 32,
+    "q": "रनिङ बिल (Running Bill) बाट 'रिटेन्सन मनी' (Retention Money) बापत कति रकम कट्टा गरिन्छ?",
+    "o": [
+      "२.५ प्रतिशत",
+      "५ प्रतिशत",
+      "१० प्रतिशत",
+      "२० प्रतिशत"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "मधेश प्रदेश निजामती सेवा ऐन २०७७ अनुसार अनिवार्य अवकाश को उमेर कति वर्षको हुन्छ?",
+    "o": [
+      "58",
+      "55",
+      "60",
+      "65"
+    ],
+    "a": 2,
+    "e": "निजामती सेवा ऐन अनुसार ५८ वर्ष "
+  },
+  {
+    "id": 34,
+    "q": "सुशान व्यवस्थापन तथा संचलन ऐन 2064 वा अन्य प्रचलित कानून बमोजिम निर्णय गर्न पाउने अधिकारीले कुनै विषयमा निर्णय गर्दा प्रचलित कानून बमोजिम कुनै निश्चित अवधिभित्र निर्णय गर्नु पर्ने रहेछ भने सोही समयावधिभित्र र त्यस्तो व्यवस्थानभएकोमा निर्णय गर्नु पर्ने विषयसँग सम्बन्धित सूचना. प्रमाण वा कागजात प्राप्त भएको कति कार्यदिनभित्र निर्णय गर्नु पर्नेछ ।",
+    "o": [
+      "8",
+      "9",
+      "5",
+      "7"
+    ],
+    "a": 3
+  },
+  {
+    "id": 35,
+    "q": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन २०७६, कुनै पनि कार्यालय वा बजेट प्रणाली बाहिर का सार्वजनिक निकायले कसलाई आर्थिक दायित्व सिर्जना हुने गरी खर्चको प्रतिबद्धता जनाउनु हुँदैन।",
+    "o": [
+      "नेपाल सरकार",
+      "प्रदेश सरकार",
+      "सार्वजनिक संस्थाहरू",
+      "कुनै पनि होइन"
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "मधेश प्रदेशमा कतिवटा मन्त्रालय छन् ?",
+    "o": [
+      "11",
+      "12",
+      "13",
+      "10"
+    ],
+    "a": 1,
+    "e": "मधेश प्रदेश सरकार (कार्यबिभजन) नियामावली, २०८० धारा ७ "
+  },
+  {
+    "id": 37,
+    "q": "प्रदेश निजामती कर्मचारीले सेवा अवधिभरमा सहायक पाँचौ र अधिकृत छैठौं तहको कर्मचारीलाई कति महिना बराबरको खाइपाई आएको तलब रकम उपचार खर्च बापत पाउनेछ ।",
+    "o": [
+      "18",
+      "21",
+      "12",
+      "NONE"
+    ],
+    "a": 0,
+    "e": "अधिकृत सातौं वा सोभन्दा माथिल्लो तहको कर्मचारीलाई बाह्रमहिना, सहायक पाँचौ र अधिकृत छैठौं तहको कर्मचारीलाई अठार महिना र सहायक चौथो र सोभन्दा मुनि तहका कर्मचारीलाई एकाइस महिना"
+  },
+  {
+    "id": 38,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार कुल जनसङ्ख्या को कति प्रतिशत जनसङ्ख्या अपाङ्गता रहेको छ?",
+    "o": [
+      "२.१%",
+      "२%",
+      "२.२%",
+      "१.९%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "सिमसार क्षेत्र सम्बन्धी रामसार महासन्धि, १९७१ लाई नेपालले कहिले अनुमोदन गर्यो?",
+    "o": [
+      "१७ अप्रिल १९८८",
+      "१७ अप्रिल १९८७",
+      "१७ अप्रिल १९९०",
+      "१७ अप्रिल १९८८"
+    ],
+    "a": 3
+  },
+  {
+    "id": 40,
+    "q": "भौतिक र रसायन दुवै विधाको नोबेल पुरस्कार प्राप्त गर्ने वैज्ञानिक तलका मध्ये को हुन्?",
+    "o": [
+      "मेडल क्युरी",
+      "अटो हान",
+      "पियरे क्युरी",
+      "माइकल फाराडे"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "नेपालको संविधान अनुसार मृत्युदण्डको सजाय हुने गरी कानून बनाउन नपाउने व्यवस्था कुन धारामा छ?",
+    "o": [
+      "धारा १४",
+      "धारा १६",
+      "धारा १२",
+      "धारा १३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "सरकारी सूचना वर्गीकरण समितिको अध्यक्ष को हुन्छ?",
+    "o": [
+      "प्रधानमन्त्री",
+      "सूचना तथा संचार मन्त्री",
+      "राष्ट्रिय सूचना आयोगको प्रमुख आयुक्त",
+      "मुख्य सचिव, नेपाल सरकार"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "प्रसिद्ध \"जानकी मन्दिर\" को निर्माण कुन वास्तुकलाको शैलीमा गरिएको छ?",
+    "o": [
+      "शिखर शैली",
+      "स्तुपा शैली",
+      "मुगल र राजपुत शैली",
+      "प्यागोडा शैली"
+    ],
+    "a": 2
+  },
+  {
+    "id": 44,
+    "q": "कमला नदीले छुट्याउने जिल्ला तलका मध्ये कुन हो?",
+    "o": [
+      "धनुषा र महोत्तरी",
+      "सिराहा र सप्तरी",
+      "धनुषा र सिराहा",
+      "सर्लाही र महोत्तरी"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "नेपालको सोह्रौँ योजना अनुसार योजनाको अन्त्यसम्ममा बेरोजगारी दर कति पुर्याउने लक्ष्य रहेको छ?",
+    "o": [
+      "५.२%",
+      "५%",
+      "६%",
+      "६.२%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "मधेश प्रदेश सरकारले आर्थिक वर्ष २०८२/८३का लागि कुल कति रकमको बजेट विनियोजन गरेको छ?",
+    "o": [
+      "रु ४६ अर्व ९८ करोड ३३ लाख ५१ हजार",
+      "रु ५० अर्व ९८ करोड ३३ लाख ५१ हजार",
+      "रु ३६ अर्व ९८ करोड ३३ लाख ५१ हजार",
+      "रु ४० अर्व ९८ करोड ३३ लाख ५१ हजार"
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "निम्न मध्ये कुन आधार प्रदेश सुशासन ऐनको होइन?",
+    "o": [
+      "पारदर्शिता",
+      "आर्थिक अनुशासन",
+      "जातिय पक्षपात",
+      "जवाफदेही"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "अन्तिम लेखा परीक्षण कसले गर्छ? (Who performs the final audit?)",
+    "o": [
+      "प्रदेश लेखा नियन्त्रक कार्यालय",
+      "आर्थिक मामिला तथा योजना मन्त्रालय",
+      "महालेखा परीक्षकको कार्यालय",
+      "मुख्यमन्त्री कार्यालय"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "Distemper is suitable to use on -------",
+    "o": [
+      "plastered surface not exposed to weather",
+      "plastered surface exposed to weather",
+      "unplastered brick walls",
+      "inside the bathrooms"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "The threshold markings are:",
+    "o": [
+      "4m wide",
+      "1m clear space between adjustment",
+      "45m in length",
+      "All of the above"
+    ],
+    "a": 3
+  }
+]

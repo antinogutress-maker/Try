@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1,
+    "q": "नेपालको हाल कार्यान्वयनमा रहेको १६औँ पञ्चवर्षीय योजनाको मुख्य लक्ष्य के हो?",
+    "o": [
+      "गरिबी निवारण",
+      "सुशासन, सामाजिक न्याय र समृद्धि",
+      "औद्योगिक क्रान्ति",
+      "कृषिमा आधुनिकीकरण"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "\"दिगो विकास लक्ष्य (SDG)\" अनुसार सन् २०३० सम्ममा भोकमरी अन्त्य गर्ने लक्ष्य कति नम्बरमा रहेको छ?",
+    "o": [
+      "लक्ष्य नम्बर १",
+      "लक्ष्य नम्बर २",
+      "लक्ष्य नम्बर ५",
+      "लक्ष्य नम्बर १३"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "नेपालमा पहिलो पटक रोबोटको प्रयोग गरी सेवा प्रदान गर्ने सरकारी कार्यालय कुन हो?",
+    "o": [
+      "राहदानी विभाग",
+      "यातायात व्यवस्था कार्यालय",
+      "नेपाल टेलिकम",
+      "अध्यागमन विभाग"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "नेपालको इतिहासमा 'समाज सुधारक राजा' भनेर कसलाई चिनिन्छ, जसले जातप्रथा र सामाजिक व्यवस्थालाई व्यवस्थित गरेका थिए?",
+    "o": [
+      "जयस्थिति मल्ल",
+      "महेन्द्र मल्ल",
+      "पृथ्वीनारायण शाह",
+      "अंशुवर्मा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 5,
+    "q": "गण्डकी प्रदेशमा रहेका प्रसिद्ध पर्यटकीय स्थलहरूमध्ये 'हजारौँ शालिग्राम' पाइने पवित्र नदी कुन हो?",
+    "o": [
+      "मर्स्याङ्दी नदी",
+      "सेती नदी",
+      "काली गण्डकी",
+      "मादी नदी"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "नेपालमा स्वास्थ्य बिमा कार्यक्रम कहिलेबाट सुरु भएको थियो ?",
+    "o": [
+      "वि.सं २०७२",
+      "वि.सं २०७३",
+      "वि.सं २०७४",
+      "वि.सं २०७५"
+    ],
+    "a": 0
+  },
+  {
+    "id": 7,
+    "q": "सार्कको बजेटमा नेपालको योगदान कति प्रतिशत छ ?",
+    "o": [
+      "३०.३२ %",
+      "२२.५२ %",
+      "१०.७२ %",
+      "७ %"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "संयुक्त राष्ट्रसंघको आदर्श वाक्य तलका मध्ये कुन हो ?",
+    "o": [
+      "It's Your World",
+      "Life for all",
+      "We are one Family",
+      "No war"
+    ],
+    "a": 0
+  },
+  {
+    "id": 9,
+    "q": "शिहँदरबारमा दोस्रो पटक आगलागी कहिले भएको थियो ?",
+    "o": [
+      "२०८२ भदौ २५ गते",
+      "२०८२ साउन २४ गते",
+      "२०८१ असार २४ गते",
+      "२०८२ भदौ २४ गते"
+    ],
+    "a": 3
+  },
+  {
+    "id": 10,
+    "q": "यदि दीपेन्द्र सिंह ऐरी नेपालको लागि विश्वकपमा अर्धशतक बनाउने दोस्रो खेलाडी हुन् भने, विश्वकपमा नेपालको लागि अर्धशतक बनाउने पहिलो क्रिकेट खेलाडी को हुन्?",
+    "o": [
+      "Dipendra Singh Airi",
+      "Parash Khadka",
+      "Sharad Vesawkar",
+      "Subash Khakurel"
+    ],
+    "a": 3
+  },
+  {
+    "id": 11,
+    "q": "निजामती सेवामा हाल कति वटा सेवाहरू गठन गरिएका छन्?",
+    "o": [
+      "९",
+      "१०",
+      "११",
+      "१२"
+    ],
+    "a": 1
+  },
+  {
+    "id": 12,
+    "q": "कर्मचारी सञ्चय कोषमा कति प्रतिशत रकम कट्टा गरिन्छ?",
+    "o": [
+      "५%",
+      "१०%",
+      "१५%",
+      "२०%"
+    ],
+    "a": 1,
+    "e": "सरकारले १०% थप्छ।"
+  },
+  {
+    "id": 13,
+    "q": "कम्प्युटरमा 'Cut' गर्नको लागि कुन सर्टकट कि प्रयोग गरिन्छ?",
+    "o": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + Z"
+    ],
+    "a": 2,
+    "e": "Copy=Ctrl+C, Paste=Ctrl+V, Undo=Ctrl+Z"
+  },
+  {
+    "id": 14,
+    "q": "नेपालको विद्यार्थीहरूद्वारा निर्मित भू-उपग्रह 'Slippers2Sat' (S2S) कहिले प्रक्षेपण गरियो?",
+    "o": [
+      "२०८२ मङ्सिर १०",
+      "२०८२ मङ्सिर २०",
+      "२०८२ मङ्सिर २४",
+      "२०८२ पुस ५"
+    ],
+    "a": 2,
+    "e": "यो नेपालको दोस्रो र विद्यार्थीले बनाएको पहिलो स्याटेलाइट हो।"
+  },
+  {
+    "id": 15,
+    "q": "जलवायु परिवर्तन सम्बन्धी आगामी सम्मेलन कोप-३१ (COP-31) कहाँ आयोजना हुने निश्चित भएको छ?",
+    "o": [
+      "स्वीट्जरल्याण्ड",
+      "ब्राजिल",
+      "अजरबैजान",
+      "अष्ट्रेलिया"
+    ],
+    "a": 3
+  },
+  {
+    "id": 16,
+    "q": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २५, धारा २४९",
+      "भाग २६, धारा २५०",
+      "भाग २७, धारा २५१",
+      "भाग २८, धारा २५२"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "परामर्श सेवाको लागि 'प्रस्ताव माग' (RFP) गर्दा २० लाख रुपैयाँभन्दा बढी लागत अनुमान भएमा कति दिनको सूचना दिनुपर्छ?",
+    "o": [
+      "१५ दिन",
+      "२१ दिन",
+      "३० दिन",
+      "४५ दिन"
+    ],
+    "a": 2,
+    "e": "नोट: २० लाखसम्म भए १५ दिन"
+  },
+  {
+    "id": 18,
+    "q": "नगर सभा' भन्नाले संविधानको कुन धारा बमोजिमको नगर सभा सम्झनु पर्छ?",
+    "o": [
+      "धारा २२२ (१)",
+      "धारा २२३ (१)",
+      "धारा २१७",
+      "धारा २२७"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "सङ्घीय मामिला तथा सामान्य प्रशासन मन्त्रालयले स्थानीय तहमा क्षमता विकासका लागि प्रयोग गर्ने सूचना प्रणाली कुन हो?",
+    "o": [
+      "MoFAGA पोर्टल",
+      "CDMIS",
+      "PIS",
+      "GIS"
+    ],
+    "a": 1,
+    "e": "(Capacity Development Management)"
+  },
+  {
+    "id": 20,
+    "q": "प्रमुख सूचना आयुक्तले को समक्ष शपथ ग्रहण गर्नुपर्छ?",
+    "o": [
+      "राष्ट्रपति",
+      "प्रधानमन्त्री",
+      "प्रधानन्यायाधीश",
+      "सभामुख"
+    ],
+    "a": 1,
+    "e": "(नोट: अन्य आयुक्तले चाहिँ प्रमुख आयुक्त समक्ष शपथ लिन्छन्)"
+  },
+  {
+    "id": 21,
+    "q": "The separation of boundary layer takes place in case of ............",
+    "o": [
+      "negative pressure gradient",
+      "positive pressure gradient",
+      "zero pressure gradient",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "Orifices are used to measure ............",
+    "o": [
+      "velocity",
+      "pressure",
+      "rate of flow",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 23,
+    "q": "Which mouthpiece is having maximum co-efficient of discharge?",
+    "o": [
+      "external mouthpiece",
+      "convergent divergent mouthpiece",
+      "internal mouthpiece",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "Aerobic bacteria ............",
+    "o": [
+      "consume oxygen in combined state",
+      "prefer darkness to light",
+      "prefer movement to stagnation",
+      "produce less energy and more end products"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "When more than 2 sewers join in a manhole ............",
+    "o": [
+      "their tops should be at the same level",
+      "their centres should be that the same level",
+      "their bottoms should be at the same level",
+      "they can be either way"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "In case of siphon aqueduct, the H.F.L. of the drain is ............",
+    "o": [
+      "much below the bottom of the canal trough",
+      "much higher above the canal bed",
+      "in level with the canal bed",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "The basic factor which controls the process of meandering is ............",
+    "o": [
+      "discharge",
+      "valley slope",
+      "bed and side resistance",
+      "all of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "A terrain with cross-slope less than 10 percent, is called ............",
+    "o": [
+      "steep terrain",
+      "mountainous terrain",
+      "level terrain",
+      "rolling terrain"
+    ],
+    "a": 2
+  },
+  {
+    "id": 29,
+    "q": "A curve is expressed in terms of angle in degrees subtended to the centre by an arc of ............ radius.",
+    "o": [
+      "25 m",
+      "30 m",
+      "45 m",
+      "60 m"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "The unit of measurement of fair face brick work is ............",
+    "o": [
+      "m²",
+      "kg",
+      "m³",
+      "per m"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "Approximate weight of 1 cubic metre of sand is ............",
+    "o": [
+      "800 kg",
+      "1600 kg",
+      "2400 kg",
+      "3200 kg"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "Which of the following surfaces will give highest rolling resistance for a rubber tyred vehicle?",
+    "o": [
+      "concrete",
+      "loose sand",
+      "asphalt",
+      "firm earth"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "Select the incorrect statement ............",
+    "o": [
+      "start float and finish float are always equal",
+      "total float can be either start float or finish float",
+      "start float and finish float need not be equal",
+      "start float and finish float are the differences between activity times and not event times"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "The name of first plane landed on the old golf course which makes the present location of Tribhuvan international Airport is ...",
+    "o": [
+      "twinatter",
+      "glider",
+      "boing",
+      "helicopter"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "Runway is designed on the basis of ...",
+    "o": [
+      "runway length",
+      "types of aircraft",
+      "runway width",
+      "wheel load of aircraft"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "Which of the following conditions require geodetic surveying?",
+    "o": [
+      "horizontal curve ranging",
+      "vertical curve ranging",
+      "Survey of a country",
+      "reconnaissance survey"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "Which one of the following is the largest scale?",
+    "o": [
+      "1:500",
+      "1:1000",
+      "1:2500",
+      "1:50000"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "The curve used for ideal transition curve is a",
+    "o": [
+      "cubic parabola",
+      "clothoid spiral",
+      "cubic spiral",
+      "lemniscate"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "The ordinary cement used in general construction is",
+    "o": [
+      "Rapid hardening cement",
+      "Portland cement",
+      "High alumina cement",
+      "Pozzolana cement"
+    ],
+    "a": 1
+  },
+  {
+    "id": 40,
+    "q": "An aggregate is said to be elongated if its",
+    "o": [
+      "least dimension is less than 1.8 times of its mean dimension",
+      "least dimension is less than 0.6 times of its mean dimension.",
+      "greatest dimension is more than 1.8 times of its mean dimension.",
+      "greatest dimension is more than 0.6 times of its mean dimension."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "Size of cyclopean aggregate is",
+    "o": [
+      "0.6 mm to 4.75 mm",
+      "4.75 mm to 75 mm",
+      "more than 75mm",
+      "less than 0.6 mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "When a rectangular beam is loaded transversely, the zero stress is developed on the",
+    "o": [
+      "neutral axis",
+      "top layer",
+      "bottom layer",
+      "every cross section"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "The load at which the column just buckles, is known as",
+    "o": [
+      "buckling load",
+      "critical load",
+      "crippling load",
+      "any one of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "The direct stress induced in a long column is",
+    "o": [
+      "same",
+      "more",
+      "less",
+      "negligible"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "A syphon is used",
+    "o": [
+      "to connect water reservoirs at different levels intervened by a hill",
+      "to supply water to a town from higher level to lower level",
+      "to fill up a tank with water at higher level from a lower level",
+      "none of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "Most economical section of a circular channel for maximum discharge",
+    "o": [
+      "depth of water = 0.95 diameter of circular section",
+      "hydraulic mean depth = 0.286 diameter of circular section",
+      "wetted perimeter = 2.6 diameter of circular section",
+      "wetted perimeter = 2.83 depth of water",
+      "all the above"
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "A flow whose streamline is represented by a curve, is called",
+    "o": [
+      "one-dimensional flow",
+      "two-dimensional flow",
+      "three-dimensional flow",
+      "four-dimensional flow"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "On piles, the drop must be at least",
+    "o": [
+      "80 cm",
+      "100 cm",
+      "120 cm",
+      "140 cm"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "The effect of crop on modular ratio is",
+    "o": [
+      "to decrease it",
+      "to increase it",
+      "either increase or decrease it",
+      "do not effect on modular ratio"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "For general engineering purposes, soils are classified by",
+    "o": [
+      "particle size classification system",
+      "textural classification systern",
+      "High Way Research Board (HRB), classification system",
+      "unified soil classification system"
+    ],
+    "a": 3,
+    "e": "[:_0](:)"
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "id": 1,
+    "q": "For construction of structures in sea water, the cement generally preferred to is...",
+    "o": [
+      "portland pozzolana cement",
+      "quick setting cement",
+      "low heat portland cement",
+      "rapid hardening cement"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "Water cement ratio is generally expressed in volume of water required per...",
+    "o": [
+      "20 kg",
+      "30 kg",
+      "40 kg",
+      "50 kg"
+    ],
+    "a": 3
+  },
+  {
+    "id": 3,
+    "q": "A river meandering through an alluvial plain has a series of consecutive curves of reversed order connected with short straight sketches, is called ............ ",
+    "o": [
+      "crossing",
+      "meandering belt",
+      "meandering length",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "If the optimum depth of kor watering for a crop is 15.12 cm, the outlet factor for the crop for four week period in hectares per cumer, is ............ ",
+    "o": [
+      "1000",
+      "1200",
+      "1400",
+      "1600"
+    ],
+    "a": 3
+  },
+  {
+    "id": 5,
+    "q": "Sedimentation aided by coagulation is rarely done for sanitary sewage because ............ ",
+    "o": [
+      "chemicals cost more",
+      "time of treatment is further prolonged",
+      "sludge cannot be disposed of easily",
+      "chemicals may be harmful to living organisms of sewage"
+    ],
+    "a": 3
+  },
+  {
+    "id": 6,
+    "q": "The bacteria that flourish at high temperature (greater than 45°c are called ............ ",
+    "o": [
+      "cryptophilic",
+      "psychrophilic",
+      "mesophilic",
+      "thermophilic"
+    ],
+    "a": 3
+  },
+  {
+    "id": 7,
+    "q": "A camber consisting of two straight slopes joining at the centre is called .............",
+    "o": [
+      "barrel camber",
+      "sloped camber",
+      "composite camber",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "The thickness of base, in no case, should be more than .............",
+    "o": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "30 cm"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "The correct relationship between rise, R and tread, T is ............ ",
+    "o": [
+      "2R + T = 600",
+      "T = R - 1",
+      "both 'a' and 'b'",
+      "none of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "An area of one hectare is equal to ............ ",
+    "o": [
+      "10 m²",
+      "100 m²",
+      "10000 m²",
+      "1000 m²"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "The process of inspiring the subordinates to do work or achieve an objective is called as ............ ",
+    "o": [
+      "management",
+      "supervision",
+      "motivation",
+      "communication"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "The problem of developing, low cost housing for economically backward people in undeveloped region should be analysed by ............ ",
+    "o": [
+      "Gantt chart",
+      "C.P.M. technique",
+      "P.E.R.T. technique",
+      "zero or negative"
+    ],
+    "a": 0
+  },
+  {
+    "id": 13,
+    "q": "Ramp is a ...",
+    "o": [
+      "wheeled staircase",
+      "sloped road",
+      "both side of runway",
+      "all of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 14,
+    "q": "The mode of transport which can't be used in foggy weather is ...",
+    "o": [
+      "air",
+      "railway",
+      "highway",
+      "pedestrian"
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "वर्तमान संविधानको धारा २७ मा रहेको \"सूचनाको हक\" मा कुन विषयको सूचना दिन बाध्य पारिने छैन भनी उल्लेख छ?",
+    "o": [
+      "सार्वजनिक सरोकारको विषय",
+      "आफ्नो सरोकारको विषय",
+      "कानुन बमोजिम गोप्य राख्नुपर्ने जानकारी",
+      "सरकारी कार्यालयको बजेट विवरण"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "सुशासनको \"भविष्यपरक दृष्टिकोण\" (Visionary Outlook) भन्नाले के बुझिन्छ?",
+    "o": [
+      "पुरानै नीति र नियमको कडाइका साथ पालना",
+      "दीर्घकालीन सोच र भविष्यको आवश्यकता अनुसारको योजना",
+      "केवल वर्तमान समस्याको तत्काल समाधान",
+      "विदेशी मोडलको हुबहु नक्कल"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "सार्वजनिक सेवा उपलब्ध गराउनु सरकारको कर्तव्य हो भने नागरिकको के हो?",
+    "o": [
+      "दायित्व",
+      "परोपकार",
+      "अधिकार",
+      "अनुग्रह"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "साविकको स्थानीय विकास मन्त्रालयलाई कहिलेदेखि 'संघीय मामिला तथा सामान्य प्रशासन मन्त्रालय' नामाकरण गरियो?",
+    "o": [
+      "वि.सं. २०६२/६३ को राजनीतिक परिवर्तन पश्चात",
+      "वि.सं. २०७२ को संविधान जारी भए पश्चात",
+      "वि.सं. २०७४ को स्थानीय निर्वाचन पश्चात",
+      "वि.सं. २०३७ को स्थापना कालदेखि नै"
+    ],
+    "a": 0
+  },
+  {
+    "id": 19,
+    "q": "आम्दानीका प्रमुख तत्वहरू अन्तर्गत तलका मध्ये कुन पर्दैन?",
+    "o": [
+      "राजस्व",
+      "वैदेशिक अनुदान",
+      "आन्तरिक तथा बाह्य ऋण",
+      "साधारण खर्च"
+    ],
+    "a": 3
+  },
+  {
+    "id": 20,
+    "q": "आन्तरिक लेखापरीक्षणले मुख्य गरी के हेर्छ?",
+    "o": [
+      "कार्यदक्षता, प्रभावकारिता र मितव्ययिता",
+      "अंकगणितीय शुद्धता, नियमन शुद्धता र सैद्धान्तिक शुद्धता",
+      "औचित्यता र नियमितता मात्र",
+      "भौतिक सम्पत्तिको लिलामी र खरिद प्रक्रिया"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "व्यवस्थापिका, कार्यपालिका र न्यायपालिका बाहेक संविधानमा व्यवस्था गरिएका स्वतन्त्र निकायलाई के भनिन्छ?",
+    "o": [
+      "प्रशासनिक निकाय",
+      "सरकारी अङ्ग",
+      "संवैधानिक निकाय",
+      "अर्धन्यायिक निकाय"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "अन्तर्राष्ट्रियस्तरको बोलपत्र (ICB) मा पेश गरिने बोलपत्र जमानत (Bid Security) को मान्य हुने अवधि कम्तीमा कति दिनको हुनुपर्छ?",
+    "o": [
+      "१२० दिन",
+      "१५० दिन",
+      "१८० दिन",
+      "२१० दिन"
+    ],
+    "a": 1,
+    "e": "ICB को बोलपत्र मान्य हुने अवधि १२० दिन हुन्छ। जमानतको अवधि त्यसमा ३० दिन बढी हुनुपर्ने कानूनी व्यवस्था अनुसार (१२०+३०) = एक सय पचास (१५०) दिन हुनुपर्छ। (ऐनको दफा १३ र नियमावली नियम ५४)"
+  },
+  {
+    "id": 23,
+    "q": "निजामती कर्मचारीले पालना गर्नुपर्ने आचरण (Conduct) अन्तर्गत कुन कार्य गर्न प्रतिबन्ध लगाइएको छ?",
+    "o": [
+      "राजनीतिमा भाग लिन",
+      "सरकारको आलोचना गर्न",
+      "दान, उपहार, चन्दा प्राप्त गर्न",
+      "माथिका सबै"
+    ],
+    "a": 3,
+    "e": "दफा ४४ (राजनीति), दफा ४५ (आलोचना), र दफा ४७ (दान/उपहार) अनुसार यी सबै कार्य गर्न निजामती कर्मचारीलाई प्रतिबन्ध छ।"
+  },
+  {
+    "id": 24,
+    "q": "निजामती सेवाको पदपूर्तिका लागि उम्मेदवार हुन राजपत्र अनंकित पदको हकमा कति वर्ष उमेर पूरा भएको हुनुपर्छ?",
+    "o": [
+      "१६ वर्ष",
+      "१८ वर्ष",
+      "२१ वर्ष",
+      "२५ वर्ष"
+    ],
+    "a": 1,
+    "e": "दफा १० (१) (क) अनुसार राजपत्र अनंकित र श्रेणीविहीन पदमा १८ वर्ष उमेर पूरा भएको हुनुपर्छ।"
+  },
+  {
+    "id": 25,
+    "q": "When the length of chain used in measuring distance is longer than the standard length, the error in measured distance will be",
+    "o": [
+      "positive error",
+      "negative error",
+      "compensating error",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "If ∆ is angle of deflection of a simple curve of radius R, the length of the curve is",
+    "o": [
+      "πR∆ /90°",
+      "πR∆/180°",
+      "πR∆/ 270°",
+      "πR∆/ 360°"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "When several contours coincide, it indicates:",
+    "o": [
+      "a vertical cliff",
+      "a valley",
+      "a saddle",
+      "an overhanging"
+    ],
+    "a": 0
+  },
+  {
+    "id": 28,
+    "q": "A good building stone is one which does not absorb more than",
+    "o": [
+      "5%",
+      "10%",
+      "15%",
+      "25%"
+    ],
+    "a": 0
+  },
+  {
+    "id": 29,
+    "q": "Efflorescence is caused if",
+    "o": [
+      "the alkaline salt is present in the bricks",
+      "the clay used for making bricks contain pyrite",
+      "the water used for pugging the clay contains gypsum",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "most commonly used solvent in oil paints, is",
+    "o": [
+      "petroleum",
+      "spirit",
+      "coal tar",
+      "turpentine"
+    ],
+    "a": 0
+  },
+  {
+    "id": 31,
+    "q": "The maximum shear stress in a Mohr's circle is ,",
+    "o": [
+      "Less than the radius of Mohr's circle",
+      "greater than the radius of Mohr's circle",
+      "Equal to the radius of Mohr's circle",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 32,
+    "q": "The bending moment in the centre of a simply supported beam carrying a uniformly distributed load of w per unit length is",
+    "o": [
+      "zero",
+      "(w * l ^ 2 )/ 2",
+      "( w * l ^ 2 )/ 4",
+      "(w*l^2)/8"
+    ],
+    "a": 3
+  },
+  {
+    "id": 33,
+    "q": "The bending moment in a cable carrying a system of loads will be",
+    "o": [
+      "Maximum at center",
+      "Minimum at center",
+      "Zero at all points",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "The hydraulic jump always occurs from",
+    "o": [
+      "below critical depth to above critical depth",
+      "above critical depth to below critical depth",
+      "below critical depth to above normal depth",
+      "above critical depth to below normal depth"
+    ],
+    "a": 0
+  },
+  {
+    "id": 35,
+    "q": "The velocity of the liquid flowing through the divergent portion of a venturimeter",
+    "o": [
+      "remains constant",
+      "increases",
+      "decreases",
+      "depends upon mass of liquid"
+    ],
+    "a": 2
+  },
+  {
+    "id": 36,
+    "q": "The depth at which specific energy is same",
+    "o": [
+      "None",
+      "Alternate depth",
+      "Conjugate depth",
+      "Both"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "The angle of internal friction of clays, is usually",
+    "o": [
+      "0° to 5°",
+      "5° to 20°",
+      "20° to 30°",
+      "30° to 45°"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "Secondary consolidation is",
+    "o": [
+      "caused by hydrodynamic lag",
+      "caused by hydrostatic pressure",
+      "caused by creep",
+      "none"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "Pick up the incorrect statement from the following: Tensile reinforcement bars of a rectangular beam",
+    "o": [
+      "are curtailed if not required to resist the bending moment",
+      "are bent up at suitable places to serve as shear reinforcement",
+      "are bent down at suitable places to serve as shear reinforcement",
+      "are maintained at bottom to provide at least local bond stress."
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "The minimum clear cover for R.C.C. columns shall be",
+    "o": [
+      "greater of 40 mm or diameter",
+      "smaller of 40 mm or diameter",
+      "greater of 25 mm or diameter",
+      "smaller of 25 mm or diameter"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "लेप्चा जातिको मुख्य बसोस्थान भएको जिल्ला इलाम हो भने जिरेल जातिको बसोवास भएको जिल्ला कुन हो? (If the main residence of the Lepcha tribe is Ilam district, which district is the residence of the Jirel tribe?)",
+    "o": [
+      "गोर्खा (Gorkha)",
+      "लमजुङ (Lamjung)",
+      "तनहुँ (Tanahun)",
+      "सिन्धुपाल्चोक (Sindhupalchok)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 42,
+    "q": "\"सय वटा मुसाको शासन भन्दा एउटा सिंहको शासन राम्रो हुन्छ\" यो भनाइ कसको हो? (\"The rule of one lion is better than the rule of a hundred rats.\" Whose quote is this?)",
+    "o": [
+      "मुसोलिनी (Mussolini)",
+      "भोल्टेयर (Voltaire)",
+      "नेपोलियन बोनापार्ट (Napoleon Bonaparte)",
+      "रुसो (Rousseau)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "UNO को एकमात्र अश्वेत महासचिव को हुन्? (Who is the only Black/non-white Secretary-General of the UNO?)",
+    "o": [
+      "कोफी अन्नान (Kofi Annan)",
+      "उथान्त (U Thant)",
+      "बुत्रोस बुत्रोस घाली (Boutros Boutros-Ghali)",
+      "वान कि मुन (Ban Ki-moon)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 44,
+    "q": "हाल आसियानको सदस्य संख्या कति पुगेको छ? (What is the current number of ASEAN members?)",
+    "o": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "a": 2,
+    "e": "Note: East Timor, Oct 26, 2025"
+  },
+  {
+    "id": 45,
+    "q": "ISO-14000 के सँग सम्बन्धित छ? (What is ISO-14000 related to?)",
+    "o": [
+      "वातावरण व्यवस्थापन (Environmental Management)",
+      "फोहरमैला व्यवस्थापन (Waste Management)",
+      "बजार व्यवस्थापन (Market Management)",
+      "विपद व्यवस्थापन (Disaster Management)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "\"Give me a place to stand and I will move the earth\" कसको भनाइ हो?",
+    "o": [
+      "Thomas Alva Edison",
+      "Archimedes",
+      "Michael Faraday",
+      "Nikola Tesla"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "English disease भनेर कुन रोगलाई चिनिन्छ? (Which disease is known as the \"English disease\"?)",
+    "o": [
+      "Rickets",
+      "Beriberi",
+      "Hemorrhage",
+      "Scurvy"
+    ],
+    "a": 0
+  },
+  {
+    "id": 48,
+    "q": "नेपालको २०७४ सालको धरातलीय स्वरुपको वर्गीकरण अनुसार तराईका जिल्ला कतिवटा रहेका छन्? (According to the 2074 BS classification of Nepal's physical features, how many districts are in the Terai?)",
+    "o": [
+      "21",
+      "25",
+      "35",
+      "33"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "नेपालको संविधानको कति धारामा सञ्चारको हकको व्यवस्था गरिएको छ? (Which article of the Constitution of Nepal provides for the Right to Communication?)",
+    "o": [
+      "धारा १७ (Article 17)",
+      "धारा १८ (Article 18)",
+      "धारा १९ (Article 19)",
+      "धारा २० (Article 20)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "नेपालको आ. व. २०८२-८३ को बजेटमा राष्ट्रिय रोजगार प्रर्द्धवि कार्यक्रम सञ्चालनका लागी कति बजेट विनियोजन गरिएको छ?",
+    "o": [
+      "१ अरब ९० करोड",
+      "१ अरब ९९ करोड",
+      "१ अरब ८० करोड",
+      "१ अरब ८८ करोड"
+    ],
+    "a": 1
+  }
+]

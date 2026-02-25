@@ -1,0 +1,563 @@
+[
+  {
+    "id": 1,
+    "q": "सार्वजनिक वडापत्रको सुरुवात गर्ने तत्कालीन बेलायतका प्रधानमन्त्री को हुन्?",
+    "o": [
+      "मार्गरेट थ्याचर",
+      "विन्स्टन चर्चिल",
+      "जोन मेजले",
+      "टोनी ब्लेयर"
+    ],
+    "a": 2
+  },
+  {
+    "id": 2,
+    "q": "राष्ट्रिय सूचना आयोगले आफ्नो वार्षिक प्रतिवेदन को समक्ष पेश गर्नुपर्छ?",
+    "o": [
+      "राष्ट्रपति",
+      "व्यवस्थापिका संसद",
+      "सञ्चार मन्त्री",
+      "जनता"
+    ],
+    "a": 1,
+    "e": "प्रधानमन्त्री मार्फत"
+  },
+  {
+    "id": 3,
+    "q": "विशिष्ट श्रेणी' (Special Class) का कर्मचारीलाई विभागीय सजाय दिने अधिकारी को हुन्छ?",
+    "o": [
+      "मुख्यमन्त्री",
+      "प्रमुख सचिव",
+      "प्रदेश सरकार (मन्त्रिपरिषद्)",
+      "लोक सेवा आयोग"
+    ],
+    "a": 2,
+    "e": "एघारौँ तह वा विशिष्ट श्रेणीका लागि मन्त्रिपरिषद् नै अख्तियारवाला हुन्छ।"
+  },
+  {
+    "id": 4,
+    "q": "निजामती कर्मचारीले पाउने 'चाडपर्व खर्च' (Festival Allowance) कति हुन्छ?",
+    "o": [
+      "आधा महिनाको तलब",
+      "एक महिनाको तलब बराबर",
+      "१५ दिनको तलब",
+      "दुई महिनाको तलब"
+    ],
+    "a": 1,
+    "e": "खाइपाई आएको एक महिनाको तलब बराबर।"
+  },
+  {
+    "id": 5,
+    "q": "एउटा जिल्लाको गाउँपालिका वा नगरपालिकालाई अर्को जिल्लामा पर्ने गरी सिमाना हेरफेर गर्न सकिन्छ कि सकिँदैन?",
+    "o": [
+      "सकिन्छ",
+      "प्रदेश सरकारको सहमतिमा सकिन्छ",
+      "सकिँदैन",
+      "दुवै जिल्ला सभाको सहमतिमा सकिन्छ"
+    ],
+    "a": 2,
+    "e": "दफा ३ (२) को प्रतिबन्धात्मक वाक्यांश अनुसार एक जिल्लाको गाउँपालिका वा नगरपालिकालाई अर्को जिल्लामा पर्ने गरी सिमाना हेरफेर गरिने छैन।"
+  },
+  {
+    "id": 6,
+    "q": "Pre-bid Meeting राष्ट्रिय स्तरको बोलपत्रमा अन्तिम म्याद भन्दा कति दिन अगाडि करना पर्छ?",
+    "o": [
+      "५ दिन",
+      "७ दिन",
+      "१० दिन",
+      "१५ दिन"
+    ],
+    "a": 2,
+    "e": "नियम ५०: राष्ट्रियमा १० दिन, अन्तर्राष्ट्रियमा १५ दिन अगाडि।"
+  },
+  {
+    "id": 7,
+    "q": "लोक सेवा आयोगका ५० प्रतिशत सदस्यहरूका लागि सरकारी सेवामा कति वर्षको अनुभव अनिवार्य गरिएको छ?",
+    "o": [
+      "१५ वर्ष",
+      "१० वर्ष",
+      "२० वर्ष",
+      "२५ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "५० हजार रुपैयाँभन्दा बढी १ लाख रुपैयाँसम्मको भ्रष्टाचारमा कति कैद सजाय तोकिएको छ?",
+    "o": [
+      "१ महिनादेखि ६ महिना",
+      "३ महिनादेखि ९ महिना",
+      "६ महिनादेखि १ वर्ष",
+      "१ वर्षदेखि २ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "गण्डकी प्रदेशमा कति वटा 'पर्यटकीय गन्तव्य' (Tourist Destinations) रहेका छन्?",
+    "o": [
+      "१०० भन्दा बढी",
+      "१५० भन्दा बढी",
+      "२५० भन्दा बढी",
+      "२०० भन्दा बढी"
+    ],
+    "a": 3,
+    "e": "२०० भन्दा बढी"
+  },
+  {
+    "id": 10,
+    "q": "गण्डकी प्रदेशमा कतिवटा ताल छन्?",
+    "o": [
+      "१५०",
+      "२००",
+      "२९०",
+      "३५०"
+    ],
+    "a": 2,
+    "e": "२९०"
+  },
+  {
+    "id": 11,
+    "q": "Inking pen is used to draw",
+    "o": [
+      "Writing",
+      "Curve",
+      "Straight line",
+      "All of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "The approval of design, drawing before the construction of building in city Nepal is done by:",
+    "o": [
+      "Village Development Committee",
+      "District Development Committee",
+      "Municipality",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 13,
+    "q": "If the object lies in the fourth quadrant, its position with respect to reference plane will be",
+    "o": [
+      "In front of V.P, and above H.P.",
+      "Behind V.P. and below H.P.",
+      "In front of V.P. and below H.P.",
+      "Behind V.P. and above H.P"
+    ],
+    "a": 2
+  },
+  {
+    "id": 14,
+    "q": "Staircase, lifts etc are",
+    "o": [
+      "vertical circulation area",
+      "horizontal circulation area",
+      "both of above",
+      "none of above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "A layer of dry bricks put below the foundation concrete in the case of soft soils, is called",
+    "o": [
+      "soling",
+      "shoring",
+      "DPC",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "What is the cost of plastering of 4 walls of a room with length 10m, breadth 5m and height 2.5m at the rate of Rs. 100 per sq.m?",
+    "o": [
+      "Rs. 75",
+      "Rs. 7,500",
+      "Rs. 750",
+      "Rs. 75,000"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "In plane table surveying, which of the following is used to sight and draw lines?",
+    "o": [
+      "Alidade",
+      "Staff",
+      "Chain",
+      "Level tube"
+    ],
+    "a": 0
+  },
+  {
+    "id": 18,
+    "q": "What is the main purpose of surveying?",
+    "o": [
+      "To estimate the cost of construction",
+      "To determine the strength of materials",
+      "To prepare maps and plans for engineering projects",
+      "To test soil samples"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "The type of cement used for patch work for pavement is",
+    "o": [
+      "OPC",
+      "LHC",
+      "PPC",
+      "RHPC"
+    ],
+    "a": 3
+  },
+  {
+    "id": 20,
+    "q": "Vanadium steel is generally used for",
+    "o": [
+      "railway switches and crossing",
+      "Bearing balls",
+      "magnets",
+      "Axles and springs."
+    ],
+    "a": 3
+  },
+  {
+    "id": 21,
+    "q": "Slump test is a measure of:",
+    "o": [
+      "Impact value",
+      "Tensile strength",
+      "Consistency",
+      "Compressive strength"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "What is the primary purpose of providing \"concrete cover\" to the reinforcement?",
+    "o": [
+      "To increase the weight of the structure.",
+      "To protect the steel from corrosion and fire.",
+      "To make the concrete look smoother.",
+      "To reduce the amount of steel required"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "Why is it generally prohibited to weld reinforcement bars unless specifically designed for it?",
+    "o": [
+      "It makes the bars too heavy.",
+      "It can change the metallurgical properties and reduce ductility.",
+      "It is too expensive compared to tying.",
+      "It causes the concrete to shrink."
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "नेपालको प्रमाणिक समय (Standard Time) कुन हिमाललाई आधार मानी निर्धारण गरिएको छ?",
+    "o": [
+      "सगरमाथा",
+      "मकालु",
+      "गौरीशंकर",
+      "कञ्चनजङ्घा"
+    ],
+    "a": 2,
+    "e": "झुक्किनु हुँदैन: यो दोलखा जिल्लामा पर्छ र ८६° १५' पूर्वी देशान्तरलाई आधार मानिएको छ।"
+  },
+  {
+    "id": 25,
+    "q": "'प्रकाश वर्ष' (Light Year) ले तलका मध्ये केलाई मापन गर्छ?",
+    "o": [
+      "समय",
+      "प्रकाशको गति",
+      "दूरी",
+      "तीव्रता"
+    ],
+    "a": 2,
+    "e": "Tricky: धेरैले नाममा 'वर्ष' भएकोले यसलाई समयको एकाइ ठान्छन्, तर यो खगोलशास्त्रमा दूरी मापन गर्न प्रयोग हुन्छ।"
+  },
+  {
+    "id": 26,
+    "q": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो प्रदेश कुन हो?",
+    "o": [
+      "कोशी प्रदेश",
+      "बागमती प्रदेश",
+      "गण्डकी प्रदेश",
+      "कर्णाली प्रदेश"
+    ],
+    "a": 3
+  },
+  {
+    "id": 27,
+    "q": "नेपालको संविधान अनुसार राष्ट्रपति बन्नका लागि न्यूनतम कति उमेर पुरा भएको हुनुपर्छ?",
+    "o": [
+      "२५ वर्ष",
+      "३५ वर्ष",
+      "४५ वर्ष",
+      "५५ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "कुन महादेशलाई 'प्रायद्वीपको पनि प्रायद्वीप' (Peninsula of Peninsulas) भनिन्छ?",
+    "o": [
+      "उत्तर अमेरिका",
+      "युरोप",
+      "अस्ट्रेलिया",
+      "दक्षिण अमेरिका"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "तलका मध्ये कुन भिटामिन पानीमा घुलनशील (Water-soluble) हुन्छ?",
+    "o": [
+      "भिटामिन A",
+      "भिटामिन D",
+      "भिटामिन C",
+      "भिटामिन K"
+    ],
+    "a": 2,
+    "e": "भिटामिन B र C पानीमा घुलनशील हुन्छन् भने A, D, E, K चिल्लोमा घुलनशील हुन्छन्।"
+  },
+  {
+    "id": 30,
+    "q": "नेपालको सबैभन्दा धेरै जिल्लाहरूसँग सिमाना जोडिएको जिल्ला कुन हो?",
+    "o": [
+      "धादिङ",
+      "सिन्धुली",
+      "मकवानपुर",
+      "काभ्रेपलाञ्चोक"
+    ],
+    "a": 1,
+    "e": "यसको सिमाना ९ वटा जिल्लाहरूसँग जोडिएको छ।"
+  },
+  {
+    "id": 31,
+    "q": "'अफ्रिका' महादेशको सबैभन्दा ठूलो मरुभूमि कुन हो?",
+    "o": [
+      "थार मरुभूमि",
+      "गोबी मरुभूमि",
+      "सहारा मरुभूमि",
+      "भिक्टोरिया मरुभूमि"
+    ],
+    "a": 2
+  },
+  {
+    "id": 32,
+    "q": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालको जनघनत्व (Population Density) कति रहेको छ?",
+    "o": [
+      "१८० प्रति वर्ग कि.मि.",
+      "१९० प्रति वर्ग कि.मि.",
+      "१९८ प्रति वर्ग कि.मि.",
+      "२०८ प्रति वर्ग कि.मि."
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "सूर्यबाट सबैभन्दा नजिकको ग्रह कुन हो?",
+    "o": [
+      "शुक्र (Venus)",
+      "मंगल (Mars)",
+      "बुध (Mercury)",
+      "पृथ्वी (Earth)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "Which wire color is universally used for 'Earthing' in modern electrical systems?",
+    "o": [
+      "Red",
+      "Black",
+      "Green (or Green-Yellow)",
+      "Blue"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "An 'Intercepting Trap' is provided at:",
+    "o": [
+      "The junction of a house drain and the municipal sewer",
+      "Directly under the kitchen sink",
+      "At the top of the vent pipe",
+      "Inside the soak pit"
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "Which pipe fitting is used to close the end of a pipe that has internal threads?",
+    "o": [
+      "Plug",
+      "Cap",
+      "Socket",
+      "Nipple"
+    ],
+    "a": 0
+  },
+  {
+    "id": 37,
+    "q": "Which type of water supply system relies on both a Sump (Underground) and an Overhead tank with a pump in between?",
+    "o": [
+      "Direct system",
+      "Indirect system",
+      "Combined system",
+      "Gravity system"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "The factor which influences the design of curves, is .............",
+    "o": [
+      "speed of vehicle",
+      "maximum permissible super-elevation",
+      "permissible centrifugal ratio",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 39,
+    "q": "The opportunities to cross slow moving traffic at intervals is not provided in case of .............",
+    "o": [
+      "two-lane highways",
+      "three-lane highways",
+      "four lane highways",
+      "all of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "The suitable gradient within which the engineer must endeavour to design the road is called .............",
+    "o": [
+      "limiting gradient",
+      "ruling gradient",
+      "average gradient",
+      "exceptional gradient"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "Super-elevation is expressed as .............",
+    "o": [
+      "the difference of heights of two edges of the carriage-way to the width of the carriage-way",
+      "the difference of radii of curves",
+      "the difference of the road gradients",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "The thickness of road surfacing depends upon the .............",
+    "o": [
+      "type of traffic",
+      "intensity of traffic",
+      "type of material",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "The water of a river has an important property called .............",
+    "o": [
+      "turbidity",
+      "self purification",
+      "permeability",
+      "infiltration capacity"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "The water bearing strata i.e., layers of sand, gravel etc. is called .............",
+    "o": [
+      "an aquifer",
+      "an aquiclude",
+      "an aquifuge",
+      "zone of saturation"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "The horizontal tunnels constructed at shallow depths along the banks of a river to intercept the ground water table are called .............",
+    "o": [
+      "canal",
+      "infiltration galleries",
+      "springs",
+      "lakes"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "The water supply system means .............",
+    "o": [
+      "the entire scheme of collection and disposal of liquid waste",
+      "the complete layout from the source of supply to the distribution",
+      "construction of reservoirs",
+      "construction of canals"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "The sensitivity of a rigid module is .............",
+    "o": [
+      "equal to zero",
+      "less than unity",
+      "equal to unity",
+      "more than unity"
+    ],
+    "a": 0
+  },
+  {
+    "id": 48,
+    "q": "The discharge (Q) over trapezoidal crest of Sarda fall is ............. as compared to rectangular crest of identical parameters.",
+    "o": [
+      "same",
+      "less",
+      "more",
+      "none"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "A parabolic glacis type fall is commonly known as .............",
+    "o": [
+      "Montague fall",
+      "Inglis fall",
+      "Sarda fall",
+      "vertical type fall"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "The capacity of escape channel should not be less than ............. of the capacity of the parent channel at that point.",
+    "o": [
+      "20%",
+      "30%",
+      "40%",
+      "50%"
+    ],
+    "a": 3
+  }
+]

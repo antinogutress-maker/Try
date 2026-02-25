@@ -1,0 +1,559 @@
+[
+  {
+    "id": 1,
+    "q": "भ्रष्टाचार निवारण ऐन, २०५९ अनुसार १ लाख रुपैयाँभन्दा बढी र ५ लाख रुपैयाँसम्म विगो भएमा हुने सजाय कुन हो?",
+    "o": [
+      "१ वर्षदेखि २ वर्षसम्म कैद",
+      "२ वर्षदेखि ४ वर्षसम्म कैद",
+      "६ महिनादेखि १ वर्षसम्म कैद",
+      "डेढ वर्षदेखि ३ वर्षसम्म कैद"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "अख्तियार दुरुपयोग अनुसन्धान आयोगको प्रमुख आयुक्त वा आयुक्त हुन सम्बन्धित क्षेत्रमा कति वर्षको अनुभव आवश्यक पर्छ?",
+    "o": [
+      "१० वर्ष",
+      "१५ वर्ष",
+      "२० वर्ष",
+      "२५ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "भारतसँग दौत्य सम्बन्ध स्थापना भएको मिति (वि.सं.) कुन हो?",
+    "o": [
+      "२००४ जेठ १३",
+      "२००४ असार ३१",
+      "२००४ जेठ ३१",
+      "२००४ साउन ३१"
+    ],
+    "a": 2,
+    "e": "२००४ जेठ ३१"
+  },
+  {
+    "id": 4,
+    "q": "कर्मचारीतन्त्र\" (Bureaucracy) शब्दको सर्वप्रथम प्रयोग गर्ने व्यक्ति को हुन्?",
+    "o": [
+      "म्याक्स वेबर",
+      "भिन्सेन्ट डि गुर्ना",
+      "कार्ल मार्क्स",
+      "एफ. एम. मार्क्स"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "कुनै फाइलको नाम परिवर्तन (Rename) गर्न कुन 'Function Key' थिच्नुपर्छ?",
+    "o": [
+      "F1",
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "a": 1,
+    "e": "Rename सर्टकट।"
+  },
+  {
+    "id": 6,
+    "q": "गाउँपालिका तथा नगरपालिकाले आन्तरिक ऋण बढीमा कति वर्ष अवधिको लागि लिन सक्नेछ?",
+    "o": [
+      "१० वर्ष",
+      "१५ वर्ष",
+      "२० वर्ष",
+      "२५ वर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 7,
+    "q": "नगरपालिका हुनको लागि पछिल्लो ५ वर्षको औसत वार्षिक आन्तरिक आय हिमाली क्षेत्रको हकमा कम्तीमा कति हुनुपर्छ?",
+    "o": [
+      "५० लाख",
+      "१ करोड",
+      "२ करोड",
+      "३ करोड"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "As per Public Procurement Act, 2063, the notice time given for shortlisted consultants to submit the Request for Proposal (RFP) is...Days",
+    "o": [
+      "15",
+      "30",
+      "25",
+      "90"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "बढुवाको लागि उम्मेदवार हुन नपाउने गरी 'बढुवा रोक्का' (Withholding Promotion) गर्ने सजाय बढीमा कति अवधिसम्म गर्न सकिन्छ?",
+    "o": [
+      "२ वर्षसम्म",
+      "३ वर्षसम्म",
+      "४ वर्षसम्म",
+      "५ वर्षसम्म"
+    ],
+    "a": 3
+  },
+  {
+    "id": 10,
+    "q": "बढुवा समितिमा (अधिकृत तहको हकमा) सामान्यतया कति जना सदस्य रहन्छन्?",
+    "o": [
+      "३ जना",
+      "४ जना",
+      "५ जना",
+      "६ जना"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "What does dimensioning of a circle depend upon?",
+    "o": [
+      "Shape",
+      "Length",
+      "Size",
+      "unit"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "Working drawing are prepared not for",
+    "o": [
+      "bill of quantities",
+      "estimation",
+      "layout",
+      "specification"
+    ],
+    "a": 3
+  },
+  {
+    "id": 13,
+    "q": "Size of the title box is",
+    "o": [
+      "185 mm x 65 mm",
+      "185 mm x 60 mm",
+      "180 mm x 65 mm",
+      "185 mm × 85 mm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 14,
+    "q": "A standard rules of thumb is that sewer pipes leading away from a toilet are........ inches in diameter.",
+    "o": [
+      "1.5",
+      "2.0",
+      "3.0",
+      "6.0"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "Most acceptable method of valuation is",
+    "o": [
+      "Rental method",
+      "Investment method",
+      "Profit based method",
+      "Residual method"
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "Slump test is done,",
+    "o": [
+      "Consistency test",
+      "Workability",
+      "Vee-bee test",
+      "None"
+    ],
+    "a": 1,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 17,
+    "q": "To locate your position in map the method is used",
+    "o": [
+      "Intersection",
+      "Traversing",
+      "Triangulation",
+      "Resection"
+    ],
+    "a": 3
+  },
+  {
+    "id": 18,
+    "q": "A assumed surface above which elevation of point are determined are called,",
+    "o": [
+      "Datum",
+      "MSL (Mean Sea Level)",
+      "Level surface",
+      "None of above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 19,
+    "q": "Commonly used drying oil for paints is",
+    "o": [
+      "Oil paints",
+      "Kerosene oil",
+      "Linseed oil",
+      "Acetate of lead"
+    ],
+    "a": 3
+  },
+  {
+    "id": 20,
+    "q": "Test used for aggregate for abrasion resistance",
+    "o": [
+      "Deval attrition test",
+      "Los angeles test",
+      "Dorry abrasion test",
+      "all of above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 21,
+    "q": "The usual width of parapet walls along Highways in hilly region, is",
+    "o": [
+      "50 cm",
+      "60 cm",
+      "70 cm",
+      "80 cm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "Minimum depth of infiltration gallery is",
+    "o": [
+      "2 m",
+      "3 m",
+      "4 m",
+      "5 m"
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "Minimum depth of infiltration well is",
+    "o": [
+      "2 m",
+      "3 m",
+      "4 m",
+      "5 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "जिरेल जातिको पुरोहितलाई के भनिन्छ ?",
+    "o": [
+      "फेदाम्बा",
+      "भरा",
+      "ङोपा",
+      "बाहुन"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "जोडा मिलाउनुहोस् ।\nक. रौताहा पोखरी       १. सप्तरी\nख. छिन्नमस्ता भगवती  २. उदयपुर\nग. बाबा ताल               ३. धनुषा\nघ. अमृत कुण्ड     ‌ ‌       ४. सिरहा",
+    "o": [
+      "क ३, ख २, ग ४, घ १",
+      "क २, ख १, ग ४, घ ३",
+      "क ३, ख १, ग ४, घ २",
+      "क ४, ख १, ग ३, घ २"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "दीगो विकास लक्ष्यहरु मध्ये १३ औँ लक्ष्य कुन हो ?",
+    "o": [
+      "Climate Action",
+      "Life Below Water",
+      "Life On Land",
+      "Peace, Justice and Strong Institutions"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "तलको कुन जोडा बेठिक छ ?\n(Which of the following pairs is incorrect?)",
+    "o": [
+      "फुकेनास : प्रोटिनको कमी",
+      "जलवियोजन : पानीको कमी",
+      "स्कर्भि : भिटामिन सी को कमी",
+      "बेरिबेरी : भिटामिन इ को कमी"
+    ],
+    "a": 3
+  },
+  {
+    "id": 28,
+    "q": "जोडा मिलाउनुहोस् ।\nसंगठन (Organization) प्रधान कार्यालय (Headquarters)\n१. अन्तर्राष्ट्रिय श्रम संगठन (ILO) a. रोम, इटाली\n२. अन्तर्राष्ट्रिय नागरिक उड्डयन संघ (ICAO) b. जेनेभा, स्वीट्जरल्याण्ड\n३. खाद्य तथा कृषि संगठन (FAO) c. मन्ट्रियल, क्यानडा\n४. विश्व पर्यटन संगठन (UNWTO) d. म्याड्रिड, स्पेन",
+    "o": [
+      "१-b, २-c, ३-a, ४-d",
+      "१-d, २-c, ३-a, ४-b",
+      "१-b, २-a, ३-d, ४-c",
+      "१-a, २-d, ३-c, ४-b"
+    ],
+    "a": 0
+  },
+  {
+    "id": 29,
+    "q": "पाटे बाघको वैज्ञानिक नाम के हो ?\n(What is the scientific name of the Royal Bengal Tiger?)",
+    "o": [
+      "Panthera Uncia",
+      "Panthera Tigris",
+      "Prionailurus Bengalensis",
+      "Panthera Bengalensis"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "नेपालमा कति प्रजातिका यार्सागुम्बा पाइन्छन् ?\n(How many species of Yarsagumba are found in Nepal?)",
+    "o": [
+      "१०",
+      "१२",
+      "१३",
+      "१५"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "o": [
+      "धारा ४",
+      "धारा ५",
+      "धारा ६",
+      "धारा ७"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "अमेरिकी सहायता परियोजना (MCC) कहिले कार्यान्वयन भयो ?\n(When was the American aid project (MCC) implemented?)",
+    "o": [
+      "२०८० साउन १५",
+      "२०८० भदौ १३",
+      "२०८० असोज १५",
+      "२०८० माघ १५"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "दोस्रो पञ्चवर्षीय योजनाको अन्त्य (आ.व. २०८५/८६) सम्ममा गण्डकी प्रदेशको वार्षिक औसत आर्थिक वृद्धिदर कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "८.५%",
+      "९.५%",
+      "१०.३८%",
+      "११.२%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "The ratio of the Luminous Flux emitted by a lamp to the Power Consumed by it is called:",
+    "o": [
+      "Utilization Factor",
+      "Maintenance Factor",
+      "Luminous Efficacy",
+      "Reflection Factor"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "Why is \"Surface Wiring\" still used in some industrial or temporary setups?",
+    "o": [
+      "Because it is the most expensive",
+      "Because it is waterproof",
+      "For ease of inspection, maintenance, and modification",
+      "It cannot be damaged by fire"
+    ],
+    "a": 2
+  },
+  {
+    "id": 36,
+    "q": "A \"Manhole\" is provided in a sewerage line at:",
+    "o": [
+      "Every 100 meters on a straight line",
+      "Every change in direction, gradient, or pipe diameter",
+      "Only at the start of the sewer line",
+      "Inside the residential bathroom"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "A \"Soak Pit\" is primarily designed to:",
+    "o": [
+      "Store solid waste for long periods",
+      "Dispose of liquid effluent into the surrounding soil",
+      "Treat industrial chemicals",
+      "Ventilate the sewer line"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "The flexible pavement distribute the wheel load ............",
+    "o": [
+      "directly to sub-grade",
+      "through a set of layers to sub-grade",
+      "through structural action",
+      "none of these"
+    ],
+    "a": 1,
+    "e": "[attachment_1](attachment)"
+  },
+  {
+    "id": 39,
+    "q": "The parapet walls are usually required on the valley side of the roadway, in order to ............",
+    "o": [
+      "retain the earth from slippage",
+      "properly guide the vehicles to the roadway",
+      "provide a good drainage system",
+      "keep the road dry"
+    ],
+    "a": 1
+  },
+  {
+    "id": 40,
+    "q": "In the initial stage of construction of hill roads, no curve should have a radius less than ............",
+    "o": [
+      "20 m",
+      "30 m",
+      "40 m",
+      "50 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "A track of width 1 to 1.2 m constructed along the selected alignment to facilitate access to the area for inspection and detailed survey is known as ............",
+    "o": [
+      "inspection trace",
+      "terrain",
+      "trace out",
+      "all of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "The rate of change of radial acceleration governs the ............",
+    "o": [
+      "length of a transition curve",
+      "extra width of pavement on the curve",
+      "length of the tangent of a simple circular curve",
+      "all of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 43,
+    "q": "The optimum depth of kor watering for rice crop, is ............",
+    "o": [
+      "23.0 cm",
+      "19.0 cm",
+      "17.5 cm",
+      "13.5 cm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "In a super-passage, the F.S.L. of the canal is ............",
+    "o": [
+      "lower than the underside of the trough carrying drainage water",
+      "above the bed level of the drainage trough",
+      "in level with the drainage trough",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "A groyne ............",
+    "o": [
+      "contracts a river channel to improve its depth",
+      "silts up the area in the vicinity by creating a slack flow",
+      "trains the flow along a certain course",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "When river flows in a plain country, its stage is known as ............ stage.",
+    "o": [
+      "delta",
+      "boulder",
+      "trough",
+      "rocky"
+    ],
+    "a": 2
+  },
+  {
+    "id": 47,
+    "q": "A septic tank is a water tight tank where the following operation(s) take place ............",
+    "o": [
+      "sedimentation",
+      "sedimentation + digestion (anaerobic)",
+      "digestion (aerobic)",
+      "decomposition of organic and inorganic matter by bacteria"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "When raw sewage is to be disposed off by dilution sewage should ............",
+    "o": [
+      "be free from suspended solids",
+      "be free from floating impurities",
+      "be having a B.O.D. less than 150 mg/l",
+      "not be very hot"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "The common end products for both aerobiosis and anaerobiosis is ............",
+    "o": [
+      "H_2S",
+      "CH_4",
+      "NO_3",
+      "CO_2"
+    ],
+    "a": 3
+  },
+  {
+    "id": 50,
+    "q": "A lamphole is helpful in ............",
+    "o": [
+      "illuminating sewer line",
+      "cleaning sewer line",
+      "repairing",
+      "testing sewers"
+    ],
+    "a": 0
+  }
+]

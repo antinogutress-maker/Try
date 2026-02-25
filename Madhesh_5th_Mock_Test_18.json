@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1,
+    "q": "Which safety device automatically breaks the circuit during an overload or short circuit?",
+    "o": [
+      "Switch",
+      "Socket",
+      "MCB",
+      "Junction Box"
+    ],
+    "a": 2,
+    "e": "MCB (Miniature Circuit Breaker)"
+  },
+  {
+    "id": 2,
+    "q": "The primary objective of \"Disinfection\" in drinking water treatment is:",
+    "o": [
+      "To remove taste and odor",
+      "To kill pathogenic bacteria and microorganisms",
+      "To reduce the hardness of water",
+      "To remove dissolved iron"
+    ],
+    "a": 1,
+    "e": "To kill pathogenic bacteria and microorganisms"
+  },
+  {
+    "id": 3,
+    "q": "मधेस प्रदेशले भारतको कुन राज्यसँग सीमा जोडेको छ?",
+    "o": [
+      "उत्तर प्रदेश मात्र",
+      "बिहार मात्र",
+      "बिहार र उत्तर प्रदेश दुवै",
+      "पश्चिम बंगाल"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "'डोला' परम्परा केसँग सम्बन्धित छ?",
+    "o": [
+      "मृत्यु संस्कार",
+      "जन्म संस्कार",
+      "विवाह संस्कार",
+      "व्रतबन्ध"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "मधेस प्रदेशको प्रथम आवधिक योजनाले कुन बालीलाई उच्च प्राथमिकता दिएको छ?",
+    "o": [
+      "स्याउ र ओखर",
+      "धान र उखु",
+      "कफी र चिया",
+      "जडीबुटी"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "जलवायु परिवर्तन सम्बन्धी 'पेरिस सम्झौता' कहिले भएको थियो?",
+    "o": [
+      "२०१०",
+      "२०१२",
+      "२०१५",
+      "२०२०"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "यातायातको क्षेत्रमा 'बाफ इन्जिन' (Steam Engine) को आविष्कार कसले गरेका थिए?",
+    "o": [
+      "राइट दाजुभाइ",
+      "जेम्स वाट",
+      "हेनरी फोर्ड",
+      "जर्ज स्टिफेन्सन"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "मानव शरीरमा कति प्रतिशत पानी हुन्छ?",
+    "o": [
+      "३०-४०%",
+      "६०-७०%",
+      "९०-९५%",
+      "१०-२०%"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "संयुक्त राष्ट्र संघको महासभाको बैठक वर्षको कति पटक बस्छ?",
+    "o": [
+      "एक पटक",
+      "दुई पटक",
+      "तीन पटक",
+      "आवश्यकता अनुसार मात्र"
+    ],
+    "a": 0,
+    "e": "सामान्यतया सेप्टेम्बरमा"
+  },
+  {
+    "id": 10,
+    "q": "बिमिस्टेक' (BIMSTEC) को पाँचौं शिखर सम्मेलन कहाँ भएको थियो?",
+    "o": [
+      "नेपाल",
+      "थाइल्याण्ड",
+      "श्रीलंका",
+      "भारत"
+    ],
+    "a": 2,
+    "e": "भर्चुअल माध्यमबाट"
+  },
+  {
+    "id": 11,
+    "q": "नेपालले कतिवटा देशसँग द्विपक्षीय हवाई सेवा सम्झौता (ASA) गरेको छ?",
+    "o": [
+      "४०",
+      "४२",
+      "४५",
+      "३८"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "सडक घनत्व (कि.मि./वर्ग कि.मि.) कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "०.५४",
+      "०.७७",
+      "१.१",
+      "०.६०"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "Which of the following is not a method of plane table surveying?",
+    "o": [
+      "Trisection",
+      "Intersection",
+      "Resection",
+      "Radiation"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "what is the size of a field book ?",
+    "o": [
+      "20 cm *12 cm",
+      "25 cm * 20 cm",
+      "20 cm * 25 cm",
+      "25 cm *25 cm"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "When the curve is to be set out over a rough ground, the method used is",
+    "o": [
+      "Rankine's method",
+      "two theodolite method",
+      "tacheometric method",
+      "Except Rankine's method"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "What is hydration of cement?",
+    "o": [
+      "Chemical reaction of cement with acid",
+      "Chemical reaction of cement with water",
+      "Chemical reaction of cement with base",
+      "Chemical reaction of cement with salt, and acid"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "Which is the hardest mineral among the following options?",
+    "o": [
+      "Felspar",
+      "Quartz",
+      "Amphibole",
+      "Garnet"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "The variety of pig iron used for the manufacture of steel by Bessemer process, is",
+    "o": [
+      "Bessemer pig",
+      "Grey pig",
+      "White forge pig",
+      "Mottled pig"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "The ratio of bulk modulus to Young's modulus for a Poisson's ratio of 0.25 will be",
+    "o": [
+      "1:3",
+      "2:3",
+      "1",
+      "3:2"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "A simply supported beam carries two equal concentrated loads W at distances 1/3 from either support. The maximum bending moment",
+    "o": [
+      "(WL)/3",
+      "(WL)/4",
+      "(5WL)/4",
+      "(3WL)/12"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "The moment distribution methods in structure analysis can be treated as",
+    "o": [
+      "force methods",
+      "flexibility methods",
+      "displacement methods",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "Barometer is used to measure",
+    "o": [
+      "velocity of liquid",
+      "atmospheric pressure",
+      "pressure in pipes and channels",
+      "difference of pressure between two points in a pipe"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "What is the maximum number of times the pathlines of two particles can intersect in an one dimensional flow?",
+    "o": [
+      "0",
+      "1",
+      "2",
+      "infinity"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "The continuity equation",
+    "o": [
+      "expresses the relationship between work and energy",
+      "relates the momentum per unit volume between two points on a stream line",
+      "relates mass rate of flow along a stream line",
+      "requires that Newton's second law of motion be satisfied at every point in fluid"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "If the sand in-situ is in its densest state, then the relative density of sand is",
+    "o": [
+      "Zero",
+      "1",
+      "between 0 and 1",
+      "greater than 1"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "According to Atterberg the soil is said to be of medium plasticity if the plastic index (PI) is",
+    "o": [
+      "0<PI<7",
+      "7",
+      "17",
+      "PI>27"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "A circular slab subjected to external loading, deflects to form a",
+    "o": [
+      "semi-hemisphere",
+      "ellipsoid",
+      "parabolloid",
+      "none of these"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "If the size of a column is reduced above the floor, the main bars of the columns, are",
+    "o": [
+      "continued up",
+      "bent inward at the floor level",
+      "stopped just below the floor level and separate lap bars provided",
+      "all the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "The platform at the end of a series of steps, is known as",
+    "o": [
+      "platform",
+      "relief",
+      "rest",
+      "landing",
+      "stop"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "The columns of multi-storeyed buildings are designed to withstand the forces due to",
+    "o": [
+      "dead loads",
+      "live loads",
+      "wind loads",
+      "earthquakes",
+      "all of these"
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "If pH value of water is",
+    "o": [
+      "7 water it is said to be neutral",
+      "less than 7 it is said to be acidic",
+      "more than 7 it is said to be alkaline",
+      "all the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "Water supply system includes",
+    "o": [
+      "digging a well for water",
+      "construction of dams",
+      "construction of canals",
+      "entire arrangement from source to distribution"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "The top of the capillary zone",
+    "o": [
+      "Lies below the water table at every point",
+      "Lies above the water table at every point",
+      "Coincides the water table at every point",
+      "None of these"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "Kennedy, in his silt theory, assumed that the silt is kept in suspension because of eddies generated from the",
+    "o": [
+      "bed only",
+      "sides only",
+      "whole perimeter",
+      "any one of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "The longitudinal joints are provided when the width of road is more than",
+    "o": [
+      "3 m",
+      "4 m",
+      "5.5m",
+      "6.75m"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "Curves in the same direction separated by short tangents, are called",
+    "o": [
+      "simple circular curves",
+      "compound curves",
+      "transition curves",
+      "broken-back curves"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "Bill of quantities is prepared based on",
+    "o": [
+      "actual construction quantities",
+      "estimated quantities",
+      "variation in estimated quantities",
+      "none of above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "The quantity of coarse aggregate required for RCC (1:3:6) for 20 cubic metres of work is",
+    "o": [
+      "18.24 m³",
+      "15.23 m³",
+      "24.87 m³",
+      "32.45m³"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "Optimum cost of project is",
+    "o": [
+      "Min. direct cost",
+      "Min total cost",
+      "Min indirect cost",
+      "Max total cost"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "Running bills are paid by",
+    "o": [
+      "Client",
+      "Consultant",
+      "Contractor",
+      "None of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २५, धारा २४९",
+      "भाग २६, धारा २५०",
+      "भाग २७, धारा २५१",
+      "भाग २८, धारा २५२"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "नेपालमा कुन प्रधानमन्त्रीको अध्यक्षतामा भएको कार्यक्रमबाट सार्वजनिक बडापत्रको सुरुवात भएको हो?",
+    "o": [
+      "कृष्णप्रसाद भट्टराई",
+      "मनमोहन अधिकारी",
+      "गिरिजाप्रसाद कोइराला",
+      "शेरबहादुर देउवा"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "मधेश स्वास्थ्य विज्ञान प्रतिष्ठान' (Madhesh Institute of Health Sciences - MIHS) को मुख्य कार्यालय कहाँ अवस्थित छ?",
+    "o": [
+      "वीरगञ्ज, पर्सा",
+      "जनकपुरधाम, धनुषा",
+      "राजविराज, सप्तरी",
+      "गौर, रौतहट"
+    ],
+    "a": 1,
+    "e": "मधेश स्वास्थ्य विज्ञान प्रतिष्ठानको केन्द्रीय कार्यालय प्रदेशको राजधानी जनकपुरधाममा रहेको छ। यो प्रतिष्ठान स्वास्थ्य शिक्षा र सेवाका लागि प्रदेश सरकारको गौरवको आयोजना हो।"
+  },
+  {
+    "id": 44,
+    "q": "आयोगले सञ्चालन गर्ने लिखित परीक्षाको माध्यम भाषा नेपाली वा अंग्रेजी बाहेक अर्को कुन हुन सक्ने व्यवस्था ऐनमा छ?",
+    "o": [
+      "मैथिली भाषा",
+      "भोजपुरी भाषा",
+      "हिन्दी भाषा",
+      "प्रदेश सरकारले तोकेको भाषा"
+    ],
+    "a": 3,
+    "e": "परीक्षाको माध्यम नेपाली, अंग्रेजी र प्रदेश सरकारले तोकेको भाषा हुनेछ। (नोट: मैथिली/भोजपुरी आदि नभनी ऐनमा 'सरकारले तोकेको' भनिएको छ)। (ऐन दफा १६ को उपदफा १)"
+  },
+  {
+    "id": 45,
+    "q": "प्रमुख सूचना आयुक्त वा सूचना आयुक्तको अवकाश हुने उमेर हद कति हो?",
+    "o": [
+      "६० वर्ष",
+      "६३ वर्ष",
+      "६५ वर्ष",
+      "५८ वर्ष"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "आकस्मिक कोष\" (Emergency Fund) बाट गरिएको खर्चको शोधभर्ना कुन कोषबाट गरिने कानुनी व्यवस्था छ?",
+    "o": [
+      "प्रधानमन्त्री सहायता कोष",
+      "संघीय सञ्चित कोष",
+      "राजस्व कोष",
+      "अर्थ मन्त्रालयको विविध शीर्षक"
+    ],
+    "a": 1,
+    "e": "ऐनको दफा २८ (३) अनुसार आकस्मिक कोषबाट खर्च भएको रकमको शोधभर्ना संघीय सञ्चित कोष (Federal Consolidated Fund) बाट गरिनेछ।"
+  },
+  {
+    "id": 47,
+    "q": "मधेश प्रदेश निजामती सेवा ऐन अनुसार देहायका मध्ये कुन पदमा स्थायी पदपूर्ति (Permanent Recruitment) नगरिने स्पष्ट व्यवस्था छ?",
+    "o": [
+      "सब-इन्जिनियर",
+      "सहायक पाँचौं (प्रशासन)",
+      "कम्प्युटर अपरेटर",
+      "वन रक्षक"
+    ],
+    "a": 2,
+    "e": "ऐनको दफा ९(७) अनुसार कम्प्युटर अपरेटर, सहायक कम्प्युटर अपरेटर, सवारी चालक, कार्यालय सहयोगी, इलेक्ट्रिसियन जस्ता पदमा स्थायी पदपूर्ति गरिने छैन। (संघीयमा कम्प्युटर अपरेटर स्थायी हुने गरेको छ)।"
+  },
+  {
+    "id": 48,
+    "q": "कार्यालय प्रमुखले आफ्नो कार्यालयबाट भएको निर्णय र राय परामर्शको के राख्नुपर्ने व्यवस्था थप गरिएको छ?",
+    "o": [
+      "अडियो रेकर्ड",
+      "भिडियो रेकर्ड",
+      "अभिलेख (Record)",
+      "फोटोकपी"
+    ],
+    "a": 2,
+    "e": "नियमावलीको नियम ४३क अनुसार कार्यालय प्रमुखले निर्णय र राय परामर्शको विषयको अभिलेख (Record) राख्ने व्यवस्था मिलाउनु पर्नेछ।"
+  },
+  {
+    "id": 49,
+    "q": "उपमहानगरपालिका हुनका लागि पछिल्लो ५ वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनुपर्छ?",
+    "o": [
+      "१० करोड",
+      "१५ करोड",
+      "२० करोड",
+      "२५ करोड"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "नेपालको संविधान अनुसार कुन हकलाई आकस्मिक अवस्थामा पनि निलम्बन गर्न सकिँदैन?",
+    "o": [
+      "विचार तथा अभिव्यक्तिको हक",
+      "शान्तिपूर्ण भेला हुने हक",
+      "वैयक्तिक स्वतन्त्रताको हक",
+      "यातना विरुद्धको हक"
+    ],
+    "a": 3,
+    "e": ""
+  }
+]

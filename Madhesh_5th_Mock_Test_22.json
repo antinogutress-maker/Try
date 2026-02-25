@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "q": "In a Rainwater Harvesting system, what is the primary function of the \"First Flush\" device?",
+    "o": [
+      "To filter out bacteria and viruses",
+      "To divert the initial contaminated rainwater away from the storage tank",
+      "To measure the total volume of rainfall",
+      "To add chlorine automatically to the water"
+    ],
+    "a": 1,
+    "e": "The first rain that falls on the roof washes away dust, bird droppings, and leaves. The \"First Flush\" device ensures this dirty water is discarded so it doesn't pollute the main storage tank. "
+  },
+  {
+    "id": 2,
+    "q": "In technical terms, \"Garbage\" specifically refers to which type of solid waste?",
+    "o": [
+      "Non-biodegradable waste (glass, metal)",
+      "Construction and demolition debris",
+      "Putrescible (biodegradable) organic waste like food scraps",
+      "Hazardous industrial waste"
+    ],
+    "a": 2,
+    "e": "Garbage: Refers specifically to putrescible (easy to rot) biological waste like food, meat, and vegetables. Rubbish: Refers to non-putrescible waste (combustible like paper/wood, or non-combustible like glass/metal)."
+  },
+  {
+    "id": 3,
+    "q": "Which of the following paints is used for the preservation of iron and steel surfaces?",
+    "o": [
+      "Cement paint",
+      "Primary paint",
+      "Anti-corrosive paint",
+      "Luminous paint"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "Curing of concrete",
+    "o": [
+      "reduces the shrinkage of concrete",
+      "prevents the properties of concrete",
+      "prevents loss of water by evaporation",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "A floor constructed with a special aggregate of 3 mm marble chips mixed with white and colored cement is called:",
+    "o": [
+      "mosaic floor",
+      "terrazzo floor",
+      "chips floor",
+      "marble floor"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "The ratio of limiting friction and normal reaction is known as",
+    "o": [
+      "coefficient of friction",
+      "angle of friction",
+      "angle repose",
+      "sliding friction"
+    ],
+    "a": 0
+  },
+  {
+    "id": 7,
+    "q": "The material having identical properties in all direction is called",
+    "o": [
+      "elastic",
+      "homogenous",
+      "isotropic",
+      "any of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "For structural analysis Maxwell's reciprocal theorem can be applies to",
+    "o": [
+      "plastic structure",
+      "elastic structure",
+      "symmetrical structure",
+      "all of them"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "The ratio of volume of voids to total volume of given soil is",
+    "o": [
+      "void ratio",
+      "porosity",
+      "water content",
+      "specific gravity"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "If the Froude number in open channel flow is equal to 1.0, the flow is called",
+    "o": [
+      "critical flow",
+      "sub-critical flow",
+      "shooting flow",
+      "super critical"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "The ratio of average velocity to maximum velocity for steady laminar flow in circular pipes is",
+    "o": [
+      "1/2",
+      "2/3",
+      "1/3",
+      "3/2"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "The ratio of volume of voids to the volume of solids the given soil mass is known as",
+    "o": [
+      "porosity",
+      "void ratio",
+      "specific gravity",
+      "water content"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "Contour interval is",
+    "o": [
+      "Inversely proportional to the scale of the map",
+      "Directly proportional to the flatness of ground",
+      "Larger for accurate works",
+      "Larger if the time available is more"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "Detailed plotting is generally done by",
+    "o": [
+      "Radiation",
+      "Traversing",
+      "Resection",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "A The desired sensitivity of a bubble tube with 2 mm divisions is 30\" The radius of the bubble tube should be",
+    "o": [
+      "13.75m",
+      "3.44 m",
+      "1375 m",
+      "None of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "The atmospheric pressure with rise in altitude decreases",
+    "o": [
+      "Linearly",
+      "First slowly and then steeply",
+      "First steeply and then gradually",
+      "Unpredictable"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "A land is said to be water-logged if its soil pores within:",
+    "o": [
+      "a depth of 40 cm are saturated",
+      "a depth of 50 cm are saturated",
+      "root zone of the crops are saturated",
+      "all the above."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "A river is said to be of:",
+    "o": [
+      "aggrading type if it builds up its bed to a certain slope",
+      "degrading type if it cuts its bed to a certain slope",
+      "meandering type if it flows in sinuous curve",
+      "all the above."
+    ],
+    "a": 3
+  },
+  {
+    "id": 19,
+    "q": "The length of the straight portion of a bar beyond the end of the hook, should be at least:",
+    "o": [
+      "twice the diameter",
+      "thrice the diameter",
+      "four times the diameter",
+      "five times the diameter",
+      "seven times the diameter."
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "Distribution of shear intensity over a rectangular section of a beam, follows:",
+    "o": [
+      "a circular curve",
+      "a straight line",
+      "a parabolic curve",
+      "an elliptical curve",
+      "none of these."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "The process of working a flat for the finishing coat, is known:",
+    "o": [
+      "dubbing out",
+      "floating",
+      "knetting",
+      "blistering."
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "The sill of a common wooden partition is:",
+    "o": [
+      "vertical wooden member on either end",
+      "lower horizontal wooden member",
+      "upper horizontal wooden member",
+      "intermediate horizontal wooden member."
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "The maximum pressure which the pipe can withstand without any leakage during hydrostatic pressure test, is called:",
+    "o": [
+      "Working pressure",
+      "Design pressure",
+      "Test pressure",
+      "Hydrostatic pressure."
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "Aeration of water is done to remove:",
+    "o": [
+      "odour",
+      "colour",
+      "bacterias",
+      "hardness",
+      "turbidity."
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "If cross slope of a country is upto 10% the terrain is classified as:",
+    "o": [
+      "plain",
+      "rolling",
+      "mountainous",
+      "steep."
+    ],
+    "a": 0
+  },
+  {
+    "id": 26,
+    "q": "Setting out of Lemniscate transition curves, is done with:",
+    "o": [
+      "perpendicular offsets",
+      "radial offsets",
+      "deflection angles",
+      "polar deflection angles."
+    ],
+    "a": 3
+  },
+  {
+    "id": 27,
+    "q": "The ratio of the rate of change of discharge of an outlet and parent channel, is known as:",
+    "o": [
+      "efficiency",
+      "sensitivity",
+      "flexibility",
+      "modular limit."
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "Water-shed line is abandoned for aligning an irrigation canal if:",
+    "o": [
+      "water shed forms a sharp loop",
+      "canal has to take off from a river",
+      "towns and villages are located on the water shed line",
+      "all the above."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "Completion of an activity on CPM network diagram, is generally known:",
+    "o": [
+      "Event",
+      "Node",
+      "Connector",
+      "All the above."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "The first stage of a construction, is:",
+    "o": [
+      "preparation of estimate",
+      "survey of the site",
+      "initiation of proposal",
+      "preparation of tender",
+      "allotment of funds."
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "गुनासो सुन्ने जिम्मेवार अधिकारी (नोडल अधिकृत) ले गुनासो प्राप्त भएको कति समयभित्र सुझाव सहित कार्यालय प्रमुख समक्ष पेश गर्नुपर्नेछ?",
+    "o": [
+      "१२ घण्टाभित्र",
+      "२४ घण्टाभित्र",
+      "३ दिनभित्र",
+      "७ दिनभित्र"
+    ],
+    "a": 1,
+    "e": "नियमावलीको नियम २० (३) अनुसार नोडल अधिकृतले गुनासो प्राप्त भएको मितिले २४ घण्टाभित्र सुझाव सहित कार्यालय प्रमुख समक्ष पेश गर्नुपर्नेछ। (Source: सुशासन नियमावली, २०६५, Page 12)"
+  },
+  {
+    "id": 32,
+    "q": "सूचना अधिकारीले जानबुझ गरी सूचना नदिएमा वा गलत सूचना दिएमा आयोगले कति जरिवाना गर्न सक्छ?",
+    "o": [
+      "रु. १,००० देखि १०,०००",
+      "रु. १,००० देखि २५,०००",
+      "रु. ५,००० देखि २५,०००",
+      "रु. १०,००० देखि ५०,०००"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "महालेखा परीक्षक नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २१, धारा २३९",
+      "भाग २२, धारा २४०",
+      "भाग २३, धारा २४१",
+      "भाग २४, धारा २४२"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "राष्ट्रिय कुल गार्हस्थ्य उत्पादनमा मधेश प्रदेशको योगदान कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "१३.१%",
+      "१५.५%",
+      "१७.०%",
+      "२०.०%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "प्रदेश लोकसेवा आयोग र अन्य संवैधानिक निकायहरूसँग सम्पर्क र समन्वय गर्ने मुख्य जिम्मेवारी कसको हो?",
+    "o": [
+      "गृह, सञ्चार तथा कानून मन्त्रालय",
+      "प्रदेश प्रमुखको कार्यालय",
+      "मुख्यमन्त्री तथा मन्त्रिपरिषद्‌को कार्यालय",
+      "प्रदेश सभा सचिवालय"
+    ],
+    "a": 2,
+    "e": "संवैधानिक निकाय तथा आयोग, प्रदेश लोकसेवा आयोग र अन्य आयोगहरूसँगको सम्पर्क र समन्वय मुख्यमन्त्री तथा मन्त्रिपरिषद्‌को कार्यालयले गर्दछ। (स्रोतः [PDF Page 6, बुँदा ११])"
+  },
+  {
+    "id": 36,
+    "q": "प्रदेश निजामती सेवाको सहायक पाँचौ तहमा बढुवा हुनको लागि एक तह मुनिको पदमा कति वर्ष सेवा अवधि पूरा गरेको हुनुपर्छ?",
+    "o": [
+      "२ वर्ष",
+      "३ वर्ष",
+      "४ वर्ष",
+      "५ वर्ष"
+    ],
+    "a": 1,
+    "e": "व्याख्या: सहायक पाँचौ तहमा बढुवा हुन सहायक चौथो तहमा कम्तीमा ३ वर्ष काम गरेको हुनुपर्छ। (स्रोत: दफा ३०)"
+  },
+  {
+    "id": 37,
+    "q": "परीक्षार्थीले उत्तरपुस्तिका साथमा लिई भागेमा वा प्रश्नपत्रको गोपनीयता भंग गरेमा कति वर्षसम्म परीक्षामा रोक लगाइन्छ?",
+    "o": [
+      "२ वर्ष",
+      "३ वर्ष",
+      "४ वर्ष",
+      "५ वर्ष"
+    ],
+    "a": 1,
+    "e": "प्रश्नपत्रको गोपनीयता भङ्ग गरेमा वा उत्तरपुस्तिका साथमा लिई गएमा ३ वर्षसम्म रोक लगाइनेछ। (ऐन दफा ६४ को उपदफा १ को खण्ड ग)"
+  },
+  {
+    "id": 38,
+    "q": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व नियमावली अनुसार आर्थिक वर्ष समाप्त भएपछि कार्यालयले \"वार्षिक वित्तीय विवरण\" कहिलेसम्म को.ले.नि.का. मा पठाउनुपर्छ?",
+    "o": [
+      "१५ दिन",
+      "२१ दिन",
+      "३० दिन",
+      "३५ दिन"
+    ],
+    "a": 1,
+    "e": "आर्थिक वर्ष समाप्त भएको २१ दिनभित्र। (स्रोत: नियमावली, नियम ७६)"
+  },
+  {
+    "id": 39,
+    "q": "काममा ढिलाई भएमा 'पूर्व निर्धारित क्षतिपूर्ति' (Liquidated Damages) प्रति दिन कति प्रतिशतका दरले काटिन्छ?",
+    "o": [
+      "०.०१ प्रतिशत",
+      "०.०५ प्रतिशत",
+      "०.१ प्रतिशत",
+      "०.५ प्रतिशत"
+    ],
+    "a": 1
+  },
+  {
+    "id": 40,
+    "q": "नेपालको राष्ट्रिय कोड सहितको डोमेन (.np) को व्यवस्थापन कुन संस्थाले गर्छ?",
+    "o": [
+      "सूचना प्रविधि विभाग",
+      "NTA",
+      "मर्कन्टाइल",
+      "नेपाल टेलिकम"
+    ],
+    "a": 2,
+    "e": "Mercantile Communications ले यसको व्यवस्थापन निःशुल्क गर्दै आएको छ।"
+  },
+  {
+    "id": 41,
+    "q": "२०७८ को जनगणना अनुसार नेपालमा ६० वर्ष वा सोभन्दा माथिका ज्येष्ठ नागरिकको जनसंख्या कति प्रतिशत छ?",
+    "o": [
+      "10.21",
+      "10",
+      "20",
+      "20.21"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "संयुक्त राष्ट्र संघको ८० औं महासभा (UNGA) को वर्तमान अध्यक्ष को हुनुहुन्छ?",
+    "o": [
+      "Dennis Francis",
+      "Philemon Yang",
+      "Annalena Baerbock",
+      "Csaba Kőrösi"
+    ],
+    "a": 2,
+    "e": "(Elected June 2, 2025; term runs September 2025 – September 2026)."
+  },
+  {
+    "id": 43,
+    "q": "मानव विकास सूचकांक (Human Development Index) २०२५ मा नेपालको स्थान कति औँ रहेको छ?",
+    "o": [
+      "१३१ औँ",
+      "१०७ औँ",
+      "१४५ औँ",
+      "१०१ औँ"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "मधेश प्रदेश दोस्रो पञ्चवर्षीय योजना अनुसार अपेक्षित आयु (जन्म हुँदाको बखत) कति वर्ष पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "७१.८ वर्ष",
+      "७० वर्ष",
+      "७३ वर्ष",
+      "७५ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "सिरहा र सप्तरी जिल्ला कुन फलफूल उत्पादनका लागि विशेष प्रसिद्ध छन्?",
+    "o": [
+      "सुन्तला (Orange)",
+      "आँप (Mango)",
+      "केरा (Banana)",
+      "स्याउ (Apple)"
+    ],
+    "a": 1,
+    "e": "Siraha and Saptari are major mango producers (Maldaha variety)."
+  },
+  {
+    "id": 46,
+    "q": "मधेश प्रदेशको सबैभन्दा ठूलो जातीय समूह (Ethnic Group) कुन हो?",
+    "o": [
+      "थारु",
+      "मुसलमान",
+      "यादव",
+      "तेली"
+    ],
+    "a": 2,
+    "e": "Yadav: The largest group (14.78%), politically and socially dominant in rural areas."
+  },
+  {
+    "id": 47,
+    "q": "डिजिटल मधेश' (Digital Madhesh) अवधारणा अनुरुप ई-गभर्नेन्स मास्टर प्लान (e-governance master plans) कार्यान्वयनमा ल्याउने प्रशासनिक केन्द्र (राजधानी) कुन जिल्लामा छ?",
+    "o": [
+      "पर्सा",
+      "धनुषा",
+      "बारा",
+      "मोरङ"
+    ],
+    "a": 1,
+    "e": "The province is transitioning towards \"Digital Madhesh\"... Headquarters: Janakpurdham (Provincial Capital) is in Dhanusha."
+  },
+  {
+    "id": 48,
+    "q": "नेपालको एक मात्र पूर्ण रूपमा 'तराईका जिल्लाहरू' (Terai Districts) मात्र मिलेर बनेको प्रदेश कुन हो?",
+    "o": [
+      "कोशी प्रदेश",
+      "मधेश प्रदेश",
+      "लुम्बिनी प्रदेश",
+      "सुदूरपश्चिम प्रदेश"
+    ],
+    "a": 1,
+    "e": "The province is the only federal unit in Nepal composed entirely of Terai districts. "
+  },
+  {
+    "id": 49,
+    "q": "मधेश प्रदेशको भौगोलिक बनावटमा सबैभन्दा तल्लो विन्दु (Lowest Elevation) कुन हो?",
+    "o": [
+      "६० मिटर (कञ्चनरूप)",
+      "५९ मिटर (मुसहरनिया)",
+      "७० मिटर (वीरगन्ज)",
+      "६५ मिटर (जनकपुर)"
+    ],
+    "a": 1,
+    "e": "Containing the lowest point of the province at Musharniya (Dhanusha District), which sits at an elevation of 59 meters above sea level."
+  },
+  {
+    "id": 50,
+    "q": "नेपालको संविधान २०७२ अनुसार, भाग ३. मौलिक हकको कार्यान्वयन कुन धारा अन्तर्गत पर्दछ?",
+    "o": [
+      "क) धारा-४६",
+      "ख) धारा–४८",
+      "ग) धारा-४७",
+      "घ) धारा-४९"
+    ],
+    "a": 2
+  }
+]

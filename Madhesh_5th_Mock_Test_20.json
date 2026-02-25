@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1,
+    "q": "\"गरिवी निवारण\" सम्बन्धी प्रादेशिक नीति र गरिब घरपरिवार पहिचान गर्ने कार्य कुन मन्त्रालयको जिम्मामा छ?",
+    "o": [
+      "अर्थ मन्त्रालय",
+      "भूमि व्यवस्था, कृषि तथा सहकारी मन्त्रालय",
+      "खेलकुद तथा समाज कल्याण मन्त्रालय",
+      "श्रम तथा यातायात मन्त्रालय"
+    ],
+    "a": 3,
+    "e": "धेरैजसोले यसमा झुक्किन सक्छन्, तर यो नियमावली अनुसार \"गरिवी निवारण सम्बन्धी प्रादेशिक नीति... र गरिब घरपरिवार पहिचान\" को कार्य \"श्रम तथा यातायात मन्त्रालय\" (बुँदा नं. १२) अन्तर्गत राखिएको छ।"
+  },
+  {
+    "id": 2,
+    "q": "परीक्षा केन्द्रमा सम्बन्धित पदाधिकारीको स्वीकृति बेगर प्रवेश गर्न खोज्ने वा केन्द्र नियन्त्रणमा लिने (Taking Control) व्यक्तिलाई आयोगको परीक्षामा कति वर्षसम्म रोक लगाइन्छ?",
+    "o": [
+      "२ वर्ष",
+      "३ वर्ष",
+      "४ वर्ष",
+      "५ वर्ष"
+    ],
+    "a": 3,
+    "e": "परीक्षा केन्द्र नियन्त्रणमा लिई अमर्यादित कार्य गरेमा ५ वर्षसम्म उम्मेदवार हुन नपाउने गरी रोक लगाइनेछ। (श्रोतः ऐन दफा ६४ को उपदफा १ को खण्ड घ)"
+  },
+  {
+    "id": 3,
+    "q": "सूचना नदिएको वा गलत सूचना दिएको कारणले हानी नोक्सानी पर्न गएमा क्षतिपूर्तिको लागि कति समयभित्र आयोगमा निवेदन दिनुपर्छ?",
+    "o": [
+      "३५ दिन",
+      "६० दिन",
+      "३ महिना",
+      "६ महिना"
+    ],
+    "a": 2,
+    "e": "(स्रोत: दफा ३३(१) - हानी नोक्सानी भएको मितिले तीन महिनाभित्र)"
+  },
+  {
+    "id": 4,
+    "q": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व नियमावली २०७७,, आर्थिक वर्ष समाप्त हुनुभन्दा कति दिन अगाडि भुक्तानी निकासा बन्द (Account Freeze) गर्नुपर्ने व्यवस्था नियमावलीमा छ?",
+    "o": [
+      "३ दिन",
+      "५ दिन",
+      "७ दिन",
+      "१० दिन"
+    ],
+    "a": 2,
+    "e": "नियमावलीको नियम ३० (१) अनुसार आर्थिक वर्ष समाप्त हुनुभन्दा कम्तीमा सात दिन (७ दिन) अगावै भुक्तानी निकासा बन्द गर्नुपर्नेछ। (स्रोत: नियमावली २०७७, नियम ३०(१), पृष्ठ २२)"
+  },
+  {
+    "id": 5,
+    "q": "एक कार्यालयले अर्को कार्यालयसँग 'राय परामर्श' (Opinion/Consultation) माग गरेकोमा जवाफ दिने कार्यालयले कति दिनभित्र राय दिनुपर्छ?",
+    "o": [
+      "३ दिनभित्र",
+      "५ दिनभित्र",
+      "७ दिनभित्र",
+      "१५ दिनभित्र"
+    ],
+    "a": 2,
+    "e": "नियमावलीको नियम ३३ (२) अनुसार राय परामर्श सोधिएकोमा जवाफ दिने कार्यालयले लेखी आएको मितिले बढीमा सात दिनभित्र राय परामर्श दिनुपर्छ।"
+  },
+  {
+    "id": 6,
+    "q": "प्रमुख निर्वाचन आयुक्त वा निर्वाचन आयुक्त पदमा नियुक्तिका लागि मान्यताप्राप्त विश्वविद्यालयबाट कुन उपाधि प्राप्त गरेको हुनुपर्छ?",
+    "o": [
+      "प्रवीणता प्रमाणपत्र",
+      "स्नातक",
+      "स्नातकोत्तर",
+      "विद्यावारिधि"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "मधेश प्रदेश निजामती सेवा ऐन, २०७७ - समावेशी कोटा तर्फ \"आदिवासी/जनजाति\" का लागि कति प्रतिशत पद आरक्षण गरिएको छ?",
+    "o": [
+      "५ प्रतिशत",
+      "६ प्रतिशत",
+      "१२ प्रतिशत",
+      "१७ प्रतिशत"
+    ],
+    "a": 1,
+    "e": "मधेशी (५४%), दलित (१७%), मुस्लिम (१२%), आदिवासी/जनजाति (६%), थारु (५%), विपन्न खस आर्य (४%) र अपाङ्ग (२%)। "
+  },
+  {
+    "id": 8,
+    "q": "लिखित परीक्षाको पूर्णाङ्क ३०० (तीन सय) भएमा अन्तर्वार्ताको अङ्कभार कति कायम हुने व्यवस्था छ?",
+    "o": [
+      "३० अङ्क",
+      "३५ अङ्क",
+      "४० अङ्क",
+      "५० अङ्क"
+    ],
+    "a": 2,
+    "e": "नियमावलीको अनुसूची-४ अनुसार लिखित परीक्षाको १०० पूर्णाङ्कका लागि २० अङ्क र त्यसपछिको थप प्रत्येक १०० पूर्णाङ्कका लागि १० अङ्क थप हुन्छ। (१०० = २०, २०० = ३०, ३०० = ४०)"
+  },
+  {
+    "id": 9,
+    "q": "What is the procurement value up to which a cost estimate is not required?",
+    "o": [
+      "Ten thousand rupees",
+      "Twenty-five thousand rupees",
+      "Fifty thousand rupees",
+      "One hundred thousand rupees"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "भवन निर्माण अनुमतिको लागि दरखास्त परेको कति दिनभित्र प्रमुख प्रशासकीय अधिकृतले जाँचबुझ गर्नु पर्नेछ?",
+    "o": [
+      "३ दिनभित्र",
+      "७ दिनभित्र",
+      "१५ दिनभित्र",
+      "२१ दिनभित्र"
+    ],
+    "a": 1
+  },
+  {
+    "id": 11,
+    "q": "Modular co-ordination of construction means proper:",
+    "o": [
+      "Planning",
+      "Designing",
+      "Execution",
+      "All the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 12,
+    "q": "Final technical authority of a project lies with:",
+    "o": [
+      "Assistant Engineer",
+      "Executive Engineer",
+      "Superintending Engineer",
+      "Chief Engineer"
+    ],
+    "a": 3
+  },
+  {
+    "id": 13,
+    "q": "The rate of an item of work depends on:",
+    "o": [
+      "Specifications of works",
+      "Specifications of materials",
+      "Proportion of mortar",
+      "Method of construction",
+      "All the above"
+    ],
+    "a": 4
+  },
+  {
+    "id": 14,
+    "q": "The measurement is made for stone work in square metre (m^2) in case of:",
+    "o": [
+      "Wall facing",
+      "Columns, lintels, copings",
+      "Building work",
+      "Dressed stones in Chajjas",
+      "Both A and D"
+    ],
+    "a": 4
+  },
+  {
+    "id": 15,
+    "q": "Raising of outer edge of a road with respect to inner edge, is known as:",
+    "o": [
+      "Super elevation",
+      "Cant",
+      "Banking",
+      "All the above"
+    ],
+    "a": 3,
+    "e": "[----------_0](----------)"
+  },
+  {
+    "id": 16,
+    "q": "If a Lemniscate curve of transition throughout is introduced to connect two parallel roads, the maximum polar angle of the curve is:",
+    "o": [
+      "10⁰",
+      "15⁰",
+      "20⁰",
+      "30⁰",
+      "45⁰"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "A centrifugal pump is required to be primed before starting if it is located:",
+    "o": [
+      "At higher level than water level of reservoir",
+      "At lower level than water level of reservoir",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "Acidity in water is caused due to:",
+    "o": [
+      "Mineral acids",
+      "Free CO_2",
+      "Iron sulphate",
+      "Aluminium sulphate",
+      "All the above"
+    ],
+    "a": 4
+  },
+  {
+    "id": 19,
+    "q": "The process of working a flat for the finishing coat, is known as:",
+    "o": [
+      "Dubbing out",
+      "Floating",
+      "Knetting",
+      "Blistering"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "An ordinary concrete may be made water proof by adding:",
+    "o": [
+      "Pudlo",
+      "Impermo",
+      "Snowcem",
+      "Cico",
+      "All of these"
+    ],
+    "a": 4
+  },
+  {
+    "id": 21,
+    "q": "As the percentage of steel increases:",
+    "o": [
+      "Depth of neutral axis decreases",
+      "Depth of neutral axis increases",
+      "Lever arm increases",
+      "Lever arm decreases"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "Distribution of shear intensity over a rectangular section of a beam follows:",
+    "o": [
+      "A circular curve",
+      "A straight line",
+      "A parabolic curve",
+      "An elliptical curve"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "Thickness of a pavement may be reduced considerably by",
+    "o": [
+      "compaction of soil",
+      "stabilisation of soil",
+      "drainage of soil",
+      "combination of all the above."
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "De-chlorination is followed by",
+    "o": [
+      "post-chlorination",
+      "pre-chlorination",
+      "double-chlorination",
+      "super-chlorination."
+    ],
+    "a": 3
+  },
+  {
+    "id": 25,
+    "q": "मधेस प्रदेशको सबैभन्दा ठूलो जिल्ला क्षेत्रफलको आधारमा कुन हो?",
+    "o": [
+      "सप्तरी",
+      "सिरहा",
+      "सर्लाही",
+      "धनुषा"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "मिथिला संस्कृतिको प्रसिद्ध कला कुन हो?",
+    "o": [
+      "थाङ्का चित्रकला",
+      "मिथिला चित्रकला",
+      "प्रस्तर कला",
+      "काष्ठ कला"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "मधेस प्रदेशको आर्थिक विकासका लागि 'लाइफलाइन' मानिने सडक आयोजना कुन हो?",
+    "o": [
+      "मध्य पहाडी लोकमार्ग",
+      "हुलाकी राजमार्ग",
+      "पृथ्वी राजमार्ग",
+      "मदन भण्डारी राजमार्ग"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "पारिस्थितिक प्रणाली (Ecosystem) मा उत्पादकको भूमिका कसले निर्वाह गर्छ?",
+    "o": [
+      "बाघ",
+      "मानिस",
+      "हरिया वनस्पति",
+      "ब्याक्टेरिया"
+    ],
+    "a": 2,
+    "e": "[----------_1](----------)"
+  },
+  {
+    "id": 29,
+    "q": "संसारको पहिलो स्मार्टफोन कुन कम्पनीले बनाएको थियो?",
+    "o": [
+      "Apple",
+      "Nokia",
+      "IBM",
+      "Samsung"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "स्वस्थ रहनका लागि दैनिक कति समय व्यायाम वा योग गर्नुपर्छ?",
+    "o": [
+      "५ मिनेट",
+      "कम्तिमा ३० मिनेट",
+      "५ घण्टा",
+      "व्यायाम आवश्यक छैन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "विश्व बैंक (World Bank) को स्थापना कुन सम्मेलनबाट भएको हो?",
+    "o": [
+      "सान फ्रान्सिस्को सम्मेलन",
+      "ब्रेटन वुड्स सम्मेलन",
+      "याल्टा सम्मेलन",
+      "लण्डन घोषणा"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "सार्क (SAARC) को कान्छो सदस्य राष्ट्र कुन हो?",
+    "o": [
+      "माल्दिभ्स",
+      "भुटान",
+      "अफगानिस्तान",
+      "पाकिस्तान"
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "नेपालको पहिलो 'डिजिटल प्रदेश' घोषणा गरिएको प्रदेश कुन हो?",
+    "o": [
+      "बागमती प्रदेश",
+      "गण्डकी प्रदेश",
+      "लुम्बिनी प्रदेश",
+      "कोशी प्रदेश"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "नेपालमा योजनाबद्ध विकासको सुरुवात कहिलेबाट भएको थियो?",
+    "o": [
+      "२०१३ असोज ७",
+      "२०१३ श्रावण १",
+      "२०१३ भाद्र १",
+      "२०१३ असार १"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "'Minamata disease' is caused by water pollution due to:",
+    "o": [
+      "Lead",
+      "Mercury",
+      "Arsenic",
+      "Cadmium"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "The process of aerobic decomposition of organic solid waste is called:",
+    "o": [
+      "Incineration",
+      "Composting",
+      "Pyrolysis",
+      "Sanitary Landfill"
+    ],
+    "a": 1,
+    "e": "[----------_2](----------)"
+  },
+  {
+    "id": 37,
+    "q": "Marine survey deal with the mapping of",
+    "o": [
+      "Large water bodies",
+      "Canal system",
+      "Cloud movement",
+      "None"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "Which is not the principle of surveying?",
+    "o": [
+      "Working from part to whole",
+      "independent check",
+      "Location of a point by measuring from two control point.",
+      "None of above."
+    ],
+    "a": 0
+  },
+  {
+    "id": 39,
+    "q": "The value of additive constant for the tacheometer varies from",
+    "o": [
+      "0 to 15 cm",
+      "15 to 30 cm",
+      "30 to 45 cm",
+      "45 to 60 cm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "Size of cyclopean aggregate is",
+    "o": [
+      "4.75 mm to 75 mm",
+      "0.6 mm to 4.75 mm",
+      "more than 75mm",
+      "less than 0.6 mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 41,
+    "q": "Efflorescence is caused if",
+    "o": [
+      "the alkaline salt is present in the bricks",
+      "the clay used for making bricks contain pyrite",
+      "the water used for pugging the clay contains gypsum",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "Porcelain is used as:",
+    "o": [
+      "sanitary wares",
+      "storage vessels",
+      "electric insulators",
+      "reactor chambers"
+    ],
+    "a": 0
+  },
+  {
+    "id": 43,
+    "q": "The bending moment diagram for a simply supported beam loaded in its center is",
+    "o": [
+      "A right angled triangle,",
+      "An isosceles triangle",
+      "A rectangle",
+      "An equilateral triangle"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "When a rectangular beam is loaded longitudinally, shear develops on",
+    "o": [
+      "bottom fiber",
+      "top fiber",
+      "middle fiber",
+      "every-horizontal plane."
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "The tension coefficient of any member is",
+    "o": [
+      "force divided by the length",
+      "tension divided by the length",
+      "tension per unit area",
+      "tension in the member."
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "A weir is called broad crested when,",
+    "o": [
+      "B>H/2",
+      "B=H/2",
+      "B<H/2",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "The depth at which specific energy is same",
+    "o": [
+      "Alternate depth",
+      "Critical depth",
+      "Both [b] &[c]",
+      "Conjugate depth"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "A pipe of length more than double the diameter of orifice fitted externally or internally to the orifice is called a",
+    "o": [
+      "notch",
+      "weir",
+      "mouthpiece",
+      "nozzle"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "Which of the following methods is most accurate for the determination of the water content of soil?",
+    "o": [
+      "Oven drying method",
+      "alcohol method",
+      "sand bath method",
+      "calcium carbide method"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "Sensitivity of a soil can be defined as",
+    "o": [
+      "percentage of volume change of soil under saturated condition",
+      "ratio of compressive strength of unconfined undisturbed soil to that of soil in a remoulded state",
+      "ratio of volume of voids to volume of solids",
+      "none of the above"
+    ],
+    "a": 1
+  }
+]

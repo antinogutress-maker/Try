@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "q": "महालेखा परिक्षकको पदावधि नियुक्तिको मितिले कति बर्षको हुन्छ ?",
+    "o": [
+      "4 बर्ष",
+      "5 बर्ष",
+      "7 बर्ष",
+      "६ बर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "कार्यक्षमताको मुल्यांकनको आधारमा हुने बढुवा अन्तर्गत भौगोलिक विकट क्षेत्रमा काम गरे वापत कति अंक प्राप्त गर्दछन् ?",
+    "o": [
+      "10 अंक",
+      "15 अंक",
+      "25 अंक",
+      "२० अंक"
+    ],
+    "a": 3
+  },
+  {
+    "id": 3,
+    "q": "कोशी प्रदेश निजामती सेवा दिवस कहिले मनाइने छ भनि निजामती सेवा नियमावलीमा उल्लेख गरिएको छ ?",
+    "o": [
+      "असोज 10 गते",
+      "असोज 12 गते",
+      "असोज 15 गते",
+      "असोज ११ गते"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "कोशी प्रदेश लोकसेवा आयोग ऐन २०७६ मा कति परिच्छेद र दफा रहेका छन् ?",
+    "o": [
+      "परिच्छेद 5 र दफा 50",
+      "परिच्छेद 6 र दफा 60",
+      "परिच्छेद 8 र दफा 70",
+      "परिच्छेद ७ र दफा ६६"
+    ],
+    "a": 3
+  },
+  {
+    "id": 5,
+    "q": "सरकारि कार्यालयहरुको अन्तिम लेखापरिक्षण गर्ने निकाय कुन हो ?",
+    "o": [
+      "महालेखा परीक्षक कार्यालय",
+      "आन्तरिक लेखापरीक्षण कार्यालय",
+      "वित्तीय नियन्त्रण कार्यालय",
+      "कोष तथा लेखा नियन्त्रक कार्यालय"
+    ],
+    "a": 3
+  },
+  {
+    "id": 6,
+    "q": "कोशी प्रदेश आवधिक योजनाको दिर्घकालीन सोच देहायका मध्ये कुन हो ?",
+    "o": [
+      "सुखि प्रदेश समुन्नत जनता",
+      "स्वच्छ , सुखी र समुन्नत प्रदेश",
+      "सुखी , सम्मुनत र स्वस्थ प्रदेश",
+      "समुन्नत , सुखी र स्वच्छ प्रदेश"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "आर्थिक वर्ष 2085/86 मा कोशि प्रदेशको आर्थिक वृद्धिदर कति पुर्याउने लक्ष्य रहेको छ ?",
+    "o": [
+      "5%",
+      "6%",
+      "8%",
+      "७.५५%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 8,
+    "q": "अध्ययन बिदा लिने कर्मचारीले कति वर्ष सेवा अवधि पुरा नगरी बिदा लिन पाउदैनन्?",
+    "o": [
+      "2 वर्ष",
+      "4 वर्ष",
+      "5 वर्ष",
+      "३ वर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "प्रदेश निजामती सेवाको पदमा शुरु नियुक्ति गर्दा कर्मचारीलाई कति समय परीक्षणकाल मा राखिने छ?",
+    "o": [
+      "3 महिना",
+      "9 महिना",
+      "2 वर्ष",
+      "महिला कर्मचारीको हकमा 6 महिना र पुरुष कर्मचारीको हकमा 1 वर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 10,
+    "q": "निजामति कर्मचारीलाई एक बर्षमा बढीमा कति महिनाको लागि काजमा खटाउन सकिनेछ?",
+    "o": [
+      "1 महिना",
+      "2 महिना",
+      "6 महिना",
+      "३ महिना"
+    ],
+    "a": 3
+  },
+  {
+    "id": 11,
+    "q": "\"Bulking of Sand\" is maximum at a moisture content of approximately:",
+    "o": [
+      "3%",
+      "4%",
+      "8%",
+      "100%"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "\"Negative Skin Friction\" on a pile foundation occurs when:",
+    "o": [
+      "The pile is driven into dense sand",
+      "The surrounding soil settles more than the pile",
+      "The pile settles more than the surrounding soil",
+      "The groundwater table rises"
+    ],
+    "a": 1,
+    "e": "If the soil around the pile is loose (like recent fill) and settles over time, it drags the pile downwards. This creates a downward drag force (negative friction) which increases the load on the pile, reducing its capacity. "
+  },
+  {
+    "id": 13,
+    "q": "\"Liquefaction\" is a phenomenon where saturated loose sand loses its strength and behaves like a liquid, typically due to:",
+    "o": [
+      "High static loads",
+      "Earthquake (Cyclic loading)",
+      "Frost action",
+      "Slow consolidation"
+    ],
+    "a": 1,
+    "e": "During an earthquake, the shaking increases the pore water pressure in loose saturated sand so fast that the effective stress drops to zero. The sand loses all shear strength and flows like a liquid. "
+  },
+  {
+    "id": 14,
+    "q": "The \"Liquid Limit\" of a soil is determined in the laboratory using:",
+    "o": [
+      "Vane Shear Apparatus",
+      "Casagrande’s Apparatus",
+      "Pycnometer",
+      "Proctor Mould"
+    ],
+    "a": 1,
+    "e": "Casagrande’s apparatus (the brass cup that drops) is the standard device to find the Liquid Limit (W_L). (Pycnometer is for Specific Gravity; Proctor is for Compaction) "
+  },
+  {
+    "id": 15,
+    "q": "The depression (indentation) provided on the top face of a brick is called a \"Frog\". Its primary purpose is to:",
+    "o": [
+      "Reduce the weight of the brick",
+      "Form a \"Key\" for holding the mortar",
+      "Indicate the manufacturer's name only",
+      "Provide insulation"
+    ],
+    "a": 1,
+    "e": "While it often has the manufacturer's name, the engineering purpose is to create a mechanical interlock (key) with the mortar, preventing the brick courses from sliding over each other. "
+  },
+  {
+    "id": 16,
+    "q": "\"Blistering\" is a defect in plastered walls characterized by:",
+    "o": [
+      "Cracks on the surface",
+      "Small patches of plaster swelling out and detaching",
+      "Formation of a white powdery deposit",
+      "Falling off of large patches"
+    ],
+    "a": 1,
+    "e": "Blistering is caused by the \"late slaking\" of unslaked lime particles inside the plaster. As moisture reaches them, they expand, pushing the plaster out in small swellings (blisters)."
+  },
+  {
+    "id": 17,
+    "q": "To prevent \"Segregation\" of concrete, the maximum height of free fall during placing should generally not exceed:",
+    "o": [
+      "0.5 meters",
+      "1.5 meters",
+      "3.0 meters",
+      "5.0 meters"
+    ],
+    "a": 1,
+    "e": "Dropping concrete from higher than 1.5m causes the heavy aggregates to separate from the cement paste, resulting in a non-uniform, weak, and honeycombed structure."
+  },
+  {
+    "id": 18,
+    "q": "In painting, the \"Prime Coat\" is applied primarily to:",
+    "o": [
+      "Provide the final color and finish",
+      "Fill up the pores and provide adhesion for subsequent coats",
+      "Make the surface glossy",
+      "Reduce the cost of painting"
+    ],
+    "a": 1,
+    "e": "The primer penetrates the surface (wood/metal/plaster), seals the pores so the expensive topcoat isn't absorbed, and provides a rougher surface for the next coat to stick to."
+  },
+  {
+    "id": 19,
+    "q": "The \"Center of Pressure\" of a submerged vertical plane surface is always:",
+    "o": [
+      "At the Center of Gravity (C.G.)",
+      "Above the Center of Gravity",
+      "Below the Center of Gravity",
+      "At the liquid surface"
+    ],
+    "a": 2,
+    "e": "Pressure increases with depth. Therefore, there is more total force acting on the lower half of the plate than the upper half. This pulls the resultant point of application (Center of Pressure) below the geometric center (C.G.). "
+  },
+  {
+    "id": 20,
+    "q": "\"Water Hammer\" pressures in pipes can be reduced by:",
+    "o": [
+      "Closing the valve instantly",
+      "Closing the valve slowly",
+      "Using rigid pipes",
+      "Increasing the flow velocity"
+    ],
+    "a": 1,
+    "e": "Water hammer is caused by the sudden conversion of kinetic energy into pressure energy when flow stops. Closing the valve slowly allows the pressure wave to dissipate gradually, preventing the \"hammer\" shock."
+  },
+  {
+    "id": 21,
+    "q": "A \"Pitot Tube\" is used to measure:",
+    "o": [
+      "Discharge of the stream",
+      "Average velocity of flow",
+      "Velocity at a specific point (Stagnation pressure)",
+      "Pressure difference between two points"
+    ],
+    "a": 2,
+    "e": "A Pitot tube faces the flow. The fluid stops at the tip (stagnation point), converting velocity head into pressure head. It measures the velocity at that exact point, not the average. "
+  },
+  {
+    "id": 22,
+    "q": "The device used to connect a consumer's service pipe to the municipal water main is called a:",
+    "o": [
+      "Stop Cock",
+      "Ferrule",
+      "Goose Neck",
+      "Saddle"
+    ],
+    "a": 1,
+    "e": "A Ferrule is a right-angled sleeve made of brass/gunmetal inserted directly into the main pipe. It controls the connection to the service pipe. (A Goose Neck is the curved flexible pipe after the ferrule). "
+  },
+  {
+    "id": 23,
+    "q": "In a Rapid Sand Filter, \"Air Binding\" is a trouble caused by:",
+    "o": [
+      "Excessive negative head (Vacuum)",
+      "High turbidity",
+      "Growth of algae",
+      "Mud ball formation"
+    ],
+    "a": 0,
+    "e": "If the filter gets clogged, the resistance increases. If the head loss exceeds the static head, a negative pressure (vacuum) is created. This pulls dissolved air out of the water bubbles, which get trapped in the sand voids (\"binding\" the flow). [ 👍 _0]( 👍 )"
+  },
+  {
+    "id": 24,
+    "q": "The distribution system in which water flows towards the outer periphery, suitable for towns growing radially from a center, is:",
+    "o": [
+      "Dead End System",
+      "Grid Iron System",
+      "Radial System",
+      "Ring System"
+    ],
+    "a": 2,
+    "e": "In a Radial system, the entire treated water is pumped to a central elevated reservoir, and distribution pipes radiate outwards like the spokes of a wheel. "
+  },
+  {
+    "id": 25,
+    "q": "For the design of major hydraulic structures on the canals, the method generally preferred to, is based on...",
+    "o": [
+      "Bligh's theory",
+      "Electrical analogy method",
+      "The relaxation method",
+      "Khosla's method of independent variables"
+    ],
+    "a": 3
+  },
+  {
+    "id": 26,
+    "q": "In Montague type fall...",
+    "o": [
+      "a straight glacis is provided",
+      "a circular glacis is provided",
+      "a parabolic glacis is provided",
+      "no glacis is provided"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "The uplift pressure on the roof of an inverted siphon, is maximum when...",
+    "o": [
+      "drain in running dry",
+      "canal is running dry",
+      "canal is running with F.S.L.",
+      "drain is running with H.F.L."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "The longitudinal joint in concrete pavements, as recommended by I.R.C., is of ............",
+    "o": [
+      "tongue and groove type",
+      "butt type",
+      "weakened plane type",
+      "hinged type"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "The increase in traffic constitutes the ............",
+    "o": [
+      "normal traffic growth",
+      "generated traffic",
+      "development traffic",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "The instantaneous speed of a vehicle as it passes a point in a highway is known as ............",
+    "o": [
+      "design speed",
+      "running speed",
+      "spot speed",
+      "overall speed"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "The unit of measurement of railing is ............",
+    "o": [
+      "m³",
+      "kg",
+      "per m",
+      "m²"
+    ],
+    "a": 2
+  },
+  {
+    "id": 32,
+    "q": "The value of the dismantled material less the cost of dismantling is called ............",
+    "o": [
+      "the scrap value",
+      "salvation value",
+      "rateable value",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "The use of bar chart is very popular in construction department because ............",
+    "o": [
+      "it is very simple to prepare and interpret",
+      "each item of work or activity is shown separately",
+      "modification to the chart, if required, can be carried out easily",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": "[ 👍 _1]( 👍 )"
+  },
+  {
+    "id": 34,
+    "q": "Idlers are ............",
+    "o": [
+      "excavating equipments",
+      "dumping equipments",
+      "used in hoes",
+      "used to provide supports for belt conveyor system"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "P.E.R.T. ............",
+    "o": [
+      "provides an approach for keeping planning up-to-date",
+      "provides a way for management to require that planning be done on a uniform and logical basis",
+      "permits management to foresee quickly the impact of variations from the plan",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": "[ 👍 _2]( 👍 )"
+  },
+  {
+    "id": 36,
+    "q": "The slope of the transitional surface for A, B and C type of runway shall be ...",
+    "o": [
+      "1:5",
+      "1:7",
+      "1:10",
+      "1:12"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "The runway orientation is made so that landing and takeoff are ...",
+    "o": [
+      "against the wind direction",
+      "along the wind direction",
+      "perpendicular to wind direction",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "Profile levelling is usually done for determining",
+    "o": [
+      "contours of an area",
+      "capacity of a reservoir",
+      "area of forest zone",
+      "Elevations along a straight line"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "Benchmark is a",
+    "o": [
+      "Point of known elevation",
+      "The very first station",
+      "Reference point",
+      "The last station where the survey closes"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "Sandstone contains mostly",
+    "o": [
+      "quartz and lime",
+      "quartz, lime, and silica",
+      "silica, aluminium, and lime",
+      "igneous"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "Which one of the following is an air-binding material?",
+    "o": [
+      "Gypsum",
+      "Acid-resistant cement",
+      "Quick lime",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 42,
+    "q": "For melting one tonne of cast iron",
+    "o": [
+      "700 m³ of air is required",
+      "20 kg of limestone is required",
+      "One quintal of coke is required",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "The ultimate strength of cement is provided by",
+    "o": [
+      "Tri-calcium silicate",
+      "Di-calcium silicate",
+      "Tri-calcium aluminate",
+      "Tetra-calcium alumino ferrite"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "The value of Poisson's ratio always remains",
+    "o": [
+      "greater than one",
+      "less than one",
+      "equal to one",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 45,
+    "q": "Which of the following materials is highly elastic?",
+    "o": [
+      "Rubber",
+      "Brass",
+      "Steel",
+      "Glass"
+    ],
+    "a": 2
+  },
+  {
+    "id": 46,
+    "q": "In a beam, spacing of share reinforcement is kept at center as compare to end",
+    "o": [
+      "minimum",
+      "maximum",
+      "constant",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "Effective length of a column effectively held in position and restrained in direction at both ends, is",
+    "o": [
+      "L",
+      "0.67 L",
+      "0.85 L",
+      "1.5 L"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "In a beam subjected to pure bending, the intensity of stress in any fiber is ...............the distance of the fiber from the neutral axis.",
+    "o": [
+      "equal to",
+      "less than",
+      "more than",
+      "directly proportional to"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "A staff reading taken on a point whose elevation is to be determined as on a change point is called",
+    "o": [
+      "foresight reading",
+      "back sight reading",
+      "intermediate sight",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "The length of peg interval for flat curves is:",
+    "o": [
+      "15m",
+      "20 m",
+      "25m",
+      "30m"
+    ],
+    "a": 3
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "id": 1,
+    "q": "५० लाख रुपैयाँभन्दा बढी र १ करोड रुपैयाँसम्म विगो भएमा कति वर्ष कैद सजाय हुन्छ?",
+    "o": [
+      "४ वर्षदेखि ६ वर्ष",
+      "६ वर्षदेखि ८ वर्ष",
+      "८ वर्षदेखि १० वर्ष",
+      "१० वर्षदेखि १२ वर्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "वडाको संख्या वा सिमाना हेरफेर गर्ने प्रस्ताव प्राप्त भएमा नेपाल सरकारले कति समयभित्र सो बमोजिम हेरफेर गरिसक्नुपर्नेछ?",
+    "o": [
+      "३५ दिनभित्र",
+      "३ महिनाभित्र",
+      "६ महिनाभित्र",
+      "१ वर्षभित्र"
+    ],
+    "a": 2,
+    "e": "ऐनको दफा ६ को उपदफा (४) बमोजिम प्रस्ताव प्राप्त भएको ६ महिनाभित्र नेपाल सरकारले वडाको संख्या वा सिमाना हेरफेर गरिसक्नु पर्नेछ।"
+  },
+  {
+    "id": 3,
+    "q": "उपभोक्ता समिति (User Committee) लाई सम्झौता रकमको बढीमा कति रकम 'पेश्की' (Advance) दिन सकिन्छ?",
+    "o": [
+      "१० प्रतिशत",
+      "२० प्रतिशत",
+      "२५ प्रतिशत",
+      "एक तिहाई"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "गण्डकी प्रदेश सभामा कुल कति सदस्य रहने व्यवस्था छ?",
+    "o": [
+      "११० (६६ प्रत्यक्ष, ४४ समानुपातिक)",
+      "६० (३६ प्रत्यक्ष, २४ समानुपातिक)",
+      "५३ (३३ प्रत्यक्ष, २० समानुपातिक)",
+      "४० (२४ प्रत्यक्ष, १६ समानुपातिक)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "जलविद्युतको केन्द्र' (Powerhouse) भनेर गण्डकीको कुन जिल्लालाई चिनिन्छ?",
+    "o": [
+      "कास्की",
+      "लमजुङ",
+      "मुस्ताङ",
+      "म्याग्दी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "लोक सेवा आयोग संविधानको कुन भागमा पर्दछ?",
+    "o": [
+      "भाग २२",
+      "भाग २४",
+      "भाग २३",
+      "भाग २५"
+    ],
+    "a": 2
+  },
+  {
+    "id": 7,
+    "q": "स्थानीय सरकार सञ्चालन ऐन अनुसार गाउँपालिकामा कम्तीमा कति वडा हुनुपर्ने व्यवस्था छ?",
+    "o": [
+      "५ वटा",
+      "७ वटा",
+      "९ वटा",
+      "११ वटा"
+    ],
+    "a": 0,
+    "e": "दफा ५ (२) अनुसार गाउँपालिकामा कम्तीमा ५ र बढीमा २१ वटा सम्म वडा हुन सक्छन्।"
+  },
+  {
+    "id": 8,
+    "q": "तह वृद्धिका लागि पछिल्लो पाँच वर्षको कार्यसम्पादन मूल्याङ्कनमा औसत कति प्रतिशत अङ्क प्राप्त गरेको हुनुपर्छ?",
+    "o": [
+      "९० प्रतिशत",
+      "८० प्रतिशत",
+      "९५ प्रतिशत",
+      "१०० प्रतिशत"
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "प्रदेश निजामती सेवाका कर्मचारीले 'घर बिदा' (Home Leave) बढीमा कति दिनसम्म सञ्चित गरी राख्न पाउने व्यवस्था छ?",
+    "o": [
+      "६० दिन",
+      "८० दिन",
+      "१२० दिन",
+      "१८० दिन"
+    ],
+    "a": 3
+  },
+  {
+    "id": 10,
+    "q": "कार्यालयमा 'Biometric Attendance' ले के सुनिश्चित गर्छ?",
+    "o": [
+      "तलब वृद्धि",
+      "समय पालन र उपस्थिति",
+      "सरुवा",
+      "बिदा"
+    ],
+    "a": 1,
+    "e": "औंठाछाप वा अनुहार स्क्यान।"
+  },
+  {
+    "id": 11,
+    "q": "Drawing is",
+    "o": [
+      "Language of engineer",
+      "Tool of engineer",
+      "Machine of engineer",
+      "All of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "The number of folding methods for folding of various size of drawing sheet is",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "The techniques for free hand sketch to drawing circle is",
+    "o": [
+      "Fixing a fixed point and arc",
+      "Fixing the perimeter",
+      "Fixing the radius only",
+      "None of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 14,
+    "q": "For 12 mum thick cement plastering 1: 6 on 100 sq.m new brick work, the quantity of cement required, is",
+    "o": [
+      "0.200 m³",
+      "0.247 m³",
+      "0.295 m³",
+      "0.274 m³"
+    ],
+    "a": 3
+  },
+  {
+    "id": 15,
+    "q": "The following item of earth work is not measured separately",
+    "o": [
+      "Setting out of works",
+      "Site clearance",
+      "dead men, Steps in deep excavation",
+      "All the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 16,
+    "q": "The document in which the quality of work or material is mentioned is called",
+    "o": [
+      "detailed estimate",
+      "specification",
+      "norms",
+      "bill of quantities"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "Whole circle bearing of a line is preferred to quadrantal bearing merely because",
+    "o": [
+      "bearing is completely specified by an angle",
+      "bearing is not completely specified by an angle",
+      "sign of the correction of magnetic declination is different in different quadrants",
+      "its trigonometrical values may be extracted from ordinary tables easily"
+    ],
+    "a": 0
+  },
+  {
+    "id": 18,
+    "q": "The method of measuring distance by pacing is chiefly used in",
+    "o": [
+      "reconnaissance surveys",
+      "preliminary surveys",
+      "location surveys",
+      "all of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 19,
+    "q": "Pegmatite is an example of",
+    "o": [
+      "Sedimentary rock",
+      "Extrusive igneous rock",
+      "Intrusive igneous rock",
+      "Igneous rock"
+    ],
+    "a": 2
+  },
+  {
+    "id": 20,
+    "q": "The maximum % of ingredient is cement is that of",
+    "o": [
+      "Lime",
+      "Alumina",
+      "Silica",
+      "Gypsum"
+    ],
+    "a": 0
+  },
+  {
+    "id": 21,
+    "q": "The bond in the brick masonry having one course of stretcher only & a course of header about it is called:",
+    "o": [
+      "Stretcher bond",
+      "Header bond",
+      "Flemis bond",
+      "English bond"
+    ],
+    "a": 3
+  },
+  {
+    "id": 22,
+    "q": "For SSTB \"D\" type (suspended) bridge permissible height difference (h) of both bank shaddle points is",
+    "o": [
+      "L/20",
+      "L/25",
+      "L/10",
+      "L/8"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "In any stair case, which is best condition?",
+    "o": [
+      "T = R - 1",
+      "R = T - 1",
+      "T = R",
+      "None of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 24,
+    "q": "Casing and Capping' wiring is generally made of:",
+    "o": [
+      "Steel",
+      "PVC or Wood",
+      "Copper",
+      "Rubber"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "A 'Check Valve' (Non-Return Valve) is installed in a pumping system to:",
+    "o": [
+      "Stop the pump automatically",
+      "Allow water to flow in only one direction",
+      "Increase the pressure of the water",
+      "Measure the volume of water"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "The process of removing 'Permanent Hardness' by exchanging calcium ions with sodium ions is known as:",
+    "o": [
+      "Boiling",
+      "Zeolite (Ion Exchange) Process",
+      "Sedimentation",
+      "Reverse Osmosis"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "In the water treatment process, 'Aeration' is primarily used to remove:",
+    "o": [
+      "Suspended sand and grit",
+      "Dissolved gases like Carbon Dioxide and Hydrogen Sulphide",
+      "Pathogenic bacteria",
+      "Large floating debris"
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "Exceptional gradient should not be provided in a length more than .............",
+    "o": [
+      "10 m",
+      "20 m",
+      "50 m",
+      "100 m"
+    ],
+    "a": 3
+  },
+  {
+    "id": 29,
+    "q": "In the absence of super-elevation on road along curves, pot holes are likely to occur at the ............. of the road.",
+    "o": [
+      "centre",
+      "outer edge",
+      "inner edge",
+      "none"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "The highest point on road surface is called .............",
+    "o": [
+      "crown",
+      "camber",
+      "gradient",
+      "berm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 31,
+    "q": "The road surfacing should be .............",
+    "o": [
+      "impervious",
+      "durable",
+      "stable",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "A horizontal curve on a road provides .............",
+    "o": [
+      "change in the direction",
+      "change in the gradient of road",
+      "both 'a' and 'b'",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "The factor deciding the length of a grit chamber is ............ ",
+    "o": [
+      "detention period",
+      "horizontal velocity of flow",
+      "settling velocity",
+      "surface loading"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "A fundamental difference between sedimentation tank for water and sewage is ............ ",
+    "o": [
+      "sewage sedimentation tanks are bigger",
+      "sewage sedimentation tanks have more depth",
+      "sludge from sewage sedimentation is to be removed more frequently",
+      "it can be final treatment of operation in water treatment"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "The factor governing the detention period in a grit chamber is ............ ",
+    "o": [
+      "size of grit",
+      "specific gravity of grit",
+      "horizontal velocity of flow",
+      "settling velocity"
+    ],
+    "a": 3
+  },
+  {
+    "id": 36,
+    "q": "Sewage sickness is a sickness developed by ............ ",
+    "o": [
+      "humans due to consumption of crops grown on sewage",
+      "plants because to harmful elements of sewage irrigation",
+      "land unable to accept any more loading of sewage",
+      "sewage itself due to pathogens within"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "If average particle size of the silt in millimeters is m, the Lacey's silt factor f is proportional to ............ ",
+    "o": [
+      "m",
+      "m^3",
+      "m^{1/2}",
+      "m^{2/3}"
+    ],
+    "a": 2
+  },
+  {
+    "id": 38,
+    "q": "According to Lacey, in regime conditions ............ ",
+    "o": [
+      "silt is kept in suspension by vertical components of eddies",
+      "entire cross-section of the channel is generated at all points by the forces normal to the wetted perimeter",
+      "both 'a' and 'b'",
+      "neither 'a' nor 'b'"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "If water table is comparatively high, the irrigation canal becomes useless, due to ............ ",
+    "o": [
+      "large amount of seepage",
+      "water logging of the cultivated areas",
+      "uncertain water demand",
+      "all the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 40,
+    "q": "A groyne with a curved head is known as ............ ",
+    "o": [
+      "hockey groyne",
+      "Burma groyne",
+      "denehy groyne",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "आधुनिक नेपालको सुरुवात कहिले देखि भएको मानिन्छ?",
+    "o": [
+      "वि.सं. १८२५",
+      "वि.सं. १८२६",
+      "वि.सं. १८२४",
+      "वि.सं. १९२५"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "सामान्य मानिसको दैनिक ऊर्जा आवश्यकताको मुख्य स्रोत के हो?",
+    "o": [
+      "प्रोटिन",
+      "कार्बोहाइड्रेट",
+      "फ्याट",
+      "भिटामिन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "युरोपेली आर्थिक समुदाय (EEC) को विधिवत् स्थापना कहिले भयो ?",
+    "o": [
+      "१ जनावरी १९५८",
+      "१ फेब्रुअरी १९५८",
+      "१ मार्च १९५८",
+      "१ अप्रिल १९५८"
+    ],
+    "a": 0
+  },
+  {
+    "id": 44,
+    "q": "सुरक्षा परिषदमा रहने अस्थायी सदस्यको कार्यकाल कति वर्षको हुन्छ ?",
+    "o": [
+      "६ वर्ष",
+      "५ वर्ष",
+      "२ वर्ष",
+      "१ वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "नेपालको झण्डामा चन्द्रमामा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "o": [
+      "८",
+      "१०",
+      "१२",
+      "१६"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "विश्वमा योजनाबद्ध आर्थिक विकासको सुरुवात सन् १९२८ मा कुन देशबाट भएको थियो ?",
+    "o": [
+      "बेलायत",
+      "जापान",
+      "अमेरिका",
+      "रुस"
+    ],
+    "a": 3
+  },
+  {
+    "id": 47,
+    "q": "विश्वकै अग्लो स्थानमा रहेका तालहरूमध्ये एक, तिलिचो ताल गण्डकी प्रदेशको कुन जिल्लामा पर्दछ?",
+    "o": [
+      "लमजुङ",
+      "कास्की",
+      "मनाङ",
+      "मुस्ताङ"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "गण्डकी प्रदेशको जलविद्युत क्षमताको मुख्य आधार मानिने नदी कुन हो?",
+    "o": [
+      "बागमती",
+      "मेची",
+      "कमला",
+      "मर्स्याङ्दी"
+    ],
+    "a": 3
+  },
+  {
+    "id": 49,
+    "q": "चालू १६ औं योजनाको अन्त्य (२०८५/०८६ ) सम्म नेपालीको औसत आयु कति वर्ष पुर्याउने लक्ष्य लिएको छ ?",
+    "o": [
+      "62 वर्ष",
+      "85 वर्ष",
+      "73 वर्ष",
+      "75 वर्ष"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "गण्डकी प्रदेशको दोस्रो योजनाले कतिवटा समष्टिगत रणनीतिहरू तय गरेको छ?",
+    "o": [
+      "८ वटा",
+      "१० वटा",
+      "५ वटा",
+      "१२ वटा"
+    ],
+    "a": 0
+  }
+]

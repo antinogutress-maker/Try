@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "q": "सार्वजनिक बिदाको दिन काम गरे बापत पाइने 'सट्टा बिदा' कति दिनभित्र लिइसक्नु पर्छ?",
+    "o": [
+      "३ महिनाभित्र",
+      "६ महिनाभित्र",
+      "एक वर्षभित्र",
+      "अर्को साल "
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "प्रदेश लोक सेवा आयोगका अध्यक्षले को समक्ष पद तथा गोपनीयताको शपथ लिनुपर्दछ?",
+    "o": [
+      "प्रदेश प्रमुख समक्ष",
+      "उच्च अदालतको मुख्य न्यायाधीश समक्ष",
+      "सर्वोच्च अदालतको प्रधानन्यायाधीश समक्ष",
+      "मुख्यमन्त्री समक्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "जनवादी गणतन्त्र चीन र नेपालबीच दौत्य सम्बन्ध कहिले हस्ताक्षर भयो (A.D.)?",
+    "o": [
+      "1955 July 1",
+      "1955 August 1",
+      "1955 September 1",
+      "1956 August 1"
+    ],
+    "a": 1,
+    "e": "1955 August 1"
+  },
+  {
+    "id": 4,
+    "q": "८ वर्षदेखि १० वर्षसम्म कैद सजाय हुनको लागि विगोको मात्रा कति हुनुपर्दछ?",
+    "o": [
+      "५० लाखदेखि १ करोडसम्म",
+      "१ करोडदेखि ५ करोडसम्म",
+      "१ करोडदेखि १० करोडसम्म",
+      "१० करोड भन्दा माथि"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "नेपाल विद्युत प्राधिकरणको तथ्याङ्क (२०८१) अनुसार गण्डकी प्रदेशमा सबैभन्दा कम विद्युतीकरण भएको जिल्ला कुन हो ?",
+    "o": [
+      "गोरखा",
+      "मनाङ",
+      "मुस्ताङ",
+      "लमजुङ"
+    ],
+    "a": 1,
+    "e": "मनाङ (~87.81%)"
+  },
+  {
+    "id": 6,
+    "q": "कर्मचारीको पदाधिकार देहायको कुन अवस्थामा कायम रहँदैन?",
+    "o": [
+      "अर्को पदमा सरुवा भई कार्यभार सम्हाल्न पाउने म्यादसम्म",
+      "बिदामा रहेको अवधिभर",
+      "निलम्बन रहेको अवधिभर",
+      "सेवाबाट हटाइएको अवस्थामा"
+    ],
+    "a": 3
+  },
+  {
+    "id": 7,
+    "q": "रनिङ बिल (Running Bill) बाट 'रिटेन्सन मनी' (Retention Money) बापत कति रकम कट्टा गरिन्छ?",
+    "o": [
+      "२.५ प्रतिशत",
+      "५ प्रतिशत",
+      "१० प्रतिशत",
+      "२० प्रतिशत"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "नगरपालिका हुनको लागि पछिल्लो ५ वर्षको औसत वार्षिक आन्तरिक आय हिमाली क्षेत्रको हकमा कम्तीमा कति हुनुपर्छ?",
+    "o": [
+      "५० लाख",
+      "१ करोड",
+      "२ करोड",
+      "३ करोड"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "गण्डकी प्रदेशको दोस्रो पञ्चवर्षीय योजना अनुसार 'परिमाणात्मक लक्ष्य' (Quantitative Targets) अन्तर्गत 'आत्मनिर्भरता' (Self-reliance) का कति वटा प्रादेशिक लक्ष्यहरू रहेका छन्?",
+    "o": [
+      "४ वटा",
+      "८ वटा",
+      "६ वटा",
+      "१० वटा"
+    ],
+    "a": 2,
+    "e": "६ वटा"
+  },
+  {
+    "id": 10,
+    "q": "अपाङ्गता भएका व्यक्तिलाई परिवारबाट निकाला गरेमा के सजाय हुन्छ?",
+    "o": [
+      "पारिवारिक मामला",
+      "सामान्य उल्लंघन",
+      "५० हजार जरिवाना वा ६ महिना कैद",
+      "खारेजी"
+    ],
+    "a": 2,
+    "e": "दण्डनीय कसुर (५० हजार रुपैयाँसम्म जरिवाना वा ६ महिनासम्म कैद वा दुवै)"
+  },
+  {
+    "id": 11,
+    "q": "नेपालमा अवस्थित विश्वकै सबैभन्दा गहिरो गल्छी कुन हो?",
+    "o": [
+      "अरुण गल्छी",
+      "कर्णाली गल्छी",
+      "कालीगण्डकी गल्छी",
+      "त्रिशूली गल्छी"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "नेपालको इतिहास अनुसार किरात वंशका प्रथम राजा को थिए?",
+    "o": [
+      "जितेदास्ती",
+      "यलम्बर",
+      "गस्ती",
+      "हुमती"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "नेपाल सरकारले आफ्नो पहिलो पञ्चवर्षीय आवधिक योजना कुन वर्षदेखि लागू गरेको थियो?",
+    "o": [
+      "वि.सं. २००७",
+      "वि.सं. २०१३",
+      "वि.सं. २०१५",
+      "वि.सं. २०१७"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "विश्वभर प्रत्येक वर्ष 'विश्व वातावरण दिवस' कहिले मनाइन्छ?",
+    "o": [
+      "अप्रिल २२",
+      "मे २२",
+      "जुन ५",
+      "सेप्टेम्बर १६"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "पहिलो एन्टिबायोटिक 'पेनिसिलिन' (Penicillin) को आविष्कार कसले गरेका हुन्?",
+    "o": [
+      "म्यारी क्युरी",
+      "लुई पाश्चर",
+      "अलेक्जेन्डर फ्लेमिङ",
+      "एडवर्ड जेनर"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "थाइराइड ग्रन्थि सुन्निने 'गलगाँड' (Goiter) रोग मुख्यतया कुन खनिज तत्वको कमीले लाग्दछ?",
+    "o": [
+      "आइरन (फलाम)",
+      "क्याल्सियम",
+      "आयोडिन",
+      "पोटासियम"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "नेपालको वर्तमान संविधानको कुन भागमा 'नागरिकता' सम्बन्धी व्यवस्था गरिएको छ?",
+    "o": [
+      "भाग १",
+      "भाग २",
+      "भाग ३",
+      "भाग ४"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "खाद्य तथा कृषि संगठन (FAO) को प्रधान कार्यालय कहाँ अवस्थित छ?",
+    "o": [
+      "रोम, इटाली",
+      "जेनेभा, स्विट्जरल्याण्ड",
+      "न्युयोर्क, अमेरिका",
+      "पेरिस, फ्रान्स"
+    ],
+    "a": 0
+  },
+  {
+    "id": 19,
+    "q": "बहुक्षेत्रीय प्राविधिक तथा आर्थिक सहयोगका लागि बंगालको खाडीको प्रयास (BIMSTEC - बिमस्टेक) मा हाल कतिवटा सदस्य राष्ट्रहरू छन्?",
+    "o": [
+      "५",
+      "७",
+      "८",
+      "१०"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "सन् २०२४ को ग्रीष्मकालीन ओलम्पिक खेलकुद कुन देशमा आयोजना भएको थियो?",
+    "o": [
+      "जापान (टोकियो)",
+      "अमेरिका (लस एन्जलस)",
+      "फ्रान्स (पेरिस)",
+      "अष्ट्रेलिया (ब्रिस्बेन)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 21,
+    "q": "For sketching and lettering work which pencil is used",
+    "o": [
+      "Conical edge",
+      "Chisel edge",
+      "Both",
+      "None"
+    ],
+    "a": 0
+  },
+  {
+    "id": 22,
+    "q": "Drawing board is made by",
+    "o": [
+      "Well-seasoned hard wood",
+      "Well-seasoned soft wood",
+      "Moisted soft wood",
+      "All of above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "Working edge of drawing board is kept",
+    "o": [
+      "Right of the user",
+      "Left of the user",
+      "Ahead",
+      "None of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "Unit of measurement for steel work in trusses and its part is in",
+    "o": [
+      "quintal",
+      "metre",
+      "numbers",
+      "kilograms"
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "The quantity of cement required for 1 m³ plaster in 1:5 ratio",
+    "o": [
+      "110 kg",
+      "210 kg",
+      "310 kg",
+      "410 kg"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "In analysis of rate the quantity of dry mortar for 10 cubic metre brick work is taken as",
+    "o": [
+      "10 m³",
+      "3 m³",
+      "0.3 m³",
+      "1 m³"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "The value of maximum gradient for hill roads is",
+    "o": [
+      "1 in 5",
+      "1 in 10",
+      "1 in 15",
+      "1 in 20"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "For smooth entry of water in a canal, the angle between head regulator and water is generally kept",
+    "o": [
+      "80°",
+      "90°",
+      "110°",
+      "120°"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "For a city or town with roads of rectangular pattern, the type of layout used for the distribution of pipes is",
+    "o": [
+      "dead end system",
+      "ring system",
+      "radial system",
+      "grid iron system"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "To give a brilliant finish, the type of varnish used, is",
+    "o": [
+      "water varnish",
+      "turpentine varnish",
+      "oil varnish",
+      "spirit varnish"
+    ],
+    "a": 3
+  },
+  {
+    "id": 31,
+    "q": "Bitumen may be dissolved in",
+    "o": [
+      "carbondioxide",
+      "water",
+      "sodium chloride",
+      "carbon disulphide"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "For a closed traverse the omitted measurements may be calculated",
+    "o": [
+      "length of one side only",
+      "bearing of one side only",
+      "both length and bearing of one side",
+      "length or bearing of adjacent side",
+      "all the above."
+    ],
+    "a": 4
+  },
+  {
+    "id": 33,
+    "q": "For the construction of highway (or railway)",
+    "o": [
+      "Longitudinal sections are required",
+      "cross sections are required",
+      "both longitudinal and cross sections are required",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "A \"Union\" fitting is used in a pipe layout to:",
+    "o": [
+      "Change the direction of the pipe",
+      "Connect two pipes of different diameters",
+      "Facilitate easy disconnection for repairs without cutting the pipe",
+      "Stop the flow of water completely"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "What is the function of a \"Vent Pipe\" in a drainage system?",
+    "o": [
+      "To carry waste to the septic tank",
+      "To provide air circulation and allow sewer gases to escape",
+      "To prevent the overflow of the soak pit",
+      "To filter solid waste"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "Which lighting fixture is most suitable for focused \"Task Lighting\" such as reading or precision work?",
+    "o": [
+      "Chandelier",
+      "Recessed Downlight (Spotlight)",
+      "Bulkhead Light",
+      "Street Light"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "Which type of pipe is most commonly used for internal cold water supply due to its light weight and corrosion resistance?",
+    "o": [
+      "Cast Iron (CI)",
+      "Galvanized Iron (GI)",
+      "PVC (Polyvinyl Chloride)",
+      "Lead"
+    ],
+    "a": 2
+  },
+  {
+    "id": 38,
+    "q": "In detailed survey of a hill road, the interval for plotting the contours at sharp curves is generally ............",
+    "o": [
+      "1 m",
+      "2 m",
+      "4 m",
+      "6 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "Alignment of a road is finally decided on the basis of ............",
+    "o": [
+      "selection of route",
+      "field survey",
+      "trace cut",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 40,
+    "q": "A curve which consists of a single arc connecting two straights is known as ............",
+    "o": [
+      "simple circular curve",
+      "reverse circular curve",
+      "cubic spiral curve",
+      "lamniscate"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "A gradient at which no tractive force is required to maintain constant speed by a vehicle is called ............",
+    "o": [
+      "average gradient",
+      "limiting gradient",
+      "exceptional gradient",
+      "floating gradient"
+    ],
+    "a": 3
+  },
+  {
+    "id": 42,
+    "q": "In hill roads, minimum sight distance required is ............",
+    "o": [
+      "stopping sight distance",
+      "passing sight distance",
+      "braking distance",
+      "none of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "A deflecting groyne has a much ............ length than a repelling groyne.",
+    "o": [
+      "longer",
+      "shorter",
+      "both 'a' and 'b'",
+      "none of these"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "The method used for training of rivers is ............",
+    "o": [
+      "guide bank",
+      "dyke or levee",
+      "groyne",
+      "all of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "Rivers on alluvial plains may be ............",
+    "o": [
+      "meandering type",
+      "aggrading type",
+      "degrading type",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "The level of a canal diversion head work depends upon ............",
+    "o": [
+      "discharge perimeter",
+      "pond level",
+      "full supply level of canal",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 47,
+    "q": "Colour of fresh sewage is ............",
+    "o": [
+      "green",
+      "brown",
+      "gray",
+      "pink"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "Before entering a manhole a candle is lowered into the manhole ............",
+    "o": [
+      "to illuminate it",
+      "to detect toxic gases",
+      "to give a signal to the adjacent manhole",
+      "to find out presence of oxygen"
+    ],
+    "a": 3
+  },
+  {
+    "id": 49,
+    "q": "A fight sewer is provided when the gradient is ............",
+    "o": [
+      "zero",
+      "low",
+      "steep",
+      "maximum (vertical)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "When fall in elevation is greater than 90 cm the manhole provided is called ............",
+    "o": [
+      "lamp hole",
+      "fight manhole",
+      "drop manhole",
+      "fall manhole"
+    ],
+    "a": 2,
+    "e": ""
+  }
+]

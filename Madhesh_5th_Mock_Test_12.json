@@ -1,0 +1,565 @@
+[
+  {
+    "id": 1,
+    "q": "म्याक्स वेबरको पुस्तक \"The Theory of Social and Economic Organization\" (अंग्रेजी अनुवाद) कहिले प्रकाशन भएको मानिन्छ?",
+    "o": [
+      "१९२० ई.सं.",
+      "१९३७ ई.सं.",
+      "१९४७ ई.सं. ",
+      "१९५४ ई.सं."
+    ],
+    "a": 2,
+    "e": "नोट: वेबरको मृत्यु १९२० मा भए पनि यो पुस्तकको अंग्रेजी संस्करण १९४७ मा आएकोले लोकसेवामा १९४७ लाई आधार मान्ने गरिन्छ।"
+  },
+  {
+    "id": 2,
+    "q": "सार्वजनिक चासोको विषय' (Matter of Public Interest) भन्नाले ऐन अनुसार के बुझिन्छ?",
+    "o": [
+      "आधारभूत रुपमा नयाँ पद्धति स्थापना गर्ने विषय",
+      "भइरहेको पद्धतिलाई खारेज गर्ने विषय",
+      "सार्वजनिक महत्वको विकास आयोजना सञ्चालन गर्ने विषय",
+      "माथिका सबै"
+    ],
+    "a": 3,
+    "e": "ऐनको दफा २० को स्पष्टीकरण अनुसार माथिका सबै विषयहरू सार्वजनिक चासोको विषय अन्तर्गत पर्दछन्।"
+  },
+  {
+    "id": 3,
+    "q": "सूचना अधिकारीले सूचना नदिएमा वा आंशिक दिएमा निवेदकले कार्यालय प्रमुख समक्ष कति दिनभित्र उजुरी दिनुपर्छ?",
+    "o": [
+      "७ दिन",
+      "१५ दिन",
+      "३५ दिन",
+      "६० दिन"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "मधेशी आयोग नेपालको संविधानको कुन भाग र धारामा उल्लेख गरिएको छ?",
+    "o": [
+      "भाग २६, धारा २६१",
+      "भाग २७, धारा २६२",
+      "भाग २८, धारा २६३",
+      "भाग २९, धारा २६४"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "माध्यमिक तहको परीक्षा' (SEE Level Exam) व्यवस्थापन गर्ने जिम्मेवारी कुन मन्त्रालयको हो?",
+    "o": [
+      "सामाजिक विकास मन्त्रालय",
+      "शिक्षा तथा संस्कृति मन्त्रालय",
+      "मुख्यमन्त्री कार्यालय",
+      "परीक्षा नियन्त्रण कार्यालय"
+    ],
+    "a": 1,
+    "e": "माध्यमिक तह (Secondary Level) को परीक्षा व्यवस्थापन गर्ने कार्य स्पष्ट रूपमा शिक्षा तथा संस्कृति मन्त्रालय (बुँदा ८) अन्तर्गत राखिएको छ।"
+  },
+  {
+    "id": 6,
+    "q": "प्रदेश निजामती सेवा ऐन, २०७७ प्रारम्भ भएपछि भर्ना भएको कर्मचारीको अनिवार्य अवकाश हुने उमेर हद कति तोकिएको छ?",
+    "o": [
+      "५८ वर्ष",
+      "६० वर्ष",
+      "६३ वर्ष",
+      "६५ वर्ष"
+    ],
+    "a": 1,
+    "e": "नियमावलीको नियम १४२ अनुसार ऐन प्रारम्भ भएपछि भर्ना भएको कर्मचारीको अवकाश उमेर ६० वर्ष हुनेछ। (Source Page: Page 153)"
+  },
+  {
+    "id": 7,
+    "q": "\"प्रसूति विदा\" तथा \"प्रसूति स्याहार विदा\" पाएका प्रदेश निजामती कर्मचारीलाई बच्चाको स्याहारको लागि प्रति बच्चा कति रकम \"शिशु स्याहार भत्ता\" दिइने व्यवस्था छ?",
+    "o": [
+      "रु. ५,०००",
+      "रु. १०,०००",
+      "रु. १५,०००",
+      "रु. २०,०००"
+    ],
+    "a": 2,
+    "e": "नियम ५८ (५) बमोजिम बढीमा दुई वटा बच्चाको लागि जनही एकमुष्ट रु. १५,००० शिशु स्याहार भत्ता दिइनेछ। (Source Page: Page 54)"
+  },
+  {
+    "id": 8,
+    "q": "लिखित परीक्षाको नतिजा प्रकाशन भएको कति दिनभित्र उम्मेदवारले पुनर्योग (Re-totaling) का लागि निवेदन दिन सक्नेछन्?",
+    "o": [
+      "३ दिन",
+      "७ दिन",
+      "१५ दिन",
+      "३५ दिन"
+    ],
+    "a": 1,
+    "e": "ऐनको दफा ४० को उपदफा (१) र नियमावलीको नियम २४ अनुसार नतिजा प्रकाशन भएको ७ दिनभित्र पुनर्योगका लागि निवेदन दिन सकिन्छ। (श्रोतः पीडीएफ पेज २१, दफा ४०(१) / पीडीएफ पेज ३९, नियम २४)"
+  },
+  {
+    "id": 9,
+    "q": "राष्ट्रिय स्रोत अनुमान समितिले आफ्नो प्रतिवेदन अर्थमन्त्री समक्ष कहिले पेश गर्नुपर्छ?",
+    "o": [
+      "माघ मसान्तभित्र",
+      "फागुन ७ गतेभित्र",
+      "फागुन १५ गतेभित्र",
+      "चैत १५ गतेभित्र"
+    ],
+    "a": 1,
+    "e": "फागुन ७ गतेभित्र स्रोतको अनुमान पेश गर्नुपर्छ। (स्रोत: ऐन, दफा ७)"
+  },
+  {
+    "id": 10,
+    "q": "सिलबन्दी दरभाउपत्र (Sealed Quotation) स्वीकृत हुनका लागि कम्तीमा कति वटा दरभाउपत्र सारभूत रूपमा प्रभावग्राही (Substantially Responsive) हुनुपर्छ?",
+    "o": [
+      "१ वटा",
+      "२ वटा",
+      "३ वटा",
+      "४ वटा"
+    ],
+    "a": 2,
+    "e": "नोट: ३ वटा नपरेमा पुनः सूचना गर्नुपर्छ, दोस्रो पटकमा जति परे पनि हुन्छ"
+  },
+  {
+    "id": 11,
+    "q": "नेपालको संविधान तर्जुमा गर्दा रहेको विवाद समाधान समितिको अध्यक्ष को थिए ?",
+    "o": [
+      "डा. बाबुराम भट्टराई",
+      "पुष्पकमल दाहाल",
+      "केपी शर्मा ओली",
+      "शेर बहादुर देउवा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "नेपालको सबैभन्दा होचो भाग मुसहरनिया कुन जिल्लामा पर्दछ?",
+    "o": [
+      "सप्तरी",
+      "धनुषा",
+      "सिराहा",
+      "महोत्तरी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "मधेस प्रदेशको सबैभन्दा ठूलो नगरपालिका कुन हो?",
+    "o": [
+      "जनकपुरधाम",
+      "वीरगन्ज",
+      "राजविराज",
+      "कलैया"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "मधेस प्रदेशको प्रथम पञ्चवर्षीय योजनाको नारा के हो?",
+    "o": [
+      "शिक्षित मधेस, समृद्ध मधेस",
+      "सुखी प्रदेश, समृद्ध प्रदेश",
+      "कृषिमा आत्मनिर्भर मधेस",
+      "समृद्ध मधेस, सुखी मधेसी"
+    ],
+    "a": 3
+  },
+  {
+    "id": 15,
+    "q": "सबैलाई समावेशी, समतामूलक गुणस्तरीय शिक्षा दिगो विकासको कुन लक्ष्यसँग सम्बन्धित छ ?",
+    "o": [
+      "लक्ष्य ३",
+      "लक्ष्य ४",
+      "लक्ष्य ७",
+      "लक्ष्य ८"
+    ],
+    "a": 1
+  },
+  {
+    "id": 16,
+    "q": "एयर कन्डिशनर को आविष्कार कसले गरेका थिए ?",
+    "o": [
+      "ए.एल.ब्रिगेट",
+      "विल्हेल्म रन्ट्गेन",
+      "सर अलेक्जेंडर ग्राहम बेल",
+      "विलिस एच. केरियर"
+    ],
+    "a": 3
+  },
+  {
+    "id": 17,
+    "q": "विश्व अर्बुद रोग (क्यान्सर) दिवस कहिले मनाइन्छ ?",
+    "o": [
+      "मार्च २२",
+      "फ्रेबअरी ४",
+      "अप्रिल ७",
+      "मार्च २"
+    ],
+    "a": 1
+  },
+  {
+    "id": 18,
+    "q": "संयुक्त राष्ट्रसंघको बडापत्रमा कति वटा दफा छन् ?",
+    "o": [
+      "११०",
+      "१११",
+      "११२",
+      "११३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "आसियानको अन्तिम सदस्य राष्ट्र कुन हो ?",
+    "o": [
+      "कम्बोडिया",
+      "भियतनाम",
+      "ब्रुनाई",
+      "सिङ्गापुर"
+    ],
+    "a": 0
+  },
+  {
+    "id": 20,
+    "q": "सुशीला कार्की नेपालको कतिऔं प्रधानमन्त्री (P.M.) हुन्?",
+    "o": [
+      "४४औं",
+      "४६औं",
+      "४७औं",
+      "४५औं"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "Who is the approving authority for an EIA report in Nepal?",
+    "o": [
+      "Concerned Department",
+      "Local Municipality",
+      "Ministry of Forests and Environment",
+      "District Coordination Committee"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "The \"President Chure-Terai Madhesh Conservation Development Board\" is headquartered in:",
+    "o": [
+      "Birgunj",
+      "Janakpur",
+      "Kathmandu",
+      "Pokhara"
+    ],
+    "a": 2
+  },
+  {
+    "id": 23,
+    "q": "Surveys which are carried out to depict mountains, rivers, water bodies, wooded areas and other cultural details, are known as",
+    "o": [
+      "cadastral surveys",
+      "city surveys",
+      "topographical surveys",
+      "guide map surveys"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "The length of a traverse leg may be obtained by multiplying the latitude and",
+    "o": [
+      "secant of its reduced bearing",
+      "sine of its reduced bearing",
+      "cosine of its reduced bearing",
+      "tangent of its reduced bearing."
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "If the angular measurements of a traverse are more precise than its linear measurements, balancing of the traverse, is done by",
+    "o": [
+      "Bowditch's rule",
+      "Transit rule",
+      "Empirical rule",
+      "all of the above."
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "Mastic asphalt is normally used for",
+    "o": [
+      "sound insulation",
+      "water proofing",
+      "fire proofing",
+      "none to these."
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "The rocks in which argil (or clay) predominates, are called",
+    "o": [
+      "sillicious rocks",
+      "argillaceous rocks",
+      "calcareous rocks",
+      "igneous rocks."
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "The moment diagram for a cantilever carrying a concentrated load at its free end will be:",
+    "o": [
+      "Triangle",
+      "Rectangle",
+      "Parabola",
+      "Cubic parabola"
+    ],
+    "a": 0
+  },
+  {
+    "id": 29,
+    "q": "A diagram which shows the variations of the axial load for all sections of the span of a beam, is called:",
+    "o": [
+      "Bending moment diagram",
+      "Shear force diagram",
+      "Thrust diagram",
+      "Stress diagram"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "A beam is said to be of uniform strength, if:",
+    "o": [
+      "B.M. is same throughout the beam",
+      "Shear stress is same throughout the beam",
+      "Deflection is same throughout the beam",
+      "Bending stress is same at every section along its longitudinal axis"
+    ],
+    "a": 3
+  },
+  {
+    "id": 31,
+    "q": "A pitot tube is used to measure:",
+    "o": [
+      "Pressure",
+      "Difference in pressure",
+      "Velocity of flow",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 32,
+    "q": "The dimensional formula of force is:",
+    "o": [
+      "MLT^{-2}",
+      "M^{-1}LT^2",
+      "ML^{-2}T",
+      "M^{-1}L^2T^{-2}"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "When the seepage pressure becomes equal to the pressure due to submerged weight of a soil, the effective pressure is reduced to zero and the soil particles have a tendency to move up in the direction of flow. This phenomenon is generally known as:",
+    "o": [
+      "Quick condition",
+      "Boiling condition",
+      "Quick sand",
+      "All the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 34,
+    "q": "The phreatic line in an earth dam may be:",
+    "o": [
+      "Circular",
+      "Elliptical",
+      "Parabolic",
+      "A straight line"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "An ideal fluid",
+    "o": [
+      "is frictionless and incompressible",
+      "obeys Newton's law of velocity",
+      "is similar to gas",
+      "is very viscous."
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "The bending moment is maximum on a section where shearing force",
+    "o": [
+      "is maximum",
+      "is minimum",
+      "is equal",
+      "changes sign."
+    ],
+    "a": 3
+  },
+  {
+    "id": 37,
+    "q": "An under-reinforced section means:",
+    "o": [
+      "Steel is provided at the under side only",
+      "Steel provided is insufficient",
+      "Steel provided on one face only",
+      "Steel will yield first"
+    ],
+    "a": 3
+  },
+  {
+    "id": 38,
+    "q": "A pre-stressed concrete member is preferred because:",
+    "o": [
+      "Its dimensions are not decided from the diagonal tensile stress",
+      "Large size of long beams carrying large shear force need not be adopted",
+      "Removal of cracks in the members due to shrinkage",
+      "All the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 39,
+    "q": "The members which support covering material of a sloping roof, are:",
+    "o": [
+      "Rafters",
+      "Purlins",
+      "Battens",
+      "Struts"
+    ],
+    "a": 0
+  },
+  {
+    "id": 40,
+    "q": "The Auger boring method is not suitable for:",
+    "o": [
+      "Very hard soil",
+      "Cemented soil",
+      "Very soft soil",
+      "Fully saturated cohesionless soils",
+      "All the above"
+    ],
+    "a": 4
+  },
+  {
+    "id": 41,
+    "q": "The most commonly used chemical for dechlorination of water, is:",
+    "o": [
+      "Sodium thiosulphate",
+      "Sodium bisulphate",
+      "Sodium sulphite",
+      "Sulphur-dioxide",
+      "All the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "Run off is the quantity of water which flows:",
+    "o": [
+      "In sewer pipes",
+      "Due to leakage in pipes",
+      "In rivers",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 43,
+    "q": "The detention period in a septic tank is assumed:",
+    "o": [
+      "20 minutes",
+      "25 minutes",
+      "30 minutes",
+      "40 minutes"
+    ],
+    "a": 2
+  },
+  {
+    "id": 44,
+    "q": "The brick work is not measured in m^3 (cu m) in case of:",
+    "o": [
+      "One or more than one brick wall",
+      "Brick work in arches",
+      "Reinforced brick work",
+      "Half brick wall"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "The technique for establishing and maintaining priorities among the various jobs of a project, is known as:",
+    "o": [
+      "Event flow scheduling technique",
+      "Critical ratio scheduling",
+      "Slotting technique for scheduling",
+      "Short interval scheduling"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "Pick up the correct statement from the following:",
+    "o": [
+      "Programme Evaluation and Review Technique (PERT) is event oriented",
+      "Programme Evaluation and Review Technique is not event oriented",
+      "Critical Path Method (CPM) is event oriented",
+      "Critical Path method is activity oriented"
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "The \"Camber\" in highway design is provided specifically for:",
+    "o": [
+      "Increasing the sight distance",
+      "Proper drainage of rainwater from the road surface",
+      "Counteracting the centrifugal force on curves",
+      "Improving the aesthetic appearance of the road"
+    ],
+    "a": 1,
+    "e": "Note: While Super-elevation (Cant) deals with centrifugal force, Camber is the convexity provided to the carriage way to ensure water doesn't penetrate the road layers."
+  },
+  {
+    "id": 48,
+    "q": "The distance a driver can see ahead at any specific time is called:",
+    "o": [
+      "Braking distance",
+      "Lag distance",
+      "Sight distance",
+      "Passing distance"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "The water stored in the soil which is available for plant root absorption is known as:",
+    "o": [
+      "Capillary water",
+      "Hygroscopic water",
+      "Gravity water",
+      "Permanent wilting water"
+    ],
+    "a": 0,
+    "e": "Note: Hygroscopic water is held too tightly by soil particles for plants to use, and gravity water drains away too quickly."
+  },
+  {
+    "id": 50,
+    "q": "A \"Cross Regulator\" in a canal system is constructed to:",
+    "o": [
+      "Discharge surplus water into a natural stream",
+      "Carry the canal over a natural drain",
+      "Control the water level in the upstream of the parent canal",
+      "Measure the discharge of the canal"
+    ],
+    "a": 2,
+    "e": "Note: This ensures that enough water can be diverted into a \"Distributary\" or \"Off-take\" canal even when the main canal is running at low flow."
+  }
+]

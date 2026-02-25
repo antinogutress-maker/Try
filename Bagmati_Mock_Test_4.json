@@ -1,0 +1,591 @@
+[
+  {
+    "id": 1,
+    "q": "लेप्चा जातिको मुख्य बसोस्थान भएको जिल्ला इलाम हो भने जिरेल जातिको बसोवास भएको जिल्ला कुन हो?",
+    "o": [
+      "गोर्खा (Gorkha)",
+      "लमजुङ (Lamjung)",
+      "तनहुँ (Tanahun)",
+      "सिन्धुपाल्चोक (Sindhupalchok)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "\"सय वटा मुसाको शासन भन्दा एउटा सिंहको शासन राम्रो हुन्छ\" यो भनाइ कसको हो?",
+    "o": [
+      "मुसोलिनी (Mussolini)",
+      "भोल्टेयर (Voltaire)",
+      "नेपोलियन बोनापार्ट (Napoleon Bonaparte)",
+      "रुसो (Rousseau)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "UNO को एकमात्र अश्वेत महासचिव को हुन्?",
+    "o": [
+      "कोफी अन्नान (Kofi Annan)",
+      "उथान्त (U Thant)",
+      "बुत्रोस बुत्रोस घाली (Boutros Boutros-Ghali)",
+      "वान कि मुन (Ban Ki-moon)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "हाल आसियानको सदस्य संख्या कति पुगेको छ?",
+    "o": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "a": 2,
+    "e": "Note: The image notes East Timor, Oct 26, 2025"
+  },
+  {
+    "id": 5,
+    "q": "ISO-14000 के सँग सम्बन्धित छ?",
+    "o": [
+      "वातावरण व्यवस्थापन (Environmental Management)",
+      "फोहरमैला व्यवस्थापन (Waste Management)",
+      "बजार व्यवस्थापन (Market Management)",
+      "विपद व्यवस्थापन (Disaster Management)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 6,
+    "q": "\"Give me a place to stand and I will move the earth\" कसको भनाइ हो?",
+    "o": [
+      "Thomas Alva Edison",
+      "Archimedes",
+      "Michael Faraday",
+      "Nikola Tesla"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "English disease भनेर कुन रोगलाई चिनिन्छ?",
+    "o": [
+      "Rickets",
+      "Beriberi",
+      "Hemorrhage",
+      "Scurvy"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "नेपालको २०७४ सालको धरातलीय स्वरुपको वर्गीकरण अनुसार तराईका जिल्ला कतिवटा रहेका छन्?",
+    "o": [
+      "21",
+      "25",
+      "35",
+      "33"
+    ],
+    "a": 0
+  },
+  {
+    "id": 9,
+    "q": "नेपालको संविधानको कति धारामा सञ्चारको हकको व्यवस्था गरिएको छ?",
+    "o": [
+      "धारा १७ (Article 17)",
+      "धारा १८ (Article 18)",
+      "धारा १९ (Article 19)",
+      "धारा २० (Article 20)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "नेपालको आ. व. २०८१-८२ को बजेटमा पुँजीगत तर्फ कति % बजेट विनियोजन गरिएको छ?",
+    "o": [
+      "६०.१ %",
+      "२०.८ %",
+      "१४.१ %",
+      "६५.५ %"
+    ],
+    "a": 1
+  },
+  {
+    "id": 11,
+    "q": "कामिरिता शेर्पाले आफ्नो कीर्तिमान भंग गर्दै ३१औँ पटक सगरमाथाको आरोहण कहिले गर्ने योजना रहेको छ?",
+    "o": [
+      "२०८१ जेष्ठ १३",
+      "२०८२ जेष्ठ १३",
+      "२०८२ असार ४",
+      "२०८१ बैशाख २५"
+    ],
+    "a": 1,
+    "e": "2025 May 27."
+  },
+  {
+    "id": 12,
+    "q": "नेपालको नयाँ नक्सा राजपत्रमा प्रकाशित भई कहिलेदेखि लागू भएको थियो?",
+    "o": [
+      "२०७७ असार ४ गते",
+      "२०७७ जेठ ३१ गते",
+      "२०७७ असार १४ गते",
+      "२०७७ साउन १ गते"
+    ],
+    "a": 0,
+    "e": "निसान छाप संशोधन पश्चात तर सार्वजनिक गर्ने निर्णय २०७७ जेठ ५ गते"
+  },
+  {
+    "id": 13,
+    "q": "किरात वंशको शासनको केन्द्र कहाँ थियो?",
+    "o": [
+      "गोदावरीमा",
+      "गोकर्णमा",
+      "मातातीर्थमा",
+      "शंखमुलमा"
+    ],
+    "a": 1,
+    "e": "गोकर्णमा"
+  },
+  {
+    "id": 14,
+    "q": "२०४६ सालको जनआन्दोलन कति दिन चलेको थियो?",
+    "o": [
+      "४५ दिन",
+      "४९ दिन",
+      "५० दिन",
+      "५९ दिन"
+    ],
+    "a": 1,
+    "e": "४९ दिन"
+  },
+  {
+    "id": 15,
+    "q": "स्वस्थ रहन BMI कतिको बीचमा हुनुपर्छ?",
+    "o": [
+      "१५ देखि १८",
+      "१८.५ देखि २४.९",
+      "२५ देखि २९.९",
+      "३० भन्दा माथि"
+    ],
+    "a": 1,
+    "e": "यो औषत स्वस्थ व्यक्तिको मापदण्ड हो।"
+  },
+  {
+    "id": 16,
+    "q": "राष्ट्रिय संरक्षण रणनीति (NCS) नेपालमा लागु भएको मिति कुन हो?",
+    "o": [
+      "सन् १९८०",
+      "सन् १९८५",
+      "सन् १९८८",
+      "सन् १९९०"
+    ],
+    "a": 2,
+    "e": "सन् १९८८ मा। (2045 B.S)"
+  },
+  {
+    "id": 17,
+    "q": "८० औं UNO महासभामा नेपालको तर्फबाट कसले प्रतिनिधित्व गर्नेछन्?",
+    "o": [
+      "परराष्ट्र मन्त्री",
+      "लोक बहादुर थापा ",
+      "अमृत बहादुर राई",
+      "सेवा लम्साल"
+    ],
+    "a": 1,
+    "e": "संयुक्त राष्ट्र संघका लागि नेपालका स्थायी प्रतिनिधि"
+  },
+  {
+    "id": 18,
+    "q": "मोबाइल फोन' का आविष्कारक को हुन्?",
+    "o": [
+      "स्टिभ जब्स",
+      "मार्टिन कुपर",
+      "ग्राहम बेल",
+      "एलन मस्क"
+    ],
+    "a": 1,
+    "e": "मार्टिन कुपर (मोटोरोला)।"
+  },
+  {
+    "id": 19,
+    "q": "१. तलको श्रेणीक्रम (Series) मा प्रश्नचिन्ह (?) भएको ठाउँमा कुन संख्या आउँछ ? 4, 9, 25, 49, 121, ?",
+    "o": [
+      "144",
+      "169",
+      "196",
+      "225"
+    ],
+    "a": 1,
+    "e": "(Prime Numbers) को वर्ग (Square) को श्रेणी हो। 2^2=4, 3^2=9, 5^2=25, 7^2=49, 11^2=121. अब 11 पछिको अभाज्य संख्या 13 हो। त्यसैले, 13^2 = 169."
+  },
+  {
+    "id": 20,
+    "q": "२. यदि हिजोको ३ दिन अघि 'बुधबार' थियो भने, भोलिको २ दिन पछि कुन वार पर्ला ?",
+    "o": [
+      "सोमबार",
+      "मंगलबार",
+      "बुधबार",
+      "बिहीबार"
+    ],
+    "a": 2,
+    "e": "आज = X मानौं। हिजोको ३ दिन अघि = X - 1 - 3 = X - 4। प्रश्न अनुसार, X - 4 = बुधबार। त्यसो भए आज (X) = बुधबार + ४ दिन = आइतबार। अब सोधिएको: भोलिको २ दिन पछि = X + 1 + 2 = X + 3। आज आइतबार हो भने, ३ दिन पछि = आइतबार + ३ = बुधबार।"
+  },
+  {
+    "id": 21,
+    "q": "३. एउटा परीक्षामा ६०% विद्यार्थी गणितमा उत्तीर्ण भए, ७०% अंग्रेजीमा उत्तीर्ण भए र ५०% दुवै विषयमा उत्तीर्ण भए । यदि ४० जना विद्यार्थी दुवै विषयमा अनुत्तीर्ण (Fail) भए भने, जम्मा विद्यार्थी संख्या कति होला ?",
+    "o": [
+      "१००",
+      "२००",
+      "४००",
+      "५००"
+    ],
+    "a": 1,
+    "e": "कुनै एक वा दुवै विषयमा पास हुने प्रतिशत: n(A U B) = n(A) + n(B) - n(A ^B) = 60% + 70% - 50% = 80% (कम्तीमा एउटा विषयमा पास)। दुवै विषयमा फेल हुने प्रतिशत = 100% - 80% = 20%। प्रश्न अनुसार, 20% = ४० जना। कुल विद्यार्थी (100%) = 200 जना।"
+  },
+  {
+    "id": 22,
+    "q": "४. यदि APPLE लाई ETTPI लेखिन्छ भने, DELHI लाई कसरी लेखिन्छ ?",
+    "o": [
+      "HIPLM",
+      "HIPMM",
+      "HIPLK",
+      "MIPLM"
+    ],
+    "a": 0,
+    "e": "ढाँचा (Pattern): +4"
+  },
+  {
+    "id": 23,
+    "q": "५. रिता, गीता भन्दा होची छिन् तर सीता भन्दा अग्ली छिन् । सीता, विनिता भन्दा अग्ली छिन् । सबैभन्दा होचो को छ ?",
+    "o": [
+      "रिता",
+      "गीता",
+      "सीता",
+      "विनिता"
+    ],
+    "a": 3,
+    "e": "क्रम मिलाउँदा (अग्लो देखि होचो): गीता > रिता > सीता > विनिता। सबैभन्दा होचो विनिता हुन्।"
+  },
+  {
+    "id": 24,
+    "q": "Let’s go for a walk, ______?",
+    "o": [
+      "shall we",
+      "will we",
+      "don't we",
+      "do we"
+    ],
+    "a": 0,
+    "e": "When a sentence starts with \"Let's\" (Let us), the question tag is always \"shall we\". (If it starts with \"Let me/him/them\", the tag is usually \"will you\")."
+  },
+  {
+    "id": 25,
+    "q": "If I ______ known about your arrival, I would have picked you up at the airport.",
+    "o": [
+      "have",
+      "had",
+      "was",
+      "would have"
+    ],
+    "a": 1,
+    "e": "This is a Type 3 Conditional sentence (Unreal Past). The structure is: If + Past Perfect (had + V3), ... would have + V3. Since the second part is \"would have picked\", the first part must be \"had known\""
+  },
+  {
+    "id": 26,
+    "q": "'उज्जल' शब्दको सही सन्धि विच्छेद कुन हो ?",
+    "o": [
+      "उज् + जल",
+      "उत् + जल",
+      "उद + जल",
+      "उज + ज्वल"
+    ],
+    "a": 1,
+    "e": "यो व्यञ्जन सन्धिको नियम हो। यदि 'त्' पछि 'ज' वा 'झ' आयो भने 'त्' को 'ज्' हुन्छ। उत् + ज्वल = उज्ज्वल (वा उज्जल)।"
+  },
+  {
+    "id": 27,
+    "q": "'मास' शब्दको अर्थ तलका मध्ये कुन होइन ?",
+    "o": [
+      "महिना",
+      "दाल (गेडागुडी)",
+      "मासु",
+      "मानिसको समूह"
+    ],
+    "a": 3,
+    "e": "नेपाली भाषामा 'मास' ले महिना र दाललाई जनाउँछ। अंग्रेजीको 'Mass' (भिड/समूह) लाई नेपाली शब्दको रूपमा लिइँदैन।"
+  },
+  {
+    "id": 28,
+    "q": "\"Dewatering\" of a construction site is necessary when:",
+    "o": [
+      "The soil is too dry",
+      "The water table is higher than the excavation depth",
+      "To provide drinking water to laborers",
+      "To wash the foundation stones"
+    ],
+    "a": 1,
+    "e": "The water table is higher than the excavation depth"
+  },
+  {
+    "id": 29,
+    "q": "The minimum period for removal of formwork for the props of a slab (spanning up to 4.5m) is generally:",
+    "o": [
+      "1 day",
+      "3 days",
+      "7 days",
+      "14 days"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "Which source of water is considered \"Wholesome\" without extensive chemical treatment?",
+    "o": [
+      "River water near a city",
+      "Protected deep well or artesian spring",
+      "Pond water",
+      "Impounded reservoir water"
+    ],
+    "a": 1,
+    "e": "Protected deep well or artesian spring"
+  },
+  {
+    "id": 31,
+    "q": "\"Self-cleaning velocity\" in a sewer is the velocity at which:",
+    "o": [
+      "The pipe breaks",
+      "Solid particles are kept in suspension and do not settle",
+      "Water flows backwards",
+      "The sewer smells good"
+    ],
+    "a": 1,
+    "e": "Solid particles are kept in suspension and do not settle"
+  },
+  {
+    "id": 32,
+    "q": "\"Duty\" is defined as:",
+    "o": [
+      "The time between first and last watering",
+      "The area of land irrigated per unit discharge of water",
+      "The depth of water in meters",
+      "The ratio of crop yield to water volume"
+    ],
+    "a": 1,
+    "e": "The area of land irrigated per unit discharge of water"
+  },
+  {
+    "id": 33,
+    "q": "The first watering given to a crop when it is a few centimeters high is called:",
+    "o": [
+      "Kor Watering",
+      "Paleo",
+      "Delta",
+      "Surcharge"
+    ],
+    "a": 0,
+    "e": "Kor Watering"
+  },
+  {
+    "id": 34,
+    "q": "\"Pothole Repair\" and \"Cleaning of Drains\" fall under which category of maintenance?",
+    "o": [
+      "Periodic Maintenance",
+      "Routine Maintenance",
+      "Emergency Maintenance",
+      "Preventive Maintenance"
+    ],
+    "a": 1,
+    "e": "Routine Maintenance"
+  },
+  {
+    "id": 35,
+    "q": "The longitudinal distance between the center of the front wheel and the rear wheel of a vehicle is:",
+    "o": [
+      "Wheel track",
+      "Wheel base",
+      "Clearance",
+      "Overhang"
+    ],
+    "a": 1,
+    "e": "Wheel base"
+  },
+  {
+    "id": 36,
+    "q": "The unit of measurement for \"Steel Reinforcement\" is:",
+    "o": [
+      "Meter",
+      "Quintal",
+      "Number of bars",
+      "Square meter"
+    ],
+    "a": 1,
+    "e": "Quintal"
+  },
+  {
+    "id": 37,
+    "q": "If there is a conflict between the \"Drawings\" and the \"Technical Specifications,\" which one generally takes precedence?",
+    "o": [
+      "Drawings",
+      "Technical Specifications",
+      "The contractor's wish",
+      "The verbal order of the supervisor"
+    ],
+    "a": 1,
+    "e": "Technical Specifications"
+  },
+  {
+    "id": 38,
+    "q": "Which type of contract is most suitable for a project where quantities are not certain but the type of work is defined?",
+    "o": [
+      "Lump Sum Contract",
+      "Item Rate Contract",
+      "Percentage Rate Contract",
+      "Cost Plus Percentage Contract"
+    ],
+    "a": 1,
+    "e": "Item Rate Contract"
+  },
+  {
+    "id": 39,
+    "q": "In a Bar Chart, the horizontal axis (X-axis) represents:",
+    "o": [
+      "Cost",
+      "Time",
+      "Type of labor",
+      "Material quantity"
+    ],
+    "a": 1,
+    "e": "Time"
+  },
+  {
+    "id": 40,
+    "q": "The \"Airside\" of an airport includes:",
+    "o": [
+      "Passenger check-in counters",
+      "Car parking area",
+      "Runways, taxiways, and aprons",
+      "The airport restaurant"
+    ],
+    "a": 2,
+    "e": "Runways, taxiways, and aprons"
+  },
+  {
+    "id": 41,
+    "q": "If the length of a transition curve to be introduced between a straight and a circular curve of radius 500 m is 90 m, the maximum deflection angle to locate its junction point, is",
+    "o": [
+      "1°43' 08\"",
+      "1°43' 18\"",
+      "1°43' 28\"",
+      "1°43' 38\""
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "The length of a traverse leg may be obtained by multiplying the latitude and",
+    "o": [
+      "secant of its reduced bearing",
+      "sine of its reduced bearing",
+      "cosine of its reduced bearing",
+      "tangent of its reduced bearing."
+    ],
+    "a": 0,
+    "e": "(secant of its reduced bearing)"
+  },
+  {
+    "id": 43,
+    "q": "A well seasoned timber may contain moisture up to",
+    "o": [
+      "4 to 6%",
+      "6 to 8%",
+      "8 to 10%",
+      "10 to 12%."
+    ],
+    "a": 3,
+    "e": "10 to 12 %"
+  },
+  {
+    "id": 44,
+    "q": "The specific gravity of marble, is",
+    "o": [
+      "2.50",
+      "2.60",
+      "2.66",
+      "2.72"
+    ],
+    "a": 3,
+    "e": "2.72"
+  },
+  {
+    "id": 45,
+    "q": "A syphon is used",
+    "o": [
+      "to connect water reservoirs at different levels intervened by a hill",
+      "to supply water to a town from higher level to lower level",
+      "to fill up a tank with water at higher level from a lower level",
+      "none of these."
+    ],
+    "a": 0,
+    "e": "to connect water reservoirs at different levels intervened by a hill"
+  },
+  {
+    "id": 46,
+    "q": "The ratio of maximum velocity to average velocity of viscous fluid through a circular pipe is",
+    "o": [
+      "0.5",
+      "0.75",
+      "1.25",
+      "2.00"
+    ],
+    "a": 3,
+    "e": "2.00"
+  },
+  {
+    "id": 47,
+    "q": "The minimum water content at which the soil just begins to crumble when rolled into threads 3 mm in diameter, is known",
+    "o": [
+      "liquid limit",
+      "plastic limit",
+      "shrinkage limit",
+      "permeability limit."
+    ],
+    "a": 1,
+    "e": "plastic limit"
+  },
+  {
+    "id": 48,
+    "q": "When drainage is permitted under initially applied normal stress only and full primarily consolidation is allowed to take place, the test is known as",
+    "o": [
+      "quick test",
+      "drained test",
+      "consolidated undrained test",
+      "none of these."
+    ],
+    "a": 2,
+    "e": "consolidated undrained test"
+  },
+  {
+    "id": 49,
+    "q": "In a combined footing if shear stress exceeds 5 kg/cm2, the nominal stirrups provided are:",
+    "o": [
+      "6 legged",
+      "8 legged",
+      "10 legged",
+      "12 legged"
+    ],
+    "a": 3,
+    "e": "12 legged"
+  },
+  {
+    "id": 50,
+    "q": "Cantilever retaining walls can safely be used for a height not more than",
+    "o": [
+      "3 m",
+      "4 m",
+      "5 m",
+      "6 m"
+    ],
+    "a": 3,
+    "e": "6 m"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "q": "भौगोलिक क्षेत्र 'घ' वर्गमा काम गरे बापत प्रत्येक वर्ष कति अङ्क प्राप्त हुन्छ?",
+    "o": [
+      "२.५०",
+      "२.२५",
+      "२.००",
+      "१.७५"
+    ],
+    "a": 2,
+    "e": "घ वर्गको लागि २.०० अङ्क।"
+  },
+  {
+    "id": 2,
+    "q": "कर्मचारीले कस्तो संस्थाको स्थापना वा सञ्चालनमा भाग लिन हुँदैन?",
+    "o": [
+      "सहकारी संस्था",
+      "बैंक तथा वित्तीय संस्था",
+      "कम्पनी वा व्यापारिक फर्म",
+      "सामाजिक क्लब"
+    ],
+    "a": 2,
+    "e": "तर सहकारी वा साहित्यिक/वैज्ञानिक संस्थामा भाग लिन बाधा पर्दैन।"
+  },
+  {
+    "id": 3,
+    "q": "नेपाल सरकारले गाउँपालिकामा कम्तीमा कति र बढीमा कति वडा रहने गरी निर्धारण गर्नुपर्दछ?",
+    "o": [
+      "कम्तीमा ५ र बढीमा १५",
+      "कम्तीमा ५ र बढीमा २१",
+      "कम्तीमा ९ र बढीमा ३५",
+      "कम्तीमा ९ र बढीमा २५"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "इमेल लेख्दा तर नपठाइएको (Unsent) इमेलहरू कहाँ बस्छन्?",
+    "o": [
+      "Inbox",
+      "Sent",
+      "Drafts",
+      "Trash"
+    ],
+    "a": 2,
+    "e": "पछि पठाउनका लागि।"
+  },
+  {
+    "id": 5,
+    "q": "आ.व. २०८२/८३ का लागि पुँजीगत खर्च (Capital Expenditure) तर्फ यकिन कति रकम विनियोजन गरिएको छ?",
+    "o": [
+      "रु. १९ अर्ब ५३ करोड ८७ लाख ९३ हजार",
+      "रु. १२ अर्ब ६३ करोड ६६ लाख ७५ हजार",
+      "रु. १९ अर्ब ९ करोड ३३ लाख २४ हजार",
+      "रु. ३१ अर्ब ९७ करोड ९९ लाख ९९ हजार"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "उज्यालो गण्डकी' कार्यक्रम अन्तर्गत राष्ट्रिय प्रसारण लाइन नपुगेका घरधुरीमा सौर्य ऊर्जा जडान गर्न कति प्रतिशत अनुदान दिइन्छ ?",
+    "o": [
+      "५०%",
+      "७५%",
+      "९०%",
+      "१००%"
+    ],
+    "a": 1,
+    "e": "७५% अनुदान।"
+  },
+  {
+    "id": 7,
+    "q": "According to the SDG 2030 targets for Nepal, what is the target for the annual Gross Domestic Product (GDP) growth rate?",
+    "o": [
+      "7%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "अख्तियार दुरुपयोग अनुसन्धान आयोगका पदाधिकारीलाई पदमुक्त गर्न कुन धारा बमोजिम महाभियोग लगाइन्छ?",
+    "o": [
+      "धारा १०१",
+      "धारा १००",
+      "धारा १०२",
+      "धारा १०५"
+    ],
+    "a": 0
+  },
+  {
+    "id": 9,
+    "q": "भ्रष्टाचार निवारण ऐन बमोजिम २५ लाखदेखि ५० लाख रुपैयाँसम्मको विगोमा कति कैद सजाय हुन्छ?",
+    "o": [
+      "२ वर्षदेखि ४ वर्ष",
+      "४ वर्षदेखि ६ वर्ष",
+      "६ वर्षदेखि ८ वर्ष",
+      "८ वर्षदेखि १० वर्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "प्रयोगका आधारमा पत्रलाई कति प्रकारमा वर्गीकरण गर्न सकिन्छ ?",
+    "o": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "a": 2,
+    "e": "सरकारी, आवेदन, व्यक्तिगत तथा निजी, व्यवसायिक र व्यापिरक पत्र"
+  },
+  {
+    "id": 11,
+    "q": "कुन महादेशलाई \"Home of the man\" भनिन्छ?",
+    "o": [
+      "अस्ट्रेलिया (Australia)",
+      "एसिया (Asia)",
+      "युरोप (Europe)",
+      "अफ्रिका (Africa)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 12,
+    "q": "भारतको जस्तै नक्सा भएको जिल्ला कुन हो?",
+    "o": [
+      "काभ्रेपलाञ्चोक",
+      "बागलुङ",
+      "सिन्धुली",
+      "संखुवासभा"
+    ],
+    "a": 3
+  },
+  {
+    "id": 13,
+    "q": "गण्डकी प्रदेशको प्रदेश प्रमुख को नियुक्ती कसले गर्छ?",
+    "o": [
+      "प्रधानमन्त्री",
+      "मुख्यमन्त्री",
+      "राष्ट्रपति",
+      "संघीय संसद"
+    ],
+    "a": 2
+  },
+  {
+    "id": 14,
+    "q": "नेपाली समाजको विशेषता तलका मध्ये कुन होइन?",
+    "o": [
+      "धार्मिक सहिष्णुता",
+      "भौगोलिक विविधता",
+      "औद्योगिक सम्पन्नता",
+      "मौलिक कला र संस्कृति"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "नेपालमा सबै भन्दा बढी उत्पादन हुने देखि कम उत्पादन हुने बालीलाई क्रम मिलाएर राख्नुहोस्:",
+    "o": [
+      "कोदो, मकै, गहुँ, धान",
+      "धान, कोदो, मकै, गहुँ",
+      "धान, मकै, गहुँ, कोदो",
+      "धान, कोदो, मकै, गहुँ"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "तलका भनाइ अध्ययन गरी उत्तर छान्नुहोस्:\n(a) नेपालको उत्तर दक्षिण सरदर चौडाई 193 km रहेको छ।\n(b) नेपालले विश्वको क्षेत्रफलको 0.3 % भूभाग ओगटेको छ।",
+    "o": [
+      "a ठीक, b बेठिक",
+      "a बेठिक, b ठीक",
+      "दुवै ठीक",
+      "दुवै बेठिक"
+    ],
+    "a": 0
+  },
+  {
+    "id": 17,
+    "q": "नेपालको जनसंख्या वृद्धि दर हुनुको कारण?",
+    "o": [
+      "शिक्षा",
+      "परिवार नियोजन",
+      "चेतना",
+      "सबै"
+    ],
+    "a": 3
+  },
+  {
+    "id": 18,
+    "q": "राष्ट्रिय आविष्कार केन्द्रका अभियान्ता को हुन्?",
+    "o": [
+      "महेश पुन (Mahesh Pun)",
+      "महाविर पुन (Mahabir Pun)",
+      "बिर बहादुर लामा (Bir Bahadur Lama)",
+      "उपेन्द्र पुन (Upendra Pun)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "इन्सुलिन कुन रोगसँग सम्बन्धित छ?",
+    "o": [
+      "रक्तचाप (Blood Pressure)",
+      "क्यान्सर (Cancer)",
+      "ग्यास्ट्रिक (Gastric)",
+      "मधुमेह (Diabetes)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 20,
+    "q": "नेपालको राष्ट्रिय झण्डा बनाउने तरिका नेपालको संविधानको कुन अनुसूचीमा उल्लेख गरिएको छ?",
+    "o": [
+      "अनुसूची-१",
+      "अनुसूची-२",
+      "अनुसूची-३",
+      "अनुसूची-४"
+    ],
+    "a": 0
+  },
+  {
+    "id": 21,
+    "q": "Number of diagonal that a hexagon can have",
+    "o": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "a": 2,
+    "e": "(N(N-3)/2 => 6*(6-3)/2 = 9 Diagonal, N = no of side) "
+  },
+  {
+    "id": 22,
+    "q": "Working drawings",
+    "o": [
+      "Must provide complete information to produce the object",
+      "Need not provide complete information",
+      "Should be supplemented by further details",
+      "Should be supplemented by specification"
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "The horizontal lines of letters should be drawn from",
+    "o": [
+      "Left to right",
+      "Top to bottom",
+      "Both a and b",
+      "None of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 24,
+    "q": "The estimated value of a built-up properly at the end of its useful life without being dismantled is its",
+    "o": [
+      "scrap value",
+      "book value",
+      "salvage value",
+      "market value"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "slope of the oultet of 'P trap' below the horizontal is kept",
+    "o": [
+      "8°",
+      "12°",
+      "10°",
+      "14°"
+    ],
+    "a": 3
+  },
+  {
+    "id": 26,
+    "q": "No. of holdfast and hinge in door is",
+    "o": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "a": 2
+  },
+  {
+    "id": 27,
+    "q": "The real image of an object formed by the objective, must lie",
+    "o": [
+      "in the plane of cross hairs",
+      "at the centre of the telescope",
+      "at the optical centre of the eye-piece",
+      "anywhere inside the telescope."
+    ],
+    "a": 0
+  },
+  {
+    "id": 28,
+    "q": "The purpose of alidade in plane table surveying is;",
+    "o": [
+      "levelling the table",
+      "eliminating parallax",
+      "centering",
+      "sighting to target points"
+    ],
+    "a": 3
+  },
+  {
+    "id": 29,
+    "q": "Mud plastering does not require",
+    "o": [
+      "Mixing",
+      "Soil",
+      "Curing",
+      "water"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "The maximum percentage of fine sand content in soil for making good tiles is about",
+    "o": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "Mat foundation is provided when",
+    "o": [
+      "Foundation covers more than 50% area",
+      "Foundation covers more than 60% area",
+      "Foundation covers more than 40% area",
+      "Foundation covers more than 30% area"
+    ],
+    "a": 0,
+    "e": "[*_0](*)"
+  },
+  {
+    "id": 32,
+    "q": "Stone used in masonry should be",
+    "o": [
+      "hard, durable, tough",
+      "Free from weathering decay or defect like cracks, sand holes etc.",
+      "non water absorbent",
+      "all of above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 33,
+    "q": "In a barrage, the crest level is kept",
+    "o": [
+      "Low with large gates",
+      "High with large gates",
+      "High with no gates",
+      "Low with no gates"
+    ],
+    "a": 0
+  },
+  {
+    "id": 34,
+    "q": "Which fitting is used to branch a single pipeline into two lines at a 90-degree angle?",
+    "o": [
+      "Elbow",
+      "Coupling",
+      "Tee",
+      "Reducer"
+    ],
+    "a": 2,
+    "e": "[*_1](*)"
+  },
+  {
+    "id": 35,
+    "q": "Which type of pipe is most commonly used for internal cold water supply due to its light weight and corrosion resistance?",
+    "o": [
+      "Cast Iron (CI)",
+      "Galvanized Iron (GI)",
+      "PVC (Polyvinyl Chloride)",
+      "Lead"
+    ],
+    "a": 2
+  },
+  {
+    "id": 36,
+    "q": "\"Permanent Hardness\" of water is caused by the presence of:",
+    "o": [
+      "Carbonates of calcium and magnesium",
+      "Sulfates and chlorides of calcium and magnesium",
+      "Dissolved oxygen",
+      "Pathogenic bacteria"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "Which process in water treatment is primarily responsible for removing very fine suspended particles using chemicals like Alum?",
+    "o": [
+      "Sedimentation",
+      "Coagulation and Flocculation",
+      "Filtration",
+      "Aeration"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "The selection of design curve in Wyoming method of flexible pavement design, is based upon ............ ",
+    "o": [
+      "annual precipitation",
+      "water-table",
+      "frost action",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 39,
+    "q": "A wall constructed to retain the earth from slippage on the hill side of the roadway is called ............",
+    "o": [
+      "breast wall",
+      "retaining wall",
+      "parapet wall",
+      "none of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "In hill roads, minimum sight distance required is ............",
+    "o": [
+      "stopping sight distance",
+      "passing sight distance",
+      "braking distance",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "The gradients of trace cuts for hill roads are kept ............",
+    "o": [
+      "10 to 20% easier than the ruling gradient",
+      "20 to 25% easier than the ruling gradient",
+      "10 to 20% steeper than the ruling gradient",
+      "20 to 25% steeper than the ruling gradient"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "A transition curve cannot be a ............",
+    "o": [
+      "true spiral",
+      "cubic spiral",
+      "compound curve",
+      "cubic parabola"
+    ],
+    "a": 2
+  },
+  {
+    "id": 43,
+    "q": "Regime conditions in a channel may occur if ............",
+    "o": [
+      "discharge is constant",
+      "channel flows uniformly in incoherent alluvium as that transported in suspension",
+      "silt grade and silt charge are constant",
+      "all the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "When the drain is over the canal, the structure provided is known as ............",
+    "o": [
+      "aqueduct",
+      "super-passage",
+      "canal siphon",
+      "siphon aqueduct"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "A deflecting groyne in a river is ............",
+    "o": [
+      "inclined towards upstream",
+      "perpendicular to bank",
+      "inclined towards downstream",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "A river meandering through an alluvial plain has a series of consecutive curves of reversed order connected with short straight sketches, is called ............",
+    "o": [
+      "crossing",
+      "meandering belt",
+      "meandering length",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "Coarse screens are iron bars with a clearance of ............",
+    "o": [
+      "less than 25 mm",
+      "25 to 75 mm",
+      "75 mm",
+      "100 mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "Sewage farming is best suited for Nepal because ............",
+    "o": [
+      "it is abundantly available",
+      "it is a cheap method of sewage disposal",
+      "it is hygienic method",
+      "nutrients and trace elements required by plants are available in sewage"
+    ],
+    "a": 3
+  },
+  {
+    "id": 49,
+    "q": "The best pH range suited for most of bacteria is ............",
+    "o": [
+      "1 to 2",
+      "5 to 9",
+      "7",
+      "7 to 10"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "Sedimentation aided by coagulation is adopted ............",
+    "o": [
+      "almost everywhere",
+      "where biological treatment is to follow next",
+      "when industrial wastes are blended with sanitary sewage",
+      "when phosphates are less in sewage"
+    ],
+    "a": 2
+  }
+]

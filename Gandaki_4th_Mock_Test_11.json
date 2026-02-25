@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "q": "Which treatment process involves passing water through layers of sand and gravel?",
+    "o": [
+      "Chlorination",
+      "Filtration",
+      "Softening",
+      "Screening"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "In a septic tank, the heavy organic matter that settles at the bottom is known as:",
+    "o": [
+      "Scum",
+      "Sludge",
+      "Effluent",
+      "Grit"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "Which wiring system is considered the safest and most aesthetically pleasing for modern residential buildings?",
+    "o": [
+      "Cleat Wiring",
+      "Casing and Capping",
+      "Concealed Conduit Wiring",
+      "Surface Conduit Wiring"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "What is the purpose of a \"Foot Valve\" in a water supply system?",
+    "o": [
+      "To filter the water at the tap",
+      "To prevent the backflow of water and keep the pump primed",
+      "To measure the water flow rate",
+      "To reduce the pressure of water"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "The minimum thickness of the base of a flexible pavement is kept as ............",
+    "o": [
+      "5 cm",
+      "10 cm",
+      "15 cm",
+      "20 cm"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "The joints, parallel to the centre-line of the road, are called ............",
+    "o": [
+      "longitudinal joints",
+      "transverse joints",
+      "expansion joints",
+      "all of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 7,
+    "q": "The traffic manoeuvre means ............",
+    "o": [
+      "diverging",
+      "merging",
+      "crossing",
+      "all of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "The theoretical capacity of a highway depends upon the ............",
+    "o": [
+      "average length of the vehicles",
+      "average spacing of the moving vehicles",
+      "either 'a' or 'b'",
+      "both 'a' and 'b'"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "In case of multi-lane road, overtaking is generally permitted from ............",
+    "o": [
+      "left side",
+      "right side",
+      "both sides",
+      "any one of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "In a canal siphon, the flow is...",
+    "o": [
+      "under atmospheric pressure",
+      "pipe flow",
+      "with critical velocity",
+      "under negative pressure"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "Retrogression of the bed level of a river downstream a weir, occurs due to...",
+    "o": [
+      "heavy impact of water",
+      "increase of the bed level",
+      "less percentage of silt",
+      "soft soil strata"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "A river training work is generally required when the river is...",
+    "o": [
+      "meandering",
+      "aggrading",
+      "degrading",
+      "all the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "Attracting groynes are built...",
+    "o": [
+      "perpendicular to the bank",
+      "inclined down stream",
+      "inclined up stream",
+      "none of these"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "The activity that may not affect ecological balance is...",
+    "o": [
+      "growing crops",
+      "developing gardens",
+      "industries",
+      "use of pesticides"
+    ],
+    "a": 1
+  },
+  {
+    "id": 15,
+    "q": "Anti-syphonage pipe need not be provided in...",
+    "o": [
+      "single-storied buildings",
+      "multistoried buildings",
+      "residential flats",
+      "anti-syphonage pipe"
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "The last trap provided in a house drainage system is...",
+    "o": [
+      "Q-trap",
+      "floor trap",
+      "nahani trap",
+      "intercepting trap"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "\"Biological magnification\" is...",
+    "o": [
+      "decrease in concentration with trophic level",
+      "increase in concentration with trophic level",
+      "equilibrium is concentration",
+      "magnification of poisons with time"
+    ],
+    "a": 1,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 18,
+    "q": "भ्रष्टाचार न्यूनीकरण ऐन २०५९ अनुसार ५० लाख रुपैयाँभन्दा बढी र १ करोड रुपैयाँसम्म विगो भएमा कति वर्ष कैद सजाय हुन्छ?",
+    "o": [
+      "४ वर्षदेखि ६ वर्ष",
+      "६ वर्षदेखि ८ वर्ष",
+      "८ वर्षदेखि १० वर्ष",
+      "१० वर्षदेखि १२ वर्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "विश्वमा सार्वजनिक वडापत्रको अवधारणा कहिले आएको थियो?",
+    "o": [
+      "सन् १९९० जुलाई २२",
+      "सन् १९९१ जुलाई २२",
+      "सन् १९९२ जुलाई २२",
+      "सन् १९९३ जुलाई २२"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "एक्सेलमा सुत्र (Formula) लेख्दा कुन चिन्हबाट सुरु गर्नुपर्छ?",
+    "o": [
+      "+",
+      "#",
+      "=",
+      "@"
+    ],
+    "a": 2,
+    "e": "बराबर चिन्ह अनिवार्य छ।"
+  },
+  {
+    "id": 21,
+    "q": "गण्डकी प्रदेशको आ.व. २०८२/८३ को बजेटमा चालु खर्च (Recurrent Expenditure) तर्फ कुल विनियोजनको कति प्रतिशत रकम छुट्याइएको छ?",
+    "o": [
+      "५९.७%",
+      "३९.५%",
+      "६०.५%",
+      "०.८%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "गण्डकी प्रदेश निजामती सेवा दिवस (Civil Service Day) कहिले मनाइन्छ? [नोट: संघीय दिवस भदौ २२]",
+    "o": [
+      "भदौ २२ गते",
+      "फागुन १८ गते",
+      "असोज ३ गते",
+      "माघ १ गते"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "नेपालको संविधानमा प्रदेश मन्त्रिपरिषदको गठन सम्बन्धी व्यवस्था कुन धारामा छ?",
+    "o": [
+      "धारा १६६",
+      "धारा १६७",
+      "धारा १६८",
+      "धारा १६९"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "अपाङ्गता भएका व्यक्तिलाई सार्वजनिक सवारी साधनमा कति प्रतिशत छुट छ?",
+    "o": [
+      "२५%",
+      "३३%",
+      "५०%",
+      "१००%"
+    ],
+    "a": 2,
+    "e": "५० प्रतिशत"
+  },
+  {
+    "id": 25,
+    "q": "न्यायिक समितिको संयोजक भई कार्य गर्ने जिम्मेवारी कसको हो?",
+    "o": [
+      "अध्यक्ष वा प्रमुख",
+      "उपाध्यक्ष वा उपप्रमुख",
+      "प्रमुख प्रशासकीय अधिकृत",
+      "जेष्ठ वडा अध्यक्ष"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "२ करोड भन्दा माथि १० करोडसम्मको 'बोलपत्र सम्बन्धी कागजात' (Bidding Document) खरिद गर्न कति दस्तुर लाग्छ?",
+    "o": [
+      "३,००० रुपैयाँ",
+      "५,००० रुपैयाँ",
+      "१०,००० रुपैयाँ",
+      "२०,००० रुपैयाँ"
+    ],
+    "a": 1,
+    "e": "नोट: २० लाख-२ करोड=३०००, २ करोड-१० करोड=५०००, १० करोड-२५ करोड=१०,०००, २५ करोड माथि=२०,०००।"
+  },
+  {
+    "id": 27,
+    "q": "बढुवाका लागि भौगोलिक क्षेत्र 'ख' वर्गमा काम गरे बापत प्रत्येक वर्ष कति अङ्क पाइन्छ?",
+    "o": [
+      "४.००",
+      "३.५०",
+      "३.२५",
+      "३.००"
+    ],
+    "a": 2,
+    "e": "ख वर्गको लागि ३.२५ अङ्क।"
+  },
+  {
+    "id": 28,
+    "q": "नेपालको कुन राष्ट्रसँग सर्वप्रथम हवाइ सम्झौता भएको थियो ?",
+    "o": [
+      "चीन",
+      "अमेरिका",
+      "भारत",
+      "जापान"
+    ],
+    "a": 2
+  },
+  {
+    "id": 29,
+    "q": "१६ औं योजनाले बेरोजगारी दरलाई कति प्रतिशतमा सिमित गर्ने लक्ष्य राखेको छ?",
+    "o": [
+      "५%",
+      "१०%",
+      "११.४%",
+      "३%"
+    ],
+    "a": 0
+  },
+  {
+    "id": 30,
+    "q": "गण्डकी प्रदेशको दोस्रो पञ्चवर्षीय योजनाले गण्डकी प्रदेशको निरपेक्ष गरिबीलाई कति प्रतिशतमा झार्ने लक्ष्य राखेको छ?",
+    "o": [
+      "५ प्रतिशत",
+      "७ प्रतिशत",
+      "८ प्रतिशत",
+      "११ प्रतिशत"
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "टेलिभिजनको आविस्कार कसले गरेका हुन ?",
+    "o": [
+      "रोइन्टजेन",
+      "अलेक्जेन्डर ग्राहम बेल",
+      "जोन वियर्ड",
+      "बेन्जामिन फ्रयाङ्कलिन"
+    ],
+    "a": 2
+  },
+  {
+    "id": 32,
+    "q": "1 gram carbohydrates ले कति kcal शक्ति दिन्छ ?",
+    "o": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "आवासको हक संविधानको कति धारामा उल्लेख गरिएको छ ?",
+    "o": [
+      "धारा ३५",
+      "धारा ३६",
+      "धारा ३७",
+      "धारा ४०"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "Timor-Leste became the 11th member of ASEAN on",
+    "o": [
+      "25 October 2025",
+      "26 October 2025",
+      "25 November 2025",
+      "26 November 2025"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "अंग्रेजीमा Y आकारको ताल भन्नाले कुन ताललाई बुझिन्छ ?",
+    "o": [
+      "तिलिचो ताल",
+      "शे-फोक्सुण्डो ताल",
+      "च्छो-रोल्पा ताल",
+      "बैकाल ताल"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "पशुपतीनाथको मन्दिर विश्व सम्पदा सुचिमा कहिले सूचिकृत भएको थियो ?",
+    "o": [
+      "सन् १९७९",
+      "सन् १९८४",
+      "सन् १९९७",
+      "सन् १९९८"
+    ],
+    "a": 0
+  },
+  {
+    "id": 37,
+    "q": "ढोरपाटन शिकार आरक्ष कुन कुन जिल्लामा फैलिएको छ ?",
+    "o": [
+      "बाग्लुङ, म्याग्दी र पूर्वी रुकुम",
+      "कास्की, पर्वत र स्याङ्जा",
+      "तनहुँ, लमजुङ र गोर्खा",
+      "मुस्ताङ र मनाङ"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "The method of leveling used to carry out the reconnaissance of an area is",
+    "o": [
+      "check leveling",
+      "fly leveling",
+      "profile leveling",
+      "simple leveling"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "The method of plane tabling generally adopted to obtain details and plotting inaccessible points is",
+    "o": [
+      "radiation",
+      "intersection",
+      "resection",
+      "all of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "A sedimentary rock of calcareous variety having specific gravity 2.6 is called",
+    "o": [
+      "marble",
+      "kankar",
+      "sandstone",
+      "limestone"
+    ],
+    "a": 3
+  },
+  {
+    "id": 41,
+    "q": "Retarding admixtures are used during concreting is..........",
+    "o": [
+      "increase the final setting time of concrete",
+      "decrease the final setting time of concrete",
+      "increase the initial setting time of concrete",
+      "decrease the initial setting time of concrete"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "The alumina gives quick setting property in cement. The content alumina is cement is......",
+    "o": [
+      "63%",
+      "22%",
+      "6%",
+      "3%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 43,
+    "q": "To draw very light line which pencil is used",
+    "o": [
+      "B",
+      "H",
+      "HB",
+      "2H"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "During drawing the stoke of T-square is placed (psc local level)",
+    "o": [
+      "Adjoining the working edge of the drawing board",
+      "Adjoining the sliding edge of the drawing board",
+      "Surface of the drawing board",
+      "None of above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "Drawing pencils are graded according to increase in relative",
+    "o": [
+      "Diameter",
+      "Sharpness",
+      "Length",
+      "Hardness"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "How many bags of cement are required for 1 m³ concrete mix 1:2:4 as per norms?",
+    "o": [
+      "4.6",
+      "6.4",
+      "8",
+      "7"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "Which is the correct statement among the following?",
+    "o": [
+      "Pointing is measured in sq. m",
+      "Plastering is measured in sq. m",
+      "Glazing is measured in sq. m",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 48,
+    "q": "A detailed description of the design and materials used to construct something is called.......",
+    "o": [
+      "cost estimates",
+      "bill of quantities",
+      "specification",
+      "bid document"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "What is the primary mechanism by which 'Superplasticizers' (High-Range Water Reducers) increase the workability of concrete without adding extra water?",
+    "o": [
+      "By lubricating the aggregates with a silicon-based oil.",
+      "By chemically turning some of the water into air bubbles.",
+      "By increasing the internal temperature to melt the cement.",
+      "By creating an electrostatic repulsion between cement particles."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "A scaffold must be capable of supporting its own weight and at least how many times the maximum intended load applied to it?",
+    "o": [
+      "2 times",
+      "6 times",
+      "4 times",
+      "10 times"
+    ],
+    "a": 2,
+    "e": ""
+  }
+]

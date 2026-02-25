@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "q": "जनगणना २०७८ अनुसार भौगोलिक क्षेत्र तराईमा कति प्रतिशत जनसंख्या बसोबास गर्छन्?",
+    "o": [
+      "53.61",
+      "50.61",
+      "51.61",
+      "54.61"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "२०२५ को विश्व शान्ति सूचकांक (Global Peace Index) अनुसार नेपालको स्थान कति औँ रहेको छ?",
+    "o": [
+      "७२ औँ",
+      "७६ औँ",
+      "९० औँ",
+      "९५ औँ"
+    ],
+    "a": 1
+  },
+  {
+    "id": 3,
+    "q": "राष्ट्रिय सूचना आयोगको आदेश पालना नगर्ने व्यक्तिलाई आयोगले कतिसम्म जरिवाना गर्न सक्छ?",
+    "o": [
+      "रु. ५,००० सम्म",
+      "रु. १०,००० सम्म",
+      "रु. १५,००० सम्म",
+      "रु. २०,००० सम्म"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "मधेश प्रदेश दोस्रो पञ्चवर्षीय योजना अनुसार दक्ष स्वास्थ्यकर्मीबाट सुत्केरी गराउने दर कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "६८.०%",
+      "८५.०%",
+      "९५.०%",
+      "९०.०%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "महोत्तरी जिल्लाको 'मटिहानी' (Matihani) मा रहेको 'लक्ष्मीनारायण मठ' के का लागि ऐतिहासिक रूपमा प्रसिद्ध छ?",
+    "o": [
+      "तान्त्रिक विद्या",
+      "संस्कृत शिक्षा",
+      "आयुर्वेद उपचार",
+      "युद्ध कला प्रशिक्षण"
+    ],
+    "a": 1,
+    "e": "Matihani... is famous for the Laxmi Narayan Math, a monastery with a long tradition of Sanskrit education."
+  },
+  {
+    "id": 6,
+    "q": "मधेश प्रदेशका कुन तीन भाषाहरूलाई प्रदेश सभाले आधिकारिक भाषाको दर्जा दिएको छ?",
+    "o": [
+      "मैथिली, थारु, नेपाली",
+      "मैथिली, भोजपुरी, नेपाली",
+      "भोजपुरी, बज्जिका, नेपाली",
+      "मैथिली, हिन्दी, नेपाली"
+    ],
+    "a": 1,
+    "e": "Maithili, Bhojpuri, and Nepali as official languages."
+  },
+  {
+    "id": 7,
+    "q": "विन्ध्यवासिनी मन्दिर' (Bindabasini Temple) कुन जिल्लाको सदरमुकाममा अवस्थित एक प्रमुख शक्तिपीठ हो?",
+    "o": [
+      "बारा",
+      "पर्सा",
+      "रौतहट",
+      "सप्तरी"
+    ],
+    "a": 1,
+    "e": "Parsa District... Bindabasini Temple: A major Shakti shrine in the heart of Birgunj."
+  },
+  {
+    "id": 8,
+    "q": "नेपालको एक मात्र \"जंगली भैंसी\" (Arna) पाइने संरक्षित क्षेत्र कुन हो?",
+    "o": [
+      "पर्सा राष्ट्रिय निकुञ्ज",
+      "कोशी टप्पु वन्यजन्तु आरक्ष",
+      "चितवन राष्ट्रिय निकुञ्ज",
+      "मधेश जैविक आरक्ष"
+    ],
+    "a": 1,
+    "e": "Koshi Tappu Wildlife Reserve... Key Species: World-famous for the last remaining population of Wild Water Buffalo (Arna) in Nepal. "
+  },
+  {
+    "id": 9,
+    "q": "नेपालको संविधान २०७२ अनुसार, भाग ३. मौलिक हकको कार्यान्वयन कुन धारा अन्तर्गत पर्दछ?",
+    "o": [
+      "क) धारा-४६",
+      "ख) धारा–४८",
+      "ग) धारा-४७",
+      "घ) धारा-४९"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "Who is the current President (often referred to as the \"Chief Justice\") of the International Court of Justice?",
+    "o": [
+      "Nawaf Salam",
+      "Joan Donoghue",
+      "Yuji Iwasawa",
+      "Dalveer Bhandari"
+    ],
+    "a": 2,
+    "e": "Elected March 3, 2025, succeeding Nawaf Salam."
+  },
+  {
+    "id": 11,
+    "q": "Distribution of shear intensity over a rectangular section of a beam follows:",
+    "o": [
+      "A circular curve",
+      "A straight line",
+      "A parabolic curve",
+      "An elliptical curve"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "A T-beam behaves as a rectangular beam of a width equal to its flange if its neutral axis:",
+    "o": [
+      "Remains within the flange",
+      "Remains below the slab",
+      "Coincides the geometrical centre of the beam",
+      "None of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "As the percentage of steel increases:",
+    "o": [
+      "Depth of neutral axis decreases",
+      "Depth of neutral axis increases",
+      "Lever arm increases",
+      "Lever arm decreases"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "An under-reinforced section means:",
+    "o": [
+      "Steel is provided at the under side only",
+      "Steel provided is insufficient",
+      "Steel provided on one face only",
+      "Steel will yield first"
+    ],
+    "a": 3
+  },
+  {
+    "id": 15,
+    "q": "If the cross slope of a country is 25% to 60%, the terrain is classified as:",
+    "o": [
+      "Plain",
+      "Rolling",
+      "Steep",
+      "Mountainous"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "If a Lemniscate curve of transition throughout is introduced to connect two parallel roads, the maximum polar angle of the curve is:",
+    "o": [
+      "10°",
+      "15°",
+      "20°",
+      "30°",
+      "45°"
+    ],
+    "a": 3
+  },
+  {
+    "id": 17,
+    "q": "The Auger boring method is not suitable for:",
+    "o": [
+      "Very hard soil",
+      "Cemented soil",
+      "Very soft soil",
+      "Fully saturated cohesionless soils",
+      "All the above"
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "In case of a trapezoidal notch fall:",
+    "o": [
+      "Top width of the notch is kept between 3/4 th of full water depth above the sill of the notch",
+      "Top length of the piers should not be less than their thickness",
+      "Splay up stream from the notch section is 45°",
+      "Splay down stream from the notch section is also specified",
+      "All the above"
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "Surge tanks are used:",
+    "o": [
+      "For storage water",
+      "To increase the velocity in a pipeline",
+      "As overflow valves",
+      "To guard against water hammer"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "The technique for establishing and maintaining priorities among the various jobs of a project, is known as:",
+    "o": [
+      "Event flow scheduling technique",
+      "Critical ratio scheduling",
+      "Slotting technique for scheduling",
+      "Short interval scheduling"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "Pick up the correct statement from the following:",
+    "o": [
+      "Programme Evaluation and Review Technique (PERT) is event oriented",
+      "Programme Evaluation and Review Technique is not event oriented",
+      "Critical Path Method (CPM) is event oriented",
+      "Critical Path method is activity oriented"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "The measurement is made for stone work in square metre in case of:",
+    "o": [
+      "Wall facing",
+      "Columns, lintels, copings",
+      "Building work",
+      "Dressed stones in Chajjas",
+      "Both A and D"
+    ],
+    "a": 4
+  },
+  {
+    "id": 23,
+    "q": "The line of intersection of two surfaces of a sloping roof forming an internal angle less than 180°, is known as:",
+    "o": [
+      "Ridge",
+      "Hip",
+      "Valley",
+      "None of these"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "A cut in frame of a door to receive the shutter, is called:",
+    "o": [
+      "Louver",
+      "Stop",
+      "Horn",
+      "Rebate"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "परामर्श सेवाको लागि 'आशयपत्र' (EOI - Expression of Interest) माग गर्दा कति दिनको सूचना प्रकाशन गर्नुपर्छ?",
+    "o": [
+      "७ दिन",
+      "१५ दिन",
+      "२१ दिन",
+      "३० दिन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "अब्राहम मास्लोले \"A Theory of Human Motivation\" कहिले प्रकाशन गरेका थिए?",
+    "o": [
+      "१९४० ई.सं.",
+      "१९४३ ई.सं. (1943 AD)",
+      "१९५४ ई.सं.",
+      "१९६० ई.सं."
+    ],
+    "a": 1,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 27,
+    "q": "गाउँपालिका तथा नगरपालिकाको एकल अधिकार संविधानको कुन अनुसूचीमा उल्लेख भए बमोजिम हुनेछ?",
+    "o": [
+      "अनुसूची-५",
+      "अनुसूची-६",
+      "अनुसूची-८",
+      "अनुसूची-९"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "महानगरपालिका हुनका लागि पछिल्लो ५ वर्षको औसत वार्षिक आन्तरिक आय कम्तीमा कति हुनुपर्छ?",
+    "o": [
+      "५० करोड",
+      "१ अर्ब",
+      "२ अर्ब",
+      "३ अर्ब"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "फेसबुकको माउ कम्पनीको नयाँ नाम के हो?",
+    "o": [
+      "Alphabet",
+      "X",
+      "Meta",
+      "Omni"
+    ],
+    "a": 2,
+    "e": "मार्क जुकरबर्गले २०२१ मा नाम परिवर्तन गरेका हुन्।"
+  },
+  {
+    "id": 30,
+    "q": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन २०६४, केन्द्रीय अनुगमन तथा मूल्याङ्कन समितिको संयोजक को रहने व्यवस्था छ?",
+    "o": [
+      "प्रधानमन्त्री",
+      "मुख्य सचिव",
+      "सामान्य प्रशासन मन्त्री",
+      "राष्ट्रिय योजना आयोगको उपाध्यक्ष"
+    ],
+    "a": 1,
+    "e": "ऐनको दफा ३८ (१) अनुसार केन्द्रीय अनुगमन तथा मूल्याङ्कन समितिको संयोजक मुख्य सचिव रहने व्यवस्था छ।"
+  },
+  {
+    "id": 31,
+    "q": "प्रदेश निजामती कर्मचारीले आफ्नो सम्पत्ति विवरण कहाँ पेस गर्नुपर्दछ?",
+    "o": [
+      "राष्ट्रिय किताबखाना",
+      "मुख्यमन्त्री कार्यालय",
+      "प्रदेश किताबखाना",
+      "अख्तियार दुरुपयोग अनुसन्धान आयोग"
+    ],
+    "a": 2,
+    "e": "कर्मचारीले आफ्नो सम्पत्ति विवरण प्रदेश किताबखाना समक्ष पेस गर्नुपर्नेछ। (स्रोत: दफा ७७)"
+  },
+  {
+    "id": 32,
+    "q": "नेपालका अधिकांश संवैधानिक निकायहरूमा अध्यक्ष/प्रमुख आयुक्त बाहेक अन्य कति जना सदस्य/आयुक्त रहने व्यवस्था छ?",
+    "o": [
+      "तीन जना",
+      "चार जना",
+      "पाँच जना",
+      "छ जना"
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "प्रदेश लोक सेवा आयोग ऐन बमोजिम आयोगका कर्मचारीले आफ्नो नातेदार उम्मेदवार भएमा कसलाई जानकारी दिनुपर्छ?",
+    "o": [
+      "कार्यालय प्रमुखलाई",
+      "आयोगलाई",
+      "परीक्षा केन्द्राध्यक्षलाई",
+      "जिल्ला प्रशासन कार्यालयलाई"
+    ],
+    "a": 1,
+    "e": "आयोगबाट सञ्चालन हुने परीक्षामा आफ्नो नातेदार उम्मेदवार भएमा कर्मचारीले आयोगलाई जानकारी दिनुपर्छ। (ऐन दफा ७९ को उपदफा १)"
+  },
+  {
+    "id": 34,
+    "q": "मधेश प्रदेशमा 'नदी नियन्त्रण' र 'जल उत्पन्न प्रकोप' (Water Induced Disaster) व्यवस्थापनको कार्य कुन मन्त्रालयको हो?",
+    "o": [
+      "गृह, सञ्चार तथा कानून मन्त्रालय",
+      "वन तथा वातावरण मन्त्रालय",
+      "भौतिक पूर्वाधार विकास मन्त्रालय",
+      "उर्जा, सिँचाई तथा खानेपानी मन्त्रालय"
+    ],
+    "a": 3,
+    "e": "सामान्य विपद् गृह मन्त्रालयमा भए तापनि, विशेष गरी नदी नियन्त्रण र जल उत्पन्न प्रकोप व्यवस्थापन उर्जा, सिँचाई तथा खानेपानी मन्त्रालयको कार्यक्षेत्रमा तोकिएको छ।"
+  },
+  {
+    "id": 35,
+    "q": "When a column is subjected to an eccentric load, the stress included in the column will be",
+    "o": [
+      "Direct stress only",
+      "Bending stress only",
+      "Shear stress only",
+      "Direct and bending stress both"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "The maximum stress used in the analysis of bending beyond elastic limitis",
+    "o": [
+      "Ultimate stress",
+      "Allowable stress",
+      "yield stress",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "Design of R.C.C. simply supported beams carrying U.D.L. is based on the resultant B.M. at",
+    "o": [
+      "supports",
+      "mid span",
+      "every section",
+      "quarter span"
+    ],
+    "a": 1,
+    "e": "[attachment_1](attachment)"
+  },
+  {
+    "id": 38,
+    "q": "The 'fix' of a plane table station with three known points, is bad if the plane table station lies",
+    "o": [
+      "in the great triangle",
+      "outside the great triangle",
+      "on the circumference of the circumscribing circle",
+      "none of these"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "In chain surveying field work is limited to",
+    "o": [
+      "linear measurements only",
+      "angular measurements only",
+      "both linear and angular measurements",
+      "all the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "One of the tacheometric constants is additive and the other constant, is",
+    "o": [
+      "subtractive constant",
+      "multiplying constant",
+      "dividing constant",
+      "indicative constant."
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "Which of the following has more fire resisting characteristics?",
+    "o": [
+      "Marble",
+      "Limestone",
+      "Compact sandstone",
+      "Granite"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "Geologic cycle for the formation of soil, is",
+    "o": [
+      "Upheavel → transportation →deposition → weathering",
+      "Weathering →upheaval→ transportation → deposition",
+      "Transportation → upheaval →weathering→ deposition",
+      "Weathering → transportation → deposition → upheaval"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "Back fill with a sloping surface exerts a total active pressure Pa on the wall of height H and acts at",
+    "o": [
+      "H/4 above the base parallel to base",
+      "H/2 above the base parallel to base",
+      "H/3 above the base parallel to base",
+      "H/4 above the base parallel to base"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "Factor of safety against sliding of a slope, is the ratio of",
+    "o": [
+      "actual cohesion to that required to maintain stability of slope",
+      "shear strength to shear stress along the surface",
+      "neither (a) nor (b)",
+      "both (a) and (b)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 45,
+    "q": "A pitot tube is used to measure",
+    "o": [
+      "pressure",
+      "difference in pressure",
+      "velocity of flow",
+      "none of these."
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "Weber number is the ratio of inertia force to",
+    "o": [
+      "surface tension",
+      "gravitational force",
+      "elasticity",
+      "viscosity."
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "An orifice is called a large orifice if water head, is",
+    "o": [
+      "twice the diameter of the orifice",
+      "thrice the diameter of the orifice",
+      "four times the diameter of the orifice",
+      "five times the diameter of the orifice."
+    ],
+    "a": 3
+  },
+  {
+    "id": 48,
+    "q": "Early attainment of strength in rapid hardening cement is mainly due to",
+    "o": [
+      "Gypsum",
+      "Finer grinding",
+      "Tri-calcium silicates",
+      "Tri-calcium Aluminate"
+    ],
+    "a": 1
+  },
+  {
+    "id": 49,
+    "q": "Which of the following phenomena is primarily caused by the excess presence of Nitrogen and Phosphorus in water bodies?",
+    "o": [
+      "Biomagnification",
+      "Eutrophication",
+      "Sedimentation",
+      "Bioaccumulation"
+    ],
+    "a": 1,
+    "e": "Eutrophication: This is the excessive growth of algae (algal blooms) caused by nutrient enrichment (Nitrogen & Phosphorus) from agricultural runoff or sewage. It depletes Dissolved Oxygen (DO), killing aquatic life. [attachment_2](attachment)"
+  },
+  {
+    "id": 50,
+    "q": "Which method of solid waste disposal is considered most suitable for hazardous hospital waste (e.g., used syringes, bandages)?",
+    "o": [
+      "Composting",
+      "Sanitary Landfilling",
+      "Incineration",
+      "Open Dumping"
+    ],
+    "a": 2,
+    "e": "Incineration: Burning waste at very high temperatures reduces the volume by 90-95% and, most importantly, kills pathogens and destroys hazardous chemicals. [attachment_3](attachment)"
+  }
+]

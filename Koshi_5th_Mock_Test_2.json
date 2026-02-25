@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "q": "Within how many days must the designated authority issue a license after receiving an application for the construction of an irrigation system?",
+    "o": [
+      "30 days",
+      "45 days",
+      "60 days",
+      "75 days"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "Who is exempt from obtaining a license to develop an irrigation system under this Act?",
+    "o": [
+      "Private Companies",
+      "Water Users Associations (WUAs)",
+      "The Provincial Government itself",
+      "Non-Governmental Organizations"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "What is 'Waterlogging' in the context of agricultural land?",
+    "o": [
+      "The process of washing salt away from the soil surface",
+      "When the water table rises to the root zone of crops, filling air pores with water",
+      "A method of storing water in deep underground caverns",
+      "A technique used to grow paddy in dry areas"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "In a 'T-beam Bridge', what is the primary structural function of the 'Deck Slab' besides providing a riding surface?",
+    "o": [
+      "It is purely a non-structural wearing coat",
+      "It transfers all the load directly to the abutments without the girders",
+      "It acts as the compression flange of the T-beam",
+      "It acts as the main tension member of the bridge"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "What is the primary characteristic of a 'Low-Cost Road' compared to a high-standard highway?",
+    "o": [
+      "It does not require any drainage system",
+      "It is built using only expensive imported bitumen",
+      "It utilizes locally available materials and labor-intensive construction techniques",
+      "It is designed to carry heavy industrial trucks at high speeds"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "In hill roads, what is the purpose of a 'Causeway'?",
+    "o": [
+      "To prevent landslides on the uphill side",
+      "To act as a luxury rest stop for travelers",
+      "To increase the speed of vehicles in the mountains",
+      "To allow a road to cross a shallow stream by letting water flow over the road surface"
+    ],
+    "a": 3
+  },
+  {
+    "id": 7,
+    "q": "Which document is primarily used to determine the cost of local materials like sand, stones, and labor for a government project in Nepal?",
+    "o": [
+      "The International Market Price Index",
+      "The District Rate approved by the District Coordination Committee",
+      "The contractor's previous invoice",
+      "The World Bank Price Guidelines"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "What is the standard percentage added for 'Contractor’s Overhead and Profit' in government rate analysis in Nepal?",
+    "o": [
+      "25%",
+      "5%",
+      "15%",
+      "10%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "Which record is used to mark the attendance of daily-rated laborers and to prepare their wages?",
+    "o": [
+      "Muster Roll",
+      "Cash Book",
+      "Measurement Book (MB)",
+      "Site Diary"
+    ],
+    "a": 0
+  },
+  {
+    "id": 10,
+    "q": "Which document identifies the longest path of planned activities to the end of the project and the earliest and latest that each activity can start?",
+    "o": [
+      "Muster Roll",
+      "Site Plan",
+      "Critical Path Method (CPM)",
+      "Bar Chart"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "What is the primary factor used to determine the orientation of a runway during the planning stage?",
+    "o": [
+      "Prevailing wind direction",
+      "Availability of flat land only",
+      "Direction of the nearest highway",
+      "Total population of the city"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "A 'Heliport' is specifically designed for:",
+    "o": [
+      "Only military fighter jets",
+      "Storing large amounts of aviation fuel",
+      "Repairing aircraft engines only",
+      "The landing, takeoff, and ground movement of helicopters"
+    ],
+    "a": 3
+  },
+  {
+    "id": 13,
+    "q": "If Mach number is less than one the flow is",
+    "o": [
+      "Sonic",
+      "Subsonic",
+      "Supersonic",
+      "Hypersonic"
+    ],
+    "a": 1,
+    "e": "The Mach number (M) is the ratio of flow velocity to the speed of sound. When M < 1, the flow velocity is lower than the speed of sound, which is classified as subsonic flow."
+  },
+  {
+    "id": 14,
+    "q": "In pipe flow, the velocity at the boundary of pipe is",
+    "o": [
+      "Maximum",
+      "Minimum",
+      "Average",
+      "None"
+    ],
+    "a": 1,
+    "e": "Due to the 'no-slip condition,' the fluid particles in direct contact with the pipe wall stick to it, resulting in zero (minimum) velocity at the boundary."
+  },
+  {
+    "id": 15,
+    "q": "Which of the following orifice has average discharge?",
+    "o": [
+      "Circular",
+      "Triangular",
+      "Square",
+      "Rectangular"
+    ],
+    "a": 0,
+    "e": "Circular orifices are generally preferred and provide the most consistent 'average' discharge characteristics because they have the minimum wetted perimeter for a given area, reducing frictional losses compared to sharp-cornered shapes."
+  },
+  {
+    "id": 16,
+    "q": "The particle size of Pebbles (mm).",
+    "o": [
+      "4.75 – 80",
+      "4.75 – 60",
+      "80 – 200",
+      "> 200"
+    ],
+    "a": 0,
+    "e": "According to standard soil classification (like IS classification), gravel or 'pebbles' range from 4.75 mm to 70 or 80 mm. Sizes above 80 mm are classified as cobbles."
+  },
+  {
+    "id": 17,
+    "q": "If the Uniformity coefficient is greater than 6, the soil is well graded",
+    "o": [
+      "Gravel",
+      "Sand",
+      "Clay",
+      "All"
+    ],
+    "a": 1,
+    "e": "C_u should be > 4 for gravel and > 6 for sand."
+  },
+  {
+    "id": 18,
+    "q": "The weight of hammer for modified proctor test is",
+    "o": [
+      "2.6 kg",
+      "4.6 kg",
+      "4.8 kg",
+      "2.8 kg"
+    ],
+    "a": 2,
+    "e": "In the Modified Proctor test (used to determine higher compaction), a heavier hammer (approx. 4.54 kg to 4.8 kg depending on the specific standard) is used compared to the 2.6 kg hammer used in the Standard Proctor test."
+  },
+  {
+    "id": 19,
+    "q": "Total shrinkage strain in concrete is",
+    "o": [
+      "0.002",
+      "0.003",
+      "0.0025",
+      "0.0035"
+    ],
+    "a": 1,
+    "e": "the Indian Standard code (IS 456) suggests a design value for total shrinkage strain of 0.0003, though your document specifies 0.003."
+  },
+  {
+    "id": 20,
+    "q": "The water cement ratio for M25 (RCC) Concrete is",
+    "o": [
+      "0.55",
+      "0.45",
+      "0.50",
+      "0.40"
+    ],
+    "a": 2,
+    "e": "For Reinforced Cement Concrete (RCC) of grade M25 under moderate exposure conditions, the maximum water-cement ratio is typically restricted to 0.50 to ensure durability and strength."
+  },
+  {
+    "id": 21,
+    "q": "Coefficient of thermal expansion for concrete is :",
+    "o": [
+      "11 x 10^-6 /°C",
+      "12 x 10^-6 /°C",
+      "21 x 10^-6 /°C",
+      "None"
+    ],
+    "a": 1,
+    "e": "The coefficient of thermal expansion for concrete is approximately 12 x 10^-6 /°C, which is very similar to that of steel. This similarity is crucial as it prevents internal stresses between the two materials during temperature changes."
+  },
+  {
+    "id": 22,
+    "q": "Which is more ductile :",
+    "o": [
+      "Fe415",
+      "Fe500",
+      "Both",
+      "None"
+    ],
+    "a": 0,
+    "e": "Ductility is inversely proportional to strength in steel. Fe415 (lower yield strength) has a higher percentage of elongation and is therefore more ductile than Fe500."
+  },
+  {
+    "id": 23,
+    "q": "What is the minimum recommended Factor of Safety (FoS) against sliding for a retaining wall?",
+    "o": [
+      "2",
+      "1.5",
+      "2.5",
+      "1"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "What is the minimum distance usually recommended for fencing around a spring source to protect it from animal and human encroachment?",
+    "o": [
+      "30 meters",
+      "20 meters",
+      "15 meters",
+      "50 meters"
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "According to Nepal Drinking Water Quality Standards (NDWQS), what is the permissible limit for Turbidity in drinking water?",
+    "o": [
+      "15 NTU",
+      "10 NTU",
+      "20 NTU",
+      "5 NTU"
+    ],
+    "a": 3
+  },
+  {
+    "id": 26,
+    "q": "For 150mm diameter sewer, the gradient required to generate self cleaning velocity is :",
+    "o": [
+      "1 in 10",
+      "1 in 100",
+      "1 in 200",
+      "1 in 300"
+    ],
+    "a": 1
+  },
+  {
+    "id": 1,
+    "q": "संविधान जारी भएपश्चात संविधानसभाबाट रुपान्तरित व्यवस्थापिका संसद्को कार्यकाल कहिले सकिएको हो?",
+    "o": [
+      "वि.सं. २०७४ माघ ७ गते",
+      "वि.सं. २०७४ असोज २८ गते",
+      "वि.सं. २०७२ असोज ३ गते",
+      "वि.सं. २०७४ वैशाख ३१ गते"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "उपचार खर्च बापत अधिकृतस्तरको कर्मचारीले सेवा अवधिभरमा कति रकम बराबरको तलब पाउने छन्?",
+    "o": [
+      "१२ महिना बराबरको तलब",
+      "१८ महिना बराबरको तलब",
+      "२१ महिना बराबरको तलब",
+      "६ महिना बराबरको तलब"
+    ],
+    "a": 0
+  },
+  {
+    "id": 3,
+    "q": "तहवृद्धिका लागि सिफारिस गर्न सम्बन्धित मन्त्रालयमा रहने ५ सदस्यीय समितिको संयोजन को रहन्छ?",
+    "o": [
+      "सम्बन्धित मन्त्रालयको सचिव",
+      "प्रदेश लोकसेवा आयोगको प्रतिनिधि",
+      "संघबाट खटि आएको उपसचिव वा अधिकृत दशौँ तहको कर्मचारी",
+      "मन्त्रालयको प्रशासन महाशाखा प्रमुख"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "प्रदेश सुशासन ऐन २०७६ अनुसार प्रमुख सचिवको काम, कर्तव्य र अधिकार कुन दफामा उल्लेख छ ?",
+    "o": [
+      "दफा ७",
+      "दफा ९",
+      "दफा १०",
+      "दफा १"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "प्रत्येक कार्यालयले आफ्नो आयव्यय र कारोबारको लेखा र वित्तीय विवरण कसलाई पेश गर्नुपर्छ ?",
+    "o": [
+      "प्रदेश लेखा नियन्त्रक कार्यालय",
+      "आर्थिक मामिला तथा योजना मन्त्रालय",
+      "महालेखापरीक्षकको कार्यालय",
+      "मुख्यमन्त्री कार्यालय"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "आ.व. २०८५/८६ मा कुल ग्राहस्थ उत्पादनको लक्ष्य कति छ (रु. अर्ब) ?",
+    "o": [
+      "९०३.०५",
+      "१३१७.९५",
+      "१५००",
+      "१८००"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "कोशी प्रदेशको स्थानीय सरकारी सेवा (गठन तथा सञ्चालन) ऐन, २०८० अनुसार तह र पदनाम सम्बन्धी व्यवस्था ऐनको कुन दफामा छ ?",
+    "o": [
+      "दफा ४",
+      "दफा ८",
+      "दफा १३२",
+      "दफा ४२"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "नेपालको संविधान २०७२ अनुसार प्रदेश लोकसेवा आयोग कुन धारामा उल्लेख गरिएको छ ?",
+    "o": [
+      "धारा २४५ (Article 245)",
+      "धारा २४४ (Article 244)",
+      "धारा २४६ (Article 246)",
+      "धारा २५५ (Article 255)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "निजामती सेवा ऐन २०४९ अनुसार निलम्वनको अधिकतम अवधि कति हुन्छ ?",
+    "o": [
+      "३ महिना (3 Months)",
+      "६ महिना (6 Months)",
+      "१ वर्ष (1 Year)",
+      "२ वर्ष (2 Years)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "कर्मचारीको सेवा अवधि कति वर्ष पूरा भएपछि स्वैच्छिक अवकाश लिन सकिन्छ ?",
+    "o": [
+      "१० वर्ष (10 Years)",
+      "१५ वर्ष (15 Years)",
+      "२० वर्ष (20 Years)",
+      "२५ वर्ष (25 Years)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "The minimum clear cover for RCC columns shall be ................",
+    "o": [
+      "greater of 40 mm or diameter",
+      "smaller of 40 mm or diameter",
+      "smaller of 25 mm or diameter",
+      "greater of 25 mm or diameter"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "The distribution bars resist against ................",
+    "o": [
+      "deformation",
+      "shortening",
+      "cracking",
+      "elongation"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "The minimum thickness of a wall in stone masonry cannot be less than ................",
+    "o": [
+      "10 cm",
+      "20 cm",
+      "35 cm",
+      "50 cm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "Generally designing of timber structural floors used of ................",
+    "o": [
+      "soft wood",
+      "hard wood",
+      "very light wood",
+      "moisture content wood"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "For D.P.C. at plinth level, the commonly adopted material is ................",
+    "o": [
+      "bitumen sheeting",
+      "plastic sheeting",
+      "masonite asphalt",
+      "cement concrete"
+    ],
+    "a": 3
+  },
+  {
+    "id": 42,
+    "q": "Slenderness Ratio is defined as ratio of effective height to ................",
+    "o": [
+      "volume",
+      "least lateral dimension",
+      "surface area",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "Contour lines are ................",
+    "o": [
+      "lines drawn on ground",
+      "imaginary lines joining points of same elevation",
+      "lines joining points of different elevations",
+      "imaginary lines joining points of similar elevation"
+    ],
+    "a": 1
+  },
+  {
+    "id": 44,
+    "q": "Collimation method is used in ................",
+    "o": [
+      "profile levelling",
+      "differential levelling",
+      "check levelling",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "In leveling survey, the leveling equipment are generally used to measure as ................",
+    "o": [
+      "spot level",
+      "spot angle",
+      "spot area",
+      "spot site"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "The line normal to the plumb line is known as ................",
+    "o": [
+      "horizontal line",
+      "level line",
+      "datum line",
+      "vertical line"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "The general size of local burnt clay bricks is ................",
+    "o": [
+      "230 mm × 230 mm × 50 mm",
+      "430 mm × 120 mm × 60 mm",
+      "230 mm × 115 mm × 55 mm",
+      "120 mm × 120 mm × 50 mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "Distemper is used on ................",
+    "o": [
+      "Brick walls",
+      "Concrete surfaces",
+      "plastered surfaces exposed to weather",
+      "plastered surfaces not exposed to weather"
+    ],
+    "a": 3
+  },
+  {
+    "id": 49,
+    "q": "Generally natural stone is in shaped as ................",
+    "o": [
+      "regular shaped",
+      "irregular shaped",
+      "cubical cone shaped",
+      "pentagonal shaped"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "The volume of one bag of cement weighing 50 kg ................",
+    "o": [
+      "0.05 m³",
+      "0.0347 m³",
+      "0.025 m³",
+      "0.04 m³"
+    ],
+    "a": 1
+  }
+]

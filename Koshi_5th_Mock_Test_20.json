@@ -1,0 +1,565 @@
+[
+  {
+    "id": 1,
+    "q": "The length of runway is increased per 300 m rise above M.S.L. ...",
+    "o": [
+      "4%",
+      "5%",
+      "6%",
+      "7%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "Maximum gross take-off weight of an aircraft is ...",
+    "o": [
+      "equal to the maximum structural landing weight",
+      "less than the maximum structural landing weight",
+      "more than the maximum structural landing weight",
+      "equal to the empty operating weight plus the payload"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "Which of the following is not another name of Hoe?",
+    "o": [
+      "backhoe",
+      "back-shovel",
+      "pull shovel",
+      "trenching machine"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "Milestone chart is an improvement over ............",
+    "o": [
+      "Bar chart",
+      "P.E.R.T.",
+      "C.P.M.",
+      "All of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 5,
+    "q": "In time-cost optimization of a project, crashing is done ............",
+    "o": [
+      "on all the activities",
+      "on all the activities lying on the critical path",
+      "only on activities lying on the original critical path and having flatter cost slopes",
+      "on original critical activities and those that become critical at any stage of crashing in the order of ascending cost slope"
+    ],
+    "a": 3
+  },
+  {
+    "id": 6,
+    "q": "In a Flow Net, the flow lines and equipotential lines always intersect at:",
+    "o": [
+      "Acute angles",
+      "Obtuse angles",
+      "Right angles",
+      "Angles depending on the soil permeability"
+    ],
+    "a": 2,
+    "e": "This is a fundamental property of potential flow. The drop in head (potential) occurs perpendicular to the direction of flow. If they didn't cross at 90⁰, there would be a component of flow along the equipotential line, which is impossible. "
+  },
+  {
+    "id": 7,
+    "q": "The \"Vane Shear Test\" is specifically recommended for determining the shear strength of:",
+    "o": [
+      "Stiff fissured clays",
+      "Dense sands",
+      "Soft, sensitive marine clays",
+      "Gravelly soils"
+    ],
+    "a": 2,
+    "e": "Soft clays are very sensitive to disturbance. Sampling them for a Triaxial test often destroys their structure. The Vane Shear test is done in-situ (on-site) to get the undisturbed strength, which is critical for stability analysis. "
+  },
+  {
+    "id": 8,
+    "q": "When the water table rises above the ground surface (flooding condition), the Effective Stress in the soil at a depth 'z':",
+    "o": [
+      "Increases linearly",
+      "Decreases linearly",
+      "Remains unchanged",
+      "Becomes zero"
+    ],
+    "a": 2,
+    "e": "Deep Concept: Effective stress = Total Stress - Pore Water Pressure. When water rises above ground, both Total Stress and Pore Pressure increase by the same amount. They cancel out. Therefore, effective stress (which governs strength) does not change due to surface flooding."
+  },
+  {
+    "id": 9,
+    "q": "A soil sample is considered \"Well Graded\" if:",
+    "o": [
+      "It has a Uniformity Coefficient (C_u) close to 1",
+      "It contains particles of all sizes in good proportions",
+      "It contains particles of only one specific size",
+      "It has a high Void Ratio"
+    ],
+    "a": 1,
+    "e": "\"Well graded\" means the smaller particles fill the voids between larger particles, leading to a dense, strong soil. (C_u > 4 for gravel, > 6 for sand). A soil with only one size (Option C) is \"Uniformly Graded\" (which is actually poorly graded for strength). "
+  },
+  {
+    "id": 10,
+    "q": "In \"Under-Reamed Piles\", the bulb (enlarged base) is provided mainly to:",
+    "o": [
+      "Increase the end-bearing area",
+      "Resist uplift forces in Black Cotton Soil",
+      "Reduce the settlement of the pile",
+      "Decrease the skin friction"
+    ],
+    "a": 1,
+    "e": "While it does increase bearing, the primary reason for using under-reamed piles in expansive soils is to anchor the pile deep in the stable zone so it isn't pulled out when the surface soil swells (heaves) upwards. "
+  },
+  {
+    "id": 11,
+    "q": "\"Creep\" in concrete structures is the:",
+    "o": [
+      "Immediate elastic deformation under load",
+      "Time-dependent deformation under sustained constant load",
+      "Shrinkage due to loss of moisture",
+      "Thermal expansion due to heat of hydration"
+    ],
+    "a": 1,
+    "e": "Concrete continues to deform slowly over years under its own weight or permanent loads. This \"plastic flow\" or creep can cause redistribution of stresses and must be accounted for in design, distinct from immediate elastic strain."
+  },
+  {
+    "id": 12,
+    "q": "Which defect in timber is caused by the crushing of fibers due to the felling of the tree?",
+    "o": [
+      "Shakes",
+      "Knots",
+      "Upsets",
+      "Rind galls"
+    ],
+    "a": 2,
+    "e": "\"Upsets\" are traumatic injuries to the wood fibers caused by severe shock or compression (like dropping the tree during felling). Knots are branch bases; Shakes are cracks. "
+  },
+  {
+    "id": 13,
+    "q": "The \"Slenderness Ratio\" of a masonry wall determines its:",
+    "o": [
+      "Tensile strength",
+      "Compressive strength",
+      "Permissibility to carry vertical loads without buckling",
+      "Resistance to dampness"
+    ],
+    "a": 2,
+    "e": "If a wall is too tall and thin (high slenderness ratio), it will fail by buckling (bending sideways) long before the material crushes. Codes limit this ratio to ensure stability. "
+  },
+  {
+    "id": 14,
+    "q": "For maximum discharge through a circular channel (like a sewer pipe), the depth of flow should be:",
+    "o": [
+      "Full depth (D)",
+      "Half depth (0.5 D)",
+      "Approximately 0.95 D",
+      "Approximately 0.81 D"
+    ],
+    "a": 2,
+    "e": "Counter-intuitive fact: Friction from the top surface of the pipe (wetted perimeter) slows the flow when full. The maximum velocity occurs at 0.81 D, and maximum discharge occurs at approx 0.95 D, not when full. "
+  },
+  {
+    "id": 15,
+    "q": "\"Cavitation\" in a centrifugal pump or siphon occurs when the absolute pressure at any point:",
+    "o": [
+      "Exceeds the atmospheric pressure",
+      "Falls below the vapor pressure of the liquid",
+      "Becomes equal to the atmospheric pressure",
+      "Is zero"
+    ],
+    "a": 1,
+    "e": "When pressure drops below the liquid's vapor pressure, the liquid boils at room temperature, forming vapor bubbles. When these bubbles move to high-pressure zones, they collapse (implode) violently, pitting the metal surface. "
+  },
+  {
+    "id": 16,
+    "q": "The \"Hydraulic Gradient Line\" (HGL) represents the sum of:",
+    "o": [
+      "Pressure Head + Velocity Head",
+      "Pressure Head + Datum Head",
+      "Velocity Head + Datum Head",
+      "Pressure Head + Velocity Head + Datum Head"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "\"Breakpoint Chlorination\" is the point where:",
+    "o": [
+      "Chlorine demand is completely satisfied, and residual chlorine begins to appear",
+      "Chlorine is added to remove bad taste",
+      "Chlorine is added to remove iron and manganese",
+      "The breakdown of pumps occurs due to chlorine corrosion"
+    ],
+    "a": 0,
+    "e": "When you add chlorine, it first reacts with organics and ammonia (forming chloramines). Only after this demand is met (the \"breakpoint\") does free residual chlorine appear to protect the water from future contamination. "
+  },
+  {
+    "id": 18,
+    "q": "In a Combined Sewer System (carrying both sewage and storm water), the \"Egg-Shaped\" sewer section is preferred over a circular section because:",
+    "o": [
+      "It is easier to construct",
+      "It provides a higher self-cleansing velocity during low (dry weather) flow",
+      "It has a larger cross-sectional area",
+      "It resists external earth pressure better"
+    ],
+    "a": 1,
+    "e": "In dry weather, flow is very low. A wide circular bottom would spread this water thin, causing solids to settle. The narrow bottom of an egg-shape keeps the depth higher and velocity faster, ensuring the sewer stays clean even with low flow. "
+  },
+  {
+    "id": 19,
+    "q": "A \"Reflux Valve\" (or Check Valve) is used in a pipeline to:",
+    "o": [
+      "Regulate the flow",
+      "Allow flow in one direction only",
+      "Release excessive pressure",
+      "Drain the pipeline"
+    ],
+    "a": 1,
+    "e": "This is critical on the delivery side of a pump. When the pump stops, the water in the rising main tries to rush back. The Reflux Valve slams shut to prevent this backflow, which could damage the pump impeller. [attachment_1](attachment)"
+  },
+  {
+    "id": 20,
+    "q": "In differential levelling, collimation error can be eliminated by .........",
+    "o": [
+      "changing instrument",
+      "taking intermediate sights",
+      "taking staff observation between 0.6 m to 2 m",
+      "balancing of sights"
+    ],
+    "a": 3
+  },
+  {
+    "id": 21,
+    "q": "The main principle of surveying is to work form...........",
+    "o": [
+      "the center to the boundary",
+      "the whole to the part",
+      "the part to the whole",
+      "higher to lower level"
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "\"Fiducial edge\" is the working edge of.......... ",
+    "o": [
+      "plumbing fork",
+      "alidade",
+      "thetadite",
+      "working edge"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "When it is not possible to set up the level, midway between the two points, then the difference in elevation between them is measured by ",
+    "o": [
+      "Fly levelling",
+      "precise levelling",
+      "differential levelling",
+      "reciprocal levelling"
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "A heavy stone is suitable for.......",
+    "o": [
+      "arches",
+      "rubble masonry",
+      "retaining walls",
+      "footings"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "Which of the following is a mineral?",
+    "o": [
+      "Basalt",
+      "Granite",
+      "Quartz",
+      "Syenite"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "In order to dry the quarry sap of a freshly quarried stone, it should be exposed to open air for a period of",
+    "o": [
+      "1 month",
+      "6 to 12 months",
+      "3 months",
+      "24 months"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "OPC cement means.......",
+    "o": [
+      "optimum portland cement",
+      "ordinary portland cement",
+      "one timeportland cement",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "RCC section where the steel and concrete both reaches their maximum permissible value of stresses at the same time is",
+    "o": [
+      "under reinforced section",
+      "balanced section",
+      "over reinforced section",
+      "all of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "Doubly reinforced RCC beam is provided with ",
+    "o": [
+      "reinforcement in compression zone only",
+      "double amount of reinforcement",
+      "reinforcement in compression zone as well as in tension zone",
+      "reinforcement in tension zone only"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "The diameter of longitudinal bars of column should never be less than",
+    "o": [
+      "6 mm",
+      "8 mm",
+      "12 mm",
+      "16 mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "Modulus of rigidity is defined as the ratio of.....",
+    "o": [
+      "longitudinal stress to longitudinal strain",
+      "volumetric stress to volumetric strain",
+      "lateral stress to lateral strain",
+      "shear stress to shear strain"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "A simply supported beam carries two equal concentrated loads W at distance L/3 from either support. The maximum bending moment is ",
+    "o": [
+      "(WL)/3",
+      "(5WL)/8",
+      "2/(5WL)",
+      "(WL)/4"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "सुशासन कायम गर्ने मुख्य निकाय कुन हो ?",
+    "o": [
+      "स्थानीय सरकार",
+      "प्रदेश सेवा आयोग",
+      "मुख्यमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+      "राष्ट्रिय योजना आयोग"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "\"बेरुजु\" भन्नाले के जनाउँछ ?",
+    "o": [
+      "ढिलो भएको भुक्तानी",
+      "लेखा परीक्षण नपरेको खर्च",
+      "नियम विपरीत वा अनियमित खर्च",
+      "बचत भएको रकम"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "\"विनियोजन\" भन्नाले के जनाउँछ ?",
+    "o": [
+      "कानुनअनुसार खर्च गर्न छुट्याइएको रकम",
+      "बाँकी रहेको रकम",
+      "दाखिला रकम",
+      "बचत गरिएको रकम"
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "बेरुजु फछ्यौट गर्ने पहिलो जिम्मेवारी कसको हो ?",
+    "o": [
+      "लेखापरीक्षकको",
+      "कार्यालय प्रमुखको",
+      "जिम्मेवार व्यक्ति तथा आर्थिक कारोबारमा संलग्न पदाधिकारीको",
+      "अर्थ सचिवको"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "कोशी प्रदेशको नियमावलीको नाम के हो ?",
+    "o": [
+      "प्रदेश निजामती सेवा नियमहरू, २०८०",
+      "प्रदेश निजामती सेवा नियमावली, २०८१",
+      "प्रदेश निजामती सेवा ऐन, २०७९",
+      "प्रदेश निजामती सेवा ऐन, २०८१"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "अस्थायी दरबन्दीमा कसलाई कामकाज गराउनुपर्छ ?",
+    "o": [
+      "करारका कर्मचारी",
+      "प्रदेश निजामती सेवाका स्थायी कर्मचारी",
+      "दैनिक ज्यालादारीका कर्मचारी",
+      "प्रदेश लोक सेवा आयोगका कर्मचारी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "प्रदेश लोकसेवा आयोग ऐन २०७६, सदस्यको पारिश्रमिक तथा अन्य सुविधा कुन अनुसूचीमा उल्लेख गरेको छ ?",
+    "o": [
+      "अनुसूची १",
+      "अनुसूची २",
+      "अनुसूची ३",
+      "अनुसूची ४"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "कुन अवस्थामा सदस्य पदमुक्त हुन्छन् ?",
+    "o": [
+      "राजीनामा",
+      "कार्यकाल समाप्त",
+      "असक्षमता",
+      "माथिका सबै"
+    ],
+    "a": 3
+  },
+  {
+    "id": 41,
+    "q": "आयोगको निर्णयमा मत बराबरी भएमा निर्णय कसले गर्छ ?",
+    "o": [
+      "मुख्य सचिव",
+      "वरिष्ठ सदस्य",
+      "अध्यक्ष",
+      "प्रदेश प्रमुख"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "सहायक चौथो तहको लागि न्यूनतम शैक्षिक योग्यता कति हो ?",
+    "o": [
+      "+२ पास",
+      "स्नातक",
+      "SLC/SEE पास",
+      "डिप्लोमा पास"
+    ],
+    "a": 2
+  },
+  {
+    "id": 43,
+    "q": "The design capacity is also known as ............",
+    "o": [
+      "basic capacity",
+      "theoretical capacity",
+      "practical capacity",
+      "possible capacity"
+    ],
+    "a": 2
+  },
+  {
+    "id": 44,
+    "q": "The average number of vehicles per day passing on a section of the road during a particular year, is called ............",
+    "o": [
+      "peak hour traffic",
+      "average daily traffic",
+      "design hourly volume",
+      "any one of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 45,
+    "q": "Longitudinal joints in concrete pavements ............",
+    "o": [
+      "divide the pavement into lanes",
+      "take care of the unequal settlement of the sub-grade",
+      "help in laying out concrete in convenient widths",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "The unit of measurement of electric wire ............",
+    "o": [
+      "m³",
+      "kg",
+      "per m",
+      "m²"
+    ],
+    "a": 2
+  },
+  {
+    "id": 47,
+    "q": "Whenever colour washing on A.C. corrugated sheets is done, in the estimation the plan area of the sheets is increased by ............ ",
+    "o": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 48,
+    "q": "A water-logged land is found suitable for cultivation due to...",
+    "o": [
+      "ease of tillage for preparation of the field for optimum condition of germination",
+      "absence of aeration of soil from root zone of the plant",
+      "regular supply of water to plants from the water table by capillary action",
+      "none of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 49,
+    "q": "A minimum of 90 cm free board is provided if the discharge in the canal is between...",
+    "o": [
+      "30 to 33 cumec",
+      "30 to 60 cumec",
+      "over 60 cumec",
+      "over 100 cumec"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "The saturation line is the line up to which banks get saturated after the canal runs for some time. The saturation gradient in ordinary loam soil, is generally... ",
+    "o": [
+      "2:1",
+      "3:1",
+      "4:1",
+      "5:1"
+    ],
+    "a": 2
+  }
+]

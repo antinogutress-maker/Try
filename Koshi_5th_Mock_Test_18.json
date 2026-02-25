@@ -1,0 +1,565 @@
+[
+  {
+    "id": 1,
+    "q": "For a given discharge, the most economical rectangular channel section is one where the hydraulic radius (R) is equal to:",
+    "o": [
+      "Half the depth of flow (d/2)",
+      "Twice the depth of flow (2d)",
+      "Equal to the width of the channel (b)",
+      "Half the width of the channel (b/2)"
+    ],
+    "a": 0,
+    "e": "A section is \"most economical\" when it has the minimum wetted perimeter for a given area, allowing maximum discharge."
+  },
+  {
+    "id": 2,
+    "q": "In a Venturi meter, the angle of the diverging cone is kept small 5⁰ to 7⁰ primarily to:",
+    "o": [
+      "Reduce the overall length of the meter",
+      "Avoid the possibility of flow separation and energy loss",
+      "Increase the velocity of flow",
+      "Minimize the cost of manufacturing"
+    ],
+    "a": 1,
+    "e": "While the converging part can have a larger angle, the diverging part must be gradual. If the angle is too steep, the fluid cannot follow the boundary, leading to eddies, flow separation, and significant head loss, which would reduce the coefficient of discharge (C_d)."
+  },
+  {
+    "id": 3,
+    "q": "If the dynamic viscosity of a fluid is 0.5 poise and its specific gravity is 0.5, what is its kinematic viscosity in stokes?",
+    "o": [
+      "0.25",
+      "0.50",
+      "1.0",
+      "2.0"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "In a three-phase soil system, if the void ratio is e, the porosity n is given by the relation:",
+    "o": [
+      "n = e / {1-e}",
+      "n = e / {1+e}",
+      "n = e / (1+e)",
+      "n = {1+e} / {e}"
+    ],
+    "a": 1,
+    "e": "Porosity is the ratio of void volume to total volume, while void ratio is the ratio of void volume to solid volume. This mathematical derivation is a fundamental building block for all weight-volume relationships in soil mechanics."
+  },
+  {
+    "id": 5,
+    "q": "According to Terzaghi’s principle, the effective stress (\\sigma') is defined as:",
+    "o": [
+      "Total stress + Pore water pressure",
+      "Total stress - Pore water pressure",
+      "Neutral stress - Total stress",
+      "Sum of all inter-granular pressures only"
+    ],
+    "a": 1,
+    "e": "Total stress is carried by both the soil skeleton and the water in the pores. Effective stress is the stress actually transmitted through grain-to-grain contact and is responsible for the shear strength and compression of the soil."
+  },
+  {
+    "id": 6,
+    "q": "The condition \"Quick Sand\" occurs when the critical hydraulic gradient (i_c) is reached. This is mathematically expressed as:",
+    "o": [
+      "i_c = {G-1} / {1+e}",
+      "i_c = {G+1} / {1-e}",
+      "i_c = {1+e} / {G-1}",
+      "i_c = (G-1) / (1+e)"
+    ],
+    "a": 0,
+    "e": "Quick sand is not a type of sand, but a hydraulic condition where upward seepage pressure equals the submerged weight of the soil, causing effective stress to become zero. At this point, the soil loses all shear strength."
+  },
+  {
+    "id": 7,
+    "q": "For a purely cohesive soil (phi = 0), the Terzaghi bearing capacity factor N_c is:",
+    "o": [
+      "0",
+      "1.0",
+      "5.7",
+      "30"
+    ],
+    "a": 2,
+    "e": "For saturated clays in undrained conditions (phi = 0), the bearing capacity factors are N_c = 5.7, N_q = 1.0, and N_{gamma} = 0. This simplifies the bearing capacity equation significantly for footings on clay."
+  },
+  {
+    "id": 8,
+    "q": "The phenomenon of \"Bulking of Sand\" is primarily caused by:",
+    "o": [
+      "Presence of excess moisture",
+      "Formation of a thin film of water around sand particles due to surface tension",
+      "Capillary action in fine aggregates",
+      "Grading of the sand"
+    ],
+    "a": 1,
+    "e": "Surface tension pushes the sand grains apart, increasing the volume. It is maximum at about 4-5% moisture content. Beyond this, the film breaks and the volume decreases (submerged sand has no bulking)."
+  },
+  {
+    "id": 9,
+    "q": "Which type of bond in brick masonry consists of alternate headers and stretchers in every course?",
+    "o": [
+      "English Bond",
+      "Flemish Bond",
+      "Zig-zag Bond",
+      "Dutch Bond"
+    ],
+    "a": 1,
+    "e": "In English Bond, one course is entirely headers and the next is entirely stretchers. In Flemish Bond, each individual course has headers and stretchers placed alternately. Flemish bond is often considered more aesthetic but slightly weaker than English bond."
+  },
+  {
+    "id": 10,
+    "q": "The vertical member fixed between steps and the handrail in a staircase is known as:",
+    "o": [
+      "Newel post",
+      "Baluster",
+      "Stringer",
+      "Soffit"
+    ],
+    "a": 1,
+    "e": "Balusters are the vertical \"pillars\" supporting the handrail. The Newel post is the larger vertical post at the start or end of a flight."
+  },
+  {
+    "id": 11,
+    "q": "The \"Workability\" of concrete is most commonly measured in the field using the:",
+    "o": [
+      "Vee-Bee consistometer test",
+      "Compacting factor test",
+      "Slump test",
+      "Rebound hammer test"
+    ],
+    "a": 2,
+    "e": "While the Compacting Factor test is more accurate for dry mixes, the Slump test is the standard field test due to its simplicity. The Rebound hammer test is a non-destructive test for strength, not workability."
+  },
+  {
+    "id": 12,
+    "q": "In gravity water supply systems used in the hills of Nepal, a Break Pressure Tank (BPT) is used to:",
+    "o": [
+      "Store water for peak demand",
+      "Increase the pressure in the pipeline",
+      "Release the static pressure and maintain it at atmospheric pressure",
+      "Remove suspended solids"
+    ],
+    "a": 2,
+    "e": "In hilly terrain, the elevation difference between the source and the tap can be huge, creating high static pressure that can burst pipes. BPTs break this pressure by exposing the water to the atmosphere, starting a new hydraulic gradient line."
+  },
+  {
+    "id": 13,
+    "q": "The \"Self-Cleaning Velocity\" in a sewer is defined as:",
+    "o": [
+      "The maximum velocity that won't erode the sewer material",
+      "The minimum velocity that prevents silting of particles",
+      "The velocity at which the sewer is half-full",
+      "The velocity during peak flow only"
+    ],
+    "a": 1,
+    "e": "Sewers must be designed so that even at minimum flow, the velocity is high enough (usually 0.6 to 0.9 { m/s}) to wash away any deposited solids."
+  },
+  {
+    "id": 14,
+    "q": "The process of \"Disinfection\" of water is primarily intended to:",
+    "o": [
+      "Remove turbidity",
+      "Kill pathogenic (disease-causing) bacteria",
+      "Remove hardness",
+      "Neutralize the pH"
+    ],
+    "a": 1,
+    "e": "While filtration removes physical impurities, disinfection (usually via Chlorination) is the final safeguard to ensure the water is biologically safe for consumption."
+  },
+  {
+    "id": 15,
+    "q": "In whom is the sovereignty of Nepal vested?",
+    "o": [
+      "President",
+      "Prime Minister",
+      "Nepali People",
+      "Constitution"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "How many schedules are there in the Constitution of Nepal?",
+    "o": [
+      "10",
+      "12",
+      "9",
+      "8"
+    ],
+    "a": 2
+  },
+  {
+    "id": 17,
+    "q": "According to the Constitution of Nepal, what is the minimum age required to become a member of the Province Assembly?",
+    "o": [
+      "18",
+      "21",
+      "25",
+      "30"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "What is the normal tenure of the Province Assembly?",
+    "o": [
+      "3 years",
+      "4 years",
+      "5 years",
+      "6 years"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "According to the Province Civil Service Act, how many days of maternity leave is provided?",
+    "o": [
+      "98 days",
+      "90 days",
+      "105 days",
+      "100 days"
+    ],
+    "a": 0
+  },
+  {
+    "id": 20,
+    "q": "Which body is responsible for the investigation of corruption and irregularities?",
+    "o": [
+      "Human Rights Commission",
+      "Commission for the Investigation of Abuse of Authority (CIAA)",
+      "Judicial Body",
+      "Election Commission"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "In which schedule of the Constitution is the list of Federal Powers (Union List) mentioned?",
+    "o": [
+      "Schedule 5",
+      "Schedule 6",
+      "Schedule 9",
+      "Schedule 8"
+    ],
+    "a": 0
+  },
+  {
+    "id": 22,
+    "q": "What is the maximum number of members in the Province Public Service Commission?",
+    "o": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "What is the population density of Koshi Province?",
+    "o": [
+      "175 per sq. km.",
+      "180 per sq. km.",
+      "192 per sq. km.",
+      "174 per sq. km."
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "Who has the authority to summon the session of the Province Assembly?",
+    "o": [
+      "Chief Minister",
+      "Province Head (Pradesh Pramukh)",
+      "Speaker of Province Assembly",
+      "Council of Ministers"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "The fundamental principle of surveying is to work from the",
+    "o": [
+      "whole to the part",
+      "lower level to higher level",
+      "part to the whole",
+      "higher level to lower level"
+    ],
+    "a": 0
+  },
+  {
+    "id": 26,
+    "q": "The object of surveying is to prepare",
+    "o": [
+      "drawing",
+      "cross section",
+      "map",
+      "detailing"
+    ],
+    "a": 2
+  },
+  {
+    "id": 27,
+    "q": "The diurnal variation of the magnetic needle is",
+    "o": [
+      "greater at equator than nearer the poles",
+      "less at equator than nearer the poles",
+      "less in summer than in winter",
+      "same at all latitudes and during different months."
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "Which of the following methods of theodolite traversing is suitable for locating the details which are from transit stations?",
+    "o": [
+      "Measuring angle and distance from one transit station",
+      "Measuring angles to the point from at least two stations",
+      "Measuring angle at one station and distance from other",
+      "Measuring distance from two points on traverse line"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "Pick up the air entraining agent from the following:",
+    "o": [
+      "Animal fats",
+      "Natural wood resigns",
+      "Alkali salts",
+      "All of above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "Sugar is",
+    "o": [
+      "accelerator for concrete",
+      "retarder for concrete.",
+      "water proofer.",
+      "air entraining agent."
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "The normal consistency of Portland cement is about",
+    "o": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "Vanadium steel is generally used for",
+    "o": [
+      "railway switches and crossing",
+      "Bearing balls",
+      "magnets",
+      "Axles and springs."
+    ],
+    "a": 3
+  },
+  {
+    "id": 33,
+    "q": "The maximum shear stress in a Mohr's circle is,",
+    "o": [
+      "Less than the radius of Mohr's circle.",
+      "greater than the radius of Mohr's circle.",
+      "equal to the radius of Mohr's circle.",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "For ductile materials, the factor of safety is the ratio of yield stress to",
+    "o": [
+      "tenacity",
+      "ultimate stress",
+      "working stress",
+      "shear stress"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "The breadth of a ribbed slab containing two bars must be between",
+    "o": [
+      "6 cm to 7.5 cm",
+      "8 cm to 10 cm",
+      "10 cm to 12 cm",
+      "12 cm to 15 cm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "The minimum thickness of the cover at the end of a reinforcing bar should not be less than twice the diameter of the bar subject to a minimum of",
+    "o": [
+      "10 mm",
+      "15 mm",
+      "20 mm",
+      "25 mm"
+    ],
+    "a": 3
+  },
+  {
+    "id": 37,
+    "q": "What does R.C.C. stand for?",
+    "o": [
+      "Reinforced Cement Concrete",
+      "Reinforced Concrete Cement",
+      "Reinforced Combined Cement",
+      "Reinforced Constituent Cement"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "If the straight sides of a triangular section of a lined canal with circular bottom of radius D, make an angle \\theta with horizontal, the hydraulic mean depth is...",
+    "o": [
+      "D",
+      "D/2",
+      "D/3",
+      "D/4"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "The ratio of the discharge over a trapezoidal crest to a rectangular crest of Sarda falls of identical parameters, is...",
+    "o": [
+      "1.084",
+      "1.074",
+      "1.064",
+      "1.054"
+    ],
+    "a": 0
+  },
+  {
+    "id": 40,
+    "q": "The water face of the guide banks, is protected by...",
+    "o": [
+      "one man stone pitching",
+      "two man stone pitching",
+      "three man stone pitching",
+      "four man stone pitching"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "The depth of reinforcement, below the surface of pavement, is kept as ............",
+    "o": [
+      "25 mm",
+      "50 mm",
+      "75 mm",
+      "100 mm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "Transverse contraction joints relieve ............ stresses in concrete.",
+    "o": [
+      "compressive",
+      "tensile",
+      "shear",
+      "all of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "Weight of the vehicle affects ............",
+    "o": [
+      "passing sight distance",
+      "extra widening",
+      "pavement thickness",
+      "width of lanes"
+    ],
+    "a": 2
+  },
+  {
+    "id": 44,
+    "q": "In the detailed estimate the volumes are worked out to the nearest ............",
+    "o": [
+      "0.001m³",
+      "0.01m³",
+      "0.05m³",
+      "0.005 m³"
+    ],
+    "a": 1
+  },
+  {
+    "id": 45,
+    "q": "The amount of annuity paid for a definite number of years is known as ............",
+    "o": [
+      "deferred annuity",
+      "annuity certain",
+      "annuity due",
+      "perpetual annuity"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "For which of the following materials, the output of power shovels for a fixed shovel size will be maximum ............",
+    "o": [
+      "moist loam",
+      "good common earth",
+      "well blasted rock",
+      "wet sticky clay"
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "Critical path ............",
+    "o": [
+      "is always longest",
+      "is always shortest",
+      "may be longest",
+      "may be shortest"
+    ],
+    "a": 0
+  },
+  {
+    "id": 48,
+    "q": "An activity requires ............",
+    "o": [
+      "events",
+      "resources",
+      "time and resources",
+      "energy"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "The length of clear zone for none instrument runway of a small aircraft is ...",
+    "o": [
+      "150 m",
+      "300 m",
+      "600 m",
+      "750 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "Maximum difference in elevation between the highest and lowest point of the runway divided by the total length of runway is known as ...",
+    "o": [
+      "effective gradient",
+      "longitudinal gradient",
+      "maximum gradient",
+      "minimum gradient"
+    ],
+    "a": 0
+  }
+]

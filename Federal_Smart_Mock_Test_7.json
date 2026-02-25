@@ -1,0 +1,559 @@
+[
+  {
+    "id": 1,
+    "q": "GUI को पूरा रूप के हो?",
+    "o": [
+      "Graphical User Interface",
+      "Global User",
+      "Graphical Universal",
+      "General User"
+    ],
+    "a": 0,
+    "e": "चित्र/आइकन हेरेर चलाउन मिल्ने।"
+  },
+  {
+    "id": 2,
+    "q": "गाउँपालिका वा नगरपालिका आपसमा गाभिएपछि कायम हुने नयाँ नाम, वडा संख्या र केन्द्र तोक्ने अन्तिम निर्णय कसले गर्दछ?",
+    "o": [
+      "प्रदेश सरकारले",
+      "सम्बन्धित गाउँ/नगर सभाले",
+      "नेपाल सरकारले",
+      "निर्वाचन आयोगले"
+    ],
+    "a": 2,
+    "e": "दफा ७ को उपदफा (४) बमोजिम प्रदेश सरकारको सिफारिसको आधारमा नेपाल सरकारले गाभिने निर्णय गरी नाम, वडा संख्या, सिमाना र केन्द्र तोक्नेछ।"
+  },
+  {
+    "id": 3,
+    "q": "नेपालको चालु आवधिक १६औँ योजनाले आर्थिक वर्ष २०८५/८६ सम्म निर्वाचनमा मतदाताको सहभागिता कति प्रतिशत पुर्याउने लक्ष्य राखेको छ?",
+    "o": [
+      "८०%",
+      "८२%",
+      "८५%",
+      "८८%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 4,
+    "q": "महिला र दलित समुदायको हकहित तथा उत्थानसम्बन्धी नीति तथा कार्यक्रम तर्जुमा गरी कार्यान्वयनका लागि कस समक्ष पेश गरिन्छ?",
+    "o": [
+      "व्यवस्थापिका संसद",
+      "राष्ट्रपति",
+      "नेपाल सरकार",
+      "सम्बन्धित आयोग स्वयं"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "नेपालको Slippers2Sat को तौल कति रहेको छ?",
+    "o": [
+      "करिब १.० केजी",
+      "करिब १.२ केजी",
+      "करिब १.५ केजी",
+      "करिब २.० केजी"
+    ],
+    "a": 1,
+    "e": "यो धेरै हलुका र सानो स्याटेलाइट हो।"
+  },
+  {
+    "id": 6,
+    "q": "वेबरका अनुसार कर्मचारीतन्त्र कुन प्रकारको अधिकार (Authority) मा आधारित हुन्छ?",
+    "o": [
+      "परम्परागत अधिकार (Traditional Authority)",
+      "चमत्कारिक अधिकार (Charismatic Authority)",
+      "कानुनी-तर्कसंगत अधिकार (Legal-Rational Authority)",
+      "माथिका कुनै पनि होइनन्"
+    ],
+    "a": 2
+  },
+  {
+    "id": 7,
+    "q": "सूचना अधिकारीले तोकेको दस्तुर (शुल्क) लागतभन्दा बढी लाग्यो भनेर चित्त नबुझेमा कहाँ उजुरी गर्न सकिन्छ?",
+    "o": [
+      "जिल्ला प्रशासन कार्यालय",
+      "राष्ट्रिय सूचना आयोग",
+      "सम्बन्धित मन्त्रालय",
+      "अदालत"
+    ],
+    "a": 1,
+    "e": "(स्रोत: दफा ८(३))"
+  },
+  {
+    "id": 8,
+    "q": "माथिको अवस्थामा (१० करोडसम्मको NCB मा) बोलपत्रदाताले पेश गर्ने बोलपत्र जमानत (Bid Security) को मान्य अवधि कम्तीमा कति दिनको हुनुपर्छ?",
+    "o": [
+      "९० दिन",
+      "१२० दिन",
+      "१५० दिन",
+      "१८० दिन"
+    ],
+    "a": 1,
+    "e": "बोलपत्र मान्य हुने अवधि ९० दिन भएकोले, जमानतको अवधि सोभन्दा ३० दिन बढी अर्थात् (९०+३०) = एक सय बीस (१२०) दिनको हुनुपर्नेछ। (ऐनको दफा १३ को उपदफा २)"
+  },
+  {
+    "id": 9,
+    "q": "स्थानीय तहको संस्थागत क्षमता स्वमूल्याङ्कन (LISA) कार्यविधि अनुसार कतिवटा 'विषय क्षेत्र' (Thematic Areas) निर्धारण गरिएको छ?",
+    "o": [
+      "७ वटा",
+      "१० वटा",
+      "१५ वटा",
+      "१०० वटा"
+    ],
+    "a": 1,
+    "e": "(नोट: १० वटा विषय क्षेत्र, ३ वटा आयाम र १०० वटा सूचक हुन्छन्।)"
+  },
+  {
+    "id": 10,
+    "q": "निजामती कर्मचारीको \"वैयक्तिक विवरण फाराम\" (सिटरोल) कति प्रति तयार गर्नुपर्छ?",
+    "o": [
+      "२ प्रति",
+      "३ प्रति",
+      "४ प्रति",
+      "५ प्रति"
+    ],
+    "a": 3,
+    "e": "नियम २२ (१) अनुसार पाँच प्रति वैयक्तिक विवरण (सिटरोल) तयार गराउनु पर्नेछ।"
+  },
+  {
+    "id": 11,
+    "q": "नेपालको कुन नदीलाई 'उत्तरबाहिनी' नदी भनेर चिनिन्छ?",
+    "o": [
+      "बागमती",
+      "कर्मनाशा",
+      "कर्णाली",
+      "बरुण"
+    ],
+    "a": 1
+  },
+  {
+    "id": 12,
+    "q": "प्रसिद्ध सुगौली सन्धिमा नेपालको तर्फबाट हस्ताक्षर गर्ने व्यक्ति को थिए?",
+    "o": [
+      "चन्द्र शमशेर",
+      "गजराज मिश्र",
+      "अमरसिंह थापा",
+      "भीमसेन थापा"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "नेपालको संविधानको कुन अनुसूचीमा 'स्थानीय तहको एकल अधिकारको सूची' व्यवस्था गरिएको छ?",
+    "o": [
+      "अनुसूची ७",
+      "अनुसूची ८",
+      "अनुसूची ९",
+      "अनुसूची ५"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "नेपालको सबैभन्दा लामो राजमार्ग, महेन्द्र राजमार्ग (H01) को कुल लम्बाई कति छ?",
+    "o": [
+      "१०२७.६७ कि.मी.",
+      "१०५० कि.मी.",
+      "९८०.५ कि.मी.",
+      "११००.६७ कि.मी."
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "'रामसार सूची' (Ramsar Sites) मा सूचीकृत नेपालका सिमसार क्षेत्रहरूको संख्या हाल कति पुगेको छ?",
+    "o": [
+      "८ वटा",
+      "९ वटा",
+      "१० वटा",
+      "१२ वटा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "नेपाल इन्जिनियरिङ काउन्सिल ऐन (Nepal Engineering Council Act) कहिले जारी भएको हो?",
+    "o": [
+      "वि.सं. २०५०",
+      "वि.सं. २०५५",
+      "वि.सं. २०६३",
+      "वि.सं. २०४८"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "नेपालको पहिलो बहुउद्देश्यीय र गौरवको आयोजना 'भेरी-बबई डाइभर्सन' सुरुङको कुल लम्बाई कति छ?",
+    "o": [
+      "१०.२ कि.मी.",
+      "११.५ कि.मी.",
+      "१२.२ कि.मी.",
+      "१४.५ कि.मी."
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "नेपालको राष्ट्रिय मापदण्ड (NS) अनुसार साधारण इँटाको (Standard Brick) साइज कति हुनुपर्दछ?",
+    "o": [
+      "230mm x 115mm x 57mm",
+      "240mm x 115mm x 55mm",
+      "230mm x 110mm x 55mm",
+      "200mm x 100mm x 100mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "इन्जिनियरिङ ड्रइङमा प्रयोग हुने 'A1' साइजको पेपरको नाप कति हुन्छ?",
+    "o": [
+      "841mm x 1189mm",
+      "594mm x 841mm",
+      "420mm x 594mm",
+      "297mm x 420mm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "सार्वजनिक खरिद ऐन, २०६३ अनुसार रू. २० लाख सम्मको लागत अनुमान भएको निर्माण कार्य कुन प्रक्रियाद्वारा गर्न सकिन्छ?",
+    "o": [
+      "सोझै खरिद (Direct Purchase)",
+      "सिलबन्दी दरभाउपत्र (Sealed Quotation)",
+      "खुल्ला बोलपत्र (Open Tendering)",
+      "उपभोक्ता समिति मार्फत"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "For sub-sonic flow, if the area of flow increases ............ ",
+    "o": [
+      "velocity is constant",
+      "velocity increases",
+      "velocity decreases",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "The drag force exerted by a fluid on a body immersed in the fluid is due to ............ ",
+    "o": [
+      "pressure and viscous force",
+      "pressure and gravity forces",
+      "pressure and turbulence forces",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "For the laminar flow between two parallel plate ............ ",
+    "o": [
+      "the maximum velocity = 2.0 times the average velocity",
+      "the maximum velocity = 2.5 times the average velocity",
+      "the maximum velocity = 1.33 times the average velocity",
+      "none of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "To prevent segregation, the maximum height for placing concrete is...",
+    "o": [
+      "100 cm",
+      "125 cm",
+      "150 cm",
+      "200 cm"
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "The initial setting time of ordinary Portland cement should be...",
+    "o": [
+      "30 minutes",
+      "less than 30 minutes",
+      "more than 30 minutes",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "The provision for annual repair and maintenance cost of building is ............ ",
+    "o": [
+      "1-1.5% of capital cost",
+      "2-4% of capital cost",
+      "5% of capital cost",
+      "10% of capital cost"
+    ],
+    "a": 0
+  },
+  {
+    "id": 27,
+    "q": "1 Metric horse power is equal to ............ ",
+    "o": [
+      "756 watt",
+      "746 watt",
+      "736 watt",
+      "750 watt"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "The C.P.M. network is updated ............ ",
+    "o": [
+      "at regular intervals",
+      "at fixed times",
+      "at any time",
+      "whenever the is difference in the planned and actual performance"
+    ],
+    "a": 3
+  },
+  {
+    "id": 29,
+    "q": "In time-cost optimisation of a project, crashing is done ............ ",
+    "o": [
+      "on all the activities",
+      "on all the activities lying on the original critical paths",
+      "only on activities lying on the original critical path and having flatter cost slopes",
+      "on original critical activities and those that become critical"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "Fuselage is parts of aircraft for accommodation of ...",
+    "o": [
+      "fuel",
+      "cargo, passenger",
+      "cafe, bathrooms",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 31,
+    "q": "The minimum basic runway length of class 'A' type airport is ...",
+    "o": [
+      "600 m",
+      "2100 m",
+      "750 m",
+      "1500 m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "In scanty rainfall areas, the camber provided will be .............",
+    "o": [
+      "flatter",
+      "steeper",
+      "zero",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 33,
+    "q": "When the bearing capacity of soil is poor and the intensity of traffic is high, an additional layer is provided between the soling and sub-grade. This additional layer is called .............",
+    "o": [
+      "wearing layer",
+      "sub-base",
+      "road surfacing",
+      "all of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "The common end products for both aerobiosis and anaerobiosis is ............ ",
+    "o": [
+      "H_2S",
+      "CH_4",
+      "NO_3",
+      "CO_2"
+    ],
+    "a": 3
+  },
+  {
+    "id": 35,
+    "q": "The factor deciding the length of a grit chamber is ............ ",
+    "o": [
+      "detention period",
+      "horizontal velocity of flow",
+      "settling velocity",
+      "surface loading"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "If V_0 is the critical velocity of a channel, its slit transporting power, according to Kennedy, is proportional to ............ ",
+    "o": [
+      "V_0^{1/2}",
+      "V_0^{3/2}",
+      "V_0^{5/2}",
+      "V_0^{7/2}"
+    ],
+    "a": 2
+  },
+  {
+    "id": 37,
+    "q": "Optimum depth of kor watering for wheat, is ............ ",
+    "o": [
+      "23.0 cm",
+      "19.5 cm",
+      "17.5 cm",
+      "13.5 cm"
+    ],
+    "a": 3
+  },
+  {
+    "id": 38,
+    "q": "Check lines (or proof lines) in Chain Surveying, are essentially required",
+    "o": [
+      "to plot the chain lines",
+      "to plot the offsets",
+      "to indicate the accuracy of the survey work",
+      "to increase the out-turn"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "The defect of a lens whereby rays of white light proceeding from a point get dispersed into their components and conveyed to various foci, forming a blurred and coloured image is known as",
+    "o": [
+      "chromatic aberration",
+      "spherical aberration",
+      "astigmatism",
+      "coma"
+    ],
+    "a": 0
+  },
+  {
+    "id": 40,
+    "q": "The back staff reading on a B.M. of R.L.. 500.000 m is 2.685 m. If foresight reading point is 1.345 m, the reduced level of the point, is",
+    "o": [
+      "502.685 m",
+      "501.345 m",
+      "501.340 m",
+      "504.030 m"
+    ],
+    "a": 2
+  },
+  {
+    "id": 41,
+    "q": "The rocks which are formed due to pouring of magma at the earth's surface are called",
+    "o": [
+      "Plutonic rocks",
+      "Hypabyssal rocks",
+      "Volcanic rocks",
+      "Igneous rocks"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "The ingredient which gives the desired colour to a paint is called:",
+    "o": [
+      "Vehicle",
+      "Base",
+      "Solvent",
+      "Pigment"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "Which of the following materials is commonly used in road construction for binding aggregates?",
+    "o": [
+      "Cement",
+      "Lime",
+      "Bitumen",
+      "Sand"
+    ],
+    "a": 2
+  },
+  {
+    "id": 44,
+    "q": "The property of material by which a body returns to its original shape after removal of the force is called:",
+    "o": [
+      "Ductility",
+      "Plasticity",
+      "Elasticity",
+      "Malleability"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "A structural member, subjected to an axial compressive force is called a:",
+    "o": [
+      "Column",
+      "Strut",
+      "Both (A) and (B)",
+      "None of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "According to Euler's theory, the buckling load of a long column (strut) is inversely proportional to:",
+    "o": [
+      "Length",
+      "Square of the length",
+      "Cross-sectional area",
+      "Young's modulus"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "Unit of Kinematic viscosity is:",
+    "o": [
+      "m²/sec",
+      "Newton sec/m²",
+      "Newton sec/m",
+      "Kg sec/m²"
+    ],
+    "a": 0
+  },
+  {
+    "id": 48,
+    "q": "The upper surface of the notch over which water flows is known as:",
+    "o": [
+      "Sill",
+      "Nappe",
+      "Vein",
+      "All of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "The atmospheric pressure at sea level (above absolute zero) is called.",
+    "o": [
+      "Normal pressure",
+      "Standard atmospheric pressure",
+      "Air pressure",
+      "Barometric pressure"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "The ratio of the volume of voids to the volume of soil solids in a given soil mass, is known:",
+    "o": [
+      "Porosity",
+      "Specific gravity",
+      "Void ratio",
+      "Water content"
+    ],
+    "a": 2
+  }
+]

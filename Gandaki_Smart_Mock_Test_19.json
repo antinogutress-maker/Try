@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1,
+    "q": "जिल्लास्थित कार्यालयमा नागरिक वडापत्र बमोजिम काम नभएमा क्षतिपूर्तिको लागि कहाँ निवेदन दिनु पर्दछ?",
+    "o": [
+      "जिल्ला अदालत",
+      "जिल्ला समन्वय समिति",
+      "जिल्ला प्रशासन कार्यालय",
+      "अख्तियार दुरुपयोग अनुसन्धान आयोग"
+    ],
+    "a": 2
+  },
+  {
+    "id": 2,
+    "q": "मानव अधिकार भित्र तलका मध्ये कुन कुरा पर्दछ?",
+    "o": [
+      "प्रकृति प्रदत्त र जन्मसिद्ध अधिकार",
+      "व्यक्तिका आधारभूत अधिकार र स्वतन्त्रता",
+      "मानवीय मर्यादा र कानुनी तथा मौलिक अधिकार",
+      "माथिका सबै"
+    ],
+    "a": 3
+  },
+  {
+    "id": 3,
+    "q": "सुशासन कायम गर्न अपनाइने \"प्रविधिमैत्री प्रणाली\" को मुख्य उद्देश्य के हो?",
+    "o": [
+      "कर्मचारीको संख्या बढाउनु",
+      "सुशासनलाई उजागर र पारदर्शी बनाउनु",
+      "कार्यालयको सजावटमा ध्यान दिनु",
+      "सूचनाहरूलाई लुकाएर राख्नु"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "सार्वजनिक सेवा प्रवाहलाई बजारका माध्यमबाट नागरिक समक्ष पुऱ्याउने कार्यलाई के भनिन्छ?",
+    "o": [
+      "निजीकरण",
+      "अर्ध-बजारीकरण",
+      "उदारीकरण",
+      "व्यापारीकरण"
+    ],
+    "a": 1
+  },
+  {
+    "id": 5,
+    "q": "निजामती कर्मचारीको सरुवा, बढुवा र अध्ययन छात्रवृत्तिको सम्पूर्ण व्यवस्थापन गर्ने मुख्य मन्त्रालय कुन हो?",
+    "o": [
+      "गृह मन्त्रालय",
+      "अर्थ मन्त्रालय",
+      "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालय",
+      "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "सरकारको राजनीतिक, सामाजिक र आर्थिक घोषणापत्रलाई के भनिन्छ?",
+    "o": [
+      "आवधिक योजना",
+      "सरकारी बजेट",
+      "नेपालको संविधान",
+      "आर्थिक ऐन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "नेपालले कहिलेदेखि आन्तरिक र बाह्य ऋण लिन सुरु गर्यो?",
+    "o": [
+      "वि.सं. २०१३/१४",
+      "वि.सं. २०१७/१८",
+      "वि.सं. २०२०/२१",
+      "वि.सं. २०२५/२६"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "भ्रष्टाचार निवारण ऐन, २०५९ अनुसार ५० हजार रुपैयाँसम्म विगो भएमा कति कैद सजाय हुने व्यवस्था छ?",
+    "o": [
+      "१ महिनादेखि ३ महिनासम्म",
+      "१ महिनादेखि ६ महिनासम्म",
+      "३ महिनादेखि ६ महिनासम्म",
+      "६ महिनादेखि १ वर्षसम्म"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "'नागरिक एप' को मुख्य उद्देश्य के हो?",
+    "o": [
+      "मनोरञ्जन",
+      "सरकारी सेवा एकीकृत गर्नु",
+      "सामाजिक सञ्जाल",
+      "सपिङ"
+    ],
+    "a": 1,
+    "e": "सबै सेवा मोबाइलमा।"
+  },
+  {
+    "id": 10,
+    "q": "पदपूर्ति सम्बन्धी विशेष व्यवस्थामा कुन समूहको लागि ४ प्रतिशत आरक्षण छ?",
+    "o": [
+      "आदिवासी/जनजाति",
+      "दलित",
+      "थारू",
+      "मुस्लिम"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो?",
+    "o": [
+      "चितवन राष्ट्रिय निकुञ्ज",
+      "सगरमाथा राष्ट्रिय निकुञ्ज",
+      "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज",
+      "बर्दिया राष्ट्रिय निकुञ्ज"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "'न्याय नपाए गोर्खा जानु' भन्ने प्रख्यात भनाइ नेपालका कुन राजासँग सम्बन्धित छ?",
+    "o": [
+      "पृथ्वीनारायण शाह",
+      "राम शाह",
+      "द्रव्य शाह",
+      "प्रताप मल्ल"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "नेपालको वर्तमान संविधानमा कतिवटा मौलिक हकहरूको व्यवस्था गरिएको छ?",
+    "o": [
+      "२१",
+      "२५",
+      "३१",
+      "३५"
+    ],
+    "a": 2
+  },
+  {
+    "id": 14,
+    "q": "मानव शरीरको प्रत्येक कोषमा सामान्यतया कति जोडी क्रोमोजोम (Chromosomes) हुन्छन्?",
+    "o": [
+      "२१ जोडी",
+      "२२ जोडी",
+      "२३ जोडी",
+      "२४ जोडी"
+    ],
+    "a": 2
+  },
+  {
+    "id": 15,
+    "q": "दक्षिण एसियाली क्षेत्रीय सहयोग संगठन (SAARC - सार्क) को स्थापना कहिले भएको हो?",
+    "o": [
+      "सन् १९८० डिसेम्बर ८",
+      "सन् १९८५ डिसेम्बर ८",
+      "सन् १९९० डिसेम्बर ८",
+      "सन् १९९५ डिसेम्बर ८"
+    ],
+    "a": 1
+  },
+  {
+    "id": 16,
+    "q": "नेपाली साहित्यका महाकवि लक्ष्मीप्रसाद देवकोटाद्वारा रचित सर्वाधिक लोकप्रिय खण्डकाव्य कुन हो?",
+    "o": [
+      "तरुण तपसी",
+      "मुनामदन",
+      "ऋतुविचार",
+      "गौरी"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "विश्वको सबैभन्दा ठूलो र गहिरो महासागर कुन हो?",
+    "o": [
+      "प्रशान्त महासागर",
+      "आन्ध्र महासागर",
+      "हिन्द महासागर",
+      "सुमेरु महासागर"
+    ],
+    "a": 0
+  },
+  {
+    "id": 18,
+    "q": "टेलिफोनको आविष्कार कुन वैज्ञानिकले गरेका हुन्?",
+    "o": [
+      "थोमस अल्भा एडिसन",
+      "अल्बर्ट आइन्स्टाइन",
+      "अलेक्जेन्डर ग्राहम बेल",
+      "गुग्लिल्मो मार्कोनी"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "नेपालको कुन जिल्लालाई 'कफी खेतीका लागि प्रसिद्ध जिल्ला' मानिन्छ?",
+    "o": [
+      "इलाम",
+      "गुल्मी",
+      "पाल्पा",
+      "सिन्धुपाल्चोक"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "२०२२ मा कतारमा आयोजना भएको फिफा विश्वकप (FIFA World Cup) फुटबलको उपाधि कुन राष्ट्रले जितेको थियो?",
+    "o": [
+      "फ्रान्स",
+      "अर्जेन्टिना",
+      "ब्राजिल",
+      "क्रोएसिया"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "The physical quantities which depend on any other quantities for their measurement are called",
+    "o": [
+      "mathematical quantities",
+      "fundamental quantities",
+      "Derived physical quantities",
+      "chemical quantities"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "The primary unit of engineering drawing in civil engineering is the?",
+    "o": [
+      "Millimeter",
+      "Meter",
+      "Foot",
+      "All of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 23,
+    "q": "An area of 36 sq.km. is represented by 144 square centimeters on a map. The R.F. is",
+    "o": [
+      "1/4",
+      "1/2",
+      "1/5000",
+      "1/50000"
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "Contractor tax is",
+    "o": [
+      "1.5%",
+      "2.5%",
+      "5%",
+      "10%"
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "Which of the following is very rough estimate?",
+    "o": [
+      "Preliminary estimate",
+      "Plinth area estimate",
+      "Detailed estimate",
+      "Revised estimate"
+    ],
+    "a": 0
+  },
+  {
+    "id": 26,
+    "q": "For 2.5 cm C.C. floor for 100 sq metre of area, the quantity of cement concrete is",
+    "o": [
+      "2.5 cu m",
+      "2.5 sq m",
+      "0.25 cu m",
+      "0.25 sq m"
+    ],
+    "a": 0
+  },
+  {
+    "id": 27,
+    "q": "The field records of the chain survey is entered in a/an",
+    "o": [
+      "exercise book",
+      "level book",
+      "measurement book",
+      "field book"
+    ],
+    "a": 3
+  },
+  {
+    "id": 28,
+    "q": "Survey stations are of......kinds",
+    "o": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "a": 0
+  },
+  {
+    "id": 29,
+    "q": "In ornamental work, stone used is",
+    "o": [
+      "Hard rock",
+      "Soft rock",
+      "Heavy rock",
+      "Light rock"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "The bricks after moulding should be dried in",
+    "o": [
+      "open air",
+      "sun for 3 to 8 days",
+      "air for 3 to 8 days but not in sun",
+      "hot air for 3 days"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "In manpower mobilization records, what is the primary purpose of recording 'Idle Time' alongside active working hours?",
+    "o": [
+      "To justify a reduction in the total contract price to the client.",
+      "To analyze the cause of delays, such as equipment failure or material shortages.",
+      "To identify specific workers who are not performing well.",
+      "To satisfy local labor union requirements for break times."
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "When managing material storage, which document is essential for maintaining the 'Chain of Custody' for high-value items like specialized MEP equipment?",
+    "o": [
+      "The Purchase Order (PO).",
+      "The Material Requisition and Issue Slip (MRIS).",
+      "The Vendor Invoice.",
+      "The Daily Work Report."
+    ],
+    "a": 1
+  },
+  {
+    "id": 33,
+    "q": "Which inventory method is most critical for storing perishable materials like cement or certain chemical admixtures at a construction site?",
+    "o": [
+      "JIT (Just-In-Time).",
+      "LIFO (Last-In, First-Out).",
+      "FIFO (First-In, First-Out).",
+      "HIFO (Highest-In, First-Out)."
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "Which storage tank material is most susceptible to UV degradation if not treated or painted?",
+    "o": [
+      "PVC",
+      "RCC",
+      "Stainless Steel",
+      "Cast Iron"
+    ],
+    "a": 0
+  },
+  {
+    "id": 35,
+    "q": "A 'Check Valve' (Non-Return Valve) is installed in a pumping system to:",
+    "o": [
+      "Stop the pump automatically",
+      "Allow water to flow in only one direction",
+      "Increase the pressure of the water",
+      "Measure the volume of water"
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "Residual Chlorine in drinking water is maintained to:",
+    "o": [
+      "Improve the taste of water",
+      "Ensure protection against re-contamination during distribution",
+      "Make the water look clearer",
+      "Increase the mineral content"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "A 'Gully Trap' is generally used to disconnect:",
+    "o": [
+      "The soil pipe from the vent pipe",
+      "The waste pipe from the underground drain",
+      "The septic tank from the soak pit",
+      "The water meter from the main line"
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "The value of maximum gradient for hill roads is .............",
+    "o": [
+      "1 in 5",
+      "1 in 10",
+      "1 in 15",
+      "1 in 20"
+    ],
+    "a": 2
+  },
+  {
+    "id": 39,
+    "q": "The rate of rise or fall of the road surface along its length, is called .............",
+    "o": [
+      "cant",
+      "super-elevation",
+      "gradient",
+      "banking"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "The camber of road should be approximately equal to ............. the longitudinal gradient.",
+    "o": [
+      "one-half",
+      "two times",
+      "three times",
+      "four times"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "On Kankar road, the camber generally provided is .............",
+    "o": [
+      "1 in 24 to 1 in 30",
+      "1 in 30 to 1 in 48",
+      "1 in 48 to 1 in 60",
+      "1 in 60 to 1 in 80"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "The super structure of a road is called .............",
+    "o": [
+      "wearing layer",
+      "wearing course",
+      "road surfacing",
+      "any one of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "A natural method of disposal of sewage is ............",
+    "o": [
+      "sewage irrigation",
+      "septic tank treatment",
+      "composting",
+      "aerated Lagooning"
+    ],
+    "a": 0
+  },
+  {
+    "id": 44,
+    "q": "\"Mass action\" during sedimentation is the property of ............",
+    "o": [
+      "increase in mass of sludge",
+      "decrease in mass of sludge",
+      "settling of a particle along with the neighbouring particle",
+      "quick spreading of floc"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "Grit obtained in a grit chamber is used ............",
+    "o": [
+      "as a manure",
+      "as a soil conditioner",
+      "as a coarse aggregate",
+      "as a substitute for sand"
+    ],
+    "a": 2
+  },
+  {
+    "id": 46,
+    "q": "Self-purification of a stream is quite rapid when ............",
+    "o": [
+      "stream hand sluggish flow",
+      "straight course with uniform cross-section",
+      "course is full of rapids and waterfalls",
+      "more bacterial pollution exists"
+    ],
+    "a": 2
+  },
+  {
+    "id": 47,
+    "q": "Lacey's regime condition is obtained if ............",
+    "o": [
+      "silt grade in the channel is variable",
+      "discharge in the channel is variable",
+      "silt charge in the channel is variable",
+      "channel flows in unlimited, incoherent alluvium of the same character as that transported material"
+    ],
+    "a": 3
+  },
+  {
+    "id": 48,
+    "q": "Pick up the incorrect statement from the following. Culturable commanded area is the gross area of an irrigation canal system less ............",
+    "o": [
+      "populated area",
+      "alkaline area",
+      "forest area",
+      "fallow land"
+    ],
+    "a": 3
+  },
+  {
+    "id": 49,
+    "q": "When the levels are such that the F.S.L. of the canal is much above the bed level of the drainage trough, so that the canal runs under syphonic action under the trough, the structure provided is known as ............",
+    "o": [
+      "siphon aqueduct",
+      "level crossing",
+      "canal siphon",
+      "super-aqueduct"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "A levee on flood ............",
+    "o": [
+      "increases the water surface elevation of the river at flood",
+      "decreases the surface slope of the stream above the leveed portion",
+      "increases the velocity and scouring action through leveed section",
+      "all of the above"
+    ],
+    "a": 3
+  }
+]

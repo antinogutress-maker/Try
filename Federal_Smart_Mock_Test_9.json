@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "q": "सिलबन्दी दरभाउपत्र (Sealed Quotation) को माध्यमबाट खरिद गर्दा कम्तीमा कति दिनको अवधि दिई सूचना प्रकाशन गर्नु पर्नेछ?",
+    "o": [
+      "७ दिन",
+      "१५ दिन",
+      "२१ दिन",
+      "३० दिन"
+    ],
+    "a": 1,
+    "e": "ऐनको दफा ४० को उपदफा (३) अनुसार सिलबन्दी दरभाउपत्र माग गर्दा कम्तीमा १५ दिनको अवधि दिई सूचना प्रकाशन गर्नुपर्नेछ [8]।"
+  },
+  {
+    "id": 2,
+    "q": "निजामती कर्मचारीको सावधिक जीवन बीमा बापत मासिक कति रकम तलबबाट कट्टा गरिन्छ?",
+    "o": [
+      "रु. १००",
+      "रु. २००",
+      "रु. ४००",
+      "रु. ५००"
+    ],
+    "a": 1,
+    "e": "दफा ४०क (२) अनुसार प्रत्येक कर्मचारीको मासिक तलबबाट दुई सय (२००) रुपैयाँ कट्टा गरी सरकारले त्यति नै थपी कोषमा जम्मा गरिन्छ।"
+  },
+  {
+    "id": 3,
+    "q": "टिप्पणी उठाइएको फाइलमा संलग्न कागजातको .... बनाई राख्नुपर्छ।",
+    "o": [
+      "अभिलेख",
+      "प्रस्तावना",
+      "प्रतिवेदन",
+      "पञ्जिका"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "नेपालमा भुक्तानी स्रेस्ता प्रणाली कहिलेबाट सुरु भयो?",
+    "o": [
+      "वि.सं. २०१८ देखि",
+      "वि.सं. २०३५ देखि",
+      "वि.सं. २०१६ देखि",
+      "वि.सं. २०५२ देखि"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "वस्तु तथा सेवा वितरणमा पारदर्शिता कायम राख्नु कर्मचारीको के हो?",
+    "o": [
+      "अधिकार",
+      "व्यक्तिगत इच्छा",
+      "नैतिक दायित्व",
+      "बाध्यता"
+    ],
+    "a": 2
+  },
+  {
+    "id": 6,
+    "q": "कार्य सम्पादन प्रक्रियालाई सरलीकरण गर्नु कसको नैतिक दायित्व हो?",
+    "o": [
+      "सेवाग्राहीको",
+      "स्थानीय बासिन्दाको",
+      "कर्मचारीको",
+      "सुरक्षाकर्मीको"
+    ],
+    "a": 2
+  },
+  {
+    "id": 7,
+    "q": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन, २०६४ मा कति परिच्छेद र दफाको व्यवस्था छ?",
+    "o": [
+      "९ परिच्छेद र ५० दफा",
+      "५ परिच्छेद ४७ दफा",
+      "७ परिच्छेद ४० दफा",
+      "६ परिच्छेद ३५ दफा"
+    ],
+    "a": 1
+  },
+  {
+    "id": 8,
+    "q": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयको आधिकारिक वेबसाइट कुन हो?",
+    "o": [
+      "www.moha.gov.np",
+      "www.mofaga.gov.np",
+      "www.mof.gov.np",
+      "www.moga.gov.np"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "परिवारको औसत आकार (Average Family Size) कति रहेको छ?",
+    "o": [
+      "४.३७ जना",
+      "३.३७ जना",
+      "५.३७ जना",
+      "६.३७ जना"
+    ],
+    "a": 0
+  },
+  {
+    "id": 10,
+    "q": "संवैधानिक परिषद्‌मा अध्यक्ष सहित जम्मा कति जना सदस्य रहने व्यवस्था छ?",
+    "o": [
+      "५ जना",
+      "६ जना",
+      "७ जना",
+      "९ जना"
+    ],
+    "a": 1
+  },
+  {
+    "id": 11,
+    "q": "नेपालको सबैभन्दा सानो जिल्ला कुन हो?",
+    "o": [
+      "ललितपुर",
+      "भक्तपुर",
+      "काठमाडौं",
+      "पर्वत"
+    ],
+    "a": 1
+  },
+  {
+    "id": 12,
+    "q": "काठमाडौंको ऐतिहासिक 'धरहरा' कसले निर्माण गर्न लगाएका हुन्?",
+    "o": [
+      "जंगबहादुर राणा",
+      "चन्द्र शमशेर",
+      "भीमसेन थापा",
+      "वीर शमशेर"
+    ],
+    "a": 2
+  },
+  {
+    "id": 13,
+    "q": "नेपालको पहिलो बैंक कुन हो?",
+    "o": [
+      "नेपाल राष्ट्र बैंक",
+      "कृषि विकास बैंक",
+      "राष्ट्रिय वाणिज्य बैंक",
+      "नेपाल बैंक लिमिटेड"
+    ],
+    "a": 3
+  },
+  {
+    "id": 14,
+    "q": "'विश्व पृथ्वी दिवस' (World Earth Day) हरेक वर्ष कहिले मनाइन्छ?",
+    "o": [
+      "अप्रिल २२ (April 22)",
+      "मे २२ (May 22)",
+      " march २२ (March 22)",
+      "जुन २२ (June 22)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "टेलिफोन (Telephone) को आविष्कार कसले गरेका हुन्?",
+    "o": [
+      "थोमस एल्भा एडिसन",
+      "चार्ल्स ब्याबेज",
+      "अलेक्जेन्डर ग्राहम बेल",
+      "गुग्लिल्मो मार्कोनी"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "मानव शरीरको सबैभन्दा लामो हाड (Bone) कुन हो?",
+    "o": [
+      "स्टेप्स (Stapes)",
+      "फिमर (Femur)",
+      "टिबिया (Tibia)",
+      "रेडियस (Radius)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "नेपालको वर्तमान संविधान (नेपालको संविधान) मा कति भाग, धारा र अनुसूची रहेका छन्?",
+    "o": [
+      "३५ भाग, ३०५ धारा, ९ अनुसूची",
+      "३३ भाग, ३०८ धारा, ७ अनुसूची",
+      "३५ भाग, ३०८ धारा, ९ अनुसूची",
+      "३५ भाग, ३१५ धारा, ९ अनुसूची"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "दक्षिण एसियाली क्षेत्रीय सहयोग संगठन (SAARC) को आठौं (कान्छो) सदस्य राष्ट्र कुन हो?",
+    "o": [
+      "माल्दिभ्स",
+      "म्यानमार",
+      "भुटान",
+      "अफगानिस्तान"
+    ],
+    "a": 3
+  },
+  {
+    "id": 19,
+    "q": "विश्वको सबैभन्दा ठूलो महासागर कुन हो?",
+    "o": [
+      "प्रशान्त महासागर (Pacific Ocean)",
+      "आन्ध्र महासागर (Atlantic Ocean)",
+      "हिन्द महासागर (Indian Ocean)",
+      "सुमेरु महासागर (Arctic Ocean)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 20,
+    "q": "नेपाली साहित्यका 'आदिकवि' भनेर कसलाई चिनिन्छ?",
+    "o": [
+      "लक्ष्मीप्रसाद देवकोटा",
+      "भानुभक्त आचार्य",
+      "मोतीराम भट्ट",
+      "माधवप्रसाद घिमिरे"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "The adjustable cross-staff is used for setting out an offset",
+    "o": [
+      "at an angle of 45 degree",
+      "at an angle of 60 degree",
+      "at a right angle",
+      "at any angle"
+    ],
+    "a": 3
+  },
+  {
+    "id": 22,
+    "q": "The projection of a traverse line on a line perpendicular to the meridian is known as",
+    "o": [
+      "latitude of the line",
+      "departure of the line",
+      "bearing of the line",
+      "co-ordinate of the line"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "The shift of a curve is....... of the offsets at junction point of transition curve.",
+    "o": [
+      "equal to",
+      "one-half",
+      "one-third",
+      "one-fourth"
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "Marble is obtained from metamorphism of",
+    "o": [
+      "Lime stone",
+      "Sand stone",
+      "Shale",
+      "Slate"
+    ],
+    "a": 0
+  },
+  {
+    "id": 25,
+    "q": "Rhyolite is",
+    "o": [
+      "Decomposed laterite",
+      "Water bound pebbles",
+      "Crushed granite",
+      "Air weathered rock"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "Amount of pigment in color cement should not be more than",
+    "o": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "The point of contraflexure occurs in",
+    "o": [
+      "cantilever beams",
+      "simply supported beams",
+      "overhanging beams",
+      "fixed beams"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "The moment diagram for a cantilever carrying a concentrated load at its free end, will be",
+    "o": [
+      "triangle",
+      "rectangle",
+      "parabola",
+      "cubic porabola"
+    ],
+    "a": 0
+  },
+  {
+    "id": 29,
+    "q": "The maximum tension occurs in the cable",
+    "o": [
+      "at highest point in the cable",
+      "at lowest point in the cable",
+      "at center point of the cable",
+      "at all points in the cable"
+    ],
+    "a": 0
+  },
+  {
+    "id": 30,
+    "q": "The density of sand at which there is no change in volume under the influence of shearing strain produced due to shear stress, is called",
+    "o": [
+      "relative density",
+      "apparent density",
+      "critical density",
+      "any one of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "The earth pressure at rest is calculated by using",
+    "o": [
+      "Euler's theory",
+      "Rankine's theory",
+      "bending theory",
+      "theory of elasticity"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "Unequal top and bottom reinforcement in a reinforced concrete section leads to",
+    "o": [
+      "creep deflection",
+      "large deflection",
+      "shrinkage deflection",
+      "long term deflection"
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "A column is regarded as long column if the ratio of its effective length and lateral dimension, exceeds",
+    "o": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "If the depth of flow along the length of the channel is a variable, then flow is known as ............ ",
+    "o": [
+      "laminar",
+      "uniform",
+      "non-uniform",
+      "steady"
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "In super-sonic flow, the projectile (which creates disturbances) moves ............ ",
+    "o": [
+      "ahead of the disturbances",
+      "along the disturbances",
+      "behind the disturbances",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "The loss of pressure head for the laminar flow through pipes varies ............ ",
+    "o": [
+      "as the square of velocity",
+      "directly as the velocity",
+      "as the inverse of the velocity",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "The method of protecting the foundations in loose soils from caving in, is called .................",
+    "o": [
+      "timbering",
+      "shoring",
+      "both 'a' and 'b'",
+      "none of above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 38,
+    "q": "The investigation method suitable for shallow depths is .................",
+    "o": [
+      "boring",
+      "open excavation",
+      "geophysical",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "In a flexible outlet, the discharge depends upon the .............",
+    "o": [
+      "water level in distributary",
+      "water level in water course",
+      "difference of water level between distributary and water course",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 40,
+    "q": "The Sarda canal has a .............",
+    "o": [
+      "glacis type fall",
+      "vertical drop fall",
+      "ogee fall",
+      "rapid fall"
+    ],
+    "a": 1
+  },
+  {
+    "id": 41,
+    "q": "The continuous flow of water may be expected from .............",
+    "o": [
+      "surface springs",
+      "artesian springs",
+      "gravity springs",
+      "all of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "The water obtained from the tube wells is known as .............",
+    "o": [
+      "surface water",
+      "sub-surface water",
+      "run off",
+      "potable water"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "The stopping sight distance depends upon the .............",
+    "o": [
+      "reaction time",
+      "braking time",
+      "speed of vehicle",
+      "all of these"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "The shape of the camber provided for cement concrete pavement is .............",
+    "o": [
+      "straight line",
+      "parabolic",
+      "elliptical",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "The useful part of liveable area of a building is also known as ............ ",
+    "o": [
+      "carpet area",
+      "circulating area",
+      "horizontal circulation area",
+      "plinth area"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "The quantity of damp proof course (D.P.C.) is worked out in ............ ",
+    "o": [
+      "m³",
+      "m²",
+      "m",
+      "lump-sum"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "In a barchart the vertical axis represents ............ ",
+    "o": [
+      "time",
+      "types of activities",
+      "number of labours",
+      "various activities of the project"
+    ],
+    "a": 3
+  },
+  {
+    "id": 48,
+    "q": "Site order book is used for recoding ............ ",
+    "o": [
+      "instruction of the executive engineer",
+      "construction measurements",
+      "requisition of plant and equipment",
+      "indents for materials to be ordered"
+    ],
+    "a": 0
+  },
+  {
+    "id": 49,
+    "q": "The best direction of a runway is along the direction of ...",
+    "o": [
+      "longest line on wind rose diagram",
+      "shortest line on the wind rose diagram",
+      "line clear of wind rose diagram",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 50,
+    "q": "The minimum basic runway length of class 'E' type airport is ...",
+    "o": [
+      "400 m",
+      "600 m",
+      "750 m",
+      "1500 m"
+    ],
+    "a": 1
+  }
+]

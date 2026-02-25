@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1,
+    "q": "The objective of surveying is to prepare",
+    "o": [
+      "drawing",
+      "cross section",
+      "map",
+      "all of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 2,
+    "q": "A plumb line is",
+    "o": [
+      "a vertical line",
+      "a line perpendicular to level line",
+      "a line parallel to vertical line",
+      "a line perpendicular to horizontal line"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "The most weather resisting metamorphic rock is",
+    "o": [
+      "lime stone",
+      "slate",
+      "marble",
+      "quartzite"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "During production of cement raw materials are mixed in",
+    "o": [
+      "ball mill",
+      "pug mill",
+      "rice mill",
+      "cement mill"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "The point of intersection of co-ordinate axis is called",
+    "o": [
+      "zero-zero",
+      "origin",
+      "cross point",
+      "all of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "Set squares are not used to draw",
+    "o": [
+      "straight line",
+      "vertical line T-square",
+      "Horizontal line",
+      "all of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "The most important material for drawing",
+    "o": [
+      "pencil and eraser",
+      "paper and eraser",
+      "paper and pencil",
+      "T-scale"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "The design speed on a highway is 60kmph; calculate the super elevation if radius of curve is 150m and coefficient of friction is 0.15.",
+    "o": [
+      "0.04",
+      "0.07",
+      "0.15",
+      "0.038"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "The workability of concrete can be improved by the addition of the following compounds",
+    "o": [
+      "iron",
+      "sodium",
+      "zinc",
+      "sulphur"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "If compaction factor of concrete is .90, then workability is ____________",
+    "o": [
+      "Low",
+      "Very low",
+      "Medium",
+      "High"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "Due to change in price level, a revised estimate is prepared if the sanctioned estimate exceeds",
+    "o": [
+      "0.5%",
+      "1%",
+      "3%",
+      "5%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 12,
+    "q": "The useful part of a livable area of a building is also known as",
+    "o": [
+      "carpet area",
+      "plinth area",
+      "floor area",
+      "circulation area"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "_________________ area of a building is the area of verandahs, passage, corridors, balconies, porches, etc.",
+    "o": [
+      "Floor area",
+      "Horizontal circulation area",
+      "Vertical circulation area",
+      "Verandah area"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "\"Pothole Repair\" and \"Cleaning of Drains\" fall under which category of maintenance?",
+    "o": [
+      "Periodic Maintenance",
+      "Routine Maintenance",
+      "Emergency Maintenance",
+      "Preventive Maintenance"
+    ],
+    "a": 1
+  },
+  {
+    "id": 15,
+    "q": "\"Kerbs\" are provided to separate:",
+    "o": [
+      "One lane from another",
+      "The pavement and the shoulder/footpath",
+      "The bridge and the road",
+      "Two different highways"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "\"WBM\" in road construction stands for:",
+    "o": [
+      "Water Bound Macadam",
+      "Wet Bitumen Mix",
+      "Waste Building Material",
+      "Weather Bound Masonry"
+    ],
+    "a": 0
+  },
+  {
+    "id": 17,
+    "q": "A road with an ADT of 3,500 PCU falls under which technical class?",
+    "o": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "A \"Grader\" is used in road construction specifically for:",
+    "o": [
+      "Digging deep trenches",
+      "Leveling and finishing the earth surface",
+      "Crushing stones",
+      "Transporting heavy loads"
+    ],
+    "a": 1,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 19,
+    "q": "What is the main purpose of a 'Divide Wall' in diversion headworks?",
+    "o": [
+      "To support the fish ladder",
+      "To create a still pond in front of the canal head regulator",
+      "To increase the height of the weir",
+      "To prevent the river from changing its course"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "The function of a 'Head Regulator' is to:",
+    "o": [
+      "Control the entry of water into the main canal",
+      "Measure the silt level in the river",
+      "Increase the velocity of water in the river",
+      "Prevent landslides on the river banks"
+    ],
+    "a": 0
+  },
+  {
+    "id": 21,
+    "q": "The shutters or gates in a weir are provided to:",
+    "o": [
+      "Increase the water level during low flow seasons",
+      "Filter the water",
+      "Stop the flow of water completely in summer",
+      "Decrease the velocity of the river"
+    ],
+    "a": 0
+  },
+  {
+    "id": 22,
+    "q": "A canal that is aligned at right angles to the contour lines is called a:",
+    "o": [
+      "Contour Canal",
+      "Ridge Canal",
+      "Side Slope Canal",
+      "Branch Canal"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "A Ferrocement tank is made of:",
+    "o": [
+      "Pure steel plates",
+      "Rich cement mortar and layers of wire mesh",
+      "Only bricks and mud",
+      "Thick reinforced concrete with heavy stones"
+    ],
+    "a": 1,
+    "e": "It is a thin-wall construction known for being lightweight and strong."
+  },
+  {
+    "id": 24,
+    "q": "A Septic Tank is a type of:",
+    "o": [
+      "Aerobic treatment unit",
+      "Anaerobic digestion and sedimentation unit",
+      "Water storage tank",
+      "Large-scale municipal sewage plant"
+    ],
+    "a": 1,
+    "e": "It treats waste in the absence of oxygen. [attachment_1](attachment)"
+  },
+  {
+    "id": 25,
+    "q": "The Gandaki Water Supply and Sanitation Act, 2079 was formulated by which level of government?",
+    "o": [
+      "Provincial Government (Gandaki Province)",
+      "Federal Government",
+      "Local Municipality",
+      "International Water Association"
+    ],
+    "a": 0,
+    "e": "It is a provincial law."
+  },
+  {
+    "id": 26,
+    "q": "\"Permanent Hardness\" of water is caused by the presence of:",
+    "o": [
+      "Carbonates of calcium and magnesium",
+      "Sulfates and chlorides of calcium and magnesium",
+      "Dissolved oxygen",
+      "Pathogenic bacteria"
+    ],
+    "a": 1,
+    "e": "Sulfates and chlorides of calcium and magnesium"
+  },
+  {
+    "id": 27,
+    "q": "Which type of pipe is most commonly used for internal cold water supply due to its light weight and corrosion resistance?",
+    "o": [
+      "Cast Iron (CI)",
+      "Galvanized Iron (GI)",
+      "polyvinyl chloride (PVC)",
+      "Lead"
+    ],
+    "a": 2,
+    "e": "PVC (Polyvinyl Chloride)"
+  },
+  {
+    "id": 28,
+    "q": "Which pipe is used specifically to carry human excreta from the water closet to the septic tank?",
+    "o": [
+      "Waste Pipe",
+      "Soil Pipe",
+      "Vent Pipe",
+      "Anti-siphonage Pipe"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "The process of connecting the metallic frame of electrical equipment to the earth is called:",
+    "o": [
+      "Insulation",
+      "Earthing",
+      "Neutralizing",
+      "Shorting"
+    ],
+    "a": 1,
+    "e": "[attachment_2](attachment)"
+  },
+  {
+    "id": 30,
+    "q": "Which lighting source is known for being the most energy-efficient and having the longest lifespan in modern buildings?",
+    "o": [
+      "Incandescent Bulbs",
+      "Halogen Lamps",
+      "LED (Light Emitting Diode)",
+      "fluorescent Tubes"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "नेपालमा पहिलो अडियो वडापत्रको सुरुवात कहिले र कुन जिल्लाबाट भएको थियो?",
+    "o": [
+      "क) २०७३ मंसिर ८ गते, तेह्रथुम जिल्ला",
+      "ख) २०७४ मंसिर ८ गते, तेह्रथुम जिल्ला",
+      "ग) २०७५ मंसिर ८ गते, तेह्रथुम जिल्ला",
+      "घ) २०७६ मंसिर ८ गते, तेह्रथुम जिल्ला"
+    ],
+    "a": 0
+  },
+  {
+    "id": 32,
+    "q": "पास भएको नक्सामा स्वीकृति बेगर हेरफेर गरी भवन बनाएको भए कति रकमसम्म जरिबाना हुने व्यवस्था छ?",
+    "o": [
+      "५० हजार रुपैयाँसम्म",
+      "१ लाख रुपैयाँसम्म",
+      "२ लाख रुपैयाँसम्म",
+      "५ लाख रुपैयाँसम्म"
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "कम्प्युटरको कुन पुस्तामा 'AI' को प्रयोग गरिन्छ?",
+    "o": [
+      "चौथो",
+      "पाँचौं",
+      "तेस्रो",
+      "दोस्रो"
+    ],
+    "a": 1,
+    "e": "कृत्रिम बौद्धिकता।"
+  },
+  {
+    "id": 34,
+    "q": "\"नतिजामुखी व्यवस्थापन वा \"नयाँ सार्वजनिक व्यवस्थापन\" (New Public Management - NPM) को अवधारणा विश्वमा कहिलेदेखि प्रबल भयो?",
+    "o": [
+      "सन् १९७० को दशक",
+      "सन् १९८० को दशक (1980s)",
+      "सन् १९९० को दशक",
+      "सन् २००० पछि"
+    ],
+    "a": 1
+  },
+  {
+    "id": 35,
+    "q": "वीरगञ्जस्थित 'कृषि औजार कारखाना' पुनः सञ्चालन गर्ने जिम्मेवारी सरकारले आविष्कार केन्द्रलाई कहिले दिएको हो?",
+    "o": [
+      "वि.सं. २०७९ असोज ११",
+      "वि.सं. २०७९ कार्तिक २४",
+      "वि.सं. २०७८ माघ १",
+      "वि.सं. २०८० जेठ १५"
+    ],
+    "a": 0,
+    "e": "अर्थ मन्त्रालय र आविष्कार केन्द्र बिच १० वर्षका लागि सञ्चालन सम्झौता भएको छ।"
+  },
+  {
+    "id": 36,
+    "q": "गण्डकी प्रदेश निजामती सेवा ऐन, २०७९ अनुसार प्रदेश निजामती सेवामा कुन सेवा समावेश गरिएको छ, जुन सङ्घीय निजामती सेवा ऐन, २०४९ मा छुट्टै ऐनद्वारा सञ्चालित छ?",
+    "o": [
+      "प्रदेश वन सेवा",
+      "प्रदेश शिक्षा सेवा",
+      "प्रदेश स्वास्थ्य सेवा",
+      "प्रदेश इन्जिनियरिङ सेवा"
+    ],
+    "a": 2,
+    "e": "सङ्घमा 'नेपाल स्वास्थ्य सेवा' छुट्टै ऐन (नेपाल स्वास्थ्य सेवा ऐन, २०५३) द्वारा सञ्चालित छ, तर गण्डकी प्रदेश निजामती सेवा ऐनको दफा ४ (छ) मा 'प्रदेश स्वास्थ्य सेवा' लाई निजामती सेवाभित्रै गठन गरिएको छ।"
+  },
+  {
+    "id": 37,
+    "q": "गण्डकी प्रदेश निजामती सेवा नियमावली अनुसार मन्त्रालय वा मन्त्रालय स्तरको निकायले कर्मचारीको सरुवा कुन महिनामा गर्नुपर्ने व्यवस्था छ?",
+    "o": [
+      "साउन १ देखि साउन मसान्त भित्र",
+      "भदौ १ देखि भदौ मसान्त भित्र",
+      "असोज १ देखि असोज १५ भित्र",
+      "कात्तिक १ देखि कात्तिक मसान्त भित्र"
+    ],
+    "a": 0,
+    "e": "सङ्घीय नियमावली (नियम ३६) अनुसार सामान्य प्रशासन मन्त्रालयले भदौमा र अन्य मन्त्रालयले असोजमा सरुवा गर्छन्। तर, गण्डकी नियमावलीको नियम ४३(१) अनुसार मन्त्रालयले साउन १ देखि साउन मसान्त भित्र सरुवा गरिसक्नु पर्छ।"
+  },
+  {
+    "id": 38,
+    "q": "हालै नेपालसँग दौत्य सम्बन्ध कायम गर्ने १८३ औं राष्ट्र किरिबाटीसँग कहिले सम्झौता भयो (A.D.)?",
+    "o": [
+      "2024 June 18",
+      "2024 July 08",
+      "2024 July 18",
+      "2024 August 18"
+    ],
+    "a": 2,
+    "e": "2024 July 18"
+  },
+  {
+    "id": 39,
+    "q": "गण्डकी प्रदेश बजेट वक्तव्यमा कुल बजेटको कति प्रतिशत रकम पुँजीगत खर्च (Capital Expenditure) तर्फ विनियोजन गरिएको छ?",
+    "o": [
+      "३९.५%",
+      "४५.५%",
+      "५९.७%",
+      "६०.२%"
+    ],
+    "a": 2,
+    "e": "नोट: रकम रु. १९ अर्ब ९ करोड ३३ लाख २४ हजार हो।"
+  },
+  {
+    "id": 40,
+    "q": "भ्रष्टाचार न्यूनीकरण ऐन २०५९ अनुसार विगोको आधारमा कैद सजायको वर्गीकरण कुन दफामा गरिएको छ?",
+    "o": [
+      "दफा ३",
+      "दफा ८",
+      "दफा १७",
+      "दफा २४"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "कुन महादेशलाई \"Home of the man\" भनिन्छ?",
+    "o": [
+      "अस्ट्रेलिया (Australia)",
+      "एसिया (Asia)",
+      "युरोप (Europe)",
+      "अफ्रिका (Africa)"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "भारतको जस्तै नक्सा भएको जिल्ला कुन हो?",
+    "o": [
+      "काभ्रेपलाञ्चोक",
+      "बागलुङ",
+      "सिन्धुली",
+      "संखुवासभा"
+    ],
+    "a": 3,
+    "e": "[attachment_3](attachment)"
+  },
+  {
+    "id": 43,
+    "q": "गण्डकी प्रदेशको प्रदेश प्रमुख को नियुक्ती कसले गर्छ?",
+    "o": [
+      "प्रधानमन्त्री",
+      "मुख्यमन्त्री",
+      "राष्ट्रपति",
+      "संघीय संसद"
+    ],
+    "a": 2
+  },
+  {
+    "id": 44,
+    "q": "नेपाली समाजको विशेषता तलका मध्ये कुन होइन?",
+    "o": [
+      "धार्मिक सहिष्णुता",
+      "भौगोलिक विविधता",
+      "औद्योगिक सम्पन्नता",
+      "मौलिक कला र संस्कृति"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "नेपालमा सबै भन्दा बढी उत्पादन हुने देखि कम उत्पादन हुने बालीलाई क्रम मिलाएर राख्नुहोस्:",
+    "o": [
+      "कोदो, मकै, गहुँ, धान",
+      "धान, कोदो, मकै, गहुँ",
+      "धान, मकै, गहुँ, कोदो",
+      "धान, कोदो, मकै, गहुँ"
+    ],
+    "a": 2,
+    "e": "धान, मकै, गहुँ, कोदो (Paddy, Maize, Wheat, Millet)"
+  },
+  {
+    "id": 46,
+    "q": "तलका भनाइ अध्ययन गरी उत्तर छान्नुहोस्: (a) नेपालको उत्तर दक्षिण सरदर चौडाई 193 km रहेको छ। (b) नेपालले विश्वको क्षेत्रफलको 0.3 % भूभाग ओगटेको छ।",
+    "o": [
+      "a ठीक, b बेठिक",
+      "a बेठिक, b ठीक",
+      "दुवै ठीक",
+      "दुवै बेठिक"
+    ],
+    "a": 0,
+    "e": "(b) is wrong because Nepal occupies 0.03% of the world, not 0.3%."
+  },
+  {
+    "id": 47,
+    "q": "नेपालको जनसंख्या वृद्धि दर हुनुको कारण?",
+    "o": [
+      "शिक्षा",
+      "परिवार नियोजन",
+      "चेतना",
+      "सबै"
+    ],
+    "a": 3
+  },
+  {
+    "id": 48,
+    "q": "राष्ट्रिय आविष्कार केन्द्रका अभियान्ता को हुन्?",
+    "o": [
+      "महेश पुन (Mahesh Pun)",
+      "महाविर पुन (Mahabir Pun)",
+      "बिर बहादुर लामा (Bir Bahadur Lama)",
+      "उपेन्द्र पुन (Upendra Pun)"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "इन्सुलिन कुन रोगसँग सम्बन्धित छ?",
+    "o": [
+      "रक्तचाप (Blood Pressure)",
+      "क्यान्सर (Cancer)",
+      "ग्यास्ट्रिक (Gastric)",
+      "मधुमेह (Diabetes)"
+    ],
+    "a": 3
+  },
+  {
+    "id": 50,
+    "q": "नेपालको संविधान अनुसार 'समावेशी आयोग' कुन प्रकारको आयोग हो?",
+    "o": [
+      "कानुनी अंग",
+      "सरकारी विभाग",
+      "संवैधानिक आयोग",
+      "गैर-सरकारी निकाय"
+    ],
+    "a": 2,
+    "e": "संवैधानिक आयोग (धारा २५८) "
+  }
+]

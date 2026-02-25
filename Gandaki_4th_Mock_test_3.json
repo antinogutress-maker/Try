@@ -1,0 +1,568 @@
+[
+  {
+    "id": 1,
+    "q": "GEDSI को पूरा रूप (Full Form) के हो?",
+    "o": [
+      "Gender Equality and Social Integration",
+      "Gender Equality, Disability and Social Inclusion",
+      "Global Equity and Social Inclusion",
+      "Gender Empowerment and Development"
+    ],
+    "a": 1,
+    "e": "Gender Equality, Disability and Social Inclusion"
+  },
+  {
+    "id": 2,
+    "q": "हवाई उद्धार गरी सुविधा सम्पन्न अस्पताल पुर्याइएकी महिलालाई 'पोषण स्याहार तथा यातायात सहयोग' बापत कति रकम उपलब्ध गराइन्छ ?",
+    "o": [
+      "रु. १०,०००",
+      "रु. १५,०००",
+      "रु. २०,०००",
+      "रु. २५,०००"
+    ],
+    "a": 2,
+    "e": "रु. २०,००० (एकमुष्ट उपलब्ध गराइनेछ)।"
+  },
+  {
+    "id": 3,
+    "q": "जापान र नेपालबीच दौत्य सम्बन्ध कहिले कायम भयो (A.D.)?",
+    "o": [
+      "1956 August 1",
+      "1956 September 1",
+      "1956 October 1",
+      "1960 September 1"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "बोलपत्रको मान्य अवधि (Bid Validity Period) १० करोड रुपैयाँसम्मको लागत अनुमान भएको खरिदमा कति दिनको हुन्छ?",
+    "o": [
+      "४५ दिन",
+      "६० दिन",
+      "९० दिन",
+      "१२० दिन"
+    ],
+    "a": 2,
+    "e": "नोट: १० करोड भन्दा बढी भएमा १२० दिन हुन्छ।"
+  },
+  {
+    "id": 5,
+    "q": "आ.व. २०८२/८३ को बजेट वक्तव्यमा कतिवटा उद्देश्य र प्राथमिकताहरू तय गरिएको छ?",
+    "o": [
+      "४ उद्देश्य, ५ प्राथमिकता",
+      "५ उद्देश्य, ६ प्राथमिकता",
+      "६ उद्देश्य, ७ प्राथमिकता",
+      "५ उद्देश्य, ७ प्राथमिकता"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "नेपालमा इन्टरनेट क्षेत्रको नियमन (Regulate) गर्ने निकाय कुन हो?",
+    "o": [
+      "सूचना विभाग",
+      "नेपाल दूरसञ्चार प्राधिकरण",
+      "नेपाल टेलिकम",
+      "NTC"
+    ],
+    "a": 1,
+    "e": "NTA को स्थापना २०५३ मा भएको हो।"
+  },
+  {
+    "id": 7,
+    "q": "गण्डकी प्रदेश निजमती सेवा ऐन अनुसार कर्मचारीको तह वृद्धि (Level Increase) प्रत्येक वर्षको कुन कुन मितिदेखि लागू हुने गरी गरिन्छ?",
+    "o": [
+      "साउन १ र माघ १ गते",
+      "वैशाख १ र कार्तिक १ गते",
+      "आर्थिक वर्षको अन्त्यमा",
+      "जुनसुकै समयमा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 8,
+    "q": "कर्मचारीले आफ्नो कार्यालय समयमा कार्यालयको काम बाहेक के प्रयोग गर्न हुँदैन? (नियमावली अनुसार)",
+    "o": [
+      "मोबाइल फोन",
+      "सामाजिक सञ्जाल",
+      "ईमेल",
+      "टेलिफोन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "स्थानीय सरकार सञ्चालन २०७४ अनुसार जिल्ला सभा र जिल्ला समन्वय समितिको बैठक सम्बन्धी कुन भनाइ सही छ?",
+    "o": [
+      "जिल्ला सभा वर्षको २ पटक र समन्वय समिति महिनाको १ पटक बस्नेछ।",
+      "जिल्ला सभा वर्षको १ पटक र समन्वय समिति महिनाको १ पटक बस्नेछ।",
+      "जिल्ला सभा वर्षको १ पटक र समन्वय समिति महिनाको २ पटक बस्नेछ।",
+      "जिल्ला सभा वर्षको २ पटक र समन्वय समिति महिनाको २ पटक बस्नेछ।"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "भ्रष्टाचार न्यूनीकरण ऐन २०५९ अनुसार ५०,००० बन्दा बढि १००००० सम्म घुस लिएमा कति सजाय हुन्छ?",
+    "o": [
+      "१ वर्ष देखि ५ वर्ष सम्म",
+      "एक महिना देखि ६ महिना सम्म",
+      "६ महिना देखि १ वर्ष सम्म",
+      "५ वर्ष देखि ६ वर्ष सम्म"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "अपाङ्गता भएका व्यक्तिको अधिकार सम्बन्धी महासन्धि (CRPD) कहिले पारित भएको थियो?",
+    "o": [
+      "सन् २००६",
+      "सन् २०१०",
+      "सन् २०००",
+      "सन् १९९५"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "नेपालमा स्वास्थ्य बिमा कार्यक्रम कहिलेबाट सुरु भएको थियो ?",
+    "o": [
+      "वि.सं २०७२",
+      "वि.सं २०७३",
+      "वि.सं २०७४",
+      "वि.सं २०७५"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "सार्कको बजेटमा नेपालको योगदान कति प्रतिशत छ ?",
+    "o": [
+      "३०.३२ %",
+      "२२.५२ %",
+      "१०.७२ %",
+      "७ %"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "संयुक्त राष्ट्रसंघको आदर्श वाक्य तलका मध्ये कुन हो ?",
+    "o": [
+      "It's Your World",
+      "Life for all",
+      "We are one Family",
+      "No war"
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "नेपालको निर्वाचन आयोगले फागुन २१ को चुनाव को लागी पछिल्लो पटक मतदाता नामावली दर्ता कहिले सार्वजनिक गयो?",
+    "o": [
+      "असोज  ५ ",
+      "असोज  ६",
+      "असोज  ७",
+      "असोज  ८"
+    ],
+    "a": 3
+  },
+  {
+    "id": 16,
+    "q": "नेपालको हाल कार्यान्वयनमा रहेको १६औँ पञ्चवर्षीय योजनाको मुख्य लक्ष्य के हो?",
+    "o": [
+      "गरिबी निवारण",
+      "सुशासन, सामाजिक न्याय र समृद्धि",
+      "औद्योगिक क्रान्ति",
+      "कृषिमा आधुनिकीकरण"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "\"दिगो विकास लक्ष्य (SDG)\" अनुसार सन् २०३० सम्ममा भोकमरी अन्त्य गर्ने लक्ष्य कति नम्बरमा रहेको छ?",
+    "o": [
+      "लक्ष्य नम्बर १",
+      "लक्ष्य नम्बर २",
+      "लक्ष्य नम्बर ५",
+      "लक्ष्य नम्बर १३"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "नेपालमा पहिलो पटक रोबोटको प्रयोग गरी सेवा प्रदान गर्ने सरकारी कार्यालय कुन हो?",
+    "o": [
+      "राहदानी विभाग",
+      "यातायात व्यवस्था कार्यालय",
+      "नेपाल टेलिकम",
+      "अध्यागमन विभाग"
+    ],
+    "a": 0
+  },
+  {
+    "id": 19,
+    "q": "नेपालको इतिहासमा 'समाज सुधारक राजा' भनेर कसलाई चिनिन्छ, जसले जातप्रथा र सामाजिक व्यवस्थालाई व्यवस्थित गरेका थिए?",
+    "o": [
+      "जयस्थिति मल्ल",
+      "महेन्द्र मल्ल",
+      "पृथ्वीनारायण शाह",
+      "अंशुवर्मा"
+    ],
+    "a": 0
+  },
+  {
+    "id": 20,
+    "q": "गण्डकी प्रदेशमा रहेका प्रसिद्ध पर्यटकीय स्थलहरूमध्ये 'हजारौँ शालिग्राम' पाइने पवित्र नदी कुन हो?",
+    "o": [
+      "मर्स्याङ्दी नदी",
+      "सेती नदी",
+      "काली गण्डकी",
+      "मादी नदी"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "The expected out turn of 2.5 cm cement concrete floor per manson per day",
+    "o": [
+      "2.5 sqm",
+      "5.0 sqm",
+      "7.5 sqm",
+      "10 sqm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 22,
+    "q": "Pick up the item of work not included in the plinth area estimate",
+    "o": [
+      "Wall thickness",
+      "Room area",
+      "Verandah area",
+      "Courtyard area."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "In case of laying gullies, siphons, intercepting traps, the cost includes",
+    "o": [
+      "Setting and laying",
+      "Bed concreting",
+      "Connection to drains",
+      "All of these."
+    ],
+    "a": 3
+  },
+  {
+    "id": 24,
+    "q": "If 1500 g of water is required to have a cement paste 1875 g of normal consistency, the percentage of water is,",
+    "o": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "The mixture of different ingredients of cement, is burnt at",
+    "o": [
+      "1000°C",
+      "1200°C",
+      "1400°C",
+      "1600°C"
+    ],
+    "a": 2
+  },
+  {
+    "id": 26,
+    "q": "For road pavements, the cement generally used, is",
+    "o": [
+      "ordinary Portland cement",
+      "rapid hardening cement",
+      "low heat cement",
+      "blast furnace slag cement"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "Concrete is unsuitable for compaction by a vibrator if it is",
+    "o": [
+      "dry",
+      "earth moist",
+      "semi-plastic",
+      "plastic"
+    ],
+    "a": 3
+  },
+  {
+    "id": 28,
+    "q": "Inert material of a cement concrete mix, is",
+    "o": [
+      "water",
+      "cement",
+      "aggregate",
+      "none of these."
+    ],
+    "a": 2
+  },
+  {
+    "id": 29,
+    "q": "The sensitiveness of a level tube decreases if",
+    "o": [
+      "radius of curvature of its inner surface is increased",
+      "diameter of the tube is increased",
+      "length of the vapour bubble is increased",
+      "both viscosity and surface tension are increased."
+    ],
+    "a": 3
+  },
+  {
+    "id": 30,
+    "q": "ABCD is a regular parallelogram plot of land whose angle BAD is 60°. If the bearing of the line AB is 30°, the bearing of CD, is",
+    "o": [
+      "90°",
+      "120°",
+      "210°",
+      "270°"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "The dimensions line is generally:",
+    "o": [
+      "A thin and broken at the middle",
+      "A thick line and broken at the middle",
+      "A thick line and solid at the middle",
+      "A thin and continuous at the middle"
+    ],
+    "a": 3
+  },
+  {
+    "id": 32,
+    "q": "Trench plan of the building shows",
+    "o": [
+      "Location and dimension of footing in horizontal plane",
+      "Location and depth of Foundation",
+      "Locating footing size and depth of Foundation",
+      "Depth of excavation for the foundation"
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "A technical drawing of an object that shows the relationship or order of assembly of the various parts is known",
+    "o": [
+      "Orthographic projection",
+      "Compacted view drawing",
+      "Exploded view drawing",
+      "Axomimetric drawing"
+    ],
+    "a": 2,
+    "e": "[attachment_0](attachment)"
+  },
+  {
+    "id": 34,
+    "q": "What occurs during the 'Siphonage' process in a drainage trap if a vent pipe is missing or blocked?",
+    "o": [
+      "Water evaporates too quickly from the trap",
+      "Positive pressure pushes sewer gases through the water seal",
+      "The trap becomes clogged with solid waste more easily",
+      "A partial vacuum is created that pulls the water seal out of the trap"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "Why is 'Sand' used as a specific layer in a slow sand filter for water treatment?",
+    "o": [
+      "To increase the pH of the incoming water",
+      "To chemically react with dissolved heavy metals",
+      "To prevent the water from flowing too quickly",
+      "To provide a surface for the growth of a biological film (Schmutzdecke)"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "Which type of 'Trap' is specifically designed to be used in floor areas like bathrooms to collect waste from several sources?",
+    "o": [
+      "Intercepting Trap",
+      "Nahani trap",
+      "Gully Trap",
+      "Bootle trap"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "In water supply, 'Water Hammer' is most likely caused by:",
+    "o": [
+      "Rapidly closing a valve, causing a sudden change in momentum",
+      "High calcium content in the water",
+      "Using pipes that are too large in diameter",
+      "The presence of air bubbles in the pipes"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "Horizontal curves on highways are provided",
+    "o": [
+      "to break the monotony of driving",
+      "to discourage the tendency to increase speed",
+      "to decrease the mental strain on drivers",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 39,
+    "q": "For a vehicle moving with a speed of 80 km per hour, the brake reaction time, in ordinary cases, is",
+    "o": [
+      "1 sec",
+      "1.5 sec",
+      "2.0 sec",
+      "2.5 sec"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "The first stage of deciding the alignment of a hill road, is",
+    "o": [
+      "reconnaissance",
+      "detailed survey",
+      "trace-out",
+      "preliminary survey"
+    ],
+    "a": 0
+  },
+  {
+    "id": 41,
+    "q": "In ideal pavement is constructed with.",
+    "o": [
+      "bricks",
+      "hard soil",
+      "Portland cement concrete",
+      "tar"
+    ],
+    "a": 2
+  },
+  {
+    "id": 42,
+    "q": "Cement grouted payment is classified as",
+    "o": [
+      "rigid payment",
+      "semi rigid payment",
+      "flexible payment",
+      "none of above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "The field capacity of an irrigation soil depends on",
+    "o": [
+      "both porosity and pore size",
+      "only on porosity",
+      "only on pore size",
+      "porosity and death of root zone"
+    ],
+    "a": 0
+  },
+  {
+    "id": 44,
+    "q": "The purpose of the cross regulator is.....",
+    "o": [
+      "to control the discharge into the offtake canal",
+      "to maintain proper levels in the main canal",
+      "to control the silt entry into the off take canal",
+      "none of above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "Guide bank is also known as .....",
+    "o": [
+      "groyne",
+      "spur",
+      "marginal bund",
+      "bell's bund"
+    ],
+    "a": 3
+  },
+  {
+    "id": 46,
+    "q": "What is the primary objective of a public water supply system?",
+    "o": [
+      "To provide water for industrial cooling only.",
+      "To supply safe, wholesome water in adequate quantity for domestic and public use.",
+      "To generate hydroelectric power.",
+      "To irrigate large scale agricultural lands."
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "What is the main advantage of a Ferrocement Tank over a traditional RCC tank?",
+    "o": [
+      "It requires a much thicker wall.",
+      "It is lightweight, cost-effective, and easy to repair.",
+      "It does not require any cement.",
+      "It can only be used for underground storage."
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "What is the minimum self-cleansing velocity usually maintained in a sewer line?",
+    "o": [
+      "0.1 m/s",
+      "0.6 m/s",
+      "3.0 m/s",
+      "5.0 m/s"
+    ],
+    "a": 1
+  },
+  {
+    "id": 49,
+    "q": "The Act emphasizes the \"Right to Water\" based on which document?",
+    "o": [
+      "Local Government Operation Act",
+      "Constitution of Nepal",
+      "International Maritime Law",
+      "Irrigation Act"
+    ],
+    "a": 1
+  },
+  {
+    "id": 50,
+    "q": "सिंहदरबारमा पहिलो पटक कहिले आगलागी भएको थियो ?",
+    "o": [
+      "२०३० असार ३०",
+      "२०८२ भदौ २४",
+      "२०८२ भाद्र २३",
+      "२०३० असार २५ "
+    ],
+    "a": 3
+  }
+]
