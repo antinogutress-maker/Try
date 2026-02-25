@@ -6,7 +6,6 @@
     <title>Dynamic MCQ Portal</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
     <style>
-        /* [ANIMATED BRIGHT COLOR PALETTE] */
         :root { 
             --primary: #00E5FF; 
             --secondary: #B400FB; 
@@ -19,15 +18,15 @@
         
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Outfit', sans-serif; -webkit-tap-highlight-color: transparent; }
         
-        /* Animated Gradient Background */
         body { 
             background: linear-gradient(-45deg, #FF007A, #4300B1, #00E5FF, #B400FB);
             background-size: 400% 400%;
             animation: gradientBG 15s ease infinite;
             min-height: 100vh; 
             display: flex; 
+            flex-direction: column;
             align-items: center; 
-            justify-content: center; 
+            justify-content: flex-start; /* Changed to top-aligned for better scrolling */
             color: var(--text-color); 
             padding: 15px; 
             overflow-x: hidden; 
@@ -39,65 +38,104 @@
             100% { background-position: 0% 50%; }
         }
 
-        /* Custom Scrollbar */
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: rgba(0,0,0,0.1); border-radius: 10px; }
-        ::-webkit-scrollbar-thumb { background: var(--primary); border-radius: 10px; }
+        /* Full Screen Scrollable Container */
+        .app-container { 
+            width: 100%; 
+            max-width: 800px; /* Widened for full-screen feel */
+            background: var(--card-bg); 
+            backdrop-filter: blur(20px); 
+            -webkit-backdrop-filter: blur(20px); 
+            border: 1px solid var(--glass-border); 
+            border-radius: 24px; 
+            padding: 2rem; 
+            box-shadow: 0 20px 50px rgba(0,0,0,0.5); 
+            margin: 20px 0;
+            transition: all 0.4s ease; 
+        }
+        
+        h1 { font-size: 2.2rem; font-weight: 800; background: linear-gradient(to right, #00E5FF, #FFEA00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px; text-align: center; }
+        h2 { font-size: 1.6rem; margin-bottom: 20px; text-align: center;}
+        p { color: #e0e0e0; font-size: 1rem; line-height: 1.6; text-align: center;}
+        
+        /* Dashboard Dynamic List - Removed restricted height */
+        .test-grid { 
+            display: grid; 
+            grid-template-columns: 1fr; 
+            gap: 15px; 
+            margin-top: 30px; 
+        }
 
-        .app-container { width: 100%; max-width: 650px; background: var(--card-bg); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border: 1px solid var(--glass-border); border-radius: 24px; padding: 2rem; box-shadow: 0 20px 50px rgba(0,0,0,0.5); position: relative; overflow: hidden; transition: all 0.4s ease; }
+        .test-card { 
+            background: linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.02)); 
+            border: 1px solid var(--glass-border); 
+            padding: 22px; 
+            border-radius: 18px; 
+            cursor: pointer; 
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            position: relative;
+            overflow: hidden;
+        }
+
+        .test-card:hover { 
+            transform: scale(1.02); 
+            background: rgba(255,255,255,0.12);
+            border-color: var(--primary);
+            box-shadow: 0 10px 30px rgba(0, 229, 255, 0.3);
+        }
+
+        /* Numbering Circle Style */
+        .test-number {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            font-size: 0.9rem;
+            margin-right: 15px;
+            flex-shrink: 0;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+
+        .test-info {
+            display: flex;
+            align-items: center;
+            flex-grow: 1;
+        }
+
+        .test-title {
+            font-weight: 600;
+            font-size: 1.15rem;
+            color: #fff;
+        }
         
-        h1 { font-size: 2rem; font-weight: 800; background: linear-gradient(to right, #00E5FF, #FFEA00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px; }
-        h2 { font-size: 1.5rem; margin-bottom: 20px; }
-        p { color: #e0e0e0; font-size: 0.95rem; line-height: 1.6; }
-        
+        .start-icon { color: var(--accent); font-weight: 800; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 8px;}
+
+        /* Rest of Quiz UI Styles */
         .input-group { margin-bottom: 15px; text-align: left; }
         .label { display: block; font-size: 0.8rem; margin-bottom: 5px; color: #00E5FF; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;}
         .glass-input { width: 100%; padding: 15px; background: rgba(255,255,255,0.08); border: 1px solid var(--glass-border); border-radius: 12px; color: white; font-size: 1rem; outline: none; transition: 0.3s; }
-        .glass-input:focus { border-color: var(--accent); background: rgba(255,255,255,0.15); box-shadow: 0 0 15px rgba(255, 234, 0, 0.2); }
-        .glass-input:read-only { background: rgba(0,0,0,0.3); color: #888; cursor: not-allowed; }
-        select.glass-input option { background: #0F0F1E; color: white; }
-        
-        .btn { background: linear-gradient(90deg, #00E5FF, #B400FB); border: none; color: white; padding: 16px; width: 100%; border-radius: 12px; font-size: 1.1rem; font-weight: 800; cursor: pointer; margin-top: 20px; transition: all 0.3s; box-shadow: 0 5px 20px rgba(180, 0, 251, 0.4); min-height: 50px; text-transform: uppercase; letter-spacing: 1px;}
+        .glass-input:focus { border-color: var(--accent); background: rgba(255,255,255,0.15); }
+        .btn { background: linear-gradient(90deg, #00E5FF, #B400FB); border: none; color: white; padding: 16px; width: 100%; border-radius: 12px; font-size: 1.1rem; font-weight: 800; cursor: pointer; margin-top: 20px; transition: all 0.3s; box-shadow: 0 5px 20px rgba(180, 0, 251, 0.4); text-transform: uppercase; }
         .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(0, 229, 255, 0.6); }
-        .btn:active { transform: scale(0.98); }
-        .btn:disabled { filter: grayscale(1); cursor: wait; }
-        
-        .personal-header { text-align: center; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid var(--glass-border); min-height: 50px; display: flex; align-items: center; justify-content: center; }
-        .animate-praise { animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
-        @keyframes popIn { 0% { transform: scale(0.5); opacity: 0; } 70% { transform: scale(1.1); } 100% { transform: scale(1); opacity: 1; } }
-        
-        .info-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: rgba(0, 229, 255, 0.1); padding: 10px 15px; border-radius: 10px; border: 1px solid rgba(0, 229, 255, 0.3); }
-        .timer-badge { font-family: monospace; font-weight: 700; color: var(--accent); font-size: 1.2rem; text-shadow: 0 0 10px rgba(255, 234, 0, 0.5); }
-        
-        .question-text { font-size: 1.2rem; font-weight: 600; margin-bottom: 20px; line-height: 1.5; }
-        
-        .option-btn { width: 100%; padding: 18px; margin-bottom: 12px; background: rgba(255,255,255,0.05); border: 1px solid var(--glass-border); border-radius: 12px; text-align: left; color: #fff; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; -webkit-user-select: none; user-select: none; }
-        .option-btn:hover { background: rgba(255,255,255,0.1); border-color: var(--primary); }
-        .option-marker { width: 30px; height: 30px; background: rgba(255,255,255,0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: 800; flex-shrink: 0; color: var(--primary); }
-        
-        .correct { background: rgba(0, 255, 136, 0.25) !important; border-color: #00FF88 !important; color: white !important; box-shadow: 0 0 15px rgba(0, 255, 136, 0.2); }
-        .correct .option-marker { background: #00FF88; color: black; }
-        .wrong { background: rgba(255, 51, 102, 0.25) !important; border-color: #FF3366 !important; color: white !important; box-shadow: 0 0 15px rgba(255, 51, 102, 0.2); }
-        .wrong .option-marker { background: #FF3366; color: white; }
-        
-        .explanation-box { margin-top: 20px; padding: 15px; background: rgba(0, 229, 255, 0.1); border-left: 4px solid var(--primary); border-radius: 8px; font-size: 0.95rem; display: none; animation: slideDown 0.3s ease; }
-        @keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
-        
-        .score-circle { width: 160px; height: 160px; border-radius: 50%; border: 5px solid var(--accent); margin: 0 auto 20px auto; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 0 40px rgba(255, 234, 0, 0.3); background: rgba(255,255,255,0.05); }
-        .score-val { font-size: 3.5rem; font-weight: 800; color: white; line-height: 1; text-shadow: 0 0 15px rgba(255,255,255,0.5); }
-        
+        .info-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: rgba(0, 229, 255, 0.1); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(0, 229, 255, 0.3); }
+        .timer-badge { font-family: monospace; font-weight: 700; color: var(--accent); font-size: 1.3rem; }
+        .question-text { font-size: 1.25rem; font-weight: 600; margin-bottom: 20px; line-height: 1.6; }
+        .option-btn { width: 100%; padding: 18px; margin-bottom: 12px; background: rgba(255,255,255,0.05); border: 1px solid var(--glass-border); border-radius: 12px; text-align: left; color: #fff; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; }
+        .option-marker { width: 32px; height: 32px; background: rgba(255,255,255,0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: 800; flex-shrink: 0; color: var(--primary); }
+        .correct { background: rgba(0, 255, 136, 0.25) !important; border-color: #00FF88 !important; }
+        .wrong { background: rgba(255, 51, 102, 0.25) !important; border-color: #FF3366 !important; }
+        .explanation-box { margin-top: 20px; padding: 18px; background: rgba(0, 229, 255, 0.1); border-left: 4px solid var(--primary); border-radius: 10px; font-size: 1rem; display: none; }
+        .score-circle { width: 180px; height: 180px; border-radius: 50%; border: 6px solid var(--accent); margin: 0 auto 20px auto; display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(255,255,255,0.05); box-shadow: 0 0 30px rgba(255, 234, 0, 0.2); }
+        .score-val { font-size: 4rem; font-weight: 800; }
         .hidden { display: none !important; }
-        #opts-list { max-height: 50vh; overflow-y: auto; padding-right: 5px; }
-        #auth-msg { text-align: center; margin-top: 15px; font-weight: 600; background: rgba(0,0,0,0.4); padding: 10px; border-radius: 8px; display: none; }
-
-        /* Dashboard Dynamic List Styles */
-        .test-grid { display: grid; grid-template-columns: 1fr; gap: 12px; margin-top: 20px; max-height: 55vh; overflow-y: auto; padding-right: 5px; }
-        .test-card { background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.01)); border: 1px solid var(--glass-border); padding: 20px; border-radius: 16px; cursor: pointer; transition: all 0.3s; display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 1.1rem; }
-        .test-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0, 229, 255, 0.2); border-color: var(--primary); background: rgba(255,255,255,0.1); }
-        .start-icon { color: var(--accent); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 5px;}
-        .loading-text { text-align: center; color: var(--primary); font-weight: 600; padding: 20px; animation: pulse 1.5s infinite; }
-        
-        @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; } 100% { opacity: 0.5; } }
+        .loading-text { text-align: center; color: var(--primary); font-weight: 600; padding: 40px; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
     </style>
 </head>
 <body>
@@ -105,14 +143,12 @@
 <div class="app-container" id="app">
     
     <div id="view-login" class="hidden">
-        <div style="text-align: center; margin-bottom: 30px;">
-            <h1>Student Portal</h1>
-            <p>Sign in once to access all Mock Tests</p>
-        </div>
+        <h1>Student Portal</h1>
+        <p>Enter your details once to access the dashboard</p>
         
-        <div class="input-group">
+        <div class="input-group" style="margin-top: 25px;">
             <span class="label">Full Name</span>
-            <input type="text" id="inp-name" class="glass-input" placeholder="Enter your name">
+            <input type="text" id="inp-name" class="glass-input" placeholder="Your Name">
         </div>
         
         <div class="input-group">
@@ -126,43 +162,38 @@
 
         <div class="input-group">
             <span class="label">Unique Code</span>
-            <input type="tel" id="inp-code" class="glass-input" placeholder="Enter 5-digit code">
+            <input type="tel" id="inp-code" class="glass-input" placeholder="5-digit code">
         </div>
 
         <div class="input-group">
-            <span class="label">Password (Auto-Fill)</span>
+            <span class="label">Verified Password</span>
             <input type="password" id="inp-pass" class="glass-input" placeholder="Verifying..." readonly>
         </div>
 
-        <button class="btn" id="btn-verify" onclick="App.verifyAndLogin()">Verify & Login</button>
-        <p id="auth-msg"></p>
+        <button class="btn" id="btn-verify" onclick="App.verifyAndLogin()">Verify & Enter Dashboard</button>
+        <p id="auth-msg" style="margin-top: 15px; display: none; font-weight: 600;"></p>
     </div>
 
     <div id="view-dash" class="hidden">
-        <div style="text-align: center; margin-bottom: 15px;">
-            <h2 id="greet-msg" style="color: var(--primary); margin-bottom: 5px;">Welcome!</h2>
-            <p>Select a mock test below to begin.</p>
-        </div>
+        <h2 id="greet-msg" style="color: var(--primary); margin-bottom: 5px;">Namaste!</h2>
+        <p>Pick a mock test to begin your practice session.</p>
         
         <div class="test-grid" id="test-list-container">
-            <div class="loading-text">Fetching Available Tests...</div>
+            <div class="loading-text">Loading Test Database...</div>
         </div>
         
-        <button class="btn" onclick="App.logout()" style="background: rgba(255,51,102,0.2); box-shadow: none; border: 1px solid #FF3366; margin-top: 15px; min-height: 40px; padding: 10px; font-size: 0.9rem;">Logout / Change User</button>
-    </div>
-
-    <div id="view-quiz" class="hidden">
-        <div class="personal-header">
-            <div id="praise-txt" style="font-size: 1.3rem; font-weight: 800; color: white;">Good Luck!</div>
         </div>
 
+    <div id="view-quiz" class="hidden">
+        <div id="praise-txt" style="font-size: 1.4rem; font-weight: 800; text-align: center; margin-bottom: 20px;">Get Ready!</div>
+
         <div class="info-bar">
-            <span>Question: <span id="q-idx" style="font-weight:bold; color:var(--primary)">1</span> / <span id="q-total">50</span></span>
+            <span>Q: <span id="q-idx" style="color:var(--primary)">1</span> / <span id="q-total">0</span></span>
             <span class="timer-badge" id="timer">45:00</span>
         </div>
 
         <div id="q-container">
-            <div class="question-text" id="q-text">Loading...</div>
+            <div class="question-text" id="q-text">Loading question...</div>
             <div id="opts-list"></div>
             <div class="explanation-box" id="exp-box"></div>
         </div>
@@ -171,47 +202,34 @@
     </div>
 
     <div id="view-result" class="hidden" style="text-align: center;">
-        <h2 style="color: var(--primary);">Exam Completed!</h2>
+        <h2 style="color: var(--primary);">Exam Result</h2>
         <div class="score-circle">
             <span class="score-val" id="res-score">0</span>
-            <span style="font-size: 0.8rem; text-transform: uppercase; color: #aaa; margin-top: 5px;">Correct</span>
+            <span style="font-size: 0.9rem; text-transform: uppercase; color: #aaa;">Correct</span>
         </div>
-        <div style="margin-bottom: 30px;">
-            <h3 id="res-pct" style="color: var(--accent); font-size: 2rem;">0%</h3>
-            <p style="font-size: 1rem; margin-top: 10px; opacity: 0.9;">Great effort! Keep practicing.</p>
-        </div>
-        <button class="btn" onclick="App.dash()">Return to Dashboard</button>
+        <h3 id="res-pct" style="color: var(--accent); font-size: 2.2rem; margin-bottom: 20px;">0%</h3>
+        <button class="btn" onclick="App.dash()">Back to List</button>
     </div>
 </div>
 
 <script>
-/**
- * ----------------------------------------------------
- * CONFIGURATION 
- * ----------------------------------------------------
- */
 const CFG = {
-    // Only keeping the Auth Script for Code Verification
     authScript: "https://script.google.com/macros/s/AKfycbyUGMGXI7vml6jzJsCxhXvHgnq4V4Aq6sl6blkJkdfC8_haCxI__kx3EwFzZrW942E6/exec"
 };
 
-const KEYS = {
-    user: "civil_eng_user_auth"
-};
+const KEYS = { user: "civil_eng_user_auth" };
 
 const PRAISE = {
-    good: ["You are a Genius", "क्या बात है", "Amazing", "बहुत अच्छा", "Fantastic", "Excellent", "Awesome"],
-    bad: ["कोई बात नहीं", "Don't give up", "हे राम! ये क्या होगया", "You can do this", "Keep trying" ]
+    good: ["Genius!", "Amazing!", "Excellent!", "Fantastic!", "Great Job!"],
+    bad: ["Keep trying!", "Don't give up!", "You'll get the next one!", "Stay focused!"]
 };
 
 const App = {
     state: { user: null, currentTestName: "", quiz: [], curr: 0, score: 0, timer: null },
 
-    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
-    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
-    remove: (k) => { try { localStorage.removeItem(k) } catch(e) {} },
+    save: (k, v) => localStorage.setItem(k, v),
+    load: (k) => localStorage.getItem(k),
 
-    // Initialize App - Check for existing login
     init: () => {
         const stored = App.load(KEYS.user);
         if(stored) {
@@ -222,7 +240,6 @@ const App = {
         }
     },
 
-    // 1. Verify Code with Apps Script
     verifyAndLogin: () => {
         const n = document.getElementById('inp-name').value.trim();
         const q = document.getElementById('inp-qual').value;
@@ -231,124 +248,85 @@ const App = {
         const btn = document.getElementById('btn-verify');
 
         if(!n || !c) {
-            msg.innerText = "Please enter Name and Code";
-            msg.style.display = 'block'; return;
+            msg.innerText = "Error: Name & Code required";
+            msg.style.display = 'block'; msg.style.color = "#FF3366";
+            return;
         }
 
-        btn.disabled = true; btn.innerText = "Verifying Code..."; msg.style.display = 'none';
-
+        btn.disabled = true; btn.innerText = "Verifying...";
+        
         fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
         .then(res => res.json())
         .then(data => {
             if(data.status === 'success') {
                 document.getElementById('inp-pass').value = data.password;
                 App.state.user = { name: n, qual: q, code: c };
-                // Save to local storage to bypass login next time
                 App.save(KEYS.user, JSON.stringify(App.state.user));
                 setTimeout(() => App.dash(), 800);
             } else {
                 btn.disabled = false; btn.innerText = "Verify & Login";
                 msg.style.display = 'block'; msg.style.color = "#FF3366";
-                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+                msg.innerText = "Invalid Code or Already Used";
             }
         })
         .catch(() => {
-            btn.disabled = false; btn.innerText = "Verify & Login";
-            msg.style.display = 'block'; msg.innerText = "Connection Error. Check internet.";
+            btn.disabled = false; btn.innerText = "Retry Login";
+            msg.style.display = 'block'; msg.innerText = "Connection error.";
         });
     },
 
-    logout: () => {
-        App.remove(KEYS.user);
-        window.location.reload();
-    },
-
-    // 2. Load Dashboard & Fetch list.json
     dash: () => {
-        // Hide all views, show dash
         document.querySelectorAll('#app > div').forEach(el => el.classList.add('hidden'));
         document.getElementById('view-dash').classList.remove('hidden');
-        
         document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
         
         const container = document.getElementById('test-list-container');
-        container.innerHTML = '<div class="loading-text">Fetching Available Tests...</div>';
+        container.innerHTML = '<div class="loading-text">Fetching available tests...</div>';
 
-        // Fetch dynamic list of JSON files
         fetch('list.json')
-            .then(res => {
-                if (!res.ok) throw new Error("Network response was not ok");
-                return res.json();
-            })
+            .then(res => res.json())
             .then(list => {
                 container.innerHTML = '';
-                if(list.length === 0) {
-                    container.innerHTML = '<p style="text-align:center;">No tests currently available.</p>';
-                    return;
-                }
-                
-                // Create a button for each test in the array
-                list.forEach(testName => {
+                list.forEach((testName, index) => {
                     const btn = document.createElement('div');
                     btn.className = 'test-card';
-                    // Replaces underscores with spaces for UI display
                     const displayName = testName.replace(/_/g, ' '); 
                     
+                    // Added Numbering logic (index + 1)
                     btn.innerHTML = `
-                        <span>${displayName}</span> 
-                        <span class="start-icon">Start <span>▶</span></span>
+                        <div class="test-info">
+                            <div class="test-number">${index + 1}</div>
+                            <div class="test-title">${displayName}</div>
+                        </div>
+                        <div class="start-icon">START <span>▶</span></div>
                     `;
                     btn.onclick = () => App.fetchMCQ(testName);
                     container.appendChild(btn);
                 });
             })
-            .catch(err => {
-                container.innerHTML = `
-                    <div style="text-align:center; color:#FF3366; padding: 20px; background:rgba(255,51,102,0.1); border-radius:12px;">
-                        ⚠️ Failed to load tests. <br><br>Make sure <b>list.json</b> exists in the same folder as this HTML file.
-                    </div>`;
+            .catch(() => {
+                container.innerHTML = `<div class="loading-text" style="color:#FF3366">Error: list.json not found!</div>`;
             });
     },
 
-    // 3. Fetch specific test JSON file
     fetchMCQ: (fileName) => {
-        App.state.currentTestName = fileName;
-        const btnText = event.currentTarget.querySelector('.start-icon');
-        const originalText = btnText.innerHTML;
-        btnText.innerHTML = "Loading...";
-
         fetch(`${fileName}.json`)
-            .then(res => {
-                if(!res.ok) throw new Error("File not found");
-                return res.json();
-            })
-            .then(data => {
-                App.start(data);
-            })
-            .catch(err => {
-                btnText.innerHTML = originalText;
-                alert(`Error loading ${fileName}.json. Ensure the file exists.`);
-            });
+            .then(res => res.json())
+            .then(data => App.start(data))
+            .catch(() => alert("Could not load " + fileName));
     },
 
-    // 4. Start Exam
     start: (testData) => {
-        App.state.curr = 0; 
-        App.state.score = 0; 
-        
-        if(!testData || !testData.length) return alert("This test file is empty.");
-
-        // Shuffle questions and options
-        App.state.quiz = testData.map(q => {
-            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
-            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
-        }).sort(() => Math.random() - 0.5);
+        App.state.curr = 0; App.state.score = 0; 
+        App.state.quiz = testData.map(q => ({
+            ...q,
+            shuffledOpts: q.o.map((txt, i) => ({ t: txt, c: i === q.a })).sort(() => Math.random() - 0.5)
+        })).sort(() => Math.random() - 0.5);
 
         document.getElementById('view-dash').classList.add('hidden');
         document.getElementById('view-quiz').classList.remove('hidden');
         document.getElementById('q-total').innerText = App.state.quiz.length;
-        
-        App.timer(45 * 60); // 45 Minutes timer
+        App.timer(45 * 60);
         App.render();
     },
 
@@ -376,31 +354,22 @@ const App = {
         btn.style.opacity = '1';
         
         const praise = document.getElementById('praise-txt');
-        praise.classList.remove('animate-praise');
-        void praise.offsetWidth; // Trigger reflow
-        praise.classList.add('animate-praise');
-
-        const userName = App.state.user ? App.state.user.name.split(' ')[0] : '';
-
         if(opt.c) {
-            btn.classList.add('correct');
-            App.state.score++;
-            praise.innerText = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)] + " ! " + userName;
+            btn.classList.add('correct'); App.state.score++;
+            praise.innerText = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
             praise.style.color = "#00FF88";
         } else {
             btn.classList.add('wrong');
             all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
-            praise.innerText = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)] + " ! " + userName;
+            praise.innerText = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
             praise.style.color = "#FF3366";
         }
 
         if(q.e) {
-            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').innerHTML = `<b>Explanation:</b> ${q.e}`;
             document.getElementById('exp-box').style.display = 'block';
         }
-        
         document.getElementById('btn-next').classList.remove('hidden');
-        setTimeout(() => document.getElementById('btn-next').scrollIntoView({behavior:"smooth", block:"nearest"}), 100);
     },
 
     next: () => {
@@ -419,19 +388,16 @@ const App = {
         }, 1000);
     },
 
-    // 5. End Exam (Offline Only, No Sync)
     finish: () => {
         clearInterval(App.state.timer);
         document.getElementById('view-quiz').classList.add('hidden');
         document.getElementById('view-result').classList.remove('hidden');
-
         const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
         document.getElementById('res-score').innerText = App.state.score;
         document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
     }
 };
 
-// Start app on load
 window.onload = App.init;
 </script>
 </body>
