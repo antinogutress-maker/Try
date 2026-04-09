@@ -370,4 +370,8 @@
   {
     "id": 50,
     "q": "A plain scale is used to read:",
-    "o": ["one dimension", "two dimensions", "three dimensions", "all of these"]
+    "o": ["one dimension", "two dimensions", "three dimensions", "all of these"],
+    "a": 1,
+    "e": ""
+  }
+]

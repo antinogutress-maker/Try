@@ -351,4 +351,8 @@
   {
     "id": 50,
     "q": "Minimum slope for thatched roof is",
-    "o": [ "30°", "45°", "60°", "75°" ]
+    "o": [ "30°", "45°", "60°", "75°" ],
+    "a": 1,
+    "e": "A 45° slope is the standard minimum."
+  }
+]

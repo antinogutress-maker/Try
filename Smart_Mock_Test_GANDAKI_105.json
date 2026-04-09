@@ -346,4 +346,9 @@
   {
     "id": 50,
     "q": "Which of the following is service area in building?",
-    "o": ["Lift and shafts", "Kitchen", "Bed room", "All of the above"]
+    "o": ["Lift and shafts", "Kitchen", "Bed room", "All of the above"],
+    "a": 0,
+    "e": ""
+  }
+
+]

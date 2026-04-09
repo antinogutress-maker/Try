@@ -390,4 +390,8 @@
 ​{
 "id": 50,
 "q": "An isogonic line joins points of:",
-"o": [ "Zero declination", "Equal declination", "Equal dip", "Zero dip" ]
+"o": [ "Zero declination", "Equal declination", "Equal dip", "Zero dip" ],
+"a": 1,
+"e": ""
+}
+]

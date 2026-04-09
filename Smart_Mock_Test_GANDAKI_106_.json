@@ -351,4 +351,9 @@
   {
     "id": 50,
     "q": "The maximum amount of dust which may be permitted in aggregates is:",
-    "o": ["5% for low workability", "10% for low workability with fine grading", "20% for high workability", "All of the above"]
+    "o": ["5% for low workability", "10% for low workability with fine grading", "20% for high workability", "All of the above"],
+    "a": 3,
+    "e": ""
+  }
+
+]
