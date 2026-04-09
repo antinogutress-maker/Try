@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "q": "When a point is below HP and behind VP, the point is resting in which quadrant?",
+    "o": ["1st", "2nd", "3rd", "4th"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "If a plane is parallel to the plane of projection, it appears:",
+    "o": ["True size", "As a line or edge", "Foreshortened", "As an oblique surface"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "Top view is projected in:",
+    "o": ["Horizontal plane", "Frontal plane", "Profile plane", "Base plane"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "Due to change in price level, a revised estimate is prepared if the sanctioned estimate exceeds:",
+    "o": ["2.0%", "2.5%", "4.0%", "5.0%"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "Unit of measurement for payment of door and window (frame) is:",
+    "o": ["Cubic meter", "Meter", "Square meter", "None of these"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "The item of the brick structure measured in sq.m is:",
+    "o": ["Broken glass coping", "Reinforced brick work", "Brick work in arches", "Brick edging"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "In which of the following compass sighting and reading cannot be done simultaneously?",
+    "o": ["Trough compass", "Magnetic compass", "Prismatic compass", "Surveyors' compass"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "Width of timber boards used in timber flooring is:",
+    "o": ["90 mm to 100 mm", "100 mm to 150 mm", "120 mm to 150 mm", "150 mm to 175 mm"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "Which variations are occurred by magnetic storms?",
+    "o": ["Daily variation", "Annual variation", "Secular variation", "Irregular variation"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "Which of the following flooring is known as the composition flooring?",
+    "o": ["Moorum", "Rubber", "Magnesite", "Stone"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "Which of the following tool is used to press mortar and spread it uniformly?",
+    "o": ["Trowel", "Aluminium rod", "Floats", "Brush"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "Minimum coats of plaster required in wooden surface is:",
+    "o": ["Two", "Three", "One", "None of these"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "Which type of water is considered suitable for use in plaster mortars?",
+    "o": ["Sea water", "River water", "Drinking water", "None of these"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "What is the main purpose of using a 'Conduit' in wiring?",
+    "o": [
+      "To increase the resistance of the wire",
+      "To provide mechanical protection and fire safety to the wires",
+      "To make the building look heavier",
+      "To cool down the wires"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "'Galvanized Iron' (GI) pipes are coated with which metal to prevent rusting?",
+    "o": ["Lead", "Tin", "Zinc", "Copper"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "Which test is used to detect the presence of organic pollution in water?",
+    "o": ["pH test", "E. coli (Coliform) count", "Hardness test", "Chloride test"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "Which chemical is commonly used as a 'Coagulant' in the water purification process?",
+    "o": ["Sodium Chloride", "Aluminum Sulphate (Alum)", "Calcium Carbonate", "Potassium Permanganate"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "The minimum radius for intersection curve when the speed is 35 kmph is:",
+    "o": ["15 m", "25 m", "35 m", "50 m"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "A basic requirement of 'Intersection at grade' is:",
+    "o": [
+      "the area of conflict should be small",
+      "the relative speed should be high",
+      "the relative angle of approach should be high",
+      "should clearly indicate what the driver should do"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "The primary object of providing Camber is:",
+    "o": ["easy drainage", "improved appearance", "separation of traffic", "easy overtaking facility"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "The minimum co-efficient of lateral friction for a highway is:",
+    "o": ["1", "0.5", "0.4", "0.15"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "Economic survey of a proposed road project includes a detailed survey of:",
+    "o": [
+      "agricultural and industrial products available in the area",
+      "resources income to local bodies as toll tax",
+      "origin and destination of traffic",
+      "soil characteristics at various places"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "The maximum permissible total solid content in water for domestic purposes should not exceed:",
+    "o": ["300 ppm", "400 ppm", "500 ppm", "1000 ppm"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "The odour of water can be determined by:",
+    "o": ["thermometer", "osmoscope", "Jackson's turbidimeter", "none of these"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "When lead is present in water, it:",
+    "o": ["changes its colour", "causes turbidity", "causes alkalinity", "none of these"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "Which of the following formula is used for computing the quantity of water for fire demand?",
+    "o": ["Freeman's formula", "Kuichling formula", "Buston's formula", "all of these"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "When the drain is over the canal, the structure provided is known as:",
+    "o": ["aqueduct", "super-passage", "canal siphon", "siphon aqueduct"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "When river flows in a plain country, its stage is known as:",
+    "o": ["delta", "boulder", "trough", "rocky"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "For smooth entry, the regulators are aligned at an angle of:",
+    "o": ["60°", "80°", "110°", "130°"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "According to Khosla's theory, the undermining of the floor starts from the:",
+    "o": ["starting end", "tail end", "intermediate point", "foundation bed"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "दुर्लभ धातु निओवेरस कुन स्थानमा पाइन्छ ?",
+    "o": ["गोरखा", "चितवन", "कञ्चनपुर", "झापा"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "सर्वप्रथम युरोप पुग्ने नेपालका राजा को हुन् ?",
+    "o": ["त्रिभुवन", "महेन्द्र", "वीरेन्द्र", "राजेन्द्र"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "पाटनमा रहेको पाँच प्राचिन स्तुपलाई के भनिन्छ ?",
+    "o": ["अशोक स्तम्भ", "पञ्चस्तम्भ", "चारुस्तम्भ", "प्राथर स्तम्भ"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "नेपालमा सबैभन्दा ठूलो लालिगुराँस कहाँ पाइन्छ ?",
+    "o": ["इलाम", "तेह्रथुम", "दोलखा", "धनकुटा"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "IUCN ले लोप र दुर्लभ हुन लागेका जीवहरुलाई कति भागमा विभाजन गरेको छ ?",
+    "o": ["५", "६", "४", "३"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "पाश्चरले रेविज रोग विरुद्धको सुई आविष्कार कहिले गरेका थिए ?",
+    "o": ["सन् १८८५ जुलाई १६", "सन् १८८० जुन १५", "सन् १८९० अगस्ट १०", "सन् १८७५ मे ५"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "दुई देशबीच कम्प्युटर जोड्ने उदाहरण के हो ?",
+    "o": ["WAN", "UTP", "MAN", "LAN"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "नेपालको संविधानको दोस्रो संशोधनले कुन धारा वा अनुसूचीमा संशोधन गरेको थियो ?",
+    "o": ["धारा ४२", "अनुसूची ३", "धारा २८६", "अनुसूची ४"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "संयुक्त राष्ट्रसंघको सुरक्षा परिषद्‌मा सबैभन्दा बढी भिटो (Veto) प्रयोग गर्ने राष्ट्र कुन हो ?",
+    "o": ["अमेरिका", "बेलायत", "चीन", "रुस"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "नोबेल पुरस्कार प्राप्त गर्ने सार्क क्षेत्रका पहिलो व्यक्ति को हुन् ?",
+    "o": ["मदर टेरेसा", "अमर्त्य सेन", "रविन्द्रनाथ टैगोर", "कैलास सत्यार्थी"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "निम्न मध्ये कुन 'एकोहोरो सञ्चार'को विधि अन्तर्गत पर्दछ?",
+    "o": ["पत्रपत्रिका", "भेटघाट", "छलफल", "वार्ता"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "बढीमा कति अवधिसम्मका लागि निजामती सेवाको पदमा अस्थायी नियुक्ती गर्न सकिन्छ?",
+    "o": ["६ महिना", "५ महिना", "४ महिना", "घ महिना"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "निम्न मध्ये कुन सरकारी बजेटको उद्देश्य होइन?",
+    "o": ["रोजगारी सिर्जना", "राष्ट्रिय आय अभिवृद्धि", "आर्थिक अस्थिरता कायम गर्नु", "स्रोत साधनको परिचालन"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "निम्न मध्ये कुन-कुन सार्वजनिक व्यवस्थापनको महत्व हुन्?",
+    "o": ["नियन्त्रण", "समन्वय", "राष्ट्र विकास", "माथिका सबै"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "मानवीय मूल्य मान्यतामा देहायको कुन पर्दैन?",
+    "o": ["सहयोगी भावना", "सत्य वचन", "शान्त रहने", "नाफाघाटा हेरेर व्यवहार गर्ने"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "बोलपत्र स्वीकृत गर्ने आशयको सूचना (Letter of Intent) कति दिनभित्र दिनु पर्नेछ?",
+    "o": ["३ दिनभित्र", "५ दिनभित्र", "७ दिनभित्र", "१५ दिनभित्र"],
+    "a": 2,
+    "e": "बोलपत्र छनोट भएको सात दिनभित्र सार्वजनिक निकायले बोलपत्रदातालाई आशयको सूचना दिनु पर्नेछ।"
+  },
+  {
+    "id": 47,
+    "q": "नेपालमा विद्युतीय कारोबार र विद्युतीय हस्ताक्षरलाई कानुनी मान्यता दिने ऐन कुन हो?",
+    "o": ["सूचना प्रविधि ऐन", "विद्युतीय कारोबार ऐन, २०६३", "साइवर अपराध ऐन", "दूरसञ्चार ऐन"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "बिनामूल्य वा कम मूल्यमा वस्तु तथा सेवा लिने राष्ट्रसेवकलाई कस्तो सजाय हुने प्रावधान छ?",
+    "o": ["छ महिना कैद", "६ महिना देखि १ वर्ष सम्म कैद", "४ महिना कैद", "बिगो कायम गरिने छैन"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "निजामती कर्मचारीले आफ्नो सेवा अवधिभरमा बढीमा कति वर्ष अध्ययन बिदा (Study Leave) पाउन सक्नेछन्?",
+    "o": ["२ वर्ष", "३ वर्ष", "४ वर्ष", "५ वर्ष"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "प्रदेश निजामती कर्मचारीले निवृत्तिभरण (Pension) पाउनको लागि कम्तीमा कति वर्ष सेवा अवधि पूरा गरेको हुनुपर्छ?",
+    "o": ["१५ वर्ष", "१८ वर्ष", "२० वर्ष", "२५ वर्ष"],
+    "a": 2,
+    "e": ""
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

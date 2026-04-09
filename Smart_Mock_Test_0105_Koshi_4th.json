@@ -1,0 +1,584 @@
+[
+  {
+    "id": 1,
+    "q": "Hardness of water is caused due to:",
+    "o": ["Calcium sulphate", "Magnesium sulphate", "Calcium nitrates", "All of the above"],
+    "a": 3,
+    "e": "Hardness is primarily caused by the presence of multivalent metallic cations, most commonly calcium and magnesium ions, in the form of carbonates, bicarbonates, sulphates, and chlorides."
+  },
+  {
+    "id": 2,
+    "q": "For supply in building, the cold-water supply is:",
+    "o": ["Internal water source", "external water source", "Himalayan water source", "None of these"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "Turbidity of raw water is a measure of:",
+    "o": ["Suspended solids", "Acidity of water", "BOD", "None of these"],
+    "a": 0,
+    "e": "Turbidity is an optical determination of water clarity. It measures the degree to which light is scattered by suspended particles like silt, clay, and organic matter."
+  },
+  {
+    "id": 4,
+    "q": "Manhole is required in water storage tank for:",
+    "o": ["Cleaning and maintenance", "Checking water level", "Disinfection", "All of the above"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "For the prevention of negative pressure during drawing of water from the storage tank, water tank must be provided with:",
+    "o": ["Pressure relief pipe", "Vent pipe", "Suction pipe", "None of these"],
+    "a": 1,
+    "e": "A vent pipe allows air to enter the tank as water is drawn out, equalizing pressure and preventing a vacuum that could damage the tank structure or restrict flow."
+  },
+  {
+    "id": 6,
+    "q": "In scanty rainfall regions, the camber provided will be:",
+    "o": ["nil", "flatter", "steeper", "None of these"],
+    "a": 1,
+    "e": "In regions with low rainfall, a flatter camber is sufficient because there is less water to drain off the road surface."
+  },
+  {
+    "id": 7,
+    "q": "In water bound macadam (WBM) roads, the binding material is:",
+    "o": ["sand", "stone dust", "cement", "brick dust"],
+    "a": 1,
+    "e": "Stone dust is used as a screening material to fill the voids between coarse aggregates in WBM construction, which then forms a solid mass when compacted with water."
+  },
+  {
+    "id": 8,
+    "q": "When the bed level of the canal is higher than the highest flood level (H.F.L.) of the drainage, the cross drainage work is called:",
+    "o": ["aqueduct", "super-passage", "canal siphon", "siphon aqueduct"],
+    "a": 0,
+    "e": "An aqueduct is a hydraulic structure where the canal water is carried over the drainage. In this case, the canal bed is above the H.F.L of the drain, allowing the drain to flow freely below."
+  },
+  
+  {
+    "id": 9,
+    "q": "The method used for training of rivers is:",
+    "o": ["guide bank", "dyke or levee", "groyne", "all of these"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "The maximum permissible quantity of iron and manganese in water for domestic purposes should be:",
+    "o": ["0.1 ppm", "0.3 ppm", "0.6 ppm", "0.8 ppm"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "The domestic uses of water amounts to ______ of the total water requirement per capita per day.",
+    "o": ["20%", "30%", "40%", "50%"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "फोहरमैला व्यवस्थापनका लागि ल्याण्डफिल साइट (Landfill Site) को निर्धारण र व्यवस्थापन कसले गर्छ?",
+    "o": ["वातावरण विभाग", "स्थानीय तह", "निजी क्षेत्र मात्र", "प्रदेश सरकार"],
+    "a": 1,
+    "e": "दफा ११ (२) (झ) (७) मा फोहरमैला व्यवस्थापन र ल्याण्डफिल साइटको अधिकार स्थानीय तहलाई दिइएको छ।"
+  },
+  {
+    "id": 13,
+    "q": "गाउँ/नगर सभाको सचिव को हुने व्यवस्था छ?",
+    "o": ["अध्यक्ष वा प्रमुख", "उपाध्यक्ष वा उपप्रमुख", "प्रमुख प्रशासकीय अधिकृत", "वडा अध्यक्ष"],
+    "a": 2,
+    "e": "दफा १९ (९) अनुसार प्रमुख प्रशासकीय अधिकृत सभाको सचिवको रूपमा काम गर्नेछ।"
+  },
+  {
+    "id": 14,
+    "q": "स्थानीय स्तरका सडक, पुल, पुलेसा र झोलुङ्गे पुलको निर्माण र मर्मत कसको जिम्मेवारीमा पर्छ?",
+    "o": ["सडक विभाग", "प्रदेश भौतिक पूर्वाधार मन्त्रालय", "स्थानीय तह", "सहरी विकास विभाग"],
+    "a": 2,
+    "e": "दफा ११ (२) (ट) (१ र २) मा स्थानीय सडक र पुलको अधिकार स्थानीय तहलाई दिइएको छ।"
+  },
+  {
+    "id": 15,
+    "q": "नगरपालिकामा न्यूनतम कति शय्या (Bed) को अस्पताल हुनुपर्ने व्यवस्था छ?",
+    "o": ["१५ शय्या", "२५ शय्या", "५० शय्या", "१०० शय्या"],
+    "a": 1,
+    "e": "दफा ८ (१) (क) (६) अनुसार २५ शय्याको अस्पताल अनिवार्य छ।"
+  },
+  {
+    "id": 16,
+    "q": "सार्वभौमसत्ता र राजकीय सत्ता कसमा निहित रहेको हुनेछ?",
+    "o": ["नेपाली जनतामा", "व्यक्तिमा", "नागरिक", "सबैको"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "विश्वमा निजामती सेवाको सुरुवात कुन देशबाट भएको मानिन्छ?",
+    "o": ["बेलायत", "अमेरिका", "चीन", "फ्रान्स"],
+    "a": 2,
+    "e": "China is recognized as the first country to implement a formal merit-based civil service exam system during the Han Dynasty."
+  },
+  {
+    "id": 18,
+    "q": "देहायका मध्ये कुन बिदा सम्बन्धित कार्यालय प्रमुख वा विभागीय प्रमुखले स्वीकृत गर्न सक्ने व्यवस्था छ?",
+    "o": ["अध्ययन बिदा", "बेतलबी बिदा", "भैपरी आउने र पर्व बिदा", "असाधारण बिदा"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "समावेशी कोटा अन्तर्गत दलित, आर्थिक रुपले विपन्न खस आर्य र थारुलाई कति-कति प्रतिशत पद छुट्याइएको छ?",
+    "o": ["५% प्रत्येकलाई", "६% प्रत्येकलाई", "९% प्रत्येकलाई", "४% प्रत्येकलाई"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "सरकारी निकायले सम्पादन गर्ने कामको सम्बन्धमा 'गुनासो व्यवस्थापन' (Grievance Management) सम्बन्धी व्यवस्था सुशासन ऐनको कुन दफामा छ?",
+    "o": ["दफा २९", "दफा ३०", "दफा ३१", "दफा ३२"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "स्थानीय सरकारी सेवाका कर्मचारीले वर्षमा कति दिन 'बिरामी बिदा' पाउने व्यवस्था छ?",
+    "o": ["१२ दिन", "१५ दिन", "१८ दिन", "३० दिन"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "कोशी प्रदेशको दोस्रो आवधिक योजनाका उद्देश्य र रणनीतिहरू क्रमशः कति वटा रहेका छन्?",
+    "o": ["४ वटा उद्देश्य र ८ वटा रणनीति", "५ वटा उद्देश्य र १० वटा रणनीति", "३ वटा उद्देश्य र ७ वटा रणनीति", "६ वटा उद्देश्य र ९ वटा रणनीति"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "अनिवार्य अवकाश हुन कति अवधि बाँकी रहेको कर्मचारीलाई सामान्यतया सरुवा गरिने छैन?",
+    "o": ["६ महिना भन्दा कम", "१ वर्ष भन्दा कम", "२ वर्ष भन्दा कम", "३ वर्ष भन्दा कम"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "१६ औं योजनाले कुन आर्थिक वर्षको अवधिलाई समेट्दछ?",
+    "o": ["२०८१/८२ देखि २०८५/८६", "२०८०/८१ देखि २०८४/८५", "२०८२/८३ देखि २०८६/८७", "२०७९/८० देखि २०८३/८५"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "संविधानसभा बाट जारी भएको एक मात्र संविधानको नाम के हो?",
+    "o": ["नेपालको संविधान", "नेपाल अधिराज्यको संविधान", "नेपालको संविधान, २०७२", "सबै"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "According to standard classification, what is the typical range of the Fineness Modulus for fine sand used for smooth wall plastering?",
+    "o": ["2.2 to 2.6", "2.6 to 2.9", "2.9 to 3.2", "3.2 to 3.5"],
+    "a": 0,
+    "e": "Fine sand has a Fineness Modulus between 2.2 and 2.6. This fine texture is required for smooth plastering, whereas coarser sand (higher values) is reserved for structural concrete."
+  },
+  {
+    "id": 27,
+    "q": "Which specific defect in structural timber is characterized by a dark, hard ring of wood tissue that formed around the base of a cut or broken branch?",
+    "o": ["Shake", "Knot", "Rind gall", "Burl"],
+    "a": 1,
+    "e": "A knot is the embedded base of a former branch. It disrupts the continuous flow of the wood fibers, significantly reducing the timber's tensile strength."
+  },
+  
+  {
+    "id": 28,
+    "q": "In standard interior distemper paints, which material strictly acts as the primary base (the bulk forming body)?",
+    "o": ["White lead", "Zinc oxide", "Chalk (Whiting)", "Titanium dioxide"],
+    "a": 2,
+    "e": "Distempers are water-based paints where finely powdered chalk (whiting) serves as the primary base, and water acts as the vehicle or carrier."
+  },
+  {
+    "id": 29,
+    "q": "Which specialized type of cement must be used for massive concrete pours, such as gravity dams, to prevent dangerous thermal cracking?",
+    "o": ["Rapid Hardening Portland Cement", "Low Heat Portland Cement", "High Alumina Cement", "Sulphate Resisting Portland Cement"],
+    "a": 1,
+    "e": "Low Heat Portland Cement reduces the percentage of Tricalcium Aluminate ($C_3A$). This slows the chemical reaction, drastically reducing the heat of hydration that causes internal thermal cracks in massive structures."
+  },
+  {
+    "id": 30,
+    "q": "What is the generally recommended standard cement-sand ratio (by volume) for prepareing mortar used in normal, load-bearing brick masonry work?",
+    "o": ["1:2 to 1:3", "1:4 to 1:6", "1:8 to 1:10", "1:12 to 1:15"],
+    "a": 1,
+    "e": "A mix ratio between 1:4 and 1:6 provides the optimal balance. It is rich enough to ensure strong compressive and bond strength, yet remains workable for the mason."
+  },
+  {
+    "id": 31,
+    "q": "According to standard reinforced concrete design codes (like IS 456), what is the absolute minimum grade of concrete permitted for use in Reinforced Cement Concrete (RCC) structures?",
+    "o": ["M10", "M15", "M20", "M25"],
+    "a": 2,
+    "e": "Modern codes mandate that structural RCC must use at least M20 grade concrete. Weaker mixes do not provide adequate bond strength with the steel or sufficient protection against environmental corrosion."
+  },
+  {
+    "id": 32,
+    "q": "When an adjacent building is being demolished or a deep excavation is made right next to an existing foundation, what specific temporary structure is erected to prevent collapse?",
+    "o": ["Scaffolding", "Formwork", "Underpinning", "Shoring"],
+    "a": 3,
+    "e": "Shoring involves the temporary application of heavy timber or steel props (such as raking, flying, or dead shores) to laterally or vertically support a structure that has become unsafe due to nearby work."
+  },
+  
+  {
+    "id": 33,
+    "q": "According to fundamental earthquake-resistant design principles, a building's plan shape should ideally be:",
+    "o": [
+      "Highly irregular with multiple re-entrant corners",
+      "Asymmetrical to randomly distribute dead loads",
+      "Simple, symmetrical, and rectangular",
+      "Extremely long and narrow"
+    ],
+    "a": 2,
+    "e": "Symmetrical and simple rectangular plans evenly distribute seismic forces and minimize torsional (twisting) effects during an earthquake."
+  },
+  {
+    "id": 34,
+    "q": "To completely prevent the absorption of ground moisture, what is the standard minimum height that cement bags should be stacked above the finished floor level?",
+    "o": ["50 mm", "100 mm", "150 mm to 200 mm", "500 mm"],
+    "a": 2,
+    "e": "Cement must be stored on a raised wooden platform at least 150 mm to 200 mm above the floor to ensure no dampness can travel upward and prematurely set the cement."
+  },
+  {
+    "id": 35,
+    "q": "In construction safety and excavation guidelines, what is the primary structural purpose of providing 'timbering' in deep foundation trenches?",
+    "o": [
+      "To provide a smooth interior surface for pouring concrete",
+      "To hold back the vertical soil faces and prevent fatal cave-ins",
+      "To act as a permanent foundation formwork",
+      "To absorb and drain groundwater directly"
+    ],
+    "a": 1,
+    "e": "Timbering (or trench shoring) is a life-safety measure that uses wooden planks and horizontal struts to brace the vertical walls of deep excavations, protecting workers from sudden soil collapse."
+  },
+  {
+    "id": 36,
+    "q": "When constructing an underground water storage tank, the internal plastering is typically treated with which specific compound to ensure long-term watertightness?",
+    "o": ["Rapid hardening agent", "Superplasticizer", "Integral waterproofing compound", "Air-entraining agent"],
+    "a": 2,
+    "e": "Integral waterproofing compounds block the microscopic capillary pores in the mortar, permanently preventing water leakage and seepage."
+  },
+  {
+    "id": 37,
+    "q": "Which type of pipe is universally considered the most durable and standard choice for carrying highly corrosive, acidic underground municipal sewage?",
+    "o": ["Galvanized Iron (GI) pipes", "Stoneware (Salt-glazed) pipes", "Mild Steel (MS) pipes", "Asbestos Cement (AC) pipes"],
+    "a": 1,
+    "e": "Salt-glazed stoneware pipes are chemically inert and resist the corrosive and acidic gases (like hydrogen sulfide) generated by decomposing sewage."
+  },
+  {
+    "id": 38,
+    "q": "In premium modern residential construction, which electrical wiring system provides the highest aesthetic appeal and maximum physical protection from external damage?",
+    "o": ["Cleat wiring", "Surface conduit wiring", "Concealed conduit wiring", "PVC batten wiring"],
+    "a": 2,
+    "e": "Concealed conduit wiring involves securing PVC pipes inside channels cut into the raw brickwork before plastering. It is hidden, fire-safe, and physically protected."
+  },
+  {
+    "id": 39,
+    "q": "In artificial lighting design, the ratio of the total luminous flux that actually reaches the working plane to the total luminous flux emitted by the bare lamp is defined as the:",
+    "o": ["Reflection factor", "Utilization factor", "Depreciation factor", "Maintenance factor"],
+    "a": 1,
+    "e": "The utilization factor accounts for light lost due to scattering or absorption by the luminaire casing, walls, and ceilings before illuminating the intended area."
+  },
+  {
+    "id": 40,
+    "q": "The section formed by the intersection of a right circular cone by a plane in different positions relative to the axis of the cone is called:",
+    "o": ["Conic section", "Prismatic section", "cylindrical section", "None"],
+    "a": 0,
+    "e": ""
+  },
+  
+  {
+    "id": 41,
+    "q": "When a cone is cut by a section plane at an angle less than its apex angle, the curve of the section is called:",
+    "o": ["Ellipse", "Parabola", "Hyperbola", "All of the above"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "Parallelogram has how many sides?",
+    "o": ["Two sides", "Three side", "Four sides", "Five sides"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "Which of the following is a type of engineering curve?",
+    "o": ["Helix", "Cycloid", "Spirals", "All of the above"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "A triangle has two angles as 60º and 30º, what is the third internal angle?",
+    "o": ["60°", "120°", "90°", "160°"],
+    "a": 2,
+    "e": "The sum of the interior angles of any triangle is always 180°. $180^\circ - (60^\circ + 30^\circ) = 90^\circ$."
+  },
+  {
+    "id": 45,
+    "q": "For the payment of cribbing work of wooden structure, the unit of measurement is:",
+    "o": ["Square meter", "Running meter", "Cubic meter", "Number"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "The most reliable estimate is:",
+    "o": ["Cube rate estimate", "Preliminary estimate", "Plinth area estimate", "Detailed estimate"],
+    "a": 3,
+    "e": "A detailed estimate is calculated by breaking down the project into specific items of work and quantities, providing the highest accuracy compared to rough cost estimates."
+  },
+  {
+    "id": 47,
+    "q": "Thickness of 16-gauge steel sheet is:",
+    "o": ["2.55 mm", "2.65 mm", "1.52 mm", "1.70 mm"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "Grouting of cracks is measured in:",
+    "o": ["Cubic meter", "Meter", "Number", "Square meter"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "Which of the following statements is correct regarding reinforcement?",
+    "o": [
+      "Bent-up bars at a support resist negative bending moment",
+      "Bent-up bars at a support resist shearing force",
+      "Bending of bars near supports is generally at 45°",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "If the chain which runs N-S direction is horizontal and ground in E-W direction is sloping:",
+    "o": [
+      "It is possible to set offsets correctly on East side",
+      "It is possible to set offsets correctly on West side",
+      "It is not possible to set offsets correctly on West side",
+      "It is possible to set offsets correctly on both sides"
+    ],
+    "a": 3,
+    "e": ""
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

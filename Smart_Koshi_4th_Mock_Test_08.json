@@ -1,0 +1,811 @@
+[
+  {
+    "id": 1,
+    "q": "The purpose of making the drawing board with seasoned soft wood",
+    "o": [
+      "Easy to carry",
+      "To match the T-square",
+      "For fixing paper with the help of pin",
+      "All of them"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "To draw very dark line which pencil is used",
+    "o": [
+      "HB",
+      "2B",
+      "B",
+      "H"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "The two parts of the T-square are.... and......",
+    "o": [
+      "Straight edge",
+      "Stoke",
+      "Blade",
+      "Both [b] &[c]"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "Set square is used",
+    "o": [
+      "To draw parallel line",
+      "To draw vertical line",
+      "Both [A] and [B]",
+      "None of above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "As built drawing is normally constructed...... the construction",
+    "o": [
+      "Before construction",
+      "Simultaneously with construction",
+      "After construction",
+      "All of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "The instrument attached to the wheel of a vehicle in order to measure the distance travelled, is called",
+    "o": [
+      "Passometer",
+      "Pedometer",
+      "Odometer",
+      "Speedometer"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "A diagonal scale is used to read",
+    "o": [
+      "two dimensional",
+      "four dimensional",
+      "three dimensional",
+      "all of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "In precision traverse, included angles are measured by the setting the vernier",
+    "o": [
+      "to read exactly 0 degree on back station",
+      "to read exactly @ degree on forward station",
+      "somewhere near 0 and reading both vernier on back station",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "Determining points of strategic importance are called",
+    "o": [
+      "topographic surveying",
+      "military surveying",
+      "traverse surveying",
+      "city surveying"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "The object of surveying is to prepare",
+    "o": [
+      "drawing",
+      "cross section",
+      "map",
+      "detailing"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "Pick up the correct statement from the following:",
+    "o": [
+      "The bent up bars at a support resist the negative bending moment",
+      "The bent up bars at a support resist the sharing force",
+      "The bending of bars near supports is generally at 45°",
+      "All the above."
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "The order of booking dimensions is",
+    "o": [
+      "Length, breadth, height",
+      "Breadth, length, height",
+      "Height, breadth, length",
+      "None of these."
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "The expected out turn of 2.5 cm cement concrete floor per manson per day",
+    "o": [
+      "2.5 sqm",
+      "5.0 sqm",
+      "7.5 sqm",
+      "10 sqm"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "नेपालको संविधान निर्माण गर्दा मस्यौदा समितिका अध्यक्ष को थिए?",
+    "o": [
+      "कृष्ण प्रसाद सिटौला",
+      "बाबुराम भट्टराई",
+      "माधव कु नेपाल",
+      "उपेन्द्र यादव"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "नेपालमा लोकसेवा आयोगको स्थापना कहिले भएको हो?",
+    "o": [
+      "वि.स. २००७ फागुन ७ गते",
+      "वि.स. २००८ असार १ गते",
+      "वि.स. २०१३ भदौ २२ गते",
+      "वि.स. २०१५ फागुन १ गते"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "प्रदेश निजामती सेवा पुरस्कार सिफारिस समितिको अध्यक्ष को रहने व्यवस्था रहेको छ?",
+    "o": [
+      "मुख्यमन्त्री",
+      "सम्बन्धित मन्त्रालयको सचिव",
+      "विभागीय मन्त्री",
+      "प्रमुख सचिव"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "सहायकस्तर पाँचौ तह सम्मको पदमा उम्मेदवार हुन कति उमेर पुरा भएको हुनुपर्दछ?",
+    "o": [
+      "१८ वर्ष",
+      "२१ वर्ष",
+      "२५ वर्ष",
+      "३५ वर्ष"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "'शासकीय सुधार एकाईको स्थापना' सम्बन्धी व्यवस्था प्रदेश सुशासन ऐनको कुन दफामा गरिएको छ?",
+    "o": [
+      "दफा २६",
+      "दफा २७",
+      "दफा २८",
+      "दफा २९"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "कोशी प्रदेश लोकसेवा आयोग ऐन, २०७६ राजपत्रमा कहिले प्रकाशित भएको हो?",
+    "o": [
+      "वि.सं २०७६/४/१७ गते",
+      "वि.सं २०७६/५/१७ गते",
+      "वि.सं २०७६/६/१७ गते",
+      "वि.सं २०७६/७/१७ गते"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "आवधिक योजनाको अन्त्यसम्म (आ.व. २०८५/८६) मा कोशी प्रदेशको प्रतिव्यक्ति कुल गार्हस्थ्य उत्पादन कति पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "१२९९ अमेरिकी डलर",
+      "१३३६ अमेरिकी डलर",
+      "१५०० अमेरिकी डलर",
+      "१६४५ अमेरिकी डलर"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "प्रदेश लोकसेवा आयोगको बैठक बस्नको लागि तत्काल कायम रहेको सदस्य संख्याको कति प्रतिशत भन्दा बढी सदस्य उपस्थित हुनुपर्दछ?",
+    "o": [
+      "३३%",
+      "५०%",
+      "६६%",
+      "७५%"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "सोहौ पञ्चवर्षीय योजना (२०८१।०८२ २०८५।०८६) ले योजनाको अन्तसम्ममा अनुसन्धान तथा विकासमा कतिप्रतिशत बजेट खर्च गर्ने लक्ष्य लिएको छ ?",
+    "o": [
+      "कुल बजेटको एक प्रतिशत",
+      "शिक्षाको बजेटको १० प्रतिशत",
+      "कुल बजेटको दुई प्रतिशत",
+      "शिक्षाको बजेटको २० प्रतिशत"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "संविधान तर्जुमा गर्दा विवाद समाधान समितिका अध्यक्ष को थिए?",
+    "o": [
+      "डा.बाबुराम भट्टराई",
+      "झलनाथ खनाल",
+      "कृष्ण प् सिटौला",
+      "महन्त ठाकुर"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "Seasoning of timber makes it highly resistant to fungal decay primarily by eliminating what?",
+    "o": [
+      "Natural sapwood",
+      "Excess moisture",
+      "Cellular lignin",
+      "Atmospheric oxygen"
+    ],
+    "a": 1,
+    "e": "Fungi require a damp environment to survive and feed on wood. By seasoning (drying) the timber below a 20% moisture content, you conceptually remove the fundamental life-support system for the decay-causing fungi."
+  },
+  {
+    "id": 25,
+    "q": "The hardening of Portland cement is fundamentally driven by which conceptual process?",
+    "o": [
+      "Evaporation of water",
+      "Chemical hydration",
+      "Atmospheric oxidation",
+      "Thermal expansion"
+    ],
+    "a": 1,
+    "e": "Cement does not \"dry out\" to become hard. It undergoes hydration—an irreversible chemical reaction between cement particles and water that conceptually forms a dense, interlocking crystalline matrix."
+  },
+  {
+    "id": 26,
+    "q": "What is the primary structural concept behind using a \"well-graded\" aggregate in a concrete mix?",
+    "o": [
+      "To maximize air voids",
+      "To minimize cement paste usage",
+      "To reduce the unit weight",
+      "To increase bleeding"
+    ],
+    "a": 1,
+    "e": "Well-graded aggregate contains particles of all sizes. Conceptually, the smaller particles fill the voids left by the larger ones, creating a dense mass that requires less expensive cement paste to bind it all together."
+  },
+  {
+    "id": 27,
+    "q": "Why are severely overburnt (vitrified) bricks conceptually unsuitable for standard load-bearing masonry?",
+    "o": [
+      "They are too porous",
+      "They are highly brittle",
+      "They absorb too much water",
+      "They are too soft"
+    ],
+    "a": 1,
+    "e": "Overburning melts the brick into a glass-like state. While they become extremely hard and water-resistant, they lose their toughness and become highly brittle, making them prone to shattering under structural loads or impact."
+  },
+  {
+    "id": 28,
+    "q": "In painting wood, what is the primary conceptual function of the initial primer coat?",
+    "o": [
+      "To provide a high gloss",
+      "To seal the surface pores",
+      "To resist UV radiation",
+      "To speed up drying"
+    ],
+    "a": 1,
+    "e": "Bare wood is highly porous and will suck the vehicle (oil) right out of normal paint, ruining it. The primer conceptually acts as a sealer, filling the pores and providing a stable, uniform base for subsequent paint coats to grip."
+  },
+  {
+    "id": 29,
+    "q": "Conceptually, if concrete is not cured and dries out rapidly, which mechanical property suffers the most severe drop?",
+    "o": [
+      "Initial workability",
+      "Tensile strength",
+      "Compressive strength",
+      "Setting time"
+    ],
+    "a": 2,
+    "e": "If water evaporates too quickly, hydration stops prematurely. The concrete will be riddled with empty capillary pores instead of strong hydration products, drastically lowering its final compressive strength."
+  },
+  {
+    "id": 30,
+    "q": "What is the fundamental structural reason for providing \"lap\" (staggering vertical joints) in brick masonry?",
+    "o": [
+      "To distribute loads evenly",
+      "To save on mortar quantities",
+      "To speed up construction",
+      "To increase thermal insulation"
+    ],
+    "a": 0,
+    "e": "Overlapping bricks conceptually ties the wall into a single cohesive unit. It ensures that any localized vertical load placed on the wall is distributed outward in a triangular pattern down to the foundation."
+  },
+  {
+    "id": 31,
+    "q": "Conceptually, why is a continuous strip foundation built much wider than the wall it supports?",
+    "o": [
+      "To resist groundwater pressure",
+      "To prevent frost heave",
+      "To reduce soil bearing pressure",
+      "To increase wall friction"
+    ],
+    "a": 2,
+    "e": "Soil is much weaker than brick or concrete. By widening the base conceptually, the total downward force of the building is spread over a larger area, reducing the pressure to a safe level that the soil can bear without sinking."
+  },
+  {
+    "id": 32,
+    "q": "In a simply supported RCC beam under gravity load, where is the main tensile steel conceptually placed?",
+    "o": [
+      "Near the top face",
+      "Near the bottom face",
+      "Exactly in the middle",
+      "Along the vertical sides"
+    ],
+    "a": 1,
+    "e": "When a beam bends downwards under gravity, the top half is compressed (which concrete handles well), but the bottom half stretches and pulls apart (tension). The steel is placed at the bottom to conceptually resist this pulling force."
+  },
+  {
+    "id": 33,
+    "q": "In earthquake engineering, why is an open ground floor (like a parking garage without infill walls) conceptually dangerous?",
+    "o": [
+      "It is too top-heavy",
+      "It lacks lateral stiffness",
+      "It traps seismic waves",
+      "It lowers the center of gravity"
+    ],
+    "a": 1,
+    "e": "This is known as a \"soft story.\" Without stiff masonry walls to resist horizontal seismic shaking, the bare ground floor columns take all the bending stress and can conceptually snap, causing the upper floors to pancake downwards."
+  },
+  {
+    "id": 34,
+    "q": "What is the primary conceptual purpose of a vent pipe in a domestic drainage network?",
+    "o": [
+      "To drain roof rainwater",
+      "To preserve water seals",
+      "To increase water pressure",
+      "To filter out solid wastes"
+    ],
+    "a": 1,
+    "e": "Vent pipes let atmospheric air into the drainage pipes. Conceptually, this prevents falling wastewater from creating a vacuum that would suck the protective water seals right out of the sanitary traps (siphonage)."
+  },
+  {
+    "id": 35,
+    "q": "Conceptually, why are domestic water storage tanks placed at the highest point on the roof?",
+    "o": [
+      "To utilize gravity for pressure",
+      "To purify water via sunlight",
+      "To prevent pipe corrosion",
+      "To reduce water evaporation"
+    ],
+    "a": 0,
+    "e": "Putting the tank at the highest elevation relies on the concept of hydrostatic head. Gravity naturally pushes the water down, providing adequate flow pressure to all the taps in the building below without needing electrical pumps."
+  },
+  {
+    "id": 36,
+    "q": "Conceptually, an electrical earthing system protects users by providing a dedicated path of:",
+    "o": [
+      "High voltage",
+      "High resistance",
+      "Low resistance",
+      "Low capacitance"
+    ],
+    "a": 2,
+    "e": "Electricity will always take the easiest path to the ground. By connecting a low-resistance copper wire to the appliance frame, fault currents conceptually bypass the high-resistance human body and rush safely into the earth."
+  },
+  {
+    "id": 37,
+    "q": "In interior lighting design, the visual discomfort known as \"glare\" is conceptually caused by:",
+    "o": [
+      "Insufficient light levels",
+      "Excessive brightness contrast",
+      "Incorrect wire sizing",
+      "Low voltage supply"
+    ],
+    "a": 1,
+    "e": "Glare is not just about having \"too much light.\" Conceptually, it occurs when there is an extreme contrast between a very bright light source (like an unshielded bulb) and the darker background, overwhelming the eye's ability to adapt."
+  },
+  {
+    "id": 38,
+    "q": "Water storage tank must have at least one number of manholes of size",
+    "o": [
+      "300mm × 300mm",
+      "450mm × 450mm",
+      "500mm × 500mm",
+      "600mm × 600mm"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "Manhole is required in water storage tank for",
+    "o": [
+      "Cleaning and maintenance",
+      "Checking water level",
+      "Disinfection",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "The temporary hardness of water can be removed by",
+    "o": [
+      "Boiling",
+      "Adding lime",
+      "Adding alum",
+      "Filtration"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "The consumer's tap should have a minimum residual pressure of",
+    "o": [
+      "0.015 N/mm²",
+      "0.018 N/mm²",
+      "1.8 N/mm²",
+      "2 N/mm²"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "The equipment used for cleaning the sewers easily is called",
+    "o": [
+      "Gouge",
+      "scoop",
+      "claw",
+      "scraper"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "The area of most acute vision of a driver is a cone of .............",
+    "o": [
+      "3°",
+      "10°",
+      "15°",
+      "20°"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "30th highest hourly volume means .............",
+    "o": [
+      "AADT exceeded it 29 times in an hour",
+      "AADT exceeded it 29 times in a day",
+      "AADT exceeded it 29 times in a month",
+      "AADT exceeded it 29 times in an year"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "Stone pitching, or any other material laid on a sloping face of an earthen bank to maintain its slope or to protect it from erosion is called ...............",
+    "o": [
+      "filter",
+      "revetment",
+      "shrouding",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "The design of a major hydraulic structure founded on a permeable foundation is generally based on ...............",
+    "o": [
+      "Khosla's theory of independent variables",
+      "Bligh's creep theory",
+      "Lane's weighted creep theory",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "In dry feeding type of coagulants, the dose of coagulants is controlled by .............",
+    "o": [
+      "scrapers",
+      "worm wheel",
+      "paddles",
+      "none of these"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "Bacteria which cause disease are called .............",
+    "o": [
+      "anaerobic bacteria",
+      "facultative bacteria",
+      "aerobic bacteria",
+      "none of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "स्थानीय तहले कुन मोडलमा पूर्वाधार विकास गर्न सक्छ?",
+    "o": [
+      "सार्वजनिक निजी साझेदारी (PPP)",
+      "सहकारी क्षेत्रसँगको सहकार्य",
+      "समुदायसँगको साझेदारी",
+      "माथिका सबै"
+    ],
+    "a": 3,
+    "e": "दफा ११ र १३ मा विभिन्न क्षेत्रसँगको सहकार्यमा विकास गर्ने व्यवस्था छ।"
+  },
+  {
+    "id": 50,
+    "q": "भवन निर्माण अनुमति (नक्सा पास) का लागि दरखास्त परेको कति दिनभित्र स्थानीय तहले निर्णय दिनुपर्छ?",
+    "o": [
+      "७ दिन",
+      "१५ दिन",
+      "२१ दिन",
+      "३५ दिन"
+    ],
+    "a": 3,
+    "e": "दफा ३० र ४२ का प्रक्रियाहरू अनुसार ३५ दिनभित्र निवेदनउपर आवश्यक छानबिन र निर्णय गरिनुपर्छ।"
+  }
+
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

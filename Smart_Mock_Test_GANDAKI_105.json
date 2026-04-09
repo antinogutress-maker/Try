@@ -1,0 +1,562 @@
+[
+  
+  {
+    "id": 1,
+    "q": "नारायणगढ कुन नदीको किनारमा अवस्थित रहेको छ ?",
+    "o": ["राप्ती", "तिनाउ", "त्रिशुली", "नारायणी"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "किराँतीहरुको शासन व्यवस्था कहिले प्रारम्भ भएको थियो ?",
+    "o": ["इ.पू. ३००", "इ.पू. ८००", "इ.पू. १२००", "इ.पू. १५००"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "तलका मध्ये सुविधाबञ्चित समूहमा नपर्ने जाति कुन हो ?",
+    "o": ["चेपाङ", "गुरुङ", "मगर", "शेर्पा"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "नेपालमा सर्वप्रथम पर्यटन नीति कहिले लागु गरिएको हो ?",
+    "o": ["वि.सं. २०५१", "वि.सं. २०५२", "वि.सं. २०५३", "वि.सं. २०५४"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "पाटे बाघको वैज्ञानिक नाम के हो ?",
+    "o": ["Panthera Uncia", "Panthera Tigris", "Prionailurus Bengalensi", "Panthera Bengalensi"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "आइन्स्टाइनले कहिलेदेखि जर्मनीको नागरिकता त्यागेर अमेरिका बसेका थिए ?",
+    "o": ["सन् १९३० देखि", "सन् १९३३ देखि", "सन् १९३५ देखि", "सन् १९४० देखि"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "कुन तत्त्वको अभावमा बिरुवाका फूलहरु राम्ररी फुल्दैनन् ?",
+    "o": ["नाइट्रोजन", "फस्फोरस", "पोटासियम", "म्याग्नेसियम"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "नेपालको संविधान कहिले प्रमाणीकरण भएको थियो ?",
+    "o": ["वि.सं. २०७२ असोज १ गते", "वि.सं. २०७२ भाद्र ३० गते", "वि.सं. २०७२ असोज ३ गते", "वि.सं. २०७३ असोज १ गते"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "संयुक्त राष्ट्रसंघको प्रधान कार्यालय कहाँ रहेको छ ?",
+    "o": ["जेनेभा, स्वीट्जरल्याण्ड", "वासिङ्गटन डी.सी., अमेरिका", "पेरिस, फ्रान्स", "म्यानहटन टापु, न्यूयोर्क"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "SAARC को पूरा रुप के हो ?",
+    "o": ["South Asian Association for Regional Co-operation", "South Asian Agency for Regional Co-operation", "South Asian Alliance for Regional Co-operation", "South Asian Administration for Regional Co-operation"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "E-coli concentration in drinking water shall be:",
+    "o": ["1 CFU/100 ml", "0 CFU/100 ml", "10 CFU/100 ml", "50 CFU/100 ml"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "According to NBC: 208-2003, the minimum water requirement for apartment buildings per head per day shall be:",
+    "o": ["45 liters", "60 liters", "100 liters", "135 liters"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "Sustainable development goal (SDG) target 6.1 assured that, Nepal must meet the target of 90% safe and affordable water accessibility by:",
+    "o": ["2030 AD", "2032 AD", "2035 AD", "2040 AD"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "A city supply includes:",
+    "o": ["Domestic water demand", "Industrial and commercial water demands", "Demand for public uses and fire", "All of the above"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "An advantage of 'one way traffic' system is .............",
+    "o": ["reduced number of points of conflicts", "saving of fuel", "short joining distances", "quality of improvement in environment"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "A channelization island provides .............",
+    "o": ["equal entry and exit widths", "funnel shaped entry and wider exit", "wider entrance and funnel shaped exit", "high relative speed at entry and low speed at exit"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "An instrument used to study 'Spot Speeds' in traffic engineering is .............",
+    "o": ["speedometer", "enoscope", "speed recorder", "enometer"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "Seal coat is a layer of .............",
+    "o": ["cement concrete", "coarse sand + Bitumen", "water repellant agent", "adhesive to improve bond between aggregates"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "In Bitumen Bound Macadam roads a Bituminous premix at the following temperature is applied:",
+    "o": ["0°C", "100°C", "150°C", "200°C"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "Cavitation is possible only in ...............",
+    "o": ["impulse turbines", "reaction turbines and pumps", "reaction turbines and impulse turbines", "impulse turbines and pumps"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "The velocity permitted in the barrels of siphon aqueduct is of the order ...............",
+    "o": ["4 to 5 m/s", "3 to 4 m/s", "2 to 3 m/s", "1 to 2 m/s"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "In montague type canal fall the glacis is ...............",
+    "o": ["straight", "parabolic", "cycloidal", "none of the above"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "The ratio of rate of change of discharge in the outlet to the rate of change of the water level in the distributory with respect to the normal depth of flow is called ...............",
+    "o": ["setting", "sensitivity", "efficiency", "drowning ratio"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "The detention time for an ordinary plain sedimentation tank is .............",
+    "o": ["1 to 2 hours", "2 to 4 hours", "6 to 8 hours", "20 to 24 hours"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "Copper sulphate is the most common chemical used for controlling .............",
+    "o": ["bacteria", "algae", "silt", "mineral matter"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "Membrane filter technique is used for testing .............",
+    "o": ["E-coli", "copper", "pathogenic bacteria", "none of these"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "The alum when mixed with water as a coagulant .............",
+    "o": ["does not effects pH value of water", "decrease pH value of water", "increase pH value of water", "none of these"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "गण्डकी प्रदेश दोस्रो पञ्चवर्षीय योजनामा 'समुन्नति' (Prosperity) का लागि कति वटा प्रादेशिक लक्ष्यहरू (Provincial Goals) निर्धारण गरिएको छ?",
+    "o": ["१०", "१२", "१४", "८"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "नेपालमा निजामती कर्मचारीका आचरण पालनामा निम्न मध्ये कुन समस्या विद्यमान छन् ?",
+    "o": ["प्रशासन राजनैतिक हस्तक्षेप", "नेतृत्व वर्गको इच्छाशक्तिको कमी", "दण्डहिनता", "माथिका सबै"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "नेपालका निजामती कर्मचारीले कुन-कुन पेशागत आचरण अनिवार्य रुपमा पालन गर्नुपर्दछ ?",
+    "o": ["कानुनको जानकारी", "आर्थिक अनुशासन", "सदाचारिता", "माथिका सबै"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "प्रदेश सेवा अन्तर्गत तलका मध्ये कुन पर्दछन् ?",
+    "o": ["प्रदेश निजामती सेवा", "प्रदेश संगठित संस्थाको सेवा", "प्रदेश संसद सेवा", "माथिका सबै"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "स्थानीय सेवा अन्तर्गत कार्यसम्पादन हुने कार्य कुन कुन हुन् ?",
+    "o": ["स्थानीय तहका आयोजना व्यवस्थापन", "आधारभुत शिक्षा, स्वास्थ्य, निर्माण कार्य", "स्थानीय भाषा संस्कृतिको सुरक्षा", "माथिका सबै"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "स्थानीय तहको सेवा व्यवस्थापन सम्बद्ध निम्न मध्ये कुन कुन कानुनहरु पर्दछन् ?",
+    "o": ["स्थानीय सरकार सञ्चालन ऐन २०७४", "कर्मचारी समायोजन ऐन २०७५", "दुवै सहि", "दुवै गलत"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "सार्वजनिक सेवा अन्तर्गत निम्न मध्ये कुन कुन पर्दैनन् ?",
+    "o": ["परम्परागत सेवा", "नियमनकारी सेवा", "पूर्वाधार सेवा", "कुनै पनि हैन"],
+    "a": 3,
+    "e": "दिइएका सबै विकल्पहरू सार्वजनिक सेवा अन्तर्गत पर्ने हुनाले कुनै पनि हैन भन्ने विकल्प सही हो।"
+  },
+  {
+    "id": 35,
+    "q": "सार्वजनिक सेवाको आधुनिक सेवाको अवधारणा कहिले बाट भएको हो ?",
+    "o": ["सन् १९८० को दशक पूर्व", "सन् १९८० को दशक पश्च्यात", "वि.स. २०४७", "वि.स. २०१५"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "सार्वजनिक वडापत्र भनेको के हो ?",
+    "o": ["जनताले जारी गरेको आदेशपत्र", "राजनीतिक दलको घोषणापत्र", "सेवाग्राहीलाई सुसुचित गर्ने सूचना", "नागरिक समाजको दस्तावेज"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "नेपालमा प्रशासनिक प्रमुखको रुपमा सचिव पदको सृजना कहिले भयो ?",
+    "o": ["वि.स. २००७", "वि.स. २०१५", "वि.स. २०३६", "वि.स. २०३९"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "The top and right-side views have what common dimension?",
+    "o": ["Height and width", "Width and depth", "Height", "Depth"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "Which view is usually developed first, contains the least amount of hidden lines, and shows the most contours in multi view drawings?",
+    "o": ["Right side", "Top", "Back", "Front"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "Normal planes in a three-view drawing will appear as:",
+    "o": ["One surface and two edges", "Three surfaces", "Three edges", "One edge and two surfaces"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "For the roads of thickness up to 20 cm, the thickness shall be measured to nearest:",
+    "o": ["0.01 m", "0.005m", "0.5 m", "0.1 m"],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "A bill of quantity shall fully describe the:",
+    "o": ["Materials", "Proportions", "Workmanships", "All of the above"],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "Thickness of slab or RC slab which shall be measured to nearest:",
+    "o": ["0.005 m", "0.05 m", "0.1 m", "0.15 m"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "Which branch of surveying is used to find the elevations of given points with respect to given or assumed datum?",
+    "o": ["Levelling", "Contouring", "Traversing", "Plane table surveying"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "Permanent adjustments of a level are:",
+    "o": ["2 in number", "3 in number", "4 in number", "6 in number"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "Particle boards are manufactured by using:",
+    "o": ["Chips of wood, rice husk and bagasse", "Strips of wood of width 25 - 80 mm", "Wood pulp", "None of these"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "Which of the following is defect due to natural forces?",
+    "o": ["Knots", "Bowing", "Chip mark", "All of the above"],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "The form work from the underside of slabs can be removed only after:",
+    "o": ["1 day", "3 days", "7 days", "14 days"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "Bed room shall be located at:",
+    "o": ["South east direction", "North east direction", "South west direction", "North direction"],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "Which of the following is service area in building?",
+    "o": ["Lift and shafts", "Kitchen", "Bed room", "All of the above"],
+    "a": 0,
+    "e": ""
+  }
+
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

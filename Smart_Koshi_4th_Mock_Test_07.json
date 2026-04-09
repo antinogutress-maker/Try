@@ -1,0 +1,760 @@
+[
+  {
+    "id": 1,
+    "q": "In an oblique drawing, equally spaced partial circles may be used to show this",
+    "o": [
+      "Symbolic thread pitch",
+      "ellipses",
+      "Cavalier drawings",
+      "Projection points"
+    ],
+    "a": 0
+  },
+  {
+    "id": 2,
+    "q": "In oblique projection, at an",
+    "o": [
+      "Angle 90° with the plane",
+      "Angle 60° with the plane",
+      "Angle other than 90° with the plane",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 3,
+    "q": "When the receding lines are drawn to half size scale then the oblique projection is",
+    "o": [
+      "Cabinet projection",
+      "Isometric projection",
+      "Orthographic projection",
+      "Cavalier projection"
+    ],
+    "a": 0
+  },
+  {
+    "id": 4,
+    "q": "In oblique sketches, the most commonly used angles for receding lines are",
+    "o": [
+      "15° or 60°",
+      "15° or 75°",
+      "45° or 60°",
+      "45° or 75°"
+    ],
+    "a": 2
+  },
+  {
+    "id": 5,
+    "q": "Objects that are symmetric can be shown effectively by using",
+    "o": [
+      "Quarter section",
+      "Half section",
+      "Full section",
+      "Symmetric section"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "For steel work areas excluding cross-sectional measurements shall be worked out to nearest",
+    "o": [
+      "0.01 sq.m",
+      "0.001 sq.m",
+      "0.0001 sq.m",
+      "0.2 sq.m"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "Detail estimate requires",
+    "o": [
+      "Drawing",
+      "Specification",
+      "Both (a) and (b)",
+      "Quality of material"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "When additional works are needed to complement the initial works, the estimate to be done is",
+    "o": [
+      "Approximate estimate",
+      "Detailed estimate",
+      "Supplementary estimate",
+      "Plinth area estimate"
+    ],
+    "a": 2
+  },
+  {
+    "id": 9,
+    "q": "The explosive for blasting is usually expressed in terms of",
+    "o": [
+      "Explosive power",
+      "Volume of earthwork that can be blasted",
+      "Kilograms",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 10,
+    "q": "Which of the following item of work is measure in sq.m?",
+    "o": [
+      "Honey comb brick work",
+      "RCC work in beam and column",
+      "Two brick wall",
+      "All of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 11,
+    "q": "The distance of visible horizon from a point h elevation is",
+    "o": [
+      "d = 3.855 √h kilometers",
+      "d=2.876 √h kilometers",
+      "d=5.567 √h kilometers",
+      "d = 4.855 √h kilometers"
+    ],
+    "a": 0
+  },
+  {
+    "id": 12,
+    "q": "Curvature correction is always",
+    "o": [
+      "Positive",
+      "Negative",
+      "Neither positive nor negative",
+      "None of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 13,
+    "q": "A building is obstacle to",
+    "o": [
+      "Chaining but not ranging",
+      "Ranging but not chaining",
+      "Both chaining and ranging",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 14,
+    "q": "प्रत्येक महिलालाई लैङ्गिक भेदभाव बिना वंशीय हक हुने छ भन्ने व्यवस्था कुन हकले व्यवस्था गरेको छ?",
+    "o": [
+      "महिला हक",
+      "समानताको हक",
+      "सामाजिक न्यायको हक",
+      "सबै"
+    ],
+    "a": 0
+  },
+  {
+    "id": 15,
+    "q": "आधुनिक निजामती सेवाको सुरुवात (सन् १८५३-१८५४ मा) कुन देशबाट भएको हो?",
+    "o": [
+      "फ्रान्स",
+      "अमेरिका",
+      "बेलायत",
+      "चीन"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "'उत्कृष्ट प्रदेश निजामती सेवा पुरस्कार' (रु. १ लाख राशि भएको) वार्षिक रूपमा कति जना कर्मचारीलाई प्रदान गर्ने व्यवस्था छ?",
+    "o": [
+      "१ जनालाई",
+      "२ जनालाई",
+      "३ जनालाई",
+      "१० जनालाई"
+    ],
+    "a": 2
+  },
+  {
+    "id": 17,
+    "q": "स्थानीय सरकारी सेवा (गठन तथा सञ्चालन) ऐन, २०८० को दफा ३ बमोजिम स्थानीय तहमा आवश्यकता अनुसार कति वटा स्थानीय सरकारी सेवाको गठन गर्न सकिने व्यवस्था छ?",
+    "o": [
+      "५ वटा",
+      "६ वटा",
+      "८ वटा",
+      "१० वटा"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "सार्वजनिक काम कारबाहीलाई पारदर्शी बनाउन 'सार्वजनिक सुनुवाइ गराउनु पर्ने' व्यवस्था प्रदेश सुशासन ऐनको कुन दफामा उल्लेख छ?",
+    "o": [
+      "दफा २८",
+      "दफा २९",
+      "दफा ३०",
+      "दफा ३१"
+    ],
+    "a": 1
+  },
+  {
+    "id": 19,
+    "q": "प्रदेश लोकसेवा आयोगको 'काम, कर्तव्य र अधिकार' सम्बन्धी व्यवस्था कुन दफामा गरिएको छ?",
+    "o": [
+      "दफा ५",
+      "दफा ६",
+      "दफा ७",
+      "दफा ८"
+    ],
+    "a": 1
+  },
+  {
+    "id": 20,
+    "q": "कोशी प्रदेशको दोस्रो आवधिक योजनाको अन्त्यसम्म (आ.व. २०८५/८६) मा आर्थिक वृद्धिदर कति पुर्‍याउने लक्ष्य राखिएको छ?",
+    "o": [
+      "५.४१%",
+      "६.००%",
+      "७.५५%",
+      "१०.५६%"
+    ],
+    "a": 2
+  },
+  {
+    "id": 21,
+    "q": "'प्रदेश आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७८' मा 'अन्तिम लेखापरीक्षण' भन्नाले नेपालको संविधानको कुन धारा बमोजिम हुने लेखापरीक्षणलाई सम्झनु पर्छ?",
+    "o": [
+      "धारा २४०",
+      "धारा २४१",
+      "धारा २४२",
+      "धारा २४३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 22,
+    "q": "१६ औं योजनाले योजना अवधिको अन्तिम वर्ष सम्म लैङ्गिक विकास सूचकाङ्क कति पुर्याउने लक्ष्य राखेको छ?",
+    "o": [
+      "०.८८५",
+      "०.९३७",
+      "०.७०१",
+      "०.९२२"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "नेपालमा हाल सम्म कति वटा संविधान जारी भएका छन्?",
+    "o": [
+      "९",
+      "७",
+      "६",
+      "८"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "In the manufacturing of brick earth, what is the primary conceptual purpose of having a sufficient quantity of Silica (sand) in the mixture?",
+    "o": [
+      "To fuse the materials together and provide the red color",
+      "To act as a flux and reduce the burning temperature",
+      "To prevent the bricks from cracking, shrinking, and warping during drying",
+      "To make the brick highly impermeable to water"
+    ],
+    "a": 2
+  },
+  {
+    "id": 25,
+    "q": "Which specific chemical compound in Ordinary Portland Cement (OPC) is conceptually responsible for the early strength development (within the first 7 days) of concrete?",
+    "o": [
+      "Tricalcium Silicate (C3S)",
+      "Dicalcium Silicate (C2S)",
+      "Tricalcium Aluminate (C3A)",
+      "Tetracalcium Aluminoferrite (C4AF)"
+    ],
+    "a": 0
+  },
+  {
+    "id": 26,
+    "q": "In lime-cement plaster (often called gauged mortar), what is the primary conceptual reason for adding lime to the standard cement-sand mixture?",
+    "o": [
+      "To significantly increase the ultimate compressive strength of the plaster",
+      "To increase the workability, plasticity, and water retention of the mortar",
+      "To make the plaster set instantly upon application",
+      "To change the chemical color of the cement to bright white"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "Conceptually, the structural strength of timber is at its absolute maximum when a compressive load is applied in which direction?",
+    "o": [
+      "Perpendicular to the grain",
+      "Parallel to the grain",
+      "Diagonally at 45 degrees to the grain",
+      "Tangential to the annual rings"
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "How does the presence of excess moisture conceptually affect the physical properties of building sand (the phenomenon of bulking)?",
+    "o": [
+      "It increases both the volume and the actual dry weight of the sand.",
+      "It decreases the volume but increases the dry weight.",
+      "It increases the volume without adding any actual sand particles, disrupting mix proportions.",
+      "It chemically dissolves the sand, reducing its overall volume."
+    ],
+    "a": 2
+  },
+  {
+    "id": 29,
+    "q": "Conceptually, what happens to freshly mixed concrete if the water-cement (w/c) ratio is kept extremely low (e.g., 0.20) without the use of any plasticizing admixtures?",
+    "o": [
+      "It achieves maximum theoretical strength and is easy to lay.",
+      "It becomes highly workable and self-compacting.",
+      "It becomes unworkable, cannot be fully compacted, and leaves air voids that drastically reduce final strength.",
+      "It undergoes flash setting within 2 minutes."
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "In brick masonry construction, why are continuous vertical joints (straight joints) strictly avoided conceptually?",
+    "o": [
+      "They require too much mortar, increasing the cost of the wall.",
+      "They create a continuous plane of weakness, reducing the wall's ability to distribute loads and resist cracking.",
+      "They ruin the architectural aesthetics of the exposed brickwork.",
+      "They make it impossible to point the joints later."
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "Conceptually, why must the formwork for the soffit (bottom) of a suspended RCC beam remain in place much longer than the vertical side formwork of an RCC column?",
+    "o": [
+      "The beam soffit must resist the direct gravitational dead load of the concrete until it gains flexural strength.",
+      "Columns cure much slower than beams due to their vertical orientation.",
+      "Beams require less moisture for hydration than columns.",
+      "It is purely a safety regulation to prevent tools from falling."
+    ],
+    "a": 0
+  },
+  {
+    "id": 32,
+    "q": "In an earthquake-resistant masonry building, what is the primary conceptual function of a rigid horizontal diaphragm (like an RCC roof slab)?",
+    "o": [
+      "To increase the total vertical dead load on the foundation.",
+      "To act as a heavy weight that dampens the earthquake vibrations.",
+      "To tie the walls together and transfer horizontal seismic forces uniformly to the load-bearing vertical walls.",
+      "To prevent the roof from blowing away in high winds."
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "On high-level construction scaffolding, what is the specific conceptual safety purpose of installing \"toe boards\" along the edges of the working platform?",
+    "o": [
+      "To provide a structural tie between the vertical standards.",
+      "To act as a stepping surface for workers to reach higher levels.",
+      "To prevent tools, loose materials, and debris from accidentally being kicked or rolling off the edge and striking workers below.",
+      "To clearly mark the boundary of the scaffolding for aesthetic reasons."
+    ],
+    "a": 2
+  },
+  {
+    "id": 34,
+    "q": "In the plumbing system of a multi-story building, if the water seal in a sanitary trap is repeatedly lost due to \"siphonage,\" what is the primary conceptual flaw in the design?",
+    "o": [
+      "The trap is too large for the connected pipe.",
+      "The water pressure in the municipal supply line is too low.",
+      "There is an absence or failure of proper anti-siphonage (ventilation) pipes.",
+      "The wastewater contains too many solid chemicals."
+    ],
+    "a": 2
+  },
+  {
+    "id": 35,
+    "q": "In a high-rise building's water distribution network, what is the conceptual purpose of incorporating Break Pressure Tanks or Pressure Reducing Valves (PRVs) at intermediate floors?",
+    "o": [
+      "To filter out impurities before water reaches the taps.",
+      "To prevent the extreme static hydrostatic pressure from the overhead tank from bursting pipes and damaging fittings on the lower floors.",
+      "To chemically heat the water before distribution.",
+      "To increase the velocity of water flow during peak hours."
+    ],
+    "a": 1
+  },
+  {
+    "id": 36,
+    "q": "According to basic electrical safety concepts, why is the \"Earth\" pin on a standard 3-pin plug physically designed to be longer and thicker than the Live and Neutral pins?",
+    "o": [
+      "To handle higher voltages than the other two pins.",
+      "To ensure the grounding connection is safely established first before the power flows, and to prevent it from being incorrectly jammed into a live socket.",
+      "To act as a physical lever to easily pull the plug out of the wall.",
+      "To consume excess electricity and reduce the power bill."
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "Based on the fundamental laws of illumination, how does the illuminance (lux level) on a desk conceptually change if the vertical distance between the desk and the point light source is doubled?",
+    "o": [
+      "It decreases to exactly half (1/2) of its original value.",
+      "It decreases to one-fourth (1/4) of its original value.",
+      "It remains exactly the same, but the light spreads wider.",
+      "It increases to twice its original value."
+    ],
+    "a": 1
+  },
+  {
+    "id": 38,
+    "q": "Air valves are generally provided in pressure pipes of water supply",
+    "o": [
+      "At pipe junctions",
+      "At summits",
+      "At low points",
+      "Near service pipes"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "Which of the following appliance is used to provide hot water in building?",
+    "o": [
+      "Solar panel",
+      "Electric geyser",
+      "Both (A) and (B)",
+      "Air conditioner"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "DWSSM stands for",
+    "o": [
+      "Department of watershed and slope stability management",
+      "Department of water supply and sanitation management",
+      "Department of water supply and sewerage management",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 41,
+    "q": "What is the permitted concentration of arsenic in drinking water?",
+    "o": [
+      "0.05mg/l",
+      "0.04mg/l",
+      "0.03mg/l",
+      "0.06 mg/l"
+    ],
+    "a": 0
+  },
+  {
+    "id": 42,
+    "q": "Which water is suitable for drinking purpose?",
+    "o": [
+      "Pure water",
+      "Potable water",
+      "Polluted water",
+      "Infected water"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "The duty of well water is more than the duty of canal water because ...............",
+    "o": [
+      "well water is less turbid than canal water",
+      "well water is used more economically",
+      "well water irrigation incurs less conveyance losses",
+      "both 'b' and 'c'"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "The irrigation with sewage, (instead of natural water) where the disposal of sewage is the primary object is called ...............",
+    "o": [
+      "sewage irrigation",
+      "wealth from waste irrigation",
+      "broad irrigation",
+      "none of the above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 45,
+    "q": "A basic requirement of 'Intersection at grade' is .............",
+    "o": [
+      "the area of conflict should be small",
+      "the relative speed should be high",
+      "the relative angle of approach of the vehicles should be high",
+      "should clearly indicate what the driver should do"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "An advantage of manual counting of traffic is .............",
+    "o": [
+      "Permits traffic classification by the type of vehicle",
+      "suited in any climate",
+      "highly accurate",
+      "it can be carried out for any length of time"
+    ],
+    "a": 0
+  },
+  {
+    "id": 47,
+    "q": "The organic impurities in water form a layer on the top of a filtering media. Such layer is called .......",
+    "o": [
+      "permeable layer",
+      "filtering layer",
+      "dirty skin",
+      "none of these"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "The length of rectangular sedimentation tank should not be more than ............. the width of the tank.",
+    "o": [
+      "twice",
+      "three times",
+      "four times",
+      "six times"
+    ],
+    "a": 2
+  },
+  {
+    "id": 49,
+    "q": "कति जनसंख्या भएमा उपमहानगरपालिका बन्न सक्छ?",
+    "o": [
+      "1 लाख",
+      "1.5 लाख",
+      "2 लाख",
+      "3 लाख"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "ऐलानी र पर्ती जग्गाको संरक्षण गर्ने मुख्य जिम्मेवारी कसको हो?",
+    "o": [
+      "नापी कार्यालय",
+      "मालपोत कार्यालय",
+      "स्थानीय तह",
+      "वन कार्यालय"
+    ],
+    "a": 2
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

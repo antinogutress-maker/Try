@@ -1,0 +1,583 @@
+[
+
+  {
+    "id": 1,
+    "q": "The minimum radius for intersection curve when the speed is 35 kmph is ............ ",
+    "o": [ "15 m", "25 m", "35 m", "50 m" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "Mixed traffic means ............ ",
+    "o": [
+      "both up and down traffic",
+      "light traffic as of cycles too that of heavy traffic as of trucks",
+      "pedestrians + animal drawn coaches + lorries",
+      "show moving and fast moving traffic"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "The basic factor which controls the process of meandering is .............",
+    "o": [ "discharge", "valley slope", "bed and side resistance", "all of these" ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "The ratio between the depths of water levels over crest on the downstream and upstream of the module, is known as .............",
+    "o": [ "flexibility", "sensitivity", "drowning ratio", "module ratio" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "The maximum permissible turbidity for domestic supplies, on silica scale is .............",
+    "o": [ "5 to 10 ppm", "10 to 20 ppm", "20 to 30 ppm", "30 to 40 ppm" ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "The turbidity in water is caused due to .............",
+    "o": [ "slit", "clay", "finely divided organic matter", "all of these" ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "हिमाली जिल्लाको नगरपालिकाका लागि न्यूनतम जनसंख्या कति चाहिन्छ?",
+    "o": [ "५ हजार", "१० हजार", "१५ हजार", "२० हजार" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "स्थानीय तहको संगठन तथा व्यवस्थापन सर्वेक्षण (O&M Survey) कसले स्वीकृत गर्छ?",
+    "o": [ "लोकसेवा आयोग", "संघीय मामिला मन्त्रालय", "स्थानीय तहको सभा", "प्रदेश सरकार" ],
+    "a": 2,
+    "e": "दफा ८३ (१) अनुसार कार्यपालिकाको प्रस्तावमा सभाले ओ. एण्ड. एम. (O&M) स्वीकृत गर्छ।"
+  },
+  {
+    "id": 9,
+    "q": "स्थानीय तहले पुँजीगत खर्च तर्फको बजेटमा कति प्रतिशतसम्म रकमान्तर (Virement) गर्न सक्छ?",
+    "o": [ "१०%", "१५%", "२०%", "२५%" ],
+    "a": 3,
+    "e": "दफा ७९ अनुसार कुनै एक शीर्षकबाट अर्को शीर्षकमा २५ प्रतिशतसम्म रकमान्तर गर्न सकिनेछ।"
+  },
+  {
+    "id": 10,
+    "q": "स्थानीय सरकार सञ्चालन ऐन, २०७४ कहिले प्रमाणीकरण भएको हो?",
+    "o": [ "२०७४ असोज १५", "२०७४ असोज २९", "२०७४ कार्तिक १", "२०७४ असोज २५" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "What is the minimum initial setting time of Ordinary Portland Cement (OPC) as per standard specifications?",
+    "o": [ "15 minutes", "30 minutes", "60 minutes", "120 minutes" ],
+    "a": 1,
+    "e": "Standard codes mandate a minimum initial setting time of 30 minutes for OPC to ensure workers have sufficient time to mix, transport, and place the concrete before it begins to stiffen."
+  },
+  {
+    "id": 12,
+    "q": "An aggregate is technically classified as \"flaky\" if its least dimension (thickness) is less than what fraction of its mean dimension?",
+    "o": [ "0.5 times (1/2)", "0.6 times (3/5)", "0.8 times (4/5)", "1.0 times (1/1)" ],
+    "a": 1,
+    "e": "By standard textbook definition, a particle is flaky if its thickness is less than 0.6 times its mean sieve dimension."
+  },
+  {
+    "id": 13,
+    "q": "The maximum allowable water absorption for a first-class burnt clay brick, after 24 hours of cold water immersion, is what percentage of its dry weight?",
+    "o": [ "10%", "15%", "20%", "25%" ],
+    "a": 1,
+    "e": "Civil engineering standards restrict the water absorption of first-class bricks to a maximum of 15% by dry weight to ensure durability."
+  },
+  {
+    "id": 14,
+    "q": "Which type of lime is most suitable for preparing masonry mortar used in damp situations or underwater construction?",
+    "o": [ "Fat lime", "Quick lime", "Hydraulic lime", "White lime" ],
+    "a": 2,
+    "e": "Hydraulic lime contains specific proportions of clay and silica, giving it the property to set and harden in damp conditions or underwater."
+  },
+  {
+    "id": 15,
+    "q": "What is the generally recommended minimum crushing strength for a good building stone used in load-bearing masonry?",
+    "o": [ "20 MPa", "50 MPa", "100 MPa", "150 MPa" ],
+    "a": 2,
+    "e": "A good quality building stone must have a minimum compressive strength of 100 MPa to safely carry heavy structural loads."
+  },
+  {
+    "id": 16,
+    "q": "What is the recommended slump value for concrete used in heavily reinforced structural sections like slabs and beams?",
+    "o": [ "10 - 25 mm", "25 - 50 mm", "50 - 100 mm", "150 - 200 mm" ],
+    "a": 2,
+    "e": "A slump of 50–100 mm provides medium workability required for concrete to flow around dense steel reinforcement without segregation."
+  },
+  
+  {
+    "id": 17,
+    "q": "According to standard earthquake-resistant rules of thumb (like NBC 202), what is the minimum required thickness of a reinforced concrete seismic band?",
+    "o": [ "50 mm", "75 mm", "115 mm", "150 mm" ],
+    "a": 1,
+    "e": "The minimum specified thickness for a horizontal RC seismic band is 75 mm (3 inches)."
+  },
+  {
+    "id": 18,
+    "q": "During the compaction of freshly poured concrete using an internal (needle) vibrator, how should the vibrator be inserted into the mix?",
+    "o": [ "Horizontally", "Diagonally at a 45-degree angle", "Vertically", "Dragged along the surface" ],
+    "a": 2,
+    "e": "The needle must be inserted vertically and withdrawn slowly to allow air bubbles to escape, maximizing concrete density."
+  },
+  {
+    "id": 19,
+    "q": "In a construction project schedule using the Critical Path Method (CPM), what is the \"float\" (or slack time) of any activity located directly on the critical path?",
+    "o": [ "Zero", "One day", "Equal to its duration", "Equal to the project duration" ],
+    "a": 0,
+    "e": "Activities on the critical path have zero float; any delay in them will exactly delay the entire project completion date."
+  },
+  {
+    "id": 20,
+    "q": "What is the standard temperature at which concrete cubes are kept submerged in water for proper laboratory curing?",
+    "o": [ "15 ± 2°C", "20 ± 2°C", "27 ± 2°C", "35 ± 2°C" ],
+    "a": 2,
+    "e": "Concrete specimens must be cured in clean water maintained at 27°C (± 2°C) to ensure uniform hydration rates."
+  },
+  {
+    "id": 21,
+    "q": "What is the standard average domestic water consumption per capita per day (lpcd) adopted for residential buildings with full flushing systems?",
+    "o": [ "45 liters", "85 liters", "135 liters", "200 liters" ],
+    "a": 2,
+    "e": "Standard sanitary guidelines dictate a design value of 135 lpcd for domestic residences."
+  },
+  {
+    "id": 22,
+    "q": "For the effective settlement of solid waste (sludge), what is the standard minimum allowable inside width of a residential septic tank?",
+    "o": [ "0.50 meters", "0.75 meters", "1.00 meters", "1.50 meters" ],
+    "a": 1,
+    "e": "Sanitary codes mandate a minimum internal width of 0.75 meters for septic tanks."
+  },
+  
+  {
+    "id": 23,
+    "q": "What is the primary functional purpose of a \"trap\" (such as a P-trap or S-trap) installed directly below a water closet or sink?",
+    "o": [ "To filter out large solid wastes", "To increase the velocity of flow", "To act as an inspection chamber", "To maintain a water seal against foul sewer gases" ],
+    "a": 3,
+    "e": "A trap retains a small volume of wastewater (the water seal) to block toxic and foul-smelling gases from the sewer line from entering the room."
+  },
+  
+  {
+    "id": 24,
+    "q": "In standard single-phase electrical wiring systems, which insulation color code is strictly designated for the \"Earth\" (grounding) wire?",
+    "o": [ "Red", "Black", "Green", "Blue" ],
+    "a": 2,
+    "e": "Standard electrical safety codes universally assign the color Green (or Green/Yellow) to the earth wire for immediate identification."
+  },
+  {
+    "id": 25,
+    "q": "नेपालको संविधानमा कति वटा मौलिक हक अधिकारको व्यवस्था गरिएको छ?",
+    "o": [ "४८", "३१", "२१", "२५" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "नेपालको वर्तमान संविधानको कुन धारामा 'निजामती सेवा' लाई परिभाषित गरिएको छ?",
+    "o": [ "धारा २४०", "धारा २४३", "धारा २८५", "धारा २८०" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "प्रदेश निजामती सेवा नियमावली, २०८१ कहिले प्रमाणीकरण भएको हो?",
+    "o": [ "२०८०/१२/२५", "२०८१/१/१", "२०८१/४/९", "२०८१/५/१" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "समावेशी तर्फ पदपूर्ति गर्दा आदिवासी/जनजातीका लागि कति प्रतिशत पद छुट्याइएको छ?",
+    "o": [ "३३%", "३५%", "२७%", "२२%" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "प्रदेश सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन, २०७६ नेपालको संविधानको कुन धारा बमोजिम बनाइएको हो?",
+    "o": [ "धारा १९५", "धारा १९६", "धारा १९७", "धारा १९८" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "कोशी प्रदेश लोकसेवा आयोग ऐन, २०७६ मा कति परिच्छेद र दफा रहेका छन्?",
+    "o": [ "७ परिच्छेद ६६ दफा", "८ परिच्छेद ६० दफा", "७ परिच्छेद ६० दफा", "६ परिच्छेद ५५ दफा" ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "कोशी प्रदेशको दीर्घकालीन सोच (Vision) के तय गरिएको छ?",
+    "o": [ "समृद्ध प्रदेश, सुखी जनता", "स्वच्छ, सुखी र समुन्नत प्रदेश", "कृषि र पर्यटन: कोशी प्रदेशको धन", "सुशासन, विकास र समृद्धि" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "'प्रदेश सञ्चित कोष' भन्नाले नेपालको संविधानको कुन धारा बमोजिमको कोषलाई सम्झनु पर्छ?",
+    "o": [ "धारा २०२", "धारा २०३", "धारा २०४", "धारा २०५" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "नेपालको कार्यकारिणी अधिकार कसमा निहित रहेको छ?",
+    "o": [ "राष्ट्रपति", "मन्त्रिपरिषद", "प्रधानमन्त्री", "प्रतिनिधि सभा" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "संविधानको कुन धारामा 'सरकारी सेवाको गठन' सम्बन्धि व्यवस्था गरिएको छ?",
+    "o": [ "धारा २४३", "धारा २८५", "धारा २९०", "धारा २७५" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "The document showing the account of work done or supply of materials including particulars and quantities is known as:",
+    "o": [ "Balance sheet", "Voucher", "Bill", "BOQ" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "In the plinth area method, the cost of construction is computed by the multiplication of.............",
+    "o": [ "Plinth length and rate", "Plinth breadth and rate", "Plinth area and plinth area rate", "Plinth volume and plinth length rate" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "The plinth area of a building not includes",
+    "o": [ "area of the walls", "internal shaft up to 2 sq m.", "lift and wall", "area of cantilevered porch" ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "For sketching and lettering work which pencil is used",
+    "o": [ "Conical edge", "Chisel edge", "Both", "None" ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "As per ISI not recommended size of drawing board is",
+    "o": [ "1500 x 1000", "1000 x 700", "800 x 500", "500 x 350" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "To prevent warping of the board... are cleated at its back",
+    "o": [ "Wooden block", "Packings", "Battens", "None" ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "T-square is used to draw",
+    "o": [ "Horizontal line", "Vertical line", "Inclined line", "All of above" ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "Edge of T-square used to",
+    "o": [ "Draw horizontal line", "As a base of set square", "Draw horizontal parallel line", "all of the above" ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "A plumb line is perpendicular to",
+    "o": [ "level line", "vertical line", "horizontal line", "none" ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "When the length of chain used in measuring distance is longer than the standard length, the error in measured distance will be",
+    "o": [ "positive error", "negative error", "compensating error", "none of these" ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "If we have to observe included angle with better accuracy than what is achieved by vernier, you will prefer method of",
+    "o": [ "Repetition", "Re-iteration", "Double observation", "None of the above" ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "In chain surveying field work is limited to",
+    "o": [ "linear measurement only", "angular measurement only", "both angular & linear measurement", "all of above." ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "Survey stations may be marked on the ground using a:",
+    "o": [ "Pole", "Rod", "Pointer", "Peg" ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "A disadvantage of mechanical counting of traffic is ............ ",
+    "o": [
+      "it is quite expensive",
+      "it is unpopular in inclement weather",
+      "it cannot make classified counts",
+      "it may not accurate"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "Which of the following is a type of semi-module outlet?",
+    "o": [
+      "Submerged pipe outlet",
+      "Open flume outlet",
+      "Kennedy's gauge outlet",
+      "all of these"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  
+  {
+    "id": 50,
+    "q": "The presence of hydrogen sulphide in water causes .............",
+    "o": [
+      "softening",
+      "alkalinity",
+      "acidity",
+      "bad taste"
+    ],
+    "a": 2,
+    "e": ""
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.6'; });
+        btn.style.opacity = '1';
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00FF88";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00FF88";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

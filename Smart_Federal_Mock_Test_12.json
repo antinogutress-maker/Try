@@ -1,0 +1,564 @@
+[
+  {
+    "id": 1,
+    "q": "जिरेल जातिको पुरोहितलाई के भनिन्छ ?",
+    "o": [ "फेदाम्बा", "भरा", "ङोपा", "बाहुन" ],
+    "a": 2,
+    "e": "जिरेल जातिको पुरोहितलाई ङोपा भनिन्छ ।"
+  },
+  {
+    "id": 2,
+    "q": "मुक्तिनाथ' लाई बौद्ध धर्मावलम्बीहरूले के नामले पुकार्छन्?",
+    "o": [ "पेमा श्याल्पा", "चुमिङ ग्यात्सा", "पद्मसम्भव", "लो मान्थाङ" ],
+    "a": 1,
+    "e": "बौद्ध धर्मावलम्बीहरूले मुक्तिनाथलाई चुमिङ ग्यात्सा भन्छन्।"
+  },
+  {
+    "id": 3,
+    "q": "दीगो विकास लक्ष्यहरु मध्ये १३ औँ लक्ष्य कुन हो ?",
+    "o": [ "Climate Action", "Life Below Water", "Life On Land", "Peace, Justice and Strong Institutions" ],
+    "a": 0,
+    "e": "SDG १३ जलवायु कार्य (Climate Action) सँग सम्बन्धित छ।"
+  },
+  {
+    "id": 4,
+    "q": "तलको कुन जोडा बेठिक छ ?",
+    "o": [ "फुकेनास : प्रोटिनको कमी", "जलवियोजन : पानीको कमी", "स्कर्भि : भिटामिन सी को कमी", "बेरिबेरी : भिटामिन इ को कमी" ],
+    "a": 3,
+    "e": "बेरिबेरी भिटामिन 'बि-१' (Thiamine) को कमीले लाग्छ।"
+  },
+  {
+    "id": 5,
+    "q": "नेपाल सरकारले पछिल्लो पटक (१८औँ) राष्ट्रिय विभूति कसलाई घोषणा गरेको छ?",
+    "o": [ "भक्ति थापा", "जय पृथ्वीबहादुर सिंह", "योगमाया न्यौपाने", "सत्यमोहन जोशी" ],
+    "a": 1,
+    "e": "जय पृथ्वीबहादुर सिंहलाई १८औँ राष्ट्रिय विभूति घोषणा गरिएको हो।"
+  },
+  {
+    "id": 6,
+    "q": "पाटे बाघको वैज्ञानिक नाम के हो ?",
+    "o": [ "Panthera Uncia", "Panthera Tigris", "Prionailurus Bengalensis", "Panthera Bengalensis" ],
+    "a": 1,
+    "e": "Panthera Tigris is the scientific name for the Royal Bengal Tiger."
+  },
+  {
+    "id": 7,
+    "q": "नेपालमा कति प्रजातिका यार्सागुम्बा पाइन्छन् ?",
+    "o": [ "१०", "१२", "१३", "१५" ],
+    "a": 2,
+    "e": "नेपालमा १३ प्रजातिका यार्सागुम्बा पाइन्छन्।"
+  },
+  {
+    "id": 8,
+    "q": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "o": [ "धारा ४", "धारा ५", "धारा ६", "धारा ७" ],
+    "a": 3,
+    "e": "धारा ७ ले सरकारी कामकाजको भाषा सम्बन्धी व्यवस्था गरेको छ।"
+  },
+  {
+    "id": 9,
+    "q": "अमेरिकी सहायता परियोजना (MCC) कहिले कार्यान्वयन भयो ?",
+    "o": [ "२०८० साउन १५", "२०८० भदौ १३", "२०८० असोज १५", "२०८० माघ १५" ],
+    "a": 1,
+    "e": "२०८० भदौ १३ बाट MCC कार्यान्वयनमा आएको हो।"
+  },
+  {
+    "id": 10,
+    "q": "दोस्रो पञ्चवर्षीय योजनाको अन्त्य (आ.व. २०८५/८६) सम्ममा गण्डकी प्रदेशको वार्षिक औसत आर्थिक वृद्धिदर कति पुर्‍याउने लक्ष्य छ?",
+    "o": [ "८.५%", "९.५%", "१०.३८%", "११.२%" ],
+    "a": 2,
+    "e": "गण्डकी प्रदेशको दोस्रो योजनाको लक्ष्य १०.३८% रहेको छ।"
+  },
+  {
+    "id": 11,
+    "q": "Which specific pipe fitting is used to connect two pipes of different diameters while maintaining a straight run?",
+    "o": [ "Elbow", "Reducer", "Coupling", "Union" ],
+    "a": 1,
+    "e": "A reducer is used to join pipes of different sizes."
+  },
+  
+  {
+    "id": 12,
+    "q": "In a septic tank, what is the specific role of the 'Scum' layer that forms at the top?",
+    "o": [ "It prevents air from entering, facilitating anaerobic decomposition", "It provides a habitat for aerobic bacteria", "It acts as a filter for outgoing effluent", "It neutralizes the pH of the incoming raw sewage" ],
+    "a": 0,
+    "e": "Scum creates a seal for anaerobic processes."
+  },
+  
+  {
+    "id": 13,
+    "q": "Which type of water supply pipe is most resistant to 'Pitting' corrosion when carrying soft, acidic water?",
+    "o": [ "Galvanized Iron (GI)", "Lead", "Copper", "Polypropylene Random Copolymer (PPR)" ],
+    "a": 3,
+    "e": "PPR is a plastic material and immune to pitting corrosion."
+  },
+  {
+    "id": 14,
+    "q": "Why is a 'Manhole' typically constructed at every change in direction of a sewer line?",
+    "o": [ "To increase the velocity of the sewage flow", "To facilitate cleaning and inspection at points most prone to blockages", "To allow for ventilation of the entire sewer network", "To separate solid waste from liquid waste before the septic tank" ],
+    "a": 1,
+    "e": "Changes in direction are prone to blockages, requiring access points."
+  },
+  {
+    "id": 15,
+    "q": "Skidding occurs on ......... pavement",
+    "o": [ "Dry", "Wet", "Smooth", "soft" ],
+    "a": 2,
+    "e": "Smooth surfaces reduce friction leading to skidding."
+  },
+  {
+    "id": 16,
+    "q": "For an earthen the minimum desirable gradient is",
+    "o": [ "1 in 20", "1 in 12", "1 in 120", "1 in 200" ],
+    "a": 2,
+    "e": "1 in 120 is the standard minimum for drainage."
+  },
+  {
+    "id": 17,
+    "q": "Fixed delay in highway is due to",
+    "o": [ "pedestrian crossing the road", "Parked vehicle", "Traffic signals", "Road repairs" ],
+    "a": 2,
+    "e": "Signals cause predictable, fixed delays."
+  },
+  {
+    "id": 18,
+    "q": "The minimum radius for intersection curve when the speed is 35 kmph",
+    "o": [ "15m", "25m", "35m", "50m" ],
+    "a": 2,
+    "e": "Design standard for 35 kmph is 35m."
+  },
+  {
+    "id": 19,
+    "q": "A separate provision for a right turn lane is to be provided when right turning traffic is more than",
+    "o": [ "25% of total traffic", "33 1/3 % of total traffic", "37 1/3 % of total traffic", "50% of total traffic" ],
+    "a": 1,
+    "e": "Required when right-turning traffic exceeds 33.3%."
+  },
+  {
+    "id": 20,
+    "q": "The latest irrigation policy was developed in",
+    "o": [ "2068 BS", "2069 BS", "2070 BS", "2071 BS" ],
+    "a": 2,
+    "e": "Introducing in 2070 BS."
+  },
+  {
+    "id": 21,
+    "q": "The discharge over a broad crested weir is directly proportional to...",
+    "o": [ "H^2/3", "H^3/2", "H^5/2", "H^2/5" ],
+    "a": 1,
+    "e": "Discharge formula: Q ∝ H^(3/2)."
+  },
+  
+  {
+    "id": 22,
+    "q": "The error of 1% in measuring H will produce..... error in discharge over a triangular notch/weir",
+    "o": [ "1.5%", "2%", "2.5%", "2.75%" ],
+    "a": 2,
+    "e": "For triangular notch, error is 2.5 times the head error."
+  },
+  {
+    "id": 23,
+    "q": "The difference in saturation capacity and gravitational water is called:",
+    "o": [ "Capillary water", "Field capacity", "Saturation capacity", "None of above" ],
+    "a": 1,
+    "e": "Field capacity represents water held against gravity."
+  },
+  {
+    "id": 24,
+    "q": "The maximum permissible temperature for domestic supply",
+    "o": [ "5 to 10°C", "10 to 15°C", "15 to 20°C", "20 to 25°C" ],
+    "a": 1,
+    "e": "10-15°C is ideal for drinking water."
+  },
+  {
+    "id": 25,
+    "q": "The earth's water circulatory system is known as .....",
+    "o": [ "Water cycle", "Hydrological cycle", "Precipitation cycle", "All of above" ],
+    "a": 1,
+    "e": "Scientifically known as the Hydrological cycle."
+  },
+  {
+    "id": 26,
+    "q": "The presence of........... causes red colour in water",
+    "o": [ "Iron", "Manganese", "Sodium fluoride", "Calcium carbonate" ],
+    "a": 0,
+    "e": "Iron content causes reddish discoloration."
+  },
+  {
+    "id": 27,
+    "q": "The rate of settling of particles in water depends upon the....",
+    "o": [ "viscosity of water", "density of water", "specific gravity of particle", "all of these" ],
+    "a": 3,
+    "e": "Settling rate is affected by fluid and particle properties."
+  },
+  {
+    "id": 28,
+    "q": "उत्प्रेरणाको \"X र Y सिद्धान्त\" (Theory X and Theory Y) का प्रतिपादक को हुन्?",
+    "o": [ "डगलस म्याकग्रेगर", "विलियम ओची", "रेन्सिस लिकर्ट", "भिक्टर ब्रुम" ],
+    "a": 0,
+    "e": "Douglas McGregor proposed Theory X and Theory Y."
+  },
+  {
+    "id": 29,
+    "q": "क्षतिपूर्ति सहितको सार्वजनिक बडापत्रको व्यवस्थापन निर्देशिका कति रहेको छ?",
+    "o": [ "२०६८", "२०६९", "२०७०", "२०७१" ],
+    "a": 1,
+    "e": "यो निर्देशिका २०६९ मा जारी भएको हो।"
+  },
+  {
+    "id": 30,
+    "q": "नेपाल र संयुक्त राज्य अमेरिकाबीच दौत्य सम्बन्ध कहिले स्थापना भयो (A.D.)?",
+    "o": [ "1947 April 13", "1947 April 20", "1947 April 25", "1947 June 13" ],
+    "a": 2,
+    "e": "Established on April 25, 1947."
+  },
+  {
+    "id": 31,
+    "q": "प्रदेश लोक सेवा आयोग (गण्डकी) ले आफ्नो वार्षिक प्रतिवेदन को समक्ष पेश गर्नुपर्दछ?",
+    "o": [ "मुख्यमन्त्री", "प्रदेश सभाका सभामुख", "प्रदेश प्रमुख", "राष्ट्रपति" ],
+    "a": 2,
+    "e": "Annual reports are submitted to the Provincial Head."
+  },
+  {
+    "id": 32,
+    "q": "गण्डकी प्रदेश दोस्रो पञ्चवर्षीय योजना अनुसार आधारभूत तह (१-८) मा खुद भर्नादर कति पुर्‍याउने लक्ष्य छ?",
+    "o": [ "९८%", "९९%", "९७%", "१००%" ],
+    "a": 0,
+    "e": "Target set at 98%."
+  },
+  {
+    "id": 33,
+    "q": "सहायक स्तरको पदमा नयाँ नियुक्ति पाएको कर्मचारीले कसको समक्ष 'शपथ ग्रहण' गर्नुपर्छ?",
+    "o": [ "मन्त्रालयको सचिव", "विभागीय प्रमुख", "कार्यालय प्रमुख", "जिल्ला न्यायाधीश" ],
+    "a": 2,
+    "e": "Office In-charge (कार्यालय प्रमुख) for assistant level."
+  },
+  {
+    "id": 34,
+    "q": "सम्पत्ति विवरण पेस नगर्ने कर्मचारीलाई कति जरिवाना गरिन्छ?",
+    "o": [ "रु. ३,०००", "रु. ५,०००", "रु. ७,०००", "रु. १०,०००" ],
+    "a": 1,
+    "e": "A fine of Rs. 5,000 is imposed."
+  },
+  {
+    "id": 35,
+    "q": "नेपालको पहला 'फ्रि वाइफाइ' जिल्ला कुन हो?",
+    "o": [ "कास्की", "म्याग्दी", "मुस्ताङ", "काठमाडौं" ],
+    "a": 1,
+    "e": "Myagdi is recognized as the first free-wifi district."
+  },
+  {
+    "id": 36,
+    "q": "गाउँपालिका अध्यक्ष तथा नगरपालिका प्रमुखले निर्वाचित भएको कति दिनभित्र र को समक्ष शपथ लिनु पर्नेछ?",
+    "o": [ "७ दिनभित्र, प्रदेश प्रमुख समक्ष", "७ दिनभित्र, सम्बन्धित जिल्ला न्यायाधीश समक्ष", "१५ दिनभित्र, मुख्य निर्वाचन अधिकृत समक्ष", "१५ दिनभित्र, उच्च अदालतको न्यायाधीश समक्ष" ],
+    "a": 1,
+    "e": "7 days, before the District Judge."
+  },
+  {
+    "id": 37,
+    "q": "भ्रष्टाचार न्यूनीकरण ऐन २०५९ अनुसार १ लाखदेखि ५ लाखसम्म घुस लिएमा सरकारी कर्मचारीलाई कति कैद सजाय हुन्छ?",
+    "o": [ "१ वर्ष देखि ३ वर्ष सम्म", "६ महिना देखि १ वर्ष सम्म", "१ वर्ष देखि २ वर्ष सम्म", "२ वर्ष देखि ३ वर्ष सम्म" ],
+    "a": 2,
+    "e": "1 to 2 years imprisonment for this range."
+  },
+  {
+    "id": 38,
+    "q": "Chain thin line denotes ............... in engineering drawing.",
+    "o": [ "A center line", "Outer line", "Outlines of adjacent parts", "A cross section" ],
+    "a": 0,
+    "e": "Denotes the center line."
+  },
+  
+  {
+    "id": 39,
+    "q": "Orthographic projection represents three dimensional objects in ...........",
+    "o": [ "One Dimension", "Two Dimension", "Three Dimension", "All of the above" ],
+    "a": 1,
+    "e": "Represents 3D objects in 2D."
+  },
+  
+  {
+    "id": 40,
+    "q": "The main objective of writing letters or alphabets on the drawing is to make the drawing",
+    "o": [ "More informative", "More fantastic", "More attractive", "All of the above" ],
+    "a": 0,
+    "e": "Lettering adds critical information/data to the drawing."
+  },
+  {
+    "id": 41,
+    "q": "The unit of payment for fixing of glass panes or cleaning is in",
+    "o": [ "Kg", "Sq.m", "Cu.m", "Number" ],
+    "a": 3,
+    "e": "Measured per unit (Number)."
+  },
+  {
+    "id": 42,
+    "q": "The excavation exceeding 1.5 m in width and 10 sq.m in plan area with a depth not exceeding 30 cm, is termed as",
+    "o": [ "Excavation", "Surface dressing", "Cutting", "Surface excavation" ],
+    "a": 3,
+    "e": "Defined as surface excavation."
+  },
+  {
+    "id": 43,
+    "q": "In the estimation of color washing of A.C corrugated sheet, the plan area is increased by",
+    "o": [ "10%", "15%", "20%", "25%" ],
+    "a": 2,
+    "e": "Increased by 20% for corrugations."
+  },
+  {
+    "id": 44,
+    "q": "Blast furnace slag cement is used for",
+    "o": [ "Dams", "Bridge abutments", "Retaining walls", "All of the above" ],
+    "a": 3,
+    "e": "Ideal for mass concrete structures."
+  },
+  {
+    "id": 45,
+    "q": "The joint preferred in a single brick wall to save facing bricks is",
+    "o": [ "English bond", "Flemish bond", "double bond", "Garden wall bond" ],
+    "a": 3,
+    "e": "Garden wall bond is commonly used."
+  },
+  {
+    "id": 46,
+    "q": "The approximate ratio of the strength of cement concrete at 3 months to that at 28 days of curing is",
+    "o": [ "1.15", "1.30", "1.0", "0.75" ],
+    "a": 0,
+    "e": "Approximate strength gain is 15%."
+  },
+  {
+    "id": 47,
+    "q": "Line joining the points of equal declination is called",
+    "o": [ "Agonic line", "Isogonic line", "Isoclinic line", "Dip" ],
+    "a": 1,
+    "e": "Isogonic line connects equal declination points."
+  },
+  
+  {
+    "id": 48,
+    "q": "Pantagraph is used for",
+    "o": [ "Measuring distances", "Enlarging or reducing plans", "Measuring areas", "Setting out right angles" ],
+    "a": 1,
+    "e": "Used for rescaling drawings."
+  },
+  {
+    "id": 49,
+    "q": "Plastering is also called",
+    "o": [ "Pre-casting", "Polishing", "Porting", "Pargeting" ],
+    "a": 3,
+    "e": "Pargeting is an alternative term."
+  },
+  {
+    "id": 50,
+    "q": "Minimum slope for thatched roof is",
+    "o": [ "30°", "45°", "60°", "75°" ],
+    "a": 1,
+    "e": "A 45° slope is the standard minimum."
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.6'; });
+        btn.style.opacity = '1';
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00FF88";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00FF88";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

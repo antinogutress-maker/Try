@@ -1,0 +1,760 @@
+[
+  {
+    "id": 1,
+    "q": "What is the device used to prevent sewer gases from entering the buildings?",
+    "o": [
+      "Filters",
+      "Traps",
+      "Ventilators",
+      "Vacuum pumps"
+    ],
+    "a": 1
+  },
+  {
+    "id": 2,
+    "q": "Underground tanks should not be located in low-lying areas which may permit entry of",
+    "o": [
+      "surface water from the top",
+      "children",
+      "insects",
+      "all of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 3,
+    "q": "The best process of disinfection of public water supply, is by",
+    "o": [
+      "Boiling",
+      "Chlorination",
+      "Adding lime",
+      "Adding ozone"
+    ],
+    "a": 1
+  },
+  {
+    "id": 4,
+    "q": "Hard water may cause",
+    "o": [
+      "Scaling of pipe",
+      "Less lather formation",
+      "Scaling of home appliances",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 5,
+    "q": "Spring water is rich in",
+    "o": [
+      "Iron",
+      "Minerals",
+      "Lead",
+      "E. coli"
+    ],
+    "a": 1
+  },
+  {
+    "id": 6,
+    "q": "The net irrigation requirement of a crop is 64 cms. If the field application losses and the conveyance losses are each 20% what is the depth of water of water to be applied?",
+    "o": [
+      "80 cm",
+      "100 mm",
+      "128 cm",
+      "76.8 mm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "The unique design of a channel by Kennedy's silt theory requires that ...............",
+    "o": [
+      "the bed width of canal must be given",
+      "the depth of flow must be given",
+      "the ratio of breadth to depth must be given",
+      "the slope of the channel must be given"
+    ],
+    "a": 2
+  },
+  {
+    "id": 8,
+    "q": "When the pH value of water is ............. the water is said to be acidic.",
+    "o": [
+      "equal to 7",
+      "less than 7",
+      "more than 7",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 9,
+    "q": "The growth of population may be conveniently represented by .............",
+    "o": [
+      "semi-logarithmic curve",
+      "logistic curve",
+      "straight liner curve",
+      "all of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 10,
+    "q": "The camber on pavements, is provided by .............",
+    "o": [
+      "straight line method",
+      "parabolic method",
+      "straight line and parabolic at crown",
+      "elliptical method"
+    ],
+    "a": 2
+  },
+  {
+    "id": 11,
+    "q": "The traffic carrying capacity of a single lane, depends on .............",
+    "o": [
+      "type of the vehicles",
+      "level crossings",
+      "road intersections",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 12,
+    "q": "कति जनसंख्या भएमा महानगरपालिका बन्न सक्छ?",
+    "o": [
+      "१ लाख",
+      "३ लाख",
+      "४ लाख",
+      "५ लाख"
+    ],
+    "a": 3
+  },
+  {
+    "id": 13,
+    "q": "घरको नक्सा पास गर्दा \"भूकम्प प्रतिरोधात्मक\" मापदण्ड पालना भए/नभएको हेर्ने जिम्मेवारी कसको हो?",
+    "o": [
+      "सहरी विकास मन्त्रालय",
+      "प्राविधिक कर्मचारी (इन्जिनियर/सब-इन्जिनियर)",
+      "वडा अध्यक्ष",
+      "घरधनी आफैँ"
+    ],
+    "a": 1
+  },
+  {
+    "id": 14,
+    "q": "सार्वजनिक सुनुवाइ र सामाजिक परीक्षण (Social Audit) स्थानीय तहले किन गर्नुपर्छ?",
+    "o": [
+      "कर उठाउन",
+      "पारदर्शिता र जवाफदेहिता सुनिश्चित गर्न",
+      "चुनाव जित्न",
+      "बजेट फ्रिज हुन नदिन"
+    ],
+    "a": 1
+  },
+  {
+    "id": 15,
+    "q": "वडाको भौतिक पूर्वाधार विकासको योजना छनौट कसले गर्छ?",
+    "o": [
+      "गाउँ सभा",
+      "नगर कार्यपालिका",
+      "वडा समिति",
+      "प्रमुख प्रशासकीय अधिकृत"
+    ],
+    "a": 2
+  },
+  {
+    "id": 16,
+    "q": "In timber, physical shrinkage - begins only when which specific type of moisture is removed?",
+    "o": [
+      "Free water in cell cavities",
+      "Bound water in cell walls",
+      "Atmospheric humidity",
+      "Surface rainwater"
+    ],
+    "a": 1
+  },
+  {
+    "id": 17,
+    "q": "-, adding a chemical accelerator (like calcium chloride) to a concrete mix is most beneficial under which environmental condition?",
+    "o": [
+      "Hot and dry summer",
+      "Humid and rainy season",
+      "Freezing cold weather",
+      "Underwater concreting"
+    ],
+    "a": 2
+  },
+  {
+    "id": 18,
+    "q": "When Surkhi (powdered burnt clay) is mixed with standard fat lime, what essential engineering property does it - provide to the mortar?",
+    "o": [
+      "Increased plasticity",
+      "Bright red color",
+      "Hydraulicity",
+      "Thermal insulation"
+    ],
+    "a": 2
+  },
+  {
+    "id": 19,
+    "q": "In painting woodwork, what - causes the surface defect known as \"blistering\"?",
+    "o": [
+      "Trapped moisture expanding",
+      "Using expired pigments",
+      "Applying paint too thinly",
+      "Excessive UV exposure"
+    ],
+    "a": 0
+  },
+  {
+    "id": 20,
+    "q": "-, why do underburnt (pila) clay bricks deteriorate rapidly when exposed to weather?",
+    "o": [
+      "They are extremely brittle",
+      "They have high water absorption",
+      "They undergo chemical expansion",
+      "They repel cement mortar"
+    ],
+    "a": 1
+  },
+  {
+    "id": 21,
+    "q": "For an extremely stiff and dry concrete mix, which test - provides a more reliable measure of workability than the standard slump test?",
+    "o": [
+      "Compaction factor test",
+      "Fineness test",
+      "Cylinder splitting test",
+      "Soundness test"
+    ],
+    "a": 0
+  },
+  {
+    "id": 22,
+    "q": "In an earthquake-resistant masonry building, what is the specific conceptual role of a horizontal \"sill band\"?",
+    "o": [
+      "To support roof trusses",
+      "To prevent diagonal corner cracks",
+      "To anchor the foundation",
+      "To carry floor joists"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "What - happens to a freshly poured concrete slab if it is subjected to excessive mechanical vibration (over-vibration)?",
+    "o": [
+      "It gains maximum theoretical strength",
+      "It dries instantly",
+      "Heavy aggregates sink and laitance rises",
+      "It becomes highly air-entrained"
+    ],
+    "a": 2
+  },
+  {
+    "id": 24,
+    "q": "Why is a slight upward curve (camber) - provided in the formwork of long-span RCC beams?",
+    "o": [
+      "To naturally drain rainwater",
+      "To offset downward deflection",
+      "To increase shear strength",
+      "To save concrete volume"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "When laying bricks in a wall, why must the \"frog\" (the indentation) - be laid pointing upwards?",
+    "o": [
+      "To trap air for insulation",
+      "To form a structural mortar key",
+      "To hide the manufacturer's logo",
+      "To prevent water absorption"
+    ],
+    "a": 1
+  },
+  {
+    "id": 26,
+    "q": "In a municipal water supply network, what is the primary conceptual function of a \"service reservoir\" (overhead tank)?",
+    "o": [
+      "To permanently store emergency firefighting water",
+      "To balance fluctuating daily demand against constant pumping",
+      "To chemically filter raw sewage",
+      "To naturally cool hot groundwater"
+    ],
+    "a": 1
+  },
+  {
+    "id": 27,
+    "q": "-, at which of the following locations in a gravity sewer line is it absolutely mandatory to construct a manhole?",
+    "o": [
+      "At the midpoint of every straight pipe",
+      "At every single house connection",
+      "At every change in pipe direction or gradient",
+      "At the highest topographical elevation"
+    ],
+    "a": 2
+  },
+  {
+    "id": 28,
+    "q": "In electrical safety, what - happens during a \"short circuit\" that causes an immediate fire hazard?",
+    "o": [
+      "Current completely stops flowing",
+      "Voltage doubles instantly",
+      "Resistance drops to near zero, causing a massive current spike",
+      "The neutral wire reverses polarity"
+    ],
+    "a": 2
+  },
+  {
+    "id": 29,
+    "q": "-, what is the fundamental difference between the lighting metrics \"Lumens\" and \"Lux\"?",
+    "o": [
+      "Lumens measure power; Lux measures heat",
+      "Lumens measure source output; Lux measures surface illumination",
+      "Lumens are for natural light; Lux is for artificial light",
+      "There is no physical difference"
+    ],
+    "a": 1
+  },
+  {
+    "id": 30,
+    "q": "Contractors' overhead is taken as",
+    "o": [
+      "3 % of the project cost",
+      "5 %of project cost",
+      "10 %of project cost",
+      "15 %of project cost"
+    ],
+    "a": 1
+  },
+  {
+    "id": 31,
+    "q": "Size, capacity and materials need be specified for",
+    "o": [
+      "Bricks",
+      "Stop-cocks",
+      "Faucet",
+      "All of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "Detail estimate requires",
+    "o": [
+      "Drawing",
+      "Specification",
+      "Both(a)and(b)",
+      "Quality of material"
+    ],
+    "a": 2
+  },
+  {
+    "id": 33,
+    "q": "A bill of quantity shall fully describe the",
+    "o": [
+      "Materials",
+      "Proportions",
+      "Workmanships",
+      "All of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 34,
+    "q": "The useful part of live able area of building is also known as",
+    "o": [
+      "Carpet area",
+      "Circulation area",
+      "Horizontal circulation area",
+      "Plinth area"
+    ],
+    "a": 0
+  },
+  {
+    "id": 35,
+    "q": "For dimensioning and lettering, which pencil is used.",
+    "o": [
+      "H and HB",
+      "2H and HB",
+      "H and 2HB",
+      "2H and 2HB"
+    ],
+    "a": 0
+  },
+  {
+    "id": 36,
+    "q": "Which of the following pencil leads is the hardest?",
+    "o": [
+      "B",
+      "H",
+      "48",
+      "4H"
+    ],
+    "a": 3
+  },
+  {
+    "id": 37,
+    "q": "The existing building object, site or details that is accurately drawn to scale on the basis of field measurement, is known as",
+    "o": [
+      "Measured drawing",
+      "Working drawing",
+      "Architectural drawing",
+      "All of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 38,
+    "q": "Which of the following is a classification based on the nature of the field survey?",
+    "o": [
+      "military survey",
+      "topographic survey",
+      "chain survey",
+      "mine survey"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "When 1 cm on a map represents 10 m on the ground, the representative fraction of the scale is",
+    "o": [
+      "1:10",
+      "1:100",
+      "1:1000",
+      "1:10000"
+    ],
+    "a": 2
+  },
+  {
+    "id": 40,
+    "q": "A scale which has a common representative fraction, but read in different measures, is called a",
+    "o": [
+      "plain scale",
+      "diagonal scale",
+      "shrunk scale",
+      "comparative scale"
+    ],
+    "a": 3
+  },
+  {
+    "id": 41,
+    "q": "The process of a location of intermediate points on a survey line is:",
+    "o": [
+      "Aligning",
+      "Extending",
+      "Ranging",
+      "Offsetting"
+    ],
+    "a": 1
+  },
+  {
+    "id": 42,
+    "q": "A plumb bob is required",
+    "o": [
+      "when measuring distances along slopes in a hilly country",
+      "for accurate centering of a theodolite over a station mark",
+      "for testing the verticality of ranging poles",
+      "all of the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 43,
+    "q": "१६ औं योजनाको सोच के रहेको छ?",
+    "o": [
+      "सुशासन सामाजिक न्याय र समृद्धि",
+      "प्रशासनिक सुधार न्याय र समृद्धि",
+      "समृद्धि प्रशासन र न्याय",
+      "सुशासित नेपाल समृद्ध नेपाल"
+    ],
+    "a": 0
+  },
+  {
+    "id": 44,
+    "q": "सोह्रौँ योजनाले योजना अवधिभर औसत आर्थिक वृद्धिदर कति प्रतिशत पुर्याउने लक्ष्य राखेको छ?",
+    "o": [
+      "७.१%",
+      "६.५%",
+      "७.३%",
+      "८.२%"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "तल दिएको मध्य कुन संवैधानिक आयोगमा उमेरहद तोकिएको छैन?",
+    "o": [
+      "लोकसेवा आयोग",
+      "मानव अधिकार आयोग",
+      "महालेखा परीक्षक",
+      "निर्वाचन आयोग"
+    ],
+    "a": 1
+  },
+  {
+    "id": 46,
+    "q": "संविधानको धारा २७४ अन्तर्गतको कुन उपधारालाई असंशोधनीय भनिएको छ?",
+    "o": [
+      "उपधारा ४",
+      "उपधारा १",
+      "उपधारा ३",
+      "उपधारा ४"
+    ],
+    "a": 1
+  },
+  {
+    "id": 47,
+    "q": "कुनैपनि अधिकारी वा प्रदेश सरकार सेवामा कार्यरत कर्मचारीले 'विदेशस्थित बैङ्कमा खाता खोल्दा स्वीकृति लिनु पर्ने' व्यवस्था सुशासन ऐनको कुन दफामा उल्लेख छ?",
+    "o": [
+      "दफा ३०",
+      "दफा ३१",
+      "दफा ३२",
+      "दफा ३३"
+    ],
+    "a": 1
+  },
+  {
+    "id": 48,
+    "q": "स्थानीय सरकारी सेवालाई समावेशी बनाउन छुट्याइएको ४५% पदमध्ये 'आदिवासी/जनजाती' र 'महिला' का लागि क्रमशः कति-कति प्रतिशत पद सुरक्षित गरिएको छ?",
+    "o": [
+      "३०% र ३५%",
+      "३५% र ३३%",
+      "३३% र ३५%",
+      "२७% र ३३%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 49,
+    "q": "प्रदेश लोकसेवा आयोगले निर्धारण गर्ने 'पाठ्यक्रम र परीक्षण विधि' सम्बन्धी व्यवस्था कुन दफामा उल्लेख छ?",
+    "o": [
+      "दफा १५",
+      "दफा १८",
+      "दफा २०",
+      "दफा २२"
+    ],
+    "a": 2
+  },
+  {
+    "id": 50,
+    "q": "प्रदेश लोकसेवा आयोगमा अध्यक्षसहित कति जना सदस्य रहने व्यवस्था छ?",
+    "o": [
+      "३ जना",
+      "५ जना",
+      "७ जना",
+      "१ जना"
+    ],
+    "a": 0
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

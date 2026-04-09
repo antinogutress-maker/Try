@@ -1,0 +1,811 @@
+[
+  {
+    "id": 1,
+    "q": "If the velocity at a section of a channel is variable with respect to time, then the flow in the channel is known as ............ ",
+    "o": [
+      "uniform",
+      "laminar",
+      "steady",
+      "unsteady"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "The depth of flow at which specific energy is minimum is called ............ ",
+    "o": [
+      "normal depth",
+      "critical depth",
+      "alternate depth",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "For the laminar flow through a circular pipe ............ ",
+    "o": [
+      "the maximum velocity = 1.5 times the average velocity",
+      "the maximum velocity = 2.0 times the average velocity",
+      "the maximum velocity = 2.5 times the average velocity",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "In case of siphon aqueduct, the H.F.L. of the drain is .............",
+    "o": [
+      "much below the bottom of the canal trough",
+      "much higher above the canal bed",
+      "in level with the canal bed",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "A river meandering through an alluvial plain has a series of consecutive curves of reversed order connected with short straight sketches, is called .............",
+    "o": [
+      "crossing",
+      "meandering belt",
+      "meandering length",
+      "none of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "The presence of ............. causes red colour in water.",
+    "o": [
+      "iron",
+      "manganese",
+      "sodium fluoride",
+      "calcium carbonate"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "The open well or dug wells .............",
+    "o": [
+      "act as a small storage reservoir",
+      "are suitable for a small discharge",
+      "are cheap in construction",
+      "all of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "Which of the following is not a common size of reinforcement bars ............ ",
+    "o": [
+      "16 mm",
+      "20 mm",
+      "25 mm",
+      "28 mm"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "During calculation of R.C.C., the amount of steel deducted is ............ ",
+    "o": [
+      "0% of steel",
+      "1% of steel",
+      "2% of steel",
+      "3% of steel"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "A channelization island provides ............ ",
+    "o": [
+      "equal entry and exit widths",
+      "funnel shaped entry and wider exit",
+      "wider entrance and funnel shaped exit",
+      "high relative speed at entry and low speed at exit"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "66.67% of the accidents take place because of ............ ",
+    "o": [
+      "traffic moving in opposite directions",
+      "traffic changing lanes",
+      "right turning traffic",
+      "left turning traffic"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "The bearing of the runway at threshold is 290°, the runway number is ...",
+    "o": [
+      "70",
+      "290",
+      "29",
+      "20"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "The marking of taxiway is yellow while on apron is ...",
+    "o": [
+      "yellow",
+      "white",
+      "red",
+      "blue"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "The main function of the construction management is ............ ",
+    "o": [
+      "planning",
+      "organising",
+      "directing",
+      "all of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "The effect of network compression is increase in the ............ ",
+    "o": [
+      "total cost",
+      "direct cost",
+      "indirect cost",
+      "overheads"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "नारायणगढ कुन नदीको किनारमा अवस्थित रहेको छ ?",
+    "o": [
+      "राप्ती",
+      "तिनाउ",
+      "त्रिशुली",
+      "नारायणी"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "किराँतीहरुको शासन व्यवस्था कहिले प्रारम्भ भएको थियो ?",
+    "o": [
+      "इ.पू. ३००",
+      "इ.पू. ८००",
+      "इ.पू. १२००",
+      "इ.पू. १५००"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "तलका मध्ये सुविधाबञ्चित समूहमा नपर्ने जाति कुन हो ?",
+    "o": [
+      "चेपाङ",
+      "गुरुङ",
+      "मगर",
+      "शेर्पा"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "नेपालमा सर्वप्रथम पर्यटन नीति कहिले लागु गरिएको हो ?",
+    "o": [
+      "वि.सं. २०५१",
+      "वि.सं. २०५२",
+      "वि.सं. २०५३",
+      "वि.सं. २०५४"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "पाटे बाघको वैज्ञानिक नाम के हो ?",
+    "o": [
+      "Panthera Uncia",
+      "Panthera Tigris",
+      "Prionailurus Bengalensi",
+      "Panthera Bengalensi"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "आइन्स्टाइनले कहिलेदेखि जर्मनीको नागरिकता त्यागेर अमेरिका बसेका थिए ?",
+    "o": [
+      "सन् १९३० देखि",
+      "सन् १९३३ देखि",
+      "सन् १९३५ देखि",
+      "सन् १९४० देखि"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "कुन तत्त्वको अभावमा बिरुवाका फूलहरु राम्ररी फुल्दैनन् ?",
+    "o": [
+      "नाइट्रोजन",
+      "फस्फोरस",
+      "पोटासियम",
+      "म्याग्नेसियम"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "नेपालको संविधान कहिले प्रमाणीकरण भएको थियो ?",
+    "o": [
+      "वि.सं. २०७२ असोज १ गते",
+      "वि.सं. २०७२ भाद्र ३० गते",
+      "वि.सं. २०७२ असोज ३ गते",
+      "वि.सं. २०७३ असोज १ गते"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "संयुक्त राष्ट्रसंघको प्रधान कार्यालय कहाँ रहेको छ ?",
+    "o": [
+      "जेनेभा, स्वीट्जरल्याण्ड",
+      "वासिङ्गटन डी.सी., अमेरिका",
+      "पेरिस, फ्रान्स",
+      "म्यानहटन टापु, न्यूयोर्क"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 25,
+    "q": "SAARC को पूरा रुप के हो ?",
+    "o": [
+      "South Asian Association for Regional Co-operation",
+      "South Asian Agency for Regional Co-operation",
+      "South Asian Alliance for Regional Co-operation",
+      "South Asian Administration for Regional Co-operation"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 26,
+    "q": "Bulking of sand is caused due to:",
+    "o": [
+      "surface moisture",
+      "viscosity",
+      "air voids",
+      "clay contents"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 27,
+    "q": "Quartzite, a metamorphic stone is:",
+    "o": [
+      "hard",
+      "brittle",
+      "crystalline",
+      "compact",
+      "All the above"
+    ],
+    "a": 4,
+    "e": ""
+  },
+  {
+    "id": 28,
+    "q": "Smith's test of stones is performed to find out:",
+    "o": [
+      "the presence of soluble matter of stone",
+      "the compressive strength of the stone",
+      "the hardness of the stone",
+      "the toughness of the stone"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 29,
+    "q": "The additional lines which are measured to show the correctness of the chain surveying are called:",
+    "o": [
+      "check clines",
+      "proof lines",
+      "tie lines",
+      "all of these"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 30,
+    "q": "The included angles of a theodolite traverse, are generally measured:",
+    "o": [
+      "clockwise from forward station",
+      "anti-clockwise from back station",
+      "anti-clockwise from forward station",
+      "clockwise from the back station"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 31,
+    "q": "The back staff reading on a B.M. of R.L. 500.000 m is 2.685 m. If foresight reading on a point is 1.345 m, the reduced level is:",
+    "o": [
+      "502.685 m",
+      "501.345 m",
+      "501.340 m",
+      "504.030 m"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "The phenomenon of slow extension of materials having constant load, i.e. increasing with time is called:",
+    "o": [
+      "creeping",
+      "yielding",
+      "breaking",
+      "none of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "For structural analysis of forces, the method refers to:",
+    "o": [
+      "moment-area-theorem",
+      "Maxwell's reciprocal theorem",
+      "three-moment equation",
+      "none of these"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "The buckling load for a given material depends on:",
+    "o": [
+      "Slenderness ratio and area of cross-section",
+      "Poisson's ratio and modulus of elasticity",
+      "Slenderness ratio and modulus of elasticity",
+      "Slenderness ratio, area and modulus of elasticity"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "Calculate the magnitude of capillary effect in millimeters in a glass tube of 7 mm diameter immersed in mercury (S.T = 0.51 N/m, Angle = 130°):",
+    "o": [
+      "1.40",
+      "2.80",
+      "1.70",
+      "2.10"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "A weir, generally, used as a spillway of a dam is:",
+    "o": [
+      "narrow crested weir",
+      "broad crested weir",
+      "Ogee weir",
+      "submerged weir"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "The time required to close a valve gradually is:",
+    "o": [
+      "(2L)/c",
+      "<= 2LC",
+      "> (2L)/c",
+      "< 4L/C"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "The specific gravity of a soil is the ratio of unit weight of soil solids to that of water at a temperature of:",
+    "o": [
+      "1°C",
+      "17°C",
+      "27°C",
+      "36°C"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "A dry soil sample weighing 100 g has volume of 60 ml and specific gravity 2.5. Its void ratio is:",
+    "o": [
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.8"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "The method of construction of pneumatic caisson is similar to:",
+    "o": [
+      "box caissons",
+      "open caissons",
+      "rectangular caissons",
+      "none"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "Shaking test is also called:",
+    "o": [
+      "Dilatancy test",
+      "rolling test",
+      "dispersion test",
+      "vane test"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "कर्मचारी निश्चित स्थानमा तोकिएको जिम्मेवारी पूरा गर्ने ठाउँलाई के भनिन्छ ?",
+    "o": [
+      "सभाहल",
+      "सङ्गठन",
+      "सचिवालय",
+      "कार्यालय"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "कार्यालय सहायकको कार्य अन्तर्गत कुन पर्दैन ?",
+    "o": [
+      "अग्र पंक्तिमा रही सेवा प्रवाह गर्ने",
+      "निजी सहायक भएर कार्य गर्ने",
+      "टाइप गर्ने",
+      "दर्ता गर्न लगाउने"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "कार्यालय स्रोत देहायका मध्ये कुन समावेश छन् ?",
+    "o": [
+      "आर्थिक स्रोत",
+      "भौतिक स्रोत",
+      "मानविय स्रोत",
+      "माथिका सबै"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "Motivation शब्द कुन शब्द वाट उत्पत्ति भएको हो ?",
+    "o": [
+      "Motive",
+      "Motiveter",
+      "Mote",
+      "Movere"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "निजामति सेवा २०४९ मा कति परिच्छेद र दफा हुन्छन् ?",
+    "o": [
+      "१० परिच्छेद ७७ दफा",
+      "१० परिच्छेद ७६ दफा",
+      "१० परिच्छेद ७३ दफा",
+      "१० परिच्छेद ७४ दफा"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "बजेट भन्नाले के बुझिन्छ ?",
+    "o": [
+      "Mirror of financial society",
+      "मुलुकको आर्थिक जन्मकुण्डली",
+      "वित्तिय मार्ग चित्र",
+      "माथिका सबै"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "आधुनिक अभिलेख व्यवस्थापन अभिलेखको पूर्ण जीवन चक्र भन्नाले के बुझिन्छ ?",
+    "o": [
+      "कागजातपनको सिर्जना सम्म",
+      "कागजात पत्रको विसर्जन",
+      "सिर्जना देखि विसर्जन सम्म",
+      "माथिका सबै"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "सार्वजनिक खरिद ऐन २०६३ को प्रमाणिकरण र प्रकाशित मिति कहिले हो ?",
+    "o": [
+      "२०६३/९/३०",
+      "२०७२/११/३",
+      "२०६३/३/३०",
+      "२०७५/११/१९"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "मालसामान भन्नाले कस्ता प्रकृतिको वस्तु सम्झनु पर्दछ ?",
+    "o": [
+      "चल अचल सम्पत्ति",
+      "सजिव -निर्जीव वस्तु",
+      "क मात्र ठिक",
+      "दुवै ठिक"
+    ],
+    "a": 3,
+    "e": ""
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

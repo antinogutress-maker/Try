@@ -1,0 +1,815 @@
+[
+  {
+    "id": 1,
+    "q": "The primary unit of engineering drawing in civil engineering is?",
+    "o": [
+      "Millimeter",
+      "Meter",
+      "Foot",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "Working space on the drawing paper is determined by?",
+    "o": [
+      "Working line",
+      "Borderline",
+      "Drawing line",
+      "All of the above"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "The dotted line represents?",
+    "o": [
+      "Hidden edges",
+      "Projection line",
+      "Center line",
+      "Hatching line"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "In general, structural drawings would typically include the following information:",
+    "o": [
+      "north point",
+      "plan, section, and elevation",
+      "notes on specification",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "Graphos are",
+    "o": [
+      "measuring instruments",
+      "drawing and writing instrument",
+      "erasing instrument",
+      "coloring instrument"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "A document containing a detailed description of all items of work, without their quantities, together with their current rates, is called?",
+    "o": [
+      "Bidding documents",
+      "Set of specifications",
+      "Priced BOQ",
+      "Rate analysis"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "The annual periodic payments made for the repayment of the capital invested are known as?",
+    "o": [
+      "Repayment",
+      "Depreciation",
+      "Sinking fund",
+      "Annuity"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "Which of the following is known as general overhead?",
+    "o": [
+      "Travelling expenses",
+      "Losses on advance",
+      "Interest in investment",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "One mile is equal to",
+    "o": [
+      "5 furlongs",
+      "6 furlongs",
+      "8 furlongs",
+      "10 furlongs"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "The thickness of 25 gauge sheet is",
+    "o": [
+      "less than 1 mm",
+      "1 mm",
+      "between 1 mm and 1.5 mm",
+      "2 mm"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "The angle of intersection of the contour and a ridge line is",
+    "o": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "The change point in the levelling survey is",
+    "o": [
+      "the first station",
+      "the intermediate station where foresight and backsight are taken",
+      "the last station",
+      "the station after which the instrument is shifted"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "The type of surveying that requires the least office work is",
+    "o": [
+      "tacheometery",
+      "trigonometric leveling",
+      "plane table surveying",
+      "theodolite surveying"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "Which type of pipe is predominantly used for internal concealed cold and hot water plumbing in modern residential buildings due to its superior corrosion resistance and ease of joining?",
+    "o": [
+      "Galvanized Iron (GI) pipe",
+      "Cast Iron (CI) pipe",
+      "Chlorinated Polyvinyl Chloride (CPVC) pipe",
+      "Asbestos Cement (AC) pipe"
+    ],
+    "a": 2,
+    "e": "CPVC pipes do not rust or scale, are lightweight, can handle continuous hot water flow, and are easily joined using cold solvent cement."
+  },
+  {
+    "id": 15,
+    "q": "According to standard codes of practice for building services, what is the generally accepted minimum liquid capacity of a septic tank for a standard residential dwelling?",
+    "o": [
+      "500 liters",
+      "1000 liters",
+      "2000 liters",
+      "3000 liters"
+    ],
+    "a": 1,
+    "e": "To ensure adequate detention time (usually 24 to 48 hours) for the proper settlement of suspended solids, a minimum liquid capacity of 1000 liters is specified."
+  },
+  {
+    "id": 16,
+    "q": "The primary engineering purpose of providing an earthing (grounding) system in the electrical installation of a building is to:",
+    "o": [
+      "Reduce the overall electricity consumption",
+      "Protect human life from severe electric shock in the event of insulation failure",
+      "Stabilize the voltage supply during fluctuations",
+      "Prevent physical overheating of the main distribution board"
+    ],
+    "a": 1,
+    "e": "Earthing provides a safe, low-resistance path for fault currents to flow directly into the earth, preventing fatal shocks."
+  },
+  {
+    "id": 17,
+    "q": "In the context of building lighting design and fixtures, the 'lumen' is the standard unit used to measure:",
+    "o": [
+      "Luminous intensity",
+      "Illuminance (Lux)",
+      "Luminous flux",
+      "Luminance"
+    ],
+    "a": 2,
+    "e": "The lumen is the unit of luminous flux, representing the total quantity of visible light emitted by a source in all directions per unit of time."
+  },
+  {
+    "id": 18,
+    "q": "To prevent slow-moving vehicles from overturning or slipping inward, the maximum rate of superelevation on horizontal curves in plain and rolling terrain for mixed traffic is restricted to:",
+    "o": [
+      "4%",
+      "7%",
+      "10%",
+      "12%"
+    ],
+    "a": 1,
+    "e": "Standard highway design guidelines strictly limit maximum superelevation to 7% in plain and rolling terrains to prevent slow vehicles from sliding inward."
+  },
+  
+  {
+    "id": 19,
+    "q": "Which of the following bioengineering techniques is the most rapidly effective for preventing surface sheet erosion on a newly excavated, steep topsoil cut slope?",
+    "o": [
+      "Retaining wall construction",
+      "Planting deep-rooted large tree saplings",
+      "Grass planting (Turfing or seeding)",
+      "Construction of gabion check dams"
+    ],
+    "a": 2,
+    "e": "Grass planting creates an immediate, dense root network that binds the surface soil particles and armors the slope against sheet erosion."
+  },
+  {
+    "id": 20,
+    "q": "In a flexible pavement system, which specific component serves as the ultimate prepared foundation that receives and bears all the traffic stresses distributed by the structural layers above it?",
+    "o": [
+      "Sub-base course",
+      "Base course",
+      "Subgrade",
+      "Wearing course"
+    ],
+    "a": 2,
+    "e": "The subgrade is the compacted natural soil or prepared earth foundation that must safely bear the distributed traffic stress without excessive settlement."
+  },
+  
+  {
+    "id": 21,
+    "q": "Pothole patching and minor crack sealing on a flexible highway pavement are classified under which specific category of road maintenance?",
+    "o": [
+      "Routine maintenance",
+      "Periodic maintenance",
+      "Special repairs",
+      "Rehabilitation"
+    ],
+    "a": 0,
+    "e": "These are localized, continuous, small-scale repair activities performed to keep the road in a driveable condition, falling under routine maintenance."
+  },
+  {
+    "id": 22,
+    "q": "A 'causeway' (sometimes referred to as an Irish bridge) is primarily incorporated into a road alignment when:",
+    "o": [
+      "A deep river gorge needs to be crossed",
+      "The road crosses a shallow, seasonal stream where high-level bridge construction is unviable",
+      "Navigational clearance is strictly required",
+      "A grade-separated intersection is required"
+    ],
+    "a": 1,
+    "e": "A causeway is a submersible structure designed to allow floodwaters to safely pass over it during heavy monsoons, cost-effective for low-volume rural roads."
+  },
+  {
+    "id": 23,
+    "q": "In a typical hill irrigation system, what is the principal function of a 'Proportioning Weir' (locally known as a Sancho)?",
+    "o": [
+      "To accurately measure the total discharge",
+      "To safely dispose of excess floodwater",
+      "To equitably and automatically divide the continuous canal water flow among branch canals",
+      "To settle down heavy silt particles"
+    ],
+    "a": 2,
+    "e": "A proportioning weir (Sancho) accurately splits incoming continuous water flow into proportional shares automatically, ensuring fair distribution."
+  },
+  {
+    "id": 24,
+    "q": "A river training structure constructed transverse to the river flow to protect the bank by deflecting the main current away is called a:",
+    "o": [
+      "Guide bank",
+      "Levee (Embankment)",
+      "Spur (Groyne)",
+      "Marginal bund"
+    ],
+    "a": 2,
+    "e": "Spurs (or groynes) are built perpendicular or at a slight angle to the riverbank to push high-velocity flow toward the center and induce siltation."
+  },
+  
+  {
+    "id": 25,
+    "q": "According to standard participatory irrigation management principles, the primary responsibility for operation and maintenance of tertiary canals lies with:",
+    "o": [
+      "The Provincial Irrigation Department",
+      "The Local Municipality",
+      "The Water Users' Association (WUA)",
+      "The Federal Ministry of Energy, Water Resources and Irrigation"
+    ],
+    "a": 2,
+    "e": "Entrusting operation and maintenance to the WUA ensures system sustainability, immediate localized repairs, and equitable water distribution."
+  },
+  {
+    "id": 26,
+    "q": "Which specific component of a diversion headworks is provided adjacent to the canal head regulator to minimize the entry of heavy bed silt into the main canal?",
+    "o": [
+      "Fish ladder",
+      "Divide wall",
+      "Under sluices (Scouring sluices)",
+      "Log chute"
+    ],
+    "a": 2,
+    "e": "Under sluices are kept at a lower crest elevation. Opening them scours deposited heavy bed silt away, ensuring clearer water enters the canal."
+  },
+  {
+    "id": 27,
+    "q": "In a gravity water supply system typically constructed in hilly terrains, an 'Air Valve' must be strategically installed at:",
+    "o": [
+      "The lowest points of the pipeline alignment",
+      "The highest points (summits) of the pipeline to automatically release trapped air",
+      "Regular 100m intervals on straight alignments",
+      "The main inlet of the distribution reservoir"
+    ],
+    "a": 1,
+    "e": "Trapped air accumulates at the highest points. If not expelled by an air valve, it causes 'air binding' which can restrict or block flow."
+  },
+  
+  {
+    "id": 28,
+    "q": "Ferrocement tanks are highly favored for rural water supply storage because:",
+    "o": [
+      "They can withstand significantly higher internal bursting pressure than heavy welded steel",
+      "They require extremely thick concrete walls providing superior thermal insulation",
+      "They utilize a wire mesh matrix requiring less cement, thin walls, and no expensive timber formwork",
+      "They are pre-fabricated in modern factories and easily transported"
+    ],
+    "a": 2,
+    "e": "Ferrocement uses local semi-skilled labor, eliminates expensive timber formwork, is crack-resistant, and reduces the volume of construction materials."
+  },
+  {
+    "id": 29,
+    "q": "Which conventional water treatment process is specifically designed to kill or inactivate pathogenic microorganisms?",
+    "o": [
+      "Coagulation",
+      "Flocculation",
+      "Filration",
+      "Disinfection"
+    ],
+    "a": 3,
+    "e": "Disinfection (using chlorine, ozone, or UV) is the final step explicitly designed to destroy harmful pathogens."
+  },
+  {
+    "id": 30,
+    "q": "In a decentralized sanitary disposal system, the primary engineering purpose of a 'Soak Pit' is to:",
+    "o": [
+      "Anaerobically digest solid human waste",
+      "Safely dispose of the clarified liquid effluent from a septic tank into the surrounding porous soil",
+      "Store raw sewage temporarily",
+      "Trap heavy grease and oil from kitchen wastewater"
+    ],
+    "a": 1,
+    "e": "A soak pit is an underground chamber with porous walls that allows clarified effluent from a septic tank to percolate into the subsoil for natural filtration."
+  },
+  
+  {
+    "id": 31,
+    "q": "जाखिरा ताल कुन जिल्लामा पर्दछ ?",
+    "o": [
+      "सुर्खेत",
+      "कपिलवस्तु",
+      "रुपन्देही",
+      "मकवानपुर"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 32,
+    "q": "नेपालमा सबैभन्दा पहिले स्थापना भएको पार्टी (दल) कुन हो ?",
+    "o": [
+      "नेपाल प्रजा परिषद्",
+      "राष्ट्रिय प्रजा परिषद्",
+      "नेपाली कांग्रेस",
+      "नेपाल प्रजातन्त्र पार्टी"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 33,
+    "q": "नेपालमा सबैभन्दा पुरानो मूर्ति कुन हो ?",
+    "o": [
+      "विरूपाक्ष",
+      "बुढानिलकण्ठ",
+      "विष्णु विक्रान्त",
+      "कालभैरव"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 34,
+    "q": "गोरखापत्रले हाल कति भाषामा समाचार सम्प्रेषण गर्दै आएको छ ?",
+    "o": [
+      "३५ भाषामा",
+      "३७ भाषामा",
+      "३८ भाषामा",
+      "३९ भाषामा"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 35,
+    "q": "नेपालमा शिकार गर्न पाइने पंक्षी तलका मध्ये कुन होइन ?",
+    "o": [
+      "कालजि",
+      "चिल",
+      "ढुकुर",
+      "पानी हाँस"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 36,
+    "q": "Optics नामक पुस्तक न्युटनले कहिले लेखेका थिए ?",
+    "o": [
+      "सन् १७०४",
+      "सन् १७०५",
+      "सन् १७०६",
+      "सन् १७०७"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 37,
+    "q": "Web address मा gov.ले के जनाउँछ ?",
+    "o": [
+      "Government",
+      "governor",
+      "goernisation",
+      "organisation"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 38,
+    "q": "नेपालको संविधानको पहिलो संशोधन कहिले भएको थियो ?",
+    "o": [
+      "वि.सं. २०७३ फागुन १६",
+      "वि.सं. २०७४ असोज ३",
+      "वि.सं. २०७२ फागुन १६",
+      "वि.सं. २०७७ असार ४"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "संयुक्त राष्ट्रसंघका शान्ति सैनिकलाई के नामले चिनिन्छ ?",
+    "o": [
+      "रेड हेल्मेट्स",
+      "ब्लु हेल्मेट्स",
+      "ह्वाइट हेल्मेट्स",
+      "ग्रीन हेल्मेट्स"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "सार्क क्षेत्रको सबैभन्दा ठूलो र सानो देश क्रमशः कुन-कुन हुन् ?",
+    "o": [
+      "भारत र भुटान",
+      "भारत र माल्दिभ्स",
+      "पाकिस्तान र माल्दिभ्स",
+      "पाकिस्तान र भुटान"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "बढुवाको लागि उम्मेदवार हुन नपाउने गरी 'बढुवा रोक्का' (Withholding Promotion) गर्ने सजाय बढीमा कति अवधिसम्म गर्न सकिन्छ?",
+    "o": [
+      "२ वर्षसम्म",
+      "३ वर्षसम्म",
+      "४ वर्षसम्म",
+      "५ वर्षसम्म"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "IOMS मा बाहिरी पत्रहरू स्क्यान गरेर अपलोड गर्दा 'DPI' (Dots Per Inch) को सामान्य मापदण्ड कति हुनुपर्छ?",
+    "o": [
+      "10 - 50 DPI",
+      "150 - 300 DPI",
+      "1000 - 1500 DPI",
+      "5000 DPI"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "अन्तर्राष्ट्रियस्तरको बोलपत्र (ICB) वा १० करोडभन्दा माथिको निर्माण कार्यको बोलपत्र मान्य हुने अवधि कति दिन तोकिएको हुन्छ?",
+    "o": [
+      "९० दिन",
+      "१२० दिन",
+      "१५० दिन",
+      "१८० दिन"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "सरुवाको प्रयोजनको लागि 'एक वर्ष' भन्नाले कम्तीमा कति दिन रुजु हाजिर भएको अवधिलाई जनाउँछ?",
+    "o": [
+      "२३३ दिन",
+      "३३३ दिन",
+      "३६५ दिन",
+      "२०० दिन"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "अनुसूची २ बमोजिम मुख्यमन्त्री तथा मन्त्रिपरिषदको कार्यालयको कार्यजिम्मेवारी कतिवटा तोकिएको छ?",
+    "o": [
+      "४२",
+      "४५",
+      "३५",
+      "४०"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "प्रदेश र स्थानीय तहबीचको विवाद समाधान र समन्वय गर्न गठन हुने 'प्रदेश समन्वय परिषद्' को अध्यक्ष को रहने कानुनी व्यवस्था छ?",
+    "o": [
+      "आन्तरिक मामिला मन्त्री",
+      "मुख्यमन्त्री",
+      "प्रदेश प्रमुख",
+      "प्रमुख सचिव"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "पहिलो निर्वाचन भएको कति समयभित्र गाउँसभा वा नगरसभाको बहुमतबाट प्रस्ताव पारित गरी वडाको सिमाना हेरफेर गर्न सकिने विशेष व्यवस्था छ?",
+    "o": [
+      "३ महिनाभित्र",
+      "६ महिनाभित्र",
+      "१ वर्षभित्र",
+      "२ वर्षभित्र"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "सार्वजनिक सेवा वडापत्रलाई कसको अधिकार पत्रको रूपमा लिइन्छ?",
+    "o": [
+      "कर्मचारीको",
+      "नागरिकको",
+      "सरकारको",
+      "राजनीतिक दलको"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "आगामी वर्ष कति मेगावाट थप विद्युत राष्ट्रिय प्रसारण लाइनमा जोड्ने लक्ष्य बजेटमा उल्लेख छ?",
+    "o": [
+      "५०० मेगावाट",
+      "७५० मेगावाट",
+      "९०० मेगावाट",
+      "१,००० मेगावाट"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "सार्वजनिक संस्थाबाट निर्माण वा सञ्चालन भएका आयोजनाको आवश्यकता अनुसार प्राविधिक परीक्षण गर्ने कार्य कसको हो?",
+    "o": [
+      "महालेखा परीक्षकको कार्यालय",
+      "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+      "राष्ट्रिय सतर्कता केन्द्र",
+      "सम्बन्धित मन्त्रालय"
+    ],
+    "a": 2,
+    "e": ""
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]

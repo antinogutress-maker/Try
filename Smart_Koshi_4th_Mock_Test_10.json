@@ -1,0 +1,810 @@
+[
+  {
+    "id": 1,
+    "q": "नेपालको संविधानमा कति भाग, धारा र अनुसूची रहेका छन्?",
+    "o": [
+      "भाग-३५, ३०८ धारा र ९ अनुसूची",
+      "२५ भाग, ३०८ धारा र ९ अनुसूची",
+      "३५ भाग, ३८० धारा र ९ अनुसूची",
+      "सबै"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 2,
+    "q": "संविधान सभाका अध्यक्ष बाट नेपालको संविधान कहिले प्रमाणित भएको हो?",
+    "o": [
+      "२०७२/६/३ गते",
+      "२०७२/५/३०",
+      "२०७२/११/१६",
+      "२०७२/६/३०"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 3,
+    "q": "नेपालमा निजामती सेवाको पहिलो ऐन कहिले जारी भएको थियो?",
+    "o": [
+      "वि.स. २००८ असार १ गते",
+      "वि.स. २०१३ भाद्र २२ गते",
+      "वि.स. २०४९ फागुन २१ गते",
+      "वि.स. २०६१ भाद्र २२ गते"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 4,
+    "q": "प्रदेश निजामती सेवा नियमावली अनुसार 'अध्ययन बिदा, असाधारण बिदा र बेतलबी बिदा' स्वीकृत गर्ने अधिकार कसलाई हुन्छ?",
+    "o": [
+      "सम्बन्धित कार्यालय प्रमुख",
+      "प्रमुख सचिव",
+      "विभागीय प्रमुख",
+      "मुख्यमन्त्री"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 5,
+    "q": "निजामती कर्मचारीले आफूले पकाएको 'घर बिदा' बढीमा कति दिनसम्म सञ्चित (Accumulate) गरी राख्न पाउनेछन्?",
+    "o": [
+      "९० दिनसम्म",
+      "१२० दिनसम्म",
+      "१५० दिनसम्म",
+      "१८० दिनसम्म"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 6,
+    "q": "समावेशी कोटा अन्तर्गत मधेशी र मुस्लिमलाई कति-कति प्रतिशत पद छुट्याइएको छ?",
+    "o": [
+      "४%",
+      "५%",
+      "६%",
+      "९%"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 7,
+    "q": "प्रदेश लोकसेवा आयोग ऐन, २०७६ को परिच्छेद ६ मा कुन विषयको व्यवस्था रहेको छ?",
+    "o": [
+      "आयोगको गठन",
+      "परीक्षा सञ्चालन",
+      "कसुर र सजाय",
+      "पारिश्रमिक र सुविधा"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 8,
+    "q": "कोशी प्रदेशको दोस्रो आवधिक योजना अनुसार आ.व. २०८५/८६ सम्ममा प्रदेशवासीको अपेक्षित आयु (Life Expectancy) कति वर्ष पुर्‍याउने लक्ष्य छ?",
+    "o": [
+      "७०.४ वर्ष",
+      "७०.६ वर्ष",
+      "७२ वर्ष",
+      "७५ वर्ष"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 9,
+    "q": "प्रदेश आर्थिक कार्यविधि ऐन अनुसार 'बेरुजु फर्स्यौट' सम्बन्धी व्यवस्था कुन दफामा गरिएको छ?",
+    "o": [
+      "दफा ३८",
+      "दफा ३९",
+      "दफा ४०",
+      "दफा ४१"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 10,
+    "q": "१६ औं योजना अनुसार नेपाललाई कुन सालसम्म अतिकम विकसित मुलुकबाट विकासशील देशमा स्तरोन्नति गर्ने लक्ष्य लिइएको छ ? (वि.सं)",
+    "o": [
+      "२०८२",
+      "२०८३",
+      "२०८४",
+      "२०८५"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 11,
+    "q": "Which of the following pencil leads is hardest?",
+    "o": [
+      "HB",
+      "H",
+      "B",
+      "F"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 12,
+    "q": "According to the Indian Standard Institute (ISI), which among the designation has the size 1000 x 700 (in mm)?",
+    "o": [
+      "Bo",
+      "B1",
+      "B2",
+      "B3"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 13,
+    "q": "The edge of the board on which T-square is made to slide is called its",
+    "o": [
+      "Working edge",
+      "Straight edge",
+      "Chisel edge",
+      "None of them"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 14,
+    "q": "Pick up the excavation where measurements are made in square metres for payment.",
+    "o": [
+      "Ordinary cuttings up to 1 m",
+      "surface dressing up to 15 cm depths",
+      "Surface excavation up to 30 cm depths",
+      "Both (b) and (c)"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 15,
+    "q": "The slope of the outlet of 'P trap' below the horizontal is kept",
+    "o": [
+      "8°",
+      "12°",
+      "14°",
+      "15°"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 16,
+    "q": "The useful part of live able area of building is also known as",
+    "o": [
+      "Carpet area",
+      "Circulation area",
+      "Horizontal circulation area",
+      "Plinth area"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 17,
+    "q": "In a contour plan, the contour lines when meet at a place then it is known as",
+    "o": [
+      "Cliff",
+      "Overhanging cliff",
+      "Hill",
+      "Ridge"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 18,
+    "q": "Hinged staff is",
+    "o": [
+      "2 m long",
+      "3 m long",
+      "4 m long",
+      "5 m long"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 19,
+    "q": "Strike is used to remove the",
+    "o": [
+      "crowded people",
+      "stop the work",
+      "surplus clay of mould",
+      "all of the above"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 20,
+    "q": "The tendency of minerals split along a certain plane is known as",
+    "o": [
+      "fracture",
+      "cleavage.",
+      "breaking",
+      "fault"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 21,
+    "q": "Which of the following admixture is considered as most widely used?",
+    "o": [
+      "Pozzolans",
+      "Fly ash",
+      "Silica fume",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 22,
+    "q": "For complete hydration of cement, the w/c ratio needed is",
+    "o": [
+      "More than 0.25",
+      "More than 0.25 but less than 0.35",
+      "More than 0.35 but less than 0.60",
+      "More than 0.60"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 23,
+    "q": "The minimum depth of foundation on clayey soil is",
+    "o": [
+      "60 cm",
+      "90 cm",
+      "120 cm",
+      "150 cm"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 24,
+    "q": "According to standard testing methods, what is the maximum allowable expansion of Ordinary Portland Cement (OPC) in the Le Chatelier test?",
+    "o": [
+      "5 mm",
+      "10 mm",
+      "15 mm",
+      "20 mm"
+    ],
+    "a": 1,
+    "e": "The Le Chatelier test measures cement soundness due to uncombined lime. IS codes strictly mandate that the maximum expansion for OPC must not exceed 10 mm to prevent structural cracking."
+  },
+  {
+    "id": 25,
+    "q": "What is the generally accepted maximum limit of water absorption for a good quality building stone?",
+    "o": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "a": 0,
+    "e": "A good building stone should be dense and non-porous. Standard engineering specifications state that it should reject water, with absorption not exceeding 5% of its dry weight after 24 hours of immersion."
+  },
+  {
+    "id": 26,
+    "q": "In standard plywood manufacturing, the number of individual wood veneers used is always:",
+    "o": [
+      "An even number",
+      "An odd number",
+      "Proportional to length",
+      "Less than three"
+    ],
+    "a": 1,
+    "e": "Plywood is always manufactured with an odd number of layers (e.g., 3, 5, 7). This maintains symmetry around the central core layer, which physically prevents the board from warping or twisting under moisture changes."
+  },
+  {
+    "id": 27,
+    "q": "According to IS 1077, what is the minimum required compressive strength for a \"Second-Class\" burnt clay brick?",
+    "o": [
+      "3.5 N/mm²",
+      "7.0 N/mm²",
+      "10.5 N/mm²",
+      "14.0 N/mm²"
+    ],
+    "a": 1,
+    "e": "First-class bricks must have a minimum crushing strength of 10.5 N/mm² (105 kg/cm²), while second-class bricks must meet a minimum threshold of 7.0 N/mm² (70 kg/cm²)."
+  },
+  {
+    "id": 28,
+    "q": "Which common substance acts as a powerful chemical \"retarder\" when added to a cement concrete mix?",
+    "o": [
+      "Calcium chloride",
+      "Sodium chloride",
+      "Sugar",
+      "Alum"
+    ],
+    "a": 2,
+    "e": "Sugar is a highly effective, low-cost retarder. Even a small fraction of a percent of sugar added to a concrete mix will significantly delay the initial setting time of the cement paste."
+  },
+  {
+    "id": 29,
+    "q": "What is the standard size of the concrete cube specimen used in laboratories to test the 28-day compressive strength of concrete?",
+    "o": [
+      "100 mm × 100 mm × 100 mm",
+      "150 mm × 150 mm × 150 mm",
+      "200 mm × 200 mm × 200 mm",
+      "250 mm × 250 mm × 250 mm"
+    ],
+    "a": 1,
+    "e": "Standard IS codes (IS 516) universally mandate a mold size of 150 mm × 150 mm × 150 mm for testing the compressive strength of normal structural concrete."
+  },
+  {
+    "id": 30,
+    "q": "In brick masonry, which specific bond features alternate headers and stretchers laid within the exact same course?",
+    "o": [
+      "English bond",
+      "Flemish bond",
+      "Stretcher bond",
+      "Header bond"
+    ],
+    "a": 1,
+    "e": "The Flemish bond is defined by alternating headers and stretchers in every single row. It provides an aesthetically pleasing appearance but is slightly weaker than the English bond."
+  },
+  {
+    "id": 31,
+    "q": "According to the Mandatory Rules of Thumb (NBC 205) for RCC framed structures, what is the minimum required diameter for longitudinal reinforcing bars in a column?",
+    "o": [
+      "8 mm",
+      "10 mm",
+      "12 mm",
+      "16 mm"
+    ],
+    "a": 2,
+    "e": "The Nepal National Building Code strictly specifies that vertical (longitudinal) steel bars used in load-bearing RCC columns must be at least 12 mm in diameter to safely handle buckling and seismic forces."
+  },
+  {
+    "id": 32,
+    "q": "In scaffolding structures, what is the specific technical name for the horizontal tubes that directly support the wooden working platform?",
+    "o": [
+      "Standards",
+      "Ledgers",
+      "Putlogs",
+      "Braces"
+    ],
+    "a": 2,
+    "e": "Putlogs are the transverse horizontal members. One end rests on the ledger (or inside the wall), and they directly carry the wooden planks that workers stand on."
+  },
+  {
+    "id": 33,
+    "q": "In project management, what specific chart is most commonly used to visually schedule and track the duration of various construction activities?",
+    "o": [
+      "Pie chart",
+      "Gantt chart",
+      "Flow chart",
+      "Scatter plot"
+    ],
+    "a": 1,
+    "e": "A Gantt chart is a standard bar chart used universally in construction scheduling. It clearly displays the start dates, durations, and overlapping sequences of all site activities."
+  },
+  {
+    "id": 34,
+    "q": "In a municipal water distribution main, which specific valve is used to manually regulate or completely stop the flow of water for maintenance?",
+    "o": [
+      "Sluice valve",
+      "Air relief valve",
+      "Check valve",
+      "Scour valve"
+    ],
+    "a": 0,
+    "e": "A sluice valve (also known as a gate valve) is installed along the main pipeline to isolate sections of the network, allowing operators to shut off the water supply during repairs."
+  },
+  {
+    "id": 35,
+    "q": "In sanitary plumbing, what is the standard recommended depth of the \"water seal\" inside a domestic trap to effectively block sewer gases?",
+    "o": [
+      "5 mm to 10 mm",
+      "25 mm to 75 mm",
+      "150 mm to 200 mm",
+      "300 mm to 500 mm"
+    ],
+    "a": 1,
+    "e": "Sanitary engineering textbooks specify a water seal depth between 25 mm and 75 mm (typically around 50 mm). This is deep enough to resist evaporation and back-pressure, but shallow enough to flush cleanly."
+  },
+  {
+    "id": 36,
+    "q": "In modern single-phase electrical wiring systems, which insulation color is strictly standardized for the \"Phase\" (Live) wire?",
+    "o": [
+      "Green",
+      "Black",
+      "Red or Brown",
+      "Yellow"
+    ],
+    "a": 2,
+    "e": "Standard electrical safety protocols mandate Red (in older South Asian codes) or Brown (in updated international codes) to clearly identify the dangerous, current-carrying live phase wire."
+  },
+  {
+    "id": 37,
+    "q": "In artificial lighting design, what is the standard SI unit used to measure the intensity of illumination arriving on a specific surface (like a desk)?",
+    "o": [
+      "Candela",
+      "Lumen",
+      "Lux",
+      "Watt"
+    ],
+    "a": 2,
+    "e": "Lux is the measurement of illuminance. It strictly defines how much luminous flux (Lumens) successfully reaches and spreads across a one-square-meter area of a given surface."
+  },
+  {
+    "id": 38,
+    "q": "The underground tanks should not be located near",
+    "o": [
+      "Sewers",
+      "septic tanks",
+      "soak pits",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 39,
+    "q": "Mostly, underground tanks are constructed with",
+    "o": [
+      "Steel",
+      "Iron",
+      "Concrete",
+      "Stone/Brick masonry"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "Filtration of water is done to remove",
+    "o": [
+      "Colour",
+      "Odour",
+      "Turbidity",
+      "Pathogenic bacteria"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 41,
+    "q": "The best process of disinfection of public water supply, is by",
+    "o": [
+      "Boiling",
+      "Chlorination",
+      "Adding lime",
+      "Adding ozone"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 42,
+    "q": "Washout pipe in water storage tank is provided at",
+    "o": [
+      "Top of the tank",
+      "Middle of the tank",
+      "Bottom of the tank",
+      "Anywhere in the tank"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 43,
+    "q": "The maximum permissible quantity of iron and manganese in water for domestic purposes should be .............",
+    "o": [
+      "0.1 ppm",
+      "0.3 ppm",
+      "0.6 ppm",
+      "0.8 ppm"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 44,
+    "q": "The water obtained from ............. is generally known as underground water.",
+    "o": [
+      "infiltration galleries",
+      "springs",
+      "rivers",
+      "wells"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 45,
+    "q": "The source from which the soil is obtained to make up for the difference between the soil required for embankment and the soil available from the canal excavation is known as ...............",
+    "o": [
+      "Borrow pit",
+      "spoil bank",
+      "dowel",
+      "soil extractor"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 46,
+    "q": "A weir in which the tail water level is less than the crest level is called ...............",
+    "o": [
+      "free weir",
+      "normal weir",
+      "aerated weir",
+      "natural weir"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 47,
+    "q": "Raising of outer edge of a road with respect to inner edges, is known .............",
+    "o": [
+      "super elevation",
+      "cant",
+      "banking",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": ""
+  },
+  {
+    "id": 48,
+    "q": "On earth roads, the camber should preferably be .............",
+    "o": [
+      "1 in 20 to 1 in 24",
+      "1 in 30 to 1 in 48",
+      "1 in 15 to 1 in 20",
+      "1 in 10 to 1 in 15"
+    ],
+    "a": 0,
+    "e": ""
+  },
+  {
+    "id": 49,
+    "q": "स्थानीय सरकार सञ्चालन ऐन, २०७४ कहिले प्रमाणीकरण भएको हो?",
+    "o": [
+      "२०७४ असोज १५",
+      "२०७४ असोज २९",
+      "२०७४ कार्तिक १",
+      "२०७४ असोज २५"
+    ],
+    "a": 1,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "काठमाडौँ उपत्यका बाहिरको नगरपालिकाका लागि न्यूनतम वार्षिक आय कति चाहिन्छ?",
+    "o": [
+      "२ करोड",
+      "३ करोड",
+      "४ करोड",
+      "५ करोड"
+    ],
+    "a": 1,
+    "e": ""
+  }
+];
+
+// --- 10 + 10 DYNAMIC COMPLIMENTS ---
+const PRAISE = {
+    good: [
+        "Awesome, {name}!", "Wow {name}, you are a Genius!", "Fantastic job, {name}!", 
+        "Excellent work, {name}!", "You nailed it, {name}!", "Brilliant answer, {name}!", 
+        "You are on fire, {name}!", "Perfect, {name}!", "Spot on, {name}!", "Great job, {name}!"
+    ],
+    bad: [
+        "Don't give up, {name}!", "You can do this, {name}!", "Nice try {name}, keep going!", 
+        "Learn from this, {name}!", "Almost there, {name}!", "Keep pushing, {name}!", 
+        "Stay focused, {name}!", "You will get the next one, {name}!", "Mistakes help you grow, {name}!", 
+        "Shake it off {name}, try again!"
+    ]
+};
+
+const App = {
+    state: { user: null, quiz: [], curr: 0, score: 0, mistakes: [], timer: null, submitted: false },
+
+    save: (k, v) => { try { localStorage.setItem(k, v) } catch(e) {} },
+    load: (k) => { try { return localStorage.getItem(k) } catch(e) { return null } },
+
+    verifyAndLogin: () => {
+        const n = document.getElementById('inp-name').value.trim();
+        const q = document.getElementById('inp-qual').value;
+        const c = document.getElementById('inp-code').value.trim();
+        const msg = document.getElementById('auth-msg');
+        const btn = document.getElementById('btn-verify');
+
+        if(!n || !c) {
+            msg.innerText = "New Month Subscription started";
+            msg.style.display = 'block'; return;
+        }
+
+        AudioHelper.init(); // Warm up audio
+
+        btn.disabled = true; btn.innerText = "Verifying..."; msg.style.display = 'none';
+
+        fetch(`${CFG.authScript}?code=${c}&name=${n}&qual=${q}`)
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === 'success') {
+                document.getElementById('inp-pass').value = data.password;
+                App.state.user = { name: n, qual: q, code: c };
+                App.save(KEYS.user, JSON.stringify(App.state.user));
+                setTimeout(() => App.dash(), 800);
+            } else {
+                btn.disabled = false; btn.innerText = "Verify & Login";
+                msg.style.display = 'block'; msg.style.color = "#FF3366";
+                msg.innerHTML = data.message.includes("used") ? "Code already used or expired." : "Invalid Code";
+            }
+        })
+        .catch(() => {
+            btn.disabled = false; btn.innerText = "Verify & Login";
+            msg.style.display = 'block'; msg.innerText = "Connection Error";
+        });
+    },
+
+    dash: () => {
+        document.getElementById('title-display').innerText = CFG.topic;
+        document.getElementById('dash-topic-display').innerText = CFG.topic;
+        const stored = App.load(KEYS.user);
+        if(!stored) return;
+        App.state.user = JSON.parse(stored);
+        document.getElementById('greet-msg').innerText = `Namaste, ${App.state.user.name.split(' ')[0]}!`;
+        document.getElementById('view-login').classList.add('hidden');
+        document.getElementById('view-result').classList.add('hidden');
+        document.getElementById('view-dash').classList.remove('hidden');
+        
+        if(App.load(KEYS.sent)) {
+            document.getElementById('btn-start').innerText = "Retake (Practice Mode)";
+            document.getElementById('submitted-msg').style.display = 'block';
+            document.getElementById('submitted-msg').innerText = "✅ Previous Score Submitted";
+        } else {
+            document.getElementById('btn-start').innerText = "Start Exam";
+            document.getElementById('submitted-msg').style.display = 'none';
+        }
+        const m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        document.getElementById('btn-review').style.display = m.length > 0 ? 'inline-block' : 'none';
+    },
+
+    start: (review) => {
+        AudioHelper.init(); // Warm up audio
+        App.state.curr = 0; App.state.score = 0; App.state.mistakes = []; App.state.submitted = false;
+        const prevM = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        const flatDB = DB.flat ? DB.flat() : DB;
+        let source = review ? flatDB.filter(q => prevM.includes(q.id)) : [...flatDB];
+        if(!source.length) return alert("No questions available.");
+
+        App.state.quiz = source.map(q => {
+            let opts = q.o.map((txt, i) => ({ t: txt, c: i === q.a }));
+            return { ...q, shuffledOpts: opts.sort(() => Math.random() - 0.5) };
+        }).sort(() => Math.random() - 0.5);
+
+        document.getElementById('view-dash').classList.add('hidden');
+        document.getElementById('view-quiz').classList.remove('hidden');
+        document.getElementById('q-total').innerText = App.state.quiz.length;
+        App.timer(45*60);
+        App.render();
+    },
+
+    render: () => {
+        const q = App.state.quiz[App.state.curr];
+        document.getElementById('q-idx').innerText = App.state.curr + 1;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('exp-box').style.display = 'none';
+        document.getElementById('btn-next').classList.add('hidden');
+        const list = document.getElementById('opts-list');
+        list.innerHTML = '';
+        q.shuffledOpts.forEach((opt, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div class="option-marker">${String.fromCharCode(65+i)}</div>${opt.t}`;
+            btn.onclick = () => App.check(btn, opt, q);
+            list.appendChild(btn);
+        });
+    },
+
+    check: (btn, opt, q) => {
+        const all = document.querySelectorAll('.option-btn');
+        all.forEach(b => { b.onclick = null; b.style.opacity = '0.7'; b.style.transform = 'scale(0.98)'; b.style.boxShadow = 'var(--clay-shadow-pressed)'; });
+        btn.style.opacity = '1';
+        btn.style.transform = 'scale(1.02)';
+        
+        const praise = document.getElementById('praise-txt');
+        praise.classList.remove('animate-praise');
+        void praise.offsetWidth; praise.classList.add('animate-praise');
+        const userName = App.state.user ? App.state.user.name.split(' ')[0] : 'Student';
+
+        if(opt.c) {
+            btn.classList.add('correct');
+            App.state.score++;
+            let rawTxt = PRAISE.good[Math.floor(Math.random()*PRAISE.good.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#00C853";
+            AudioHelper.playTing();
+            AudioHelper.speak(finalTxt);
+            let m = JSON.parse(App.load(KEYS.mistakes) || "[]").filter(id => id !== q.id);
+            App.save(KEYS.mistakes, JSON.stringify(m));
+        } else {
+            btn.classList.add('wrong');
+            all.forEach((b, i) => { if(q.shuffledOpts[i].c) b.classList.add('correct'); });
+            App.state.mistakes.push(q.id);
+            let rawTxt = PRAISE.bad[Math.floor(Math.random()*PRAISE.bad.length)];
+            let finalTxt = rawTxt.replace('{name}', userName);
+            praise.innerText = finalTxt;
+            praise.style.color = "#FF3366";
+            AudioHelper.playFush();
+            AudioHelper.speak(finalTxt);
+        }
+
+        if(q.e) {
+            document.getElementById('exp-box').innerHTML = `<strong>Explanation:</strong> ${q.e}`;
+            document.getElementById('exp-box').style.display = 'block';
+        }
+        document.getElementById('btn-next').classList.remove('hidden');
+    },
+
+    next: () => {
+        App.state.curr++;
+        if(App.state.curr < App.state.quiz.length) App.render();
+        else App.finish();
+    },
+
+    timer: (sec) => {
+        if(App.state.timer) clearInterval(App.state.timer);
+        App.state.timer = setInterval(() => {
+            sec--;
+            let m = Math.floor(sec/60), s = sec%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(sec<=0) App.finish();
+        }, 1000);
+    },
+
+    finish: () => {
+        clearInterval(App.state.timer);
+        document.getElementById('view-quiz').classList.add('hidden');
+        document.getElementById('view-result').classList.remove('hidden');
+        let m = JSON.parse(App.load(KEYS.mistakes) || "[]");
+        m = [...new Set([...m, ...App.state.mistakes])];
+        App.save(KEYS.mistakes, JSON.stringify(m));
+        const pct = Math.round((App.state.score / App.state.quiz.length) * 100);
+        document.getElementById('res-score').innerText = App.state.score;
+        document.getElementById('res-pct').innerText = `${pct}% Accuracy`;
+        App.sync();
+    },
+
+    sync: () => {
+        if(App.state.submitted || App.load(KEYS.sent)) return;
+        App.state.submitted = true;
+        const formData = new FormData();
+        formData.append("name", App.state.user.name);
+        formData.append("qualification", App.state.user.qual);
+        formData.append("examTitle", CFG.topic);
+        formData.append("score", App.state.score);
+        if(navigator.onLine) {
+            fetch(CFG.scoreScript, { method: 'POST', mode: 'no-cors', body: formData })
+            .then(() => {
+                App.save(KEYS.sent, "true");
+                document.getElementById('sync-status').innerText = "✅ Score Saved!";
+                document.getElementById('sync-status').style.color = "#00C853";
+            }).catch(() => App.offline(formData));
+        } else App.offline(formData);
+    },
+
+    offline: (d) => {
+        let p = JSON.parse(App.load(KEYS.pending) || "[]
